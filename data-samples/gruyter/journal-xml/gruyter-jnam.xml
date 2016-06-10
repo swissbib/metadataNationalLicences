@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<collection>
+
+
+<article><front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">jnma</journal-id>
+			<journal-title-group>
+				<abbrev-journal-title abbrev-type="full">Journal of Numerical Mathematics</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">1569-3953</issn>
+			<issn pub-type="ppub">1570-2820</issn>
+			<publisher>
+				<publisher-name>De Gruyter</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="publisher-id">jnum-2014-0001</article-id>
+			<article-id pub-id-type="doi">10.1515/jnum-2014-0001</article-id>
+			<article-categories />
+			<title-group>
+				<article-title>Snapshot location by error equilibration in proper orthogonal decomposition for linear and semilinear parabolic partial differential equations</article-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Hoppe</surname>
+						<given-names>R.H.W.</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1">
+						<sup>1</sup>
+					</xref>
+					<xref ref-type="aff" rid="aff2">
+						<sup>2</sup>
+					</xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Liu</surname>
+						<given-names>Z.</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1">
+						<sup>1</sup>
+					</xref>
+				</contrib>
+				<aff id="aff1"><sup>1</sup>Dept. of Math., University of Houston, Houston TX 77204-3008, U.S.A.</aff>
+				<aff id="aff2"><sup>2</sup>Inst. of Math., University of Augsburg, D-86159 Augsburg, Germany</aff>
+			</contrib-group>
+			<pub-date pub-type="ppub">
+				<month>03</month>
+				<year>2014</year>
+				<string-date>March 2014</string-date>
+			</pub-date>
+			<pub-date pub-type="epub">
+				<day>07</day>
+				<month>03</month>
+				<year>2014</year>
+				<string-date>March 2014</string-date>
+			</pub-date>
+			<volume>22</volume>
+			<issue>1</issue>
+			<fpage>1</fpage>
+			<lpage>32</lpage>
+			<permissions>
+				<copyright-statement>© 2014 by Walter de Gruyter GmbH &amp; Co.</copyright-statement>
+				<copyright-year>2014</copyright-year>
+			</permissions>
+			<related-article xmlns:xlink="http://www.w3.org/1999/xlink" related-article-type="pdf" xlink.href="jnum-2014-0001.pdf" /><post-process status="processed">2014-04-26T06:09:57.721038+02:00</post-process><original xlink.href="jnum-2014-0001-orig.pdf" />
+			<abstract>
+				<title>Abstract</title>
+				<p>It is well-known that the performance of snapshot based POD and POD-DEIM for spatially semidiscretized parabolic PDEs depends on the proper selection of the snapshot locations. In this contribution, we present an approach that for a fixed number of snapshots selects the location based on error equilibration in the sense that the global discretization error is approximately the same in each associated subinterval. The global discretization error is assessed by a hierarchical-type <italic>a posteriori </italic>error estimator known from automatic time-stepping for systems of ODEs. We study the impact of this snapshot selection on error equilibration for the ROM and provide numerical examples that illustrate the performance of the suggested approach.</p>
+			</abstract>
+			<kwd-group>
+				<title>Keywords </title>
+				<kwd>POD</kwd>
+				<kwd>POD-DEIM</kwd>
+				<kwd>snapshot location</kwd>
+				<kwd>equilibration of the error</kwd>
+				<kwd>linear and semilinear parabolic PDEs</kwd>
+			</kwd-group>
+		</article-meta>
+	</front>
+</article>
+
+
+<article><front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">jnma</journal-id>
+			<journal-title-group>
+				<abbrev-journal-title abbrev-type="full">Journal of Numerical Mathematics</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">1569-3953</issn>
+			<issn pub-type="ppub">1570-2820</issn>
+			<publisher>
+				<publisher-name>De Gruyter</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="publisher-id">jnum-2014-0002</article-id>
+			<article-id pub-id-type="doi">10.1515/jnum-2014-0002</article-id>
+			<article-categories />
+			<title-group>
+				<article-title>Hierarchical quadrature for multidimensional singular integrals – Part II</article-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author" corresp="yes">
+					<name>
+						<surname>Meszmer</surname>
+						<given-names>P.</given-names>
+					</name>
+					<email xlink.href="mailto:meszmer@mis.mpg.de">meszmer@mis.mpg.de</email>
+					<xref ref-type="aff" rid="aff1">
+						<sup>1</sup>
+					</xref>
+				</contrib>
+				<aff id="aff1"><sup>1</sup>Max Planck Institute forMathematics in the Sciences, Inselstr. 22-26, D-04103 Leipzig, Germany</aff>
+			</contrib-group>
+			<pub-date pub-type="ppub">
+				<month>03</month>
+				<year>2014</year>
+				<string-date>March 2014</string-date>
+			</pub-date>
+			<pub-date pub-type="epub">
+				<day>07</day>
+				<month>03</month>
+				<year>2014</year>
+				<string-date>March 2014</string-date>
+			</pub-date>
+			<volume>22</volume>
+			<issue>1</issue>
+			<fpage>33</fpage>
+			<lpage>60</lpage>
+			<permissions>
+				<copyright-statement>© 2014 by Walter de Gruyter GmbH &amp; Co.</copyright-statement>
+				<copyright-year>2014</copyright-year>
+			</permissions>
+			<related-article xmlns:xlink="http://www.w3.org/1999/xlink" related-article-type="pdf" xlink.href="jnum-2014-0002.pdf" /><post-process status="processed">2014-04-26T06:10:16.249577+02:00</post-process><original xlink.href="jnum-2014-0002-orig.pdf" />
+			<abstract>
+				<title>Abstract</title>
+				<p>In a previous part I, we introduced a method for the evaluation of singular integrals arising in the discretization of integral equations based on the repeated subdivision of domains. The integrals defined on these subdomains are classified such that a class of integrals can be expressed as a sum of regular integrals and representatives of other classes. A system of equations describes the relations between the classes. Furthermore the approximate value of the singular integrals only depends on the accuracy of the calculation of regular integrals. Part I left a gap on certain parameter configurations on which the mentioned system of equations is irregular. This paper shall close this gap. To this end, we introduce an alternative splitting strategy based on a modified Hadamard partie finie integral.</p>
+			</abstract>
+			<kwd-group>
+				<title>Keywords </title>
+				<kwd>numerical cubature</kwd>
+				<kwd>singular integrals</kwd>
+			</kwd-group>
+		</article-meta>
+	</front>
+</article>
+
+
+<article><front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">jnma</journal-id>
+			<journal-title-group>
+				<abbrev-journal-title abbrev-type="full">Journal of Numerical Mathematics</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">1569-3953</issn>
+			<issn pub-type="ppub">1570-2820</issn>
+			<publisher>
+				<publisher-name>De Gruyter</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="publisher-id">jnum-2014-0003</article-id>
+			<article-id pub-id-type="doi">10.1515/jnum-2014-0003</article-id>
+			<article-categories />
+			<title-group>
+				<article-title>A survey of numerical methods for convection–diffusion optimal control problems</article-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author" corresp="yes">
+					<name>
+						<surname>Zhou</surname>
+						<given-names>Z. J.</given-names>
+					</name>
+					<email xlink.href="mailto:zzj534@amss.ac.cn">zzj534@amss.ac.cn</email>
+					<xref ref-type="aff" rid="aff1">
+						<sup>1</sup>
+					</xref>
+				</contrib>
+				<contrib contrib-type="author" corresp="yes">
+					<name>
+						<surname>Yan</surname>
+						<given-names>N.N.</given-names>
+					</name>
+					<email xlink.href="mailto:ynn@amss.ac.cn">ynn@amss.ac.cn</email>
+					<xref ref-type="aff" rid="aff2">
+						<sup>2</sup>
+					</xref>
+				</contrib>
+				<aff id="aff1"><sup>1</sup>College of Mathematics Science, Shandong Normal University, 250014 Ji’nan, China and Bereich Optimierung und Approximation, Universit¨at Hamburg, Bundestrasse 55, 20146 Hamburg, Germany</aff>
+				<aff id="aff2"><sup>2</sup>LSEC, Institute of Systems Science, Academy of Mathematics and Systems Science, Chinese Academy of Sciences, 100190 Beijing, China</aff>
+			</contrib-group>
+			<pub-date pub-type="ppub">
+				<month>03</month>
+				<year>2014</year>
+				<string-date>March 2014</string-date>
+			</pub-date>
+			<pub-date pub-type="epub">
+				<day>07</day>
+				<month>03</month>
+				<year>2014</year>
+				<string-date>March 2014</string-date>
+			</pub-date>
+			<volume>22</volume>
+			<issue>1</issue>
+			<fpage>61</fpage>
+			<lpage>85</lpage>
+			<permissions>
+				<copyright-statement>© 2014 by Walter de Gruyter GmbH &amp; Co.</copyright-statement>
+				<copyright-year>2014</copyright-year>
+			</permissions>
+			<related-article xmlns:xlink="http://www.w3.org/1999/xlink" related-article-type="pdf" xlink.href="jnum-2014-0003.pdf" /><post-process status="processed">2014-04-26T06:09:04.921551+02:00</post-process><original xlink.href="jnum-2014-0003-orig.pdf" />
+			<abstract>
+				<title>Abstract</title>
+				<p>In this paper we present a survey of numericalmethods for optimal control problems governed by convection-diffusion equations. For ease of exposition we focus on stationary convection-diffusion optimal control problems with distributed control. Several effective numericalmethods including stabilizedmethods and discontinuous Galerkinmethods are reviewed. Furthermore, we also make some investigations about convection-diffusion optimal control problems with state constraints and pointwisely imposed control.</p>
+			</abstract>
+			<kwd-group>
+				<title>Keywords </title>
+				<kwd>convection-diffusion equations</kwd>
+				<kwd>optimal control problems</kwd>
+				<kwd>streamline upwind Petrov-Galerkin method</kwd>
+				<kwd>edge stabilization Galerkin method</kwd>
+				<kwd>local projection stabilization method</kwd>
+				<kwd>interior penalty discontinuous Galerkin method</kwd>
+				<kwd>local discontinuous Galerkin method</kwd>
+				<kwd>a priori error estimates</kwd>
+				<kwd>a posteriori error estimates</kwd>
+				<kwd>adaptive finite element method</kwd>
+			</kwd-group>
+		</article-meta>
+	</front>
+</article>
+
+
+<article><front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">jnma</journal-id>
+			<journal-title-group>
+				<abbrev-journal-title abbrev-type="full">Journal of Numerical Mathematics</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">1569-3953</issn>
+			<issn pub-type="ppub">1570-2820</issn>
+			<publisher>
+				<publisher-name>De Gruyter</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="publisher-id">jnum-2014-masthead1</article-id>
+			<article-id pub-id-type="doi">10.1515/jnum-2014-masthead1</article-id>
+			<article-categories />
+			<title-group>
+				<article-title>Masthead</article-title>
+			</title-group>
+			<contrib-group>
+				<contrib />
+			</contrib-group>
+			<pub-date pub-type="ppub">
+				<month>03</month>
+				<year>2014</year>
+				<string-date>March 2014</string-date>
+			</pub-date>
+			<pub-date pub-type="epub">
+				<day>07</day>
+				<month>03</month>
+				<year>2014</year>
+				<string-date>March 2014</string-date>
+			</pub-date>
+			<volume>22</volume>
+			<issue>1</issue>
+			<fpage>I</fpage>
+			<lpage>IV</lpage>
+			<permissions>
+				<copyright-statement>© 2014 by Walter de Gruyter GmbH &amp; Co.</copyright-statement>
+				<copyright-year>2014</copyright-year>
+				<license license-type="free">
+					<license-p>This content is free.</license-p>
+				</license>
+			</permissions>
+			<related-article xmlns:xlink="http://www.w3.org/1999/xlink" related-article-type="pdf" xlink.href="jnum-2014-masthead1.pdf" /><post-process status="nothing-found">2014-04-26T06:06:39.207769+02:00</post-process><original type="pdf" xlink.href="jnum-2014-masthead1.pdf" />
+		</article-meta>
+	</front>
+</article>
+</collection>

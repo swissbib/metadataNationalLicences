@@ -1,0 +1,49 @@
+<!DOCTYPE article SYSTEM "cupjnl2_2.dtd">
+<article dtdver="2.2" type="HEAD">
+<header>
+<issue>
+<pinfo>
+<pnm>Cambridge University Press</pnm>
+<loc>Cambridge, UK</loc>
+</pinfo>
+<jinfo>
+<jid>AFH</jid>
+<jtl>The Journal of African History</jtl>
+<jabt>J. Afr. Hist.</jabt>
+<issn>0021-8537</issn>
+<eissn>1469-5138</eissn>
+</jinfo>
+<pubinfo>
+<vid>47</vid><iid>2</iid>
+<cd year="2006" month="7">
+</pubinfo>
+</issue>
+<artcon>
+<genhdr language="EN">
+<artinfo>
+<aid>22206</aid>
+<ftarticle pdfpg="2">S0021853706002064a.pdf</ftarticle>
+<doi>10.1017/S0021853706222060</doi>
+<altid><pii>S0021853706222060</pii></altid>
+<artty artty="BR">
+<ppct count="2"><ppf ord="10">328</ppf><ppl>329</ppl>
+<crn crt="full">2006 Cambridge University Press</crn>
+</artinfo>
+<tig>
+<atl>EXPLORING AND POPULARIZING AFRICAN HISTORY</atl>
+<atl><e1>The Power of African Cultures</e1>. By T<e5>OYIN</e5> F<e5>ALOLA</e5>. Rochester NY: University of Rochester Press, 2003. Pp. xiii+354. $75&sol;&pound;50 (ISBN 1-58046-139-5).</atl>
+<atl purpose="recto">REVIEWS</atl>
+<atl purpose="verso">JOURNAL OF AFRICAN HISTORY</atl>
+</tig>
+<aug>
+<au><fnms>PAUL E.</fnms><snm>LOVEJOY</snm><orf rid="a1"><norm>LOVEJOY PE</norm></au>
+<aff><oid id="a1"><onm>York University</onm>, <cny>Canada</cny></aff></aug>
+<kwdg>
+<kwd>Culture</kwd>
+<kwd>historiography</kwd>
+<kwd>politics</kwd>
+</kwdg>
+</genhdr>
+</artcon>
+</header>
+</article>

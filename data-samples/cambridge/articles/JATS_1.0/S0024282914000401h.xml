@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="brief-report" dtd-version="1.0" xml:lang="en">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">LIC</journal-id>
+         <journal-title-group>
+            <journal-title xml:lang="en">The Lichenologist</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">The Lichenologist</abbrev-journal-title>
+         </journal-title-group>
+         <issn pub-type="ppub">0024-2829</issn>
+         <issn pub-type="epub">1096-1135</issn>
+         <publisher>
+            <publisher-name>Cambridge University Press</publisher-name>
+            <publisher-loc>Cambridge, UK</publisher-loc>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.1017/S0024282914000401</article-id>
+         <article-id pub-id-type="pii">S0024282914000401</article-id>
+         <article-id pub-id-type="publisher-id">00040</article-id>
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>Short Communications</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Typification of <italic>Thelephora pavonia</italic> Sw. and reinstatement of <italic>Cora ciferrii</italic> (Tomas.) comb. nov.</article-title>
+            <alt-title alt-title-type="left-running">THE LICHENOLOGIST</alt-title>
+            <alt-title alt-title-type="right-running">Short Communication</alt-title>
+         </title-group>
+         <contrib-group content-type="authors">
+            <contrib>
+               <name name-style="western">
+                  <surname>LÜCKING</surname>
+                  <given-names>Robert</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1"/>
+            </contrib>
+            <contrib>
+               <name name-style="western">
+                  <surname>GRALL</surname>
+                  <given-names>Aurelie</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff2"/>
+            </contrib>
+            <contrib>
+               <name name-style="western">
+                  <surname>THÜS</surname>
+                  <given-names>Holger</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff2"/>
+            </contrib>
+         </contrib-group>
+         <aff id="aff1">
+            <addr-line>Science &amp; Education, The Field Museum, 1400 South Lake Shore Drive, Chicago, Illinois 60605-2496</addr-line>, <country>USA</country>. Email: <email xlink:type="simple">rlucking@fieldmuseum.org</email>
+         </aff>
+         <aff id="aff2">
+            <addr-line>Life Sciences Department, The Natural History Museum, Cromwell Road, London SW7 5BD</addr-line>, <country>UK</country>
+         </aff>
+         <pub-date pub-type="epub"><day>23</day><month>10</month><year>2014</year></pub-date><pub-date pub-type="ppub">
+            <month>11</month>
+            <year>2014</year>
+         </pub-date>
+         <volume>46</volume>
+         <issue seq="10">6</issue>
+         <fpage>825</fpage>
+         <lpage>828</lpage>
+         <permissions>
+            <copyright-statement>Copyright © British Lichen Society 2014 </copyright-statement>
+            <copyright-year>2014</copyright-year>
+            <copyright-holder>British Lichen Society</copyright-holder>
+         </permissions>
+         <counts>
+            <page-count count="4"/>
+         </counts>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>pdf</meta-name>
+               <meta-value>S0024282914000401a.pdf</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

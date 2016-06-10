@@ -1,0 +1,2958 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<collection>
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="research-article" dtd-version="2.3" xml:lang="EN">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">raps</journal-id>
+<journal-id journal-id-type="hwp">raps</journal-id>
+<journal-title>The Review of Asset Pricing Studies</journal-title>
+<issn pub-type="ppub">2045-9920</issn>
+<issn pub-type="epub">2045-9939</issn>
+<publisher>
+<publisher-name>Oxford University Press</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.1093/rapstu/rau005</article-id>
+<article-id pub-id-type="publisher-id">rau005</article-id>
+<article-categories>
+<subj-group>
+<subject>Articles</subject>
+</subj-group>
+<series-title>Editor's Choice</series-title>
+</article-categories>
+<title-group>
+<article-title>Rating-Based Investment Practices and Bond Market Segmentation</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" corresp="yes" xlink:type="simple">
+<name name-style="western"><surname>Chen</surname><given-names>Zhihua</given-names></name>
+</contrib>
+<aff>Shanghai University of Finance and Economics</aff>
+</contrib-group>
+<contrib-group>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>Lookman</surname><given-names>Aziz A.</given-names></name>
+</contrib>
+<aff>AIG</aff>
+</contrib-group>
+<contrib-group>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>Schürhoff</surname><given-names>Norman</given-names></name>
+</contrib>
+<aff>University of Lausanne, Swiss Finance Institute, and CEPR</aff>
+</contrib-group>
+<contrib-group>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>Seppi</surname><given-names>Duane J.</given-names></name>
+</contrib>
+<aff>Tepper School of Business at Carnegie Mellon University</aff>
+</contrib-group>
+<author-notes>
+<corresp>Send correspondence to: Norman Schürhoff, Faculty of Business and Economics, University of Lausanne, Extranef 239, CH-1015 Lausanne, Switzerland; telephone: <phone>+ 41 (0)21 692 3447</phone>; fax: <fax>+ 41 (0)21 692 3435</fax>. E-mail: <email xlink:type="simple">norman.schuerhoff@unil.ch</email>.</corresp>
+</author-notes>
+<pub-date pub-type="ppub">
+<month>12</month>
+<year>2014</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>27</day>
+<month>10</month>
+<year>2014</year>
+</pub-date>
+<volume>4</volume>
+<issue>2</issue>
+<fpage>162</fpage>
+<lpage>205</lpage>
+<permissions>
+<copyright-statement>© The Author 2014. Published by Oxford University Press on behalf of The Society for Financial Studies. All rights reserved. For Permissions, please email: journals.permissions@oup.com</copyright-statement>
+<copyright-year>2014</copyright-year>
+</permissions>
+<abstract>
+<p>This paper documents a new channel for rating-based bond market segmentation, which, in contrast to prior research, is based on nonregulatory investment management practices. A 2005 Lehman Brothers index redefinition provides a quasinatural experiment in which a number of previously high-yield split-rated bonds were mechanically relabeled as investment grade. Although their regulatory standing was unaffected, these bonds had abnormal yield declines of 21 basis points. These valuation changes can be traced to buying by asset-class-sensitive institutional investors for whom these bonds became investable. Reputation, regulation, indexation, and liquidity cannot explain the observed price and trading patterns. (<italic>JEL</italic> G12, G14)</p>
+</abstract>
+<counts>
+<page-count count="44"/>
+</counts>
+</article-meta>
+</front></article><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="other" dtd-version="2.3" xml:lang="EN">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">raps</journal-id>
+<journal-id journal-id-type="hwp">raps</journal-id>
+<journal-title>The Review of Asset Pricing Studies</journal-title>
+<issn pub-type="ppub">2045-9920</issn>
+<issn pub-type="epub">2045-9939</issn>
+<publisher>
+<publisher-name>Oxford University Press</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.1093/rapstu/rat010</article-id>
+<article-id pub-id-type="publisher-id">rat010</article-id>
+<article-categories>
+<subj-group>
+<subject>Cover / Standing Material</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Front Cover</article-title>
+</title-group>
+<pub-date pub-type="ppub">
+<month>12</month>
+<year>2014</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>08</day>
+<month>11</month>
+<year>2014</year>
+</pub-date>
+<volume>4</volume>
+<issue>2</issue>
+<fpage>i1</fpage>
+<lpage>i1</lpage>
+<permissions>
+<copyright-statement>© The Author 2014. Published by Oxford University Press on behalf of The Society for Financial Studies. All rights reserved. For Permissions, please email: journals.permissions@oup.com.</copyright-statement>
+<copyright-year>2014</copyright-year>
+</permissions>
+<counts>
+<page-count count="1"/>
+</counts>
+</article-meta>
+</front>
+</article><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="other" dtd-version="2.3" xml:lang="EN">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">raps</journal-id>
+<journal-id journal-id-type="hwp">raps</journal-id>
+<journal-title>The Review of Asset Pricing Studies</journal-title>
+<issn pub-type="ppub">2045-9920</issn>
+<issn pub-type="epub">2045-9939</issn>
+<publisher>
+<publisher-name>Oxford University Press</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.1093/rapstu/rat012</article-id>
+<article-id pub-id-type="publisher-id">rat012</article-id>
+<article-categories>
+<subj-group>
+<subject>Cover / Standing Material</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Editorial Board</article-title>
+</title-group>
+<pub-date pub-type="ppub">
+<month>12</month>
+<year>2014</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>08</day>
+<month>11</month>
+<year>2014</year>
+</pub-date>
+<volume>4</volume>
+<issue>2</issue>
+<fpage>i2</fpage>
+<lpage>i2</lpage>
+<permissions>
+<copyright-statement>© The Author 2014. Published by Oxford University Press on behalf of The Society for Financial Studies. All rights reserved. For Permissions, please email: journals.permissions@oup.com.</copyright-statement>
+<copyright-year>2014</copyright-year>
+</permissions>
+<counts>
+<page-count count="1"/>
+</counts>
+</article-meta>
+</front>
+</article><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="research-article" dtd-version="2.3" xml:lang="EN">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">raps</journal-id>
+<journal-id journal-id-type="hwp">raps</journal-id>
+<journal-title>The Review of Asset Pricing Studies</journal-title>
+<issn pub-type="ppub">2045-9920</issn>
+<issn pub-type="epub">2045-9939</issn>
+<publisher>
+<publisher-name>Oxford University Press</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.1093/rapstu/rau004</article-id>
+<article-id pub-id-type="publisher-id">rau004</article-id>
+<article-categories>
+<subj-group>
+<subject>Articles</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Incomplete Continuous-Time Securities Markets with Stochastic Income Volatility</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" corresp="yes" xlink:type="simple">
+<name name-style="western"><surname>Christensen</surname><given-names>Peter O.</given-names></name>
+</contrib>
+<aff>Aarhus University</aff>
+</contrib-group>
+<contrib-group>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>Larsen</surname><given-names>Kasper</given-names></name>
+</contrib>
+<aff>Carnegie Mellon University</aff>
+</contrib-group>
+<author-notes>
+<corresp>Send correspondence to Kasper Larsen, Carnegie Mellon University, Department of Mathematical Sciences, Wean Hall, Pittsburgh, PA 15213-3890, USA; telephone: <phone>(412) 268-2545</phone>. E-mail: <email xlink:type="simple">kasperl@andrew.cmu.edu</email>.</corresp>
+</author-notes>
+<pub-date pub-type="ppub">
+<month>12</month>
+<year>2014</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>11</day>
+<month>07</month>
+<year>2014</year>
+</pub-date>
+<volume>4</volume>
+<issue>2</issue>
+<fpage>247</fpage>
+<lpage>285</lpage>
+<permissions>
+<copyright-statement>© The Author 2014. Published by Oxford University Press on behalf of The Society for Financial Studies. All rights reserved. For Permissions, please email: journals.permissions@oup.com</copyright-statement>
+<copyright-year>2014</copyright-year>
+</permissions>
+<abstract>
+<p>We derive closed-form solutions for the equilibrium interest rate and market price of risk processes in an incomplete continuous-time market with uncertainty generated by Brownian motions. The economy has a finite number of heterogeneous exponential utility investors, who receive partially unspanned income and can trade continuously. Countercyclical stochastic income volatility generates a countercyclical equilibrium market price of risk process and a procyclical equilibrium interest rate process. We show that when the investors’ unspanned income volatility is countercyclical, the resulting equilibrium displays both lower interest rates and higher risk premia compared with the equilibrium in an otherwise identical complete market. (<italic>JEL</italic> G12, G11, D53)</p>
+</abstract>
+<counts>
+<page-count count="39"/>
+</counts>
+</article-meta>
+</front></article><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="other" dtd-version="2.3" xml:lang="EN">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">raps</journal-id>
+<journal-id journal-id-type="hwp">raps</journal-id>
+<journal-title>The Review of Asset Pricing Studies</journal-title>
+<issn pub-type="ppub">2045-9920</issn>
+<issn pub-type="epub">2045-9939</issn>
+<publisher>
+<publisher-name>Oxford University Press</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.1093/rapstu/rat014</article-id>
+<article-id pub-id-type="publisher-id">rat014</article-id>
+<article-categories>
+<subj-group>
+<subject>Cover / Standing Material</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Subscription Page</article-title>
+</title-group>
+<pub-date pub-type="ppub">
+<month>12</month>
+<year>2014</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>08</day>
+<month>11</month>
+<year>2014</year>
+</pub-date>
+<volume>4</volume>
+<issue>2</issue>
+<fpage>i3</fpage>
+<lpage>i3</lpage>
+<permissions>
+<copyright-statement>© The Author 2014. Published by Oxford University Press on behalf of The Society for Financial Studies. All rights reserved. For Permissions, please email: journals.permissions@oup.com.</copyright-statement>
+<copyright-year>2014</copyright-year>
+</permissions>
+<counts>
+<page-count count="1"/>
+</counts>
+</article-meta>
+</front>
+</article><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="other" dtd-version="2.3" xml:lang="EN">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">raps</journal-id>
+<journal-id journal-id-type="hwp">raps</journal-id>
+<journal-title>The Review of Asset Pricing Studies</journal-title>
+<issn pub-type="ppub">2045-9920</issn>
+<issn pub-type="epub">2045-9939</issn>
+<publisher>
+<publisher-name>Oxford University Press</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.1093/rapstu/rat016</article-id>
+<article-id pub-id-type="publisher-id">rat016</article-id>
+<article-categories>
+<subj-group>
+<subject>Cover / Standing Material</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Table of Contents</article-title>
+</title-group>
+<pub-date pub-type="ppub">
+<month>12</month>
+<year>2014</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>08</day>
+<month>11</month>
+<year>2014</year>
+</pub-date>
+<volume>4</volume>
+<issue>2</issue>
+<fpage>i4</fpage>
+<lpage>i4</lpage>
+<permissions>
+<copyright-statement>© The Author 2014. Published by Oxford University Press on behalf of The Society for Financial Studies. All rights reserved. For Permissions, please email: journals.permissions@oup.com.</copyright-statement>
+<copyright-year>2014</copyright-year>
+</permissions>
+<counts>
+<page-count count="1"/>
+</counts>
+</article-meta>
+</front>
+</article><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="research-article" dtd-version="2.3" xml:lang="EN">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">raps</journal-id>
+<journal-id journal-id-type="hwp">raps</journal-id>
+<journal-title>The Review of Asset Pricing Studies</journal-title>
+<issn pub-type="ppub">2045-9920</issn>
+<issn pub-type="epub">2045-9939</issn>
+<publisher>
+<publisher-name>Oxford University Press</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.1093/rapstu/rau007</article-id>
+<article-id pub-id-type="publisher-id">rau007</article-id>
+<article-categories>
+<subj-group>
+<subject>Articles</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Detecting Superior Mutual Fund Managers: Evidence from Copycats</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>Phillips</surname><given-names>Blake</given-names></name>
+</contrib>
+<aff>School of Accounting and Finance, University of Waterloo</aff>
+</contrib-group>
+<contrib-group>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>Pukthuanthong</surname><given-names>Kuntara</given-names></name>
+</contrib>
+<aff>Trulaske College of Business, University of Missouri</aff>
+</contrib-group>
+<contrib-group>
+<contrib contrib-type="author" corresp="yes" xlink:type="simple">
+<name name-style="western"><surname>Rau</surname><given-names>P. Raghavendra</given-names></name>
+</contrib>
+<aff>University of Cambridge</aff>
+</contrib-group>
+<author-notes>
+<corresp id="rau007-COR1">Send correspondence to Raghavendra Rau, University of Cambridge, Trumpington Street, Cambridge, CB2 1AG; telephone: <phone>44 (1223) 761-079</phone>. E-mail: <email xlink:type="simple">r.rau@jbs.cam.ac.uk</email>.</corresp>
+</author-notes>
+<pub-date pub-type="ppub">
+<month>12</month>
+<year>2014</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>28</day>
+<month>10</month>
+<year>2014</year>
+</pub-date>
+<volume>4</volume>
+<issue>2</issue>
+<fpage>286</fpage>
+<lpage>321</lpage>
+<permissions>
+<copyright-statement>© The Author 2014. Published by Oxford University Press on behalf of The Society for Financial Studies. All rights reserved. For Permissions, please email: journals.permissions@oup.com</copyright-statement>
+<copyright-year>2014</copyright-year>
+</permissions>
+<abstract>
+<p>We examine the ex ante ability of investors to identify superior mutual fund managers among the investor set likely most able, and with the greatest incentive to do so, their rivals. Identifying actual copycat funds via comparisons of trading in consecutive periods, we find little evidence to suggest that managers are able to detect superior funds. Copycats select funds with high prior performance and investment inflows, and the performance of the target fund reverses following copying initiation. If superior managers exist, our results suggest that the source of skill lies in private information obtained by these managers. These results are consistent with information models indicating that private, but not public, information can be profitable. (<italic>JEL</italic> G02, G11, G23)</p>
+</abstract>
+<counts>
+<page-count count="36"/>
+</counts>
+</article-meta>
+</front></article><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="announcement" dtd-version="2.3" xml:lang="EN">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">raps</journal-id>
+<journal-id journal-id-type="hwp">raps</journal-id>
+<journal-title>The Review of Asset Pricing Studies</journal-title>
+<issn pub-type="ppub">2045-9920</issn>
+<issn pub-type="epub">2045-9939</issn>
+<publisher>
+<publisher-name>Oxford University Press</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.1093/rapstu/rau008</article-id>
+<article-id pub-id-type="publisher-id">rau008</article-id>
+<article-categories>
+<subj-group>
+<subject>Announcements</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Announcements</article-title>
+</title-group>
+<pub-date pub-type="ppub">
+<month>12</month>
+<year>2014</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>08</day>
+<month>11</month>
+<year>2014</year>
+</pub-date>
+<volume>4</volume>
+<issue>2</issue>
+<fpage>161</fpage>
+<lpage>161</lpage>
+<permissions>
+<copyright-statement>Published by Oxford University Press 2014.</copyright-statement>
+<copyright-year>2014</copyright-year>
+</permissions>
+<counts>
+<page-count count="1"/>
+</counts>
+</article-meta>
+</front></article><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="research-article" dtd-version="2.3" xml:lang="EN"><front><journal-meta><journal-id journal-id-type="hwp">raps</journal-id><journal-id journal-id-type="publisher-id">raps</journal-id><journal-title>Review of Asset Pricing Studies</journal-title><issn pub-type="epub">2045-9939</issn><issn pub-type="ppub">2045-9920</issn><publisher><publisher-name>Oxford University Press</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="doi">10.1093/rapstu/raq001</article-id><article-categories><subj-group><subject>Articles</subject></subj-group></article-categories><title-group><article-title>Jensen's Inequality, Parameter Uncertainty, and Multi-period Investment</article-title></title-group><contrib-group><contrib contrib-type="author" corresp="yes" xlink:type="simple"><name name-style="western"><surname>Grinblatt</surname><given-names>Mark</given-names></name></contrib><aff>UCLA Anderson School of Management</aff></contrib-group><contrib-group><contrib contrib-type="author" xlink:type="simple"><name name-style="western"><surname>Linnainmaa</surname><given-names>Juhani T.</given-names></name></contrib><aff>University of Chicago, Booth School of Business</aff></contrib-group><author-notes><corresp>Send correspondence to Mark Grinblatt, UCLA Anderson School of Management, 110 Westwood Plaza, Los Angeles, CA 90095; telephone: (310) 825-1098. E-mail: <email xlink:type="simple">mark.grinblatt@anderson.ucla.edu</email>.</corresp></author-notes><pub-date pub-type="ppub"><month>12</month><year>2011</year></pub-date><pub-date pub-type="epub"><day>03</day><month>01</month><year>2011</year></pub-date><volume>1</volume><issue>1</issue><fpage>1</fpage><lpage>34</lpage><permissions><copyright-statement>© The Author 2011. Published by Oxford University Press on behalf of The Society for Financial Studies. All rights reserved. For Permissions, please e-mail: journals.permissions@oup.com.</copyright-statement><copyright-year>2011</copyright-year></permissions><abstract><p>Classical approaches to estimation and decisions requiring estimation often are at odds. When values critical to the decision are convex or concave functions of unknown parameters, the statistician's estimation error adjustments are the opposite of what is appropriate for the decision. We illustrate the conflict by studying multi-period investment problems. The proper application of Jensen's inequality to the decision turns finance intuition on its head: Multi-period investments with negative risk premia can be profitable, risk-averse investors can have infinite demand for risky securities, settings exist in which risk-averse investors should not diversify, and demand for mutual funds with negative alphas may be rational.</p></abstract><kwd-group kwd-group-type="jel"><title>JEL</title><kwd>C11</kwd><kwd>G11</kwd></kwd-group></article-meta></front></article><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="other" dtd-version="2.3" xml:lang="EN"><front><journal-meta><journal-id journal-id-type="hwp">raps</journal-id><journal-id journal-id-type="publisher-id">raps</journal-id><journal-title>Review of Asset Pricing Studies</journal-title><issn pub-type="epub">2045-9939</issn><issn pub-type="ppub">2045-9920</issn><publisher><publisher-name>Oxford University Press</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="doi">10.1093/rapstu/rar007</article-id><article-categories><subj-group><subject>Standing Material</subject></subj-group></article-categories><title-group><article-title>Editorial Board</article-title></title-group><pub-date pub-type="ppub"><month>12</month><year>2011</year></pub-date><volume>1</volume><issue>1</issue><fpage>NP</fpage><lpage>NP</lpage><permissions><copyright-statement>© The Author 2011. Published by Oxford University Press on behalf of The Society for Financial Studies. All rights reserved. For Permissions, please e-mail: journals.permissions@oup.com.</copyright-statement><copyright-year>2011</copyright-year></permissions></article-meta></front></article><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="research-article" dtd-version="2.3" xml:lang="EN"><front><journal-meta><journal-id journal-id-type="hwp">raps</journal-id><journal-id journal-id-type="publisher-id">raps</journal-id><journal-title>Review of Asset Pricing Studies</journal-title><issn pub-type="epub">2045-9939</issn><issn pub-type="ppub">2045-9920</issn><publisher><publisher-name>Oxford University Press</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="doi">10.1093/rapstu/rar002</article-id><article-categories><subj-group><subject>Articles</subject></subj-group></article-categories><title-group><article-title>Limited Investor Attention and Stock Market Misreactions to Accounting Information</article-title></title-group><contrib-group><contrib contrib-type="author" xlink:type="simple"><name name-style="western"><surname>Hirshleifer</surname><given-names>David</given-names></name></contrib><aff>Paul Merage School of Business, University of California</aff></contrib-group><contrib-group><contrib contrib-type="author" xlink:type="simple"><name name-style="western"><surname>Lim</surname><given-names>Sonya S.</given-names></name></contrib><aff>Department of Finance, DePaul University</aff></contrib-group><contrib-group><contrib contrib-type="author" corresp="yes" xlink:type="simple"><name name-style="western"><surname>Teoh</surname><given-names>Siew Hong</given-names></name></contrib><aff>Paul Merage School of Business, University of California</aff></contrib-group><author-notes><corresp>Send correspondence to Siew Hong Teoh, The Paul Merage School of Business, University of California, Irvine, CA 92697-3125; telephone: (949) 824 9952. E-mail: <email xlink:type="simple">steoh@uci.edu</email>.</corresp></author-notes><pub-date pub-type="ppub"><month>12</month><year>2011</year></pub-date><pub-date pub-type="epub"><day>27</day><month>07</month><year>2011</year></pub-date><volume>1</volume><issue>1</issue><fpage>35</fpage><lpage>73</lpage><permissions><copyright-statement>© The Author 2011. Published by Oxford University Press on behalf of The Society for Financial Studies. All rights reserved. For Permissions, please e-mail: journals.permissions@oup.com.</copyright-statement><copyright-year>2011</copyright-year></permissions><abstract><p>We provide a model in which a single psychological constraint, limited attention, explains both under- and overreaction to different earnings components. Investor neglect of earnings induces post-earnings announcement drift and the profit anomaly. Neglect of earnings components causes accrual and cash flow anomalies. The model offers empirical implications relating the strength of earnings-related anomalies to the forecasting power of current earnings-related information for future earnings, investor attentiveness, and the volatilities of and correlation between accruals and cash flows. We also show that, owing to attention costs, in equilibrium not all investors choose to attend to earnings or its components.</p></abstract><kwd-group kwd-group-type="jel"><title>JEL</title><kwd>G12</kwd><kwd>G14</kwd><kwd>M41</kwd></kwd-group></article-meta></front></article><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="research-article" dtd-version="2.3" xml:lang="EN"><front><journal-meta><journal-id journal-id-type="hwp">raps</journal-id><journal-id journal-id-type="publisher-id">raps</journal-id><journal-title>Review of Asset Pricing Studies</journal-title><issn pub-type="epub">2045-9939</issn><issn pub-type="ppub">2045-9920</issn><publisher><publisher-name>Oxford University Press</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="doi">10.1093/rapstu/rar001</article-id><article-categories><subj-group><subject>Articles</subject></subj-group></article-categories><title-group><article-title>Does a Central Clearing Counterparty Reduce Counterparty Risk?</article-title></title-group><contrib-group><contrib contrib-type="author" corresp="yes" xlink:type="simple"><name name-style="western"><surname>Duffie</surname><given-names>Darrell</given-names></name></contrib><contrib contrib-type="author" xlink:type="simple"><name name-style="western"><surname>Zhu</surname><given-names>Haoxiang</given-names></name></contrib></contrib-group><aff>Graduate School of Business, Stanford University</aff><author-notes><corresp>Send correspondence to Darrell Duffie, 655 Knight Way, Stanford Graduate School of Business, Stanford, CA 94305; telephone: (650) 723 1976. E-mail: <email xlink:type="simple">duffie@stanford.edu</email>.</corresp></author-notes><pub-date pub-type="ppub"><month>12</month><year>2011</year></pub-date><pub-date pub-type="epub"><day>18</day><month>07</month><year>2011</year></pub-date><volume>1</volume><issue>1</issue><fpage>74</fpage><lpage>95</lpage><permissions><copyright-statement>© The Author 2011. Published by Oxford University Press on behalf of The Society for Financial Studies. All rights reserved. For Permissions, please e-mail: journals.permissions@oup.com.</copyright-statement><copyright-year>2011</copyright-year></permissions><abstract><p>We show whether central clearing of a particular class of derivatives lowers counterparty risk. For plausible cases, adding a central clearing counterparty (CCP) for a class of derivatives such as credit default swaps reduces netting efficiency, leading to an increase in average exposure to counterparty default. Further, clearing different classes of derivatives in separate CCPs always increases counterparty exposures relative to clearing the combined set of derivatives in a single CCP. We provide theory as well as illustrative numerical examples of these results that are calibrated to notional derivatives position data for major banks.</p></abstract><kwd-group kwd-group-type="jel"><title>JEL</title><kwd>G01</kwd><kwd>G14</kwd><kwd>G18</kwd><kwd>G28</kwd></kwd-group></article-meta></front></article><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="other" dtd-version="2.3" xml:lang="EN"><front><journal-meta><journal-id journal-id-type="hwp">raps</journal-id><journal-id journal-id-type="publisher-id">raps</journal-id><journal-title>Review of Asset Pricing Studies</journal-title><issn pub-type="epub">2045-9939</issn><issn pub-type="ppub">2045-9920</issn><publisher><publisher-name>Oxford University Press</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="doi">10.1093/rapstu/rar005</article-id><article-categories><subj-group><subject>Standing Material</subject></subj-group></article-categories><title-group><article-title>Table of Contents</article-title></title-group><pub-date pub-type="ppub"><month>12</month><year>2011</year></pub-date><volume>1</volume><issue>1</issue><fpage>NP</fpage><lpage>NP</lpage><permissions><copyright-statement>© The Author 2011. Published by Oxford University Press on behalf of The Society for Financial Studies. All rights reserved. For Permissions, please e-mail: journals.permissions@oup.com.</copyright-statement><copyright-year>2011</copyright-year></permissions></article-meta></front></article><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="other" dtd-version="2.3" xml:lang="EN"><front><journal-meta><journal-id journal-id-type="hwp">raps</journal-id><journal-id journal-id-type="publisher-id">raps</journal-id><journal-title>Review of Asset Pricing Studies</journal-title><issn pub-type="epub">2045-9939</issn><issn pub-type="ppub">2045-9920</issn><publisher><publisher-name>Oxford University Press</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="doi">10.1093/rapstu/rar006</article-id><article-categories><subj-group><subject>Cover</subject></subj-group></article-categories><title-group><article-title>Cover</article-title></title-group><pub-date pub-type="ppub"><month>12</month><year>2011</year></pub-date><volume>1</volume><issue>1</issue><fpage>NP</fpage><lpage>NP</lpage><permissions><copyright-statement>© The Author 2011. Published by Oxford University Press on behalf of The Society for Financial Studies. All rights reserved. For Permissions, please e-mail: journals.permissions@oup.com.</copyright-statement><copyright-year>2011</copyright-year></permissions></article-meta></front></article><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="research-article" dtd-version="2.3" xml:lang="EN"><front><journal-meta><journal-id journal-id-type="hwp">raps</journal-id><journal-id journal-id-type="publisher-id">raps</journal-id><journal-title>Review of Asset Pricing Studies</journal-title><issn pub-type="epub">2045-9939</issn><issn pub-type="ppub">2045-9920</issn><publisher><publisher-name>Oxford University Press</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="doi">10.1093/rapstu/rar004</article-id><article-categories><subj-group><subject>Articles</subject></subj-group></article-categories><title-group><article-title>Asset Pricing Tests with Long-run Risks in Consumption Growth</article-title></title-group><contrib-group><contrib contrib-type="author" corresp="yes" xlink:type="simple"><name name-style="western"><surname>Constantinides</surname><given-names>George M.</given-names></name></contrib><aff>Booth School of Business, University of Chicago, and NBER</aff></contrib-group><contrib-group><contrib contrib-type="author" xlink:type="simple"><name name-style="western"><surname>Ghosh</surname><given-names>Anisha</given-names></name></contrib><aff>Tepper School of Business, Carnegie Mellon University</aff></contrib-group><author-notes><corresp>Send correspondence to George M. Constantinides, Booth School of Business, University of Chicago, and NBER; 5807 South Woodlawn Avenue, Chicago IL 60637; telephone: (773)702-7258; fax: (773)753-8045. E-mail: <email xlink:type="simple">gmc@chicagobooth.edu</email>; <ext-link ext-link-type="uri" xlink:href="http://faculty.chicagobooth.edu/george.constantinides/" xlink:type="simple">http://faculty.chicagobooth.edu/george.constantinides/</ext-link>.</corresp></author-notes><pub-date pub-type="ppub"><month>12</month><year>2011</year></pub-date><pub-date pub-type="epub"><day>18</day><month>07</month><year>2011</year></pub-date><volume>1</volume><issue>1</issue><fpage>96</fpage><lpage>136</lpage><permissions><copyright-statement>© The Author 2011. Published by Oxford University Press on behalf of The Society for Financial Studies. All rights reserved. For Permissions, please e-mail: journals.permissions@oup.com.</copyright-statement><copyright-year>2011</copyright-year></permissions><abstract><p>We present a novel methodology for estimating/testing the <xref ref-type="bibr" rid="bib9">Bansal and Yaron (2004)</xref> and related long-run risks (LRR) models based on the observation that the latent state variables are known functions of observables. The large standard error of the estimated elasticity of intertemporal substitution explains the controversy on its magnitude. The model requires higher persistence of consumption and dividend growth to explain the cross-section of returns than that observed in the data. The model matches the unconditional moments of consumption and dividend growth, but implies a higher risk-free rate and lower volatility of the price/dividend ratio, risk-free rate, and market return than those observed in the data. Contrary to the model implications, the conditional variance of the LRR variable fails to capture the large time variation in the equity premium.</p></abstract><kwd-group kwd-group-type="jel"><title>JEL</title><kwd>G12</kwd><kwd>E44</kwd></kwd-group></article-meta></front></article><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="research-article" dtd-version="2.3" xml:lang="EN">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">raps</journal-id>
+<journal-id journal-id-type="hwp">raps</journal-id>
+<journal-title>Review of Asset Pricing Studies</journal-title>
+<issn pub-type="ppub">2045-9920</issn>
+<issn pub-type="epub">2045-9939</issn>
+<publisher>
+<publisher-name>Oxford University Press</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.1093/rapstu/ras011</article-id>
+<article-id pub-id-type="publisher-id">ras011</article-id>
+<article-categories>
+<subj-group>
+<subject>Articles</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>How Much of the Corporate-Treasury Yield Spread Is Due to Credit Risk?</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>Huang</surname><given-names>Jing-Zhi</given-names></name>
+</contrib>
+<aff>Smeal College of Business, Penn State University</aff>
+</contrib-group>
+<contrib-group>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>Huang</surname><given-names>Ming</given-names></name>
+</contrib>
+<aff>Johnson School of Management, Cornell University, and CEIBS</aff>
+</contrib-group>
+<pub-date pub-type="ppub">
+<month>12</month>
+<year>2012</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>10</day>
+<month>11</month>
+<year>2012</year>
+</pub-date>
+<volume>2</volume>
+<issue>2</issue>
+<fpage>153</fpage>
+<lpage>202</lpage>
+<history>
+<date date-type="accepted">
+<day>25</day>
+<month>9</month>
+<year>2012</year>
+</date>
+</history>
+<permissions>
+<copyright-statement>© The Author 2012. Published by Oxford University Press on behalf of The Society for Financial Studies. All rights reserved. For Permissions, please email: journals.permissions@oup.com</copyright-statement>
+<copyright-year>2012</copyright-year>
+</permissions>
+<abstract>
+<p>We show that credit risk accounts for only a small fraction of yield spreads for investment-grade bonds of all maturities, with the fraction lower for bonds of shorter maturities, and that it accounts for a much higher fraction of yield spreads for high-yield bonds. This conclusion is shown to be robust across a wide class of structural models. We obtain such results by calibrating each of the models to be consistent with data on the historical default loss experience and equity risk premia, and demonstrating that different models predict similar credit risk premia under empirically reasonable parameter choices. (<italic>JEL</italic> G13, G12, G33, G24)</p>
+</abstract>
+<counts>
+<page-count count="50"/>
+</counts>
+</article-meta>
+</front></article><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="other" dtd-version="2.3" xml:lang="EN">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">raps</journal-id>
+<journal-id journal-id-type="hwp">raps</journal-id>
+<journal-title>Review of Asset Pricing Studies</journal-title>
+<issn pub-type="ppub">2045-9920</issn>
+<issn pub-type="epub">2045-9939</issn>
+<publisher>
+<publisher-name>Oxford University Press</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.1093/rapstu/ras014</article-id>
+<article-id pub-id-type="publisher-id">ras014</article-id>
+<article-categories>
+<subj-group>
+<subject>Cover / Standing Material</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Front Cover</article-title>
+</title-group>
+<pub-date pub-type="ppub">
+<month>12</month>
+<year>2012</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>10</day>
+<month>11</month>
+<year>2012</year>
+</pub-date>
+<volume>2</volume>
+<issue>2</issue>
+<fpage>i1</fpage>
+<lpage>i1</lpage>
+<permissions>
+<copyright-statement>© The Author 2012. Published by Oxford University Press on behalf of The Society for Financial Studies. All rights reserved. For Permissions, please email: journals.permissions@oup.com.</copyright-statement>
+<copyright-year>2012</copyright-year>
+</permissions>
+<counts>
+<page-count count="1"/>
+</counts>
+</article-meta>
+</front>
+</article><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="research-article" dtd-version="2.3" xml:lang="EN">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">raps</journal-id>
+<journal-id journal-id-type="hwp">raps</journal-id>
+<journal-title>Review of Asset Pricing Studies</journal-title>
+<issn pub-type="ppub">2045-9920</issn>
+<issn pub-type="epub">2045-9939</issn>
+<publisher>
+<publisher-name>Oxford University Press</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.1093/rapstu/ras012</article-id>
+<article-id pub-id-type="publisher-id">ras012</article-id>
+<article-categories>
+<subj-group>
+<subject>Articles</subject>
+</subj-group>
+<series-title>Editor's Choice</series-title>
+</article-categories>
+<title-group>
+<article-title>The World Price of Credit Risk</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>Avramov</surname><given-names>Doron</given-names></name>
+</contrib>
+<aff>Hebrew University of Jerusalem</aff>
+</contrib-group>
+<contrib-group>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>Chordia</surname><given-names>Tarun</given-names></name>
+</contrib>
+<aff>Emory University, Goizueta Business School</aff>
+</contrib-group>
+<contrib-group>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>Jostova</surname><given-names>Gergana</given-names></name>
+</contrib>
+<aff>George Washington University, School of Business</aff>
+</contrib-group>
+<contrib-group>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>Philipov</surname><given-names>Alexander</given-names></name>
+</contrib>
+<aff>George Mason University, School of Management</aff>
+</contrib-group>
+<author-notes>
+<corresp>Send correspondence to Alexander Philipov, George Mason University, School of Management, MSN 5F5, 4400 University Drive, Fairfax, VA 22030; telephone: <phone>(703) 993-9762</phone>. E-mail: <email xlink:type="simple">aphilipo@gmu.edu</email>.</corresp>
+</author-notes>
+<pub-date pub-type="ppub">
+<month>12</month>
+<year>2012</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>10</day>
+<month>11</month>
+<year>2012</year>
+</pub-date>
+<volume>2</volume>
+<issue>2</issue>
+<fpage>112</fpage>
+<lpage>152</lpage>
+<permissions>
+<copyright-statement>© The Author 2012. Published by Oxford University Press on behalf of The Society for Financial Studies. All rights reserved. For Permissions, please e-mail: journals.permissions@oup.com</copyright-statement>
+<copyright-year>2012</copyright-year>
+</permissions>
+<abstract>
+<p>Global asset pricing models have failed to capture the cross-section of country equity returns. Emerging markets display robust positive pricing errors, and country-level characteristics play a role in pricing international equities. This paper offers a risk-based explanation for such asset pricing deviations. A world credit risk factor is significantly priced in the cross-section of country equity returns. In its presence, the positive pricing errors in emerging markets disappear and country-level characteristics no longer play a role. The risk premium for exposure to the credit risk factor is 80 basis points per month and has increased in recent years. (<italic>JEL</italic> G12, G14, G15)</p>
+</abstract>
+<counts>
+<page-count count="41"/>
+</counts>
+</article-meta>
+</front></article><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="other" dtd-version="2.3" xml:lang="EN">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">raps</journal-id>
+<journal-id journal-id-type="hwp">raps</journal-id>
+<journal-title>Review of Asset Pricing Studies</journal-title>
+<issn pub-type="ppub">2045-9920</issn>
+<issn pub-type="epub">2045-9939</issn>
+<publisher>
+<publisher-name>Oxford University Press</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.1093/rapstu/ras016</article-id>
+<article-id pub-id-type="publisher-id">ras016</article-id>
+<article-categories>
+<subj-group>
+<subject>Cover / Standing Material</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Table of Contents</article-title>
+</title-group>
+<pub-date pub-type="ppub">
+<month>12</month>
+<year>2012</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>10</day>
+<month>11</month>
+<year>2012</year>
+</pub-date>
+<volume>2</volume>
+<issue>2</issue>
+<fpage>i2</fpage>
+<lpage>i2</lpage>
+<permissions>
+<copyright-statement>© The Author 2012. Published by Oxford University Press on behalf of The Society for Financial Studies. All rights reserved. For Permissions, please email: journals.permissions@oup.com.</copyright-statement>
+<copyright-year>2012</copyright-year>
+</permissions>
+<counts>
+<page-count count="1"/>
+</counts>
+</article-meta>
+</front>
+</article><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="research-article" dtd-version="2.3" xml:lang="EN">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">raps</journal-id>
+<journal-id journal-id-type="hwp">raps</journal-id>
+<journal-title>Review of Asset Pricing Studies</journal-title>
+<issn pub-type="ppub">2045-9920</issn>
+<issn pub-type="epub">2045-9939</issn>
+<publisher>
+<publisher-name>Oxford University Press</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.1093/rapstu/ras010</article-id>
+<article-id pub-id-type="publisher-id">ras010</article-id>
+<article-categories>
+<subj-group>
+<subject>Articles</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>A Simple Test of the Affine Class of Term Structure Models</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" corresp="yes" xlink:type="simple">
+<name name-style="western"><surname>Balduzzi</surname><given-names>Pierluigi</given-names></name>
+</contrib>
+<aff>Carroll School of Management, Boston College</aff>
+</contrib-group>
+<contrib-group>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>Chiang</surname><given-names>I-Hsuan Ethan</given-names></name>
+</contrib>
+<aff>Belk College of Business, University of North Carolina at Charlotte</aff>
+</contrib-group>
+<pub-date pub-type="ppub">
+<month>12</month>
+<year>2012</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>17</day>
+<month>10</month>
+<year>2012</year>
+</pub-date>
+<volume>2</volume>
+<issue>2</issue>
+<fpage>203</fpage>
+<lpage>244</lpage>
+<permissions>
+<copyright-statement>© The Author 2012. Published by Oxford University Press on behalf of The Society for Financial Studies. All rights reserved. For Permissions, please email: journals.permissions@oup.com</copyright-statement>
+<copyright-year>2012</copyright-year></permissions>
+<abstract>
+<p>Affine term structure models imply an affine relation between yields and factors, and between yields and yields. Hence, a necessary condition for the affine class to hold is that yield changes are linearly related to changes in as many other yields as the number of underlying risk factors. At the same time, yield changes should be unrelated to changes in nonlinear transformations of other yields. We test this hypothesis using weekly data on U.S. Treasury yields for the June 1961–December 2002 sample period. Bootstrap-adjusted tests lead to only weak rejections of the affine class, and a simulation shows that these tests have correct size and high power. Imposing the cross-equation restrictions deriving from a no-arbitrage affine term structure model leads to stronger rejections, but these stronger rejections have more to do with the no-arbitrage restrictions than with the implication of linearity. In an out-of-sample hedging exercise, the constant hedge ratios implied by the affine class generally outperform time-varying hedge ratios implied by nonlinear models.</p></abstract>
+<kwd-group kwd-group-type="jel"><title>JEL</title><kwd>G12</kwd></kwd-group>
+<counts>
+<page-count count="42"/>
+</counts>
+</article-meta>
+</front></article><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="research-article" dtd-version="2.3" xml:lang="EN">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">raps</journal-id>
+<journal-id journal-id-type="hwp">raps</journal-id>
+<journal-title>Review of Asset Pricing Studies</journal-title>
+<issn pub-type="ppub">2045-9920</issn>
+<issn pub-type="epub">2045-9939</issn>
+<publisher>
+<publisher-name>Oxford University Press</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.1093/rapstu/ras004</article-id>
+<article-id pub-id-type="publisher-id">ras004</article-id>
+<article-categories>
+<subj-group>
+<subject>Articles</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Mutual Fund Industry Selection and Persistence</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>Busse</surname><given-names>Jeffrey A.</given-names></name>
+</contrib>
+<aff>Goizueta Business School, Emory University</aff>
+</contrib-group>
+<contrib-group>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>Tong</surname><given-names>Qing</given-names></name>
+</contrib>
+<aff>Lee Kong Chian School of Business, Singapore Management University</aff>
+</contrib-group>
+<author-notes>
+<corresp>We appreciate the comments of Wayne Ferson (the editor), Campbell Harvey, Byoung-Hyoun Hwang, Jay Shanken, an anonymous referee, and seminar participants at Case Western Reserve University, Emory University, PanAgora Asset Management, and Virginia Tech University. Send correspondence to Jeffrey A. Busse, Goizueta Business School, Emory University, 1300 Clifton Road, Atlanta, GA 30322-2722; telephone: <phone>404-727-0160</phone>; fax: <fax>404-727-5238</fax>. Email: <email xlink:type="simple">Jeff_Busse@bus.emory.edu</email>.</corresp>
+</author-notes>
+<pub-date pub-type="ppub">
+<month>12</month>
+<year>2012</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>4</day>
+<month>7</month>
+<year>2012</year>
+</pub-date>
+<volume>2</volume>
+<issue>2</issue>
+<fpage>245</fpage>
+<lpage>274</lpage>
+<permissions>
+<copyright-statement>© The Author 2012. Published by Oxford University Press on behalf of Yale University. All rights reserved. For Permissions, please email: journals.permissions@oxfordjournals.org</copyright-statement>
+<copyright-year>2012</copyright-year>
+</permissions>
+<abstract>
+<p>We analyze mutual fund industry selectivity—the performance of a fund’s industry allocation relative to the market. We find that industry selection accounts for a full third of fund performance based on two-digit standard industrial classification (SIC) codes, with the remaining attributable to the performance of individual stocks relative to their own industries. More importantly, we find that industry-selection skill drives persistence in relative performance. Unlike stock-selection ability, industry selectivity is not eroded by increasing fund assets. Our results suggest that accounting for a manager’s ability to pick outperforming industries provides information beyond standard performance measures that can enhance a fund investor’s future performance. (<italic>JEL</italic> G11, G14, G23)</p></abstract>
+<counts>
+<page-count count="30"/>
+</counts>
+</article-meta>
+</front></article><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="other" dtd-version="2.3" xml:lang="EN">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">raps</journal-id>
+<journal-id journal-id-type="hwp">raps</journal-id>
+<journal-title>Review of Asset Pricing Studies</journal-title>
+<issn pub-type="ppub">2045-9920</issn>
+<issn pub-type="epub">2045-9939</issn>
+<publisher>
+<publisher-name>Oxford University Press</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.1093/rapstu/ras013</article-id>
+<article-id pub-id-type="publisher-id">ras013</article-id>
+<article-categories>
+<subj-group>
+<subject>Cover / Standing Material</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Editorial Board</article-title>
+</title-group>
+<pub-date pub-type="ppub">
+<month>12</month>
+<year>2012</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>10</day>
+<month>11</month>
+<year>2012</year>
+</pub-date>
+<volume>2</volume>
+<issue>2</issue>
+<fpage>i3</fpage>
+<lpage>i3</lpage>
+<permissions>
+<copyright-statement>© The Author 2012. Published by Oxford University Press on behalf of The Society for Financial Studies. All rights reserved. For Permissions, please email: journals.permissions@oup.com.</copyright-statement>
+<copyright-year>2012</copyright-year>
+</permissions>
+<counts>
+<page-count count="1"/>
+</counts>
+</article-meta>
+</front>
+</article><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="announcement" dtd-version="2.3" xml:lang="EN">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">raps</journal-id>
+<journal-id journal-id-type="hwp">raps</journal-id>
+<journal-title>Review of Asset Pricing Studies</journal-title>
+<issn pub-type="ppub">2045-9920</issn>
+<issn pub-type="epub">2045-9939</issn>
+<publisher>
+<publisher-name>Oxford University Press</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.1093/rapstu/ras009</article-id>
+<article-id pub-id-type="publisher-id">ras009</article-id>
+<article-categories>
+<subj-group>
+<subject>Announcements</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Announcements</article-title>
+</title-group>
+<pub-date pub-type="ppub">
+<month>12</month>
+<year>2012</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>10</day>
+<month>11</month>
+<year>2012</year>
+</pub-date>
+<volume>2</volume>
+<issue>2</issue>
+<fpage>111</fpage>
+<lpage>111</lpage>
+<permissions>
+<copyright-statement>Published by Oxford University Press 2012.</copyright-statement>
+<copyright-year>2012</copyright-year>
+</permissions>
+<counts>
+<page-count count="1"/>
+</counts>
+</article-meta>
+</front></article><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="other" dtd-version="2.3" xml:lang="EN">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">raps</journal-id>
+<journal-id journal-id-type="hwp">raps</journal-id>
+<journal-title>Review of Asset Pricing Studies</journal-title>
+<issn pub-type="ppub">2045-9920</issn>
+<issn pub-type="epub">2045-9939</issn>
+<publisher>
+<publisher-name>Oxford University Press</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.1093/rapstu/rat009</article-id>
+<article-id pub-id-type="publisher-id">rat009</article-id>
+<article-categories>
+<subj-group>
+<subject>Cover / Standing Material</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Front Cover</article-title>
+</title-group>
+<pub-date pub-type="ppub">
+<month>6</month>
+<year>2014</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>6</day>
+<month>5</month>
+<year>2014</year>
+</pub-date>
+<volume>4</volume>
+<issue>1</issue>
+<fpage>i1</fpage>
+<lpage>i1</lpage>
+<permissions>
+<copyright-statement>© The Author 2014. Published by Oxford University Press on behalf of The Society for Financial Studies. All rights reserved. For Permissions, please email: journals.permissions@oup.com.</copyright-statement>
+<copyright-year>2014</copyright-year>
+</permissions>
+<counts>
+<page-count count="1"/>
+</counts>
+</article-meta>
+</front>
+</article><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="other" dtd-version="2.3" xml:lang="EN">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">raps</journal-id>
+<journal-id journal-id-type="hwp">raps</journal-id>
+<journal-title>Review of Asset Pricing Studies</journal-title>
+<issn pub-type="ppub">2045-9920</issn>
+<issn pub-type="epub">2045-9939</issn>
+<publisher>
+<publisher-name>Oxford University Press</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.1093/rapstu/rat013</article-id>
+<article-id pub-id-type="publisher-id">rat013</article-id>
+<article-categories>
+<subj-group>
+<subject>Cover / Standing Material</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Subscription Page</article-title>
+</title-group>
+<pub-date pub-type="ppub">
+<month>6</month>
+<year>2014</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>6</day>
+<month>5</month>
+<year>2014</year>
+</pub-date>
+<volume>4</volume>
+<issue>1</issue>
+<fpage>i3</fpage>
+<lpage>i3</lpage>
+<permissions>
+<copyright-statement>© The Author 2014. Published by Oxford University Press on behalf of The Society for Financial Studies. All rights reserved. For Permissions, please email: journals.permissions@oup.com.</copyright-statement>
+<copyright-year>2014</copyright-year>
+</permissions>
+<counts>
+<page-count count="1"/>
+</counts>
+</article-meta>
+</front>
+</article><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="other" dtd-version="2.3" xml:lang="EN">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">raps</journal-id>
+<journal-id journal-id-type="hwp">raps</journal-id>
+<journal-title>Review of Asset Pricing Studies</journal-title>
+<issn pub-type="ppub">2045-9920</issn>
+<issn pub-type="epub">2045-9939</issn>
+<publisher>
+<publisher-name>Oxford University Press</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.1093/rapstu/rat011</article-id>
+<article-id pub-id-type="publisher-id">rat011</article-id>
+<article-categories>
+<subj-group>
+<subject>Cover / Standing Material</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Editorial Board</article-title>
+</title-group>
+<pub-date pub-type="ppub">
+<month>6</month>
+<year>2014</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>6</day>
+<month>5</month>
+<year>2014</year>
+</pub-date>
+<volume>4</volume>
+<issue>1</issue>
+<fpage>i2</fpage>
+<lpage>i2</lpage>
+<permissions>
+<copyright-statement>© The Author 2014. Published by Oxford University Press on behalf of The Society for Financial Studies. All rights reserved. For Permissions, please email: journals.permissions@oup.com.</copyright-statement>
+<copyright-year>2014</copyright-year>
+</permissions>
+<counts>
+<page-count count="1"/>
+</counts>
+</article-meta>
+</front>
+</article><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="other" dtd-version="2.3" xml:lang="EN">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">raps</journal-id>
+<journal-id journal-id-type="hwp">raps</journal-id>
+<journal-title>Review of Asset Pricing Studies</journal-title>
+<issn pub-type="ppub">2045-9920</issn>
+<issn pub-type="epub">2045-9939</issn>
+<publisher>
+<publisher-name>Oxford University Press</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.1093/rapstu/rat015</article-id>
+<article-id pub-id-type="publisher-id">rat015</article-id>
+<article-categories>
+<subj-group>
+<subject>Cover / Standing Material</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Table of Contents</article-title>
+</title-group>
+<pub-date pub-type="ppub">
+<month>6</month>
+<year>2014</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>6</day>
+<month>5</month>
+<year>2014</year>
+</pub-date>
+<volume>4</volume>
+<issue>1</issue>
+<fpage>i4</fpage>
+<lpage>i4</lpage>
+<permissions>
+<copyright-statement>© The Author 2014. Published by Oxford University Press on behalf of The Society for Financial Studies. All rights reserved. For Permissions, please email: journals.permissions@oup.com.</copyright-statement>
+<copyright-year>2014</copyright-year>
+</permissions>
+<counts>
+<page-count count="1"/>
+</counts>
+</article-meta>
+</front>
+</article><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="research-article" dtd-version="2.3" xml:lang="EN">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">raps</journal-id>
+<journal-id journal-id-type="hwp">raps</journal-id>
+<journal-title>Review of Asset Pricing Studies</journal-title>
+<issn pub-type="ppub">2045-9920</issn>
+<issn pub-type="epub">2045-9939</issn>
+<publisher>
+<publisher-name>Oxford University Press</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.1093/rapstu/ras017</article-id>
+<article-id pub-id-type="publisher-id">ras017</article-id>
+<article-categories>
+<subj-group>
+<subject>Articles</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>An Analysis of the Amihud Illiquidity Premium</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>Brennan</surname><given-names>Michael</given-names></name>
+</contrib>
+<aff>Anderson School, University of California at Los Angeles, King Abdulaziz University, and Manchester Business School, University of Manchester</aff>
+</contrib-group>
+<contrib-group>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>Huh</surname><given-names>Sahn-Wook</given-names></name>
+</contrib>
+<aff>School of Management, State University of New York (SUNY) at Buffalo</aff>
+</contrib-group>
+<contrib-group>
+<contrib contrib-type="author" corresp="yes" xlink:type="simple">
+<name name-style="western"><surname>Subrahmanyam</surname><given-names>Avanidhar</given-names></name>
+</contrib>
+<aff>Anderson School, University of California at Los Angeles</aff>
+</contrib-group>
+<author-notes>
+<corresp>Send correspondence to Avanidhar Subrahmanyam, Anderson School, University of California at Los Angeles, Los Angeles, CA 90095-1481. E-mail: <email xlink:type="simple">subra@anderson.ucla.edu</email>.</corresp>
+</author-notes>
+<pub-date pub-type="ppub">
+<month>6</month>
+<year>2013</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>21</day>
+<month>1</month>
+<year>2013</year>
+</pub-date>
+<volume>3</volume>
+<issue>1</issue>
+<fpage>133</fpage>
+<lpage>176</lpage>
+<permissions>
+<copyright-statement>© The Author 2013. Published by Oxford University Press on behalf of The Society for Financial Studies. All rights reserved. For Permissions, please email: journals.permissions@oxfordjournals.org</copyright-statement>
+<copyright-year>2013</copyright-year>
+</permissions>
+<abstract>
+<p>This paper analyzes the Amihud (2002) measure of illiquidity and its role in asset pricing. It is shown first that the effect of illiquidity on asset pricing is clarified by using the turnover version of the Amihud measure and including firm size as a separate variable. When we decompose the Amihud measure into elements that correspond to positive (up) and negative (down) return days, we find that in general, only the down-day element commands a return premium. Further analysis of the up- and down-day elements using order flows shows that a sidedness variable, which captures the tendency for orders to cluster on the sell side on down days, is associated with a more significant return premium than the other components of the Amihud measure. (<italic>JEL</italic> G12)</p>
+</abstract>
+<counts>
+<page-count count="44"/></counts>
+</article-meta>
+</front></article><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="other" dtd-version="2.3" xml:lang="EN">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">raps</journal-id>
+<journal-id journal-id-type="hwp">raps</journal-id>
+<journal-title>Review of Asset Pricing Studies</journal-title>
+<issn pub-type="ppub">2045-9920</issn>
+<issn pub-type="epub">2045-9939</issn>
+<publisher>
+<publisher-name>Oxford University Press</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.1093/rapstu/ras020</article-id>
+<article-id pub-id-type="publisher-id">ras020</article-id>
+<article-categories>
+<subj-group>
+<subject>Cover / Standing Material</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Editorial Board</article-title>
+</title-group>
+<pub-date pub-type="ppub">
+<month>6</month>
+<year>2013</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>3</day>
+<month>5</month>
+<year>2013</year>
+</pub-date>
+<volume>3</volume>
+<issue>1</issue>
+<fpage>i2</fpage>
+<lpage>i2</lpage>
+<permissions>
+<copyright-statement>© The Author 2013. Published by Oxford University Press on behalf of The Society for Financial Studies. All rights reserved. For Permissions, please email: journals.permissions@oup.com.</copyright-statement>
+<copyright-year>2013</copyright-year>
+</permissions>
+<counts>
+<page-count count="1"/>
+</counts>
+</article-meta>
+</front>
+</article><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="other" dtd-version="2.3" xml:lang="EN">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">raps</journal-id>
+<journal-id journal-id-type="hwp">raps</journal-id>
+<journal-title>Review of Asset Pricing Studies</journal-title>
+<issn pub-type="ppub">2045-9920</issn>
+<issn pub-type="epub">2045-9939</issn>
+<publisher>
+<publisher-name>Oxford University Press</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.1093/rapstu/ras018</article-id>
+<article-id pub-id-type="publisher-id">ras018</article-id>
+<article-categories>
+<subj-group>
+<subject>Cover / Standing Material</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Front Cover</article-title>
+</title-group>
+<pub-date pub-type="ppub">
+<month>6</month>
+<year>2013</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>3</day>
+<month>5</month>
+<year>2013</year>
+</pub-date>
+<volume>3</volume>
+<issue>1</issue>
+<fpage>i1</fpage>
+<lpage>i1</lpage>
+<permissions>
+<copyright-statement>© The Author 2013. Published by Oxford University Press on behalf of The Society for Financial Studies. All rights reserved. For Permissions, please email: journals.permissions@oup.com.</copyright-statement>
+<copyright-year>2013</copyright-year>
+</permissions>
+<counts>
+<page-count count="1"/>
+</counts>
+</article-meta>
+</front>
+</article><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="research-article" dtd-version="2.3" xml:lang="EN">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">raps</journal-id>
+<journal-id journal-id-type="hwp">raps</journal-id>
+<journal-title>Review of Asset Pricing Studies</journal-title>
+<issn pub-type="ppub">2045-9920</issn>
+<issn pub-type="epub">2045-9939</issn>
+<publisher>
+<publisher-name>Oxford University Press</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.1093/rapstu/ras026</article-id>
+<article-id pub-id-type="publisher-id">ras026</article-id>
+<article-categories>
+<subj-group>
+<subject>Articles</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Hard Times</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>Campbell</surname><given-names>John Y.</given-names></name>
+</contrib>
+<aff>Department of Economics, Littauer Center, Harvard University and NBER</aff>
+</contrib-group>
+<contrib-group>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>Giglio</surname><given-names>Stefano</given-names></name>
+</contrib>
+<aff>Booth School of Business, University of Chicago and NBER</aff>
+</contrib-group>
+<contrib-group>
+<contrib contrib-type="author" corresp="yes" xlink:type="simple">
+<name name-style="western"><surname>Polk</surname><given-names>Christopher</given-names></name>
+</contrib>
+<aff>Department of Finance, London School of Economics</aff>
+</contrib-group>
+<author-notes>
+<corresp id="ras026-COR1">Send correspondence to John Y. Campbell, Department of Economics, Littauer Center, Harvard University, Cambridge, MA 02138; telephone: <phone>617-496-6448</phone>. E-mail: <email xlink:type="simple">john_campbell@harvard.edu</email>.</corresp>
+</author-notes>
+<pub-date pub-type="ppub">
+<month>6</month>
+<year>2013</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>24</day>
+<month>1</month>
+<year>2013</year>
+</pub-date>
+<volume>3</volume>
+<issue>1</issue>
+<fpage>95</fpage>
+<lpage>132</lpage>
+<permissions>
+<copyright-statement>© The Authors 2013. Published by Oxford University Press on behalf of The Society for Financial Studies. All rights reserved. For Permissions, please email: journals.permissions@oup.com</copyright-statement>
+<copyright-year>2013</copyright-year>
+</permissions>
+<abstract>
+<p>We show that the stock market downturns of 2000–2002 and 2007–2009 have very different proximate causes. The early 2000s saw a large increase in the discount rates applied to profits by rational investors, while the late 2000s saw a decrease in rational expectations of future profits. We reach these conclusions by using a VAR model of aggregate stock returns and valuations, estimated both without restrictions and imposing the cross-sectional restrictions of the intertemporal capital asset pricing model (ICAPM). Our findings imply that the 2007–2009 downturn was particularly serious for rational long-term investors, whose losses were not offset by improving stock return forecasts as in the previous recession. (<italic>JEL</italic> G12, N22)</p>
+</abstract>
+<counts>
+<page-count count="38"/>
+</counts>
+</article-meta>
+</front></article><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="other" dtd-version="2.3" xml:lang="EN">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">raps</journal-id>
+<journal-id journal-id-type="hwp">raps</journal-id>
+<journal-title>Review of Asset Pricing Studies</journal-title>
+<issn pub-type="ppub">2045-9920</issn>
+<issn pub-type="epub">2045-9939</issn>
+<publisher>
+<publisher-name>Oxford University Press</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.1093/rapstu/ras022</article-id>
+<article-id pub-id-type="publisher-id">ras022</article-id>
+<article-categories>
+<subj-group>
+<subject>Cover / Standing Material</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Subscription Page</article-title>
+</title-group>
+<pub-date pub-type="ppub">
+<month>6</month>
+<year>2013</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>3</day>
+<month>5</month>
+<year>2013</year>
+</pub-date>
+<volume>3</volume>
+<issue>1</issue>
+<fpage>i3</fpage>
+<lpage>i3</lpage>
+<permissions>
+<copyright-statement>© The Author 2013. Published by Oxford University Press on behalf of The Society for Financial Studies. All rights reserved. For Permissions, please email: journals.permissions@oup.com.</copyright-statement>
+<copyright-year>2013</copyright-year>
+</permissions>
+<counts>
+<page-count count="1"/>
+</counts>
+</article-meta>
+</front>
+</article><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="research-article" dtd-version="2.3" xml:lang="EN">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">raps</journal-id>
+<journal-id journal-id-type="hwp">raps</journal-id>
+<journal-title>Review of Asset Pricing Studies</journal-title>
+<issn pub-type="ppub">2045-9920</issn>
+<issn pub-type="epub">2045-9939</issn>
+<publisher>
+<publisher-name>Oxford University Press</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.1093/rapstu/rat002</article-id>
+<article-id pub-id-type="publisher-id">rat002</article-id>
+<article-categories>
+<subj-group>
+<subject>Articles</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>The Wealth-Consumption Ratio</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>Lustig</surname><given-names>Hanno</given-names></name>
+</contrib>
+<aff>UCLA Anderson and NBER</aff>
+</contrib-group>
+<contrib-group>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>Van Nieuwerburgh</surname><given-names>Stijn</given-names></name>
+</contrib>
+<aff>NYU Stern, NBER, and CEPR</aff>
+</contrib-group>
+<contrib-group>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>Verdelhan</surname><given-names>Adrien</given-names></name>
+</contrib>
+<aff>MIT Sloan and NBER</aff>
+</contrib-group>
+<author-notes>
+<corresp>Send correspondence to Hanno Lustig, Department of Finance, UCLA Anderson School of Management, Box 951477, Los Angeles, CA 90095; telephone: <phone>(310) 206-6077</phone>. Email: <email xlink:type="simple">hlustig@econ.ucla.edu</email>; <ext-link ext-link-type="uri" xlink:href="http://www.anderson.ucla.edu/x18962.xml" xlink:type="simple">http://www.anderson.ucla.edu/x18962.xml</ext-link>. Stijn Van Nieuwerburgh, Department of Finance, Stern School of Business, New York University, 44W. 4th Street, New York, NY 10012; telephone: <phone>(212) 998-0673</phone>. Email: <email xlink:type="simple">svnieuwe@stern.nyu.edu</email>; <ext-link ext-link-type="uri" xlink:href="http://www.stern.nyu.edu/svnieuwe" xlink:type="simple">http://www.stern.nyu.edu/svnieuwe</ext-link>. Adrien Verdelhan, MIT Sloan. Email: <email xlink:type="simple">adrienv@mit.edu</email>; <ext-link ext-link-type="uri" xlink:href="http://web.mit.edu/adrienv/www/" xlink:type="simple">http://web.mit.edu/adrienv/www/</ext-link>.</corresp>
+</author-notes>
+<pub-date pub-type="ppub">
+<month>6</month>
+<year>2013</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>9</day>
+<month>4</month>
+<year>2013</year>
+</pub-date>
+<volume>3</volume>
+<issue>1</issue>
+<fpage>38</fpage>
+<lpage>94</lpage>
+<permissions>
+<copyright-statement>© The Author 2013. Published by Oxford University Press on behalf of The Society for Financial Studies. All rights reserved. For Permissions, please email: journals.permissions@oup.com</copyright-statement>
+<copyright-year>2013</copyright-year>
+</permissions>
+<abstract>
+<p>We derive new estimates of total wealth, the returns on total wealth, and the wealth effect on consumption. We estimate the prices of aggregate risk from bond yields and stock returns using a no-arbitrage model. Using these risk prices, we compute total wealth as the price of a claim to aggregate consumption. We find that U.S. households have a surprising amount of total wealth, most of it human wealth. This wealth is much less risky than stock market wealth. Events in long-term bond markets, not stock markets, drive most total wealth fluctuations. The wealth effect on consumption is small and varies over time with real interest rates. (<italic>JEL</italic> E21, G10, G12)</p>
+</abstract>
+<counts>
+<page-count count="57"/>
+</counts>
+</article-meta>
+</front></article><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="other" dtd-version="2.3" xml:lang="EN">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">raps</journal-id>
+<journal-id journal-id-type="hwp">raps</journal-id>
+<journal-title>Review of Asset Pricing Studies</journal-title>
+<issn pub-type="ppub">2045-9920</issn>
+<issn pub-type="epub">2045-9939</issn>
+<publisher>
+<publisher-name>Oxford University Press</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.1093/rapstu/ras024</article-id>
+<article-id pub-id-type="publisher-id">ras024</article-id>
+<article-categories>
+<subj-group>
+<subject>Cover / Standing Material</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Table of Contents</article-title>
+</title-group>
+<pub-date pub-type="ppub">
+<month>6</month>
+<year>2013</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>3</day>
+<month>5</month>
+<year>2013</year>
+</pub-date>
+<volume>3</volume>
+<issue>1</issue>
+<fpage>i4</fpage>
+<lpage>i4</lpage>
+<permissions>
+<copyright-statement>© The Author 2013. Published by Oxford University Press on behalf of The Society for Financial Studies. All rights reserved. For Permissions, please email: journals.permissions@oup.com.</copyright-statement>
+<copyright-year>2013</copyright-year>
+</permissions>
+<counts>
+<page-count count="1"/>
+</counts>
+</article-meta>
+</front>
+</article><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="research-article" dtd-version="2.3" xml:lang="EN">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">raps</journal-id>
+<journal-id journal-id-type="hwp">raps</journal-id>
+<journal-title>Review of Asset Pricing Studies</journal-title>
+<issn pub-type="ppub">2045-9920</issn>
+<issn pub-type="epub">2045-9939</issn>
+<publisher>
+<publisher-name>Oxford University Press</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.1093/rapstu/rat003</article-id>
+<article-id pub-id-type="publisher-id">rat003</article-id>
+<article-categories>
+<subj-group>
+<subject>Articles</subject>
+</subj-group>
+<series-title>Editor's Choice</series-title>
+</article-categories>
+<title-group>
+<article-title>Limited Capital Market Participation and Human Capital Risk</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>Berk</surname><given-names>Jonathan B.</given-names></name>
+</contrib>
+<aff>Stanford University and NBER</aff>
+</contrib-group>
+<contrib-group>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>Walden</surname><given-names>Johan</given-names></name>
+</contrib>
+<aff>University of California, Berkeley</aff>
+</contrib-group>
+<author-notes>
+<corresp>Send correspondence to Jonathan B. Berk, Graduate School of Business, Stanford University, Stanford, CA 94305-7298; telephone: <phone>+1-650-721-1280</phone>. Email: <email xlink:type="simple">jbberk@stanford.edu</email>. Johan Walden, Haas School of Business, University of California at Berkeley, 545 Student Services Building #1900, Berkeley, CA 94720-1900; telephone: <phone>+1-510-643-0547</phone>. Email: <email xlink:type="simple">walden@haas.berkeley.edu</email>.</corresp>
+</author-notes>
+<pub-date pub-type="ppub">
+<month>6</month>
+<year>2013</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>16</day>
+<month>4</month>
+<year>2013</year>
+</pub-date>
+<volume>3</volume>
+<issue>1</issue>
+<fpage>1</fpage>
+<lpage>37</lpage>
+<permissions>
+<copyright-statement>© The Author 2013. Published by Oxford University Press on behalf of The Society for Financial Studies. All rights reserved. For Permissions, please email: journals.permissions@oup.com</copyright-statement>
+<copyright-year>2013</copyright-year>
+</permissions>
+<abstract>
+<p>By introducing a labor market into the neoclassical asset pricing model, limited capital market participation can be an equilibrium outcome. Labor contracts are derived endogenously as part of a dynamic equilibrium in a production economy. Firms write labor contracts that insure workers, allowing agents to achieve a Pareto optimal allocation even when the span of asset markets is restricted to just stocks and bonds. Capital markets facilitate this risk sharing because it is there that firms offload the labor market risk they assumed from workers. In effect, by investing in capital markets, investors provide insurance to wage earners who then optimally choose not to participate in capital markets. (<italic>JEL</italic> G11, G12)</p>
+</abstract>
+<counts>
+<page-count count="37"/>
+</counts>
+</article-meta>
+</front></article><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="other" dtd-version="2.3" xml:lang="EN">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">raps</journal-id>
+<journal-id journal-id-type="hwp">raps</journal-id>
+<journal-title>Review of Asset Pricing Studies</journal-title>
+<issn pub-type="ppub">2045-9920</issn>
+<issn pub-type="epub">2045-9939</issn>
+<publisher>
+<publisher-name>Oxford University Press</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.1093/rapstu/ras019</article-id>
+<article-id pub-id-type="publisher-id">ras019</article-id>
+<article-categories>
+<subj-group>
+<subject>Cover / Standing Material</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Front Cover</article-title>
+</title-group>
+<pub-date pub-type="ppub">
+<month>12</month>
+<year>2013</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>11</day>
+<month>11</month>
+<year>2013</year>
+</pub-date>
+<volume>3</volume>
+<issue>2</issue>
+<fpage>i1</fpage>
+<lpage>i1</lpage>
+<permissions>
+<copyright-statement>© The Author 2013. Published by Oxford University Press on behalf of The Society for Financial Studies. All rights reserved. For Permissions, please email: journals.permissions@oup.com.</copyright-statement>
+<copyright-year>2013</copyright-year>
+</permissions>
+<counts>
+<page-count count="1"/>
+</counts>
+</article-meta>
+</front>
+</article><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="research-article" dtd-version="2.3" xml:lang="EN">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">raps</journal-id>
+<journal-id journal-id-type="hwp">raps</journal-id>
+<journal-title>Review of Asset Pricing Studies</journal-title>
+<issn pub-type="ppub">2045-9920</issn>
+<issn pub-type="epub">2045-9939</issn>
+<publisher>
+<publisher-name>Oxford University Press</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.1093/rapstu/rat006</article-id>
+<article-id pub-id-type="publisher-id">rat006</article-id>
+<article-categories>
+<subj-group>
+<subject>Articles</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Call-Put Implied Volatility Spreads and Option Returns</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>Doran</surname><given-names>James S.</given-names></name>
+</contrib>
+<aff>Implied Capital Advisors</aff>
+</contrib-group>
+<contrib-group>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>Fodor</surname><given-names>Andy</given-names></name>
+</contrib>
+<aff>Ohio University</aff>
+</contrib-group>
+<contrib-group>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>Jiang</surname><given-names>Danling</given-names></name>
+</contrib>
+<aff>Florida State University</aff>
+</contrib-group>
+<author-notes>
+<corresp>Send all correspondence to Danling Jiang, Dean L. Cash Professor and Associate Professor of Finance, College of Business, Florida State University, Room 314 RBA, 821 Academic Way, Tallahassee, FL 32306-1110, USA; telephone: <phone>(850) 645-1519</phone>. Email: <email xlink:type="simple">djiang@cob.fsu.edu</email>.</corresp>
+</author-notes>
+<pub-date pub-type="ppub">
+<month>12</month>
+<year>2013</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>9</day>
+<month>7</month>
+<year>2013</year>
+</pub-date>
+<volume>3</volume>
+<issue>2</issue>
+<fpage>258</fpage>
+<lpage>290</lpage>
+<permissions>
+<copyright-statement>© The Author 2013. Published by Oxford University Press on behalf of The Society for Financial Studies. All rights reserved. For Permissions, please email: journals.permissions@oup.com</copyright-statement>
+<copyright-year>2013</copyright-year>
+</permissions>
+<abstract>
+<p>Prior literature shows that implied volatility spreads between call and put options are positively related to future underlying stock returns. In this paper, however, we demonstrate that the volatility spreads are negatively related to future out-of-the-money call option returns. Using unique data on option volumes, we reconcile the two pieces of evidence by showing that option demand by sophisticated, firm investors drives the positive stock return predictability based on volatility spreads, while demand by less sophisticated, customer investors drives the negative call option return predictability. Overall, our evidence suggests that volatility spreads contain information about both firm fundamentals and option mispricing. (<italic>JEL</italic> G12, G13, G14, L83)</p>
+</abstract>
+<counts>
+<page-count count="33"/></counts>
+</article-meta>
+</front></article><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="research-article" dtd-version="2.3" xml:lang="EN">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">raps</journal-id>
+<journal-id journal-id-type="hwp">raps</journal-id>
+<journal-title>Review of Asset Pricing Studies</journal-title>
+<issn pub-type="ppub">2045-9920</issn>
+<issn pub-type="epub">2045-9939</issn>
+<publisher>
+<publisher-name>Oxford University Press</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.1093/rapstu/rat005</article-id>
+<article-id pub-id-type="publisher-id">rat005</article-id>
+<article-categories>
+<subj-group>
+<subject>Articles</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Does Active Management Pay? New International Evidence</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>Dyck</surname><given-names>Alexander</given-names></name>
+</contrib>
+<aff>Rotman School of Management, University of Toronto</aff>
+</contrib-group>
+<contrib-group>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>Lins</surname><given-names>Karl V.</given-names></name>
+</contrib>
+<aff>David Eccles School of Business, University of Utah</aff>
+</contrib-group>
+<contrib-group>
+<contrib contrib-type="author" corresp="yes" xlink:type="simple">
+<name name-style="western"><surname>Pomorski</surname><given-names>Lukasz</given-names></name>
+</contrib>
+<aff>Rotman School of Management, University of Toronto</aff>
+</contrib-group>
+<author-notes>
+<corresp>Send correspondence to Alexander Dyck, Rotman School of Management, 105 St. George Street, Toronto, ON M5S3E6, Canada; telephone: <phone>(+1 416) 946-0819</phone>. Email: <email xlink:type="simple">adyck@rotman.utoronto.ca</email>.</corresp>
+</author-notes>
+<pub-date pub-type="ppub">
+<month>12</month>
+<year>2013</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>3</day>
+<month>6</month>
+<year>2013</year>
+</pub-date>
+<volume>3</volume>
+<issue>2</issue>
+<fpage>200</fpage>
+<lpage>228</lpage>
+<permissions>
+<copyright-statement>© The Author 2013. Published by Oxford University Press on behalf of The Society for Financial Studies. All rights reserved. For Permissions, please email: journals.permissions@oup.com</copyright-statement>
+<copyright-year>2013</copyright-year>
+</permissions>
+<abstract>
+<p>For sophisticated institutional investors, active management outperforms passive management by more than 180 bps per year in emerging markets and by about 50 bps in EAFE markets over the 1993 to 2008 period. In U.S. markets, active management underperforms. Consistent with these patterns in returns, institutions use active management more frequently in non-U.S. markets, particularly emerging markets. Finally, we provide some evidence that one contributor to the active outperformance is institutional constraints on flows to non-U.S. markets. Overall, our results suggest that the value of active management depends on the efficiency of the underlying market and the sophistication of the investor. (<italic>JEL</italic> G11, G14, G15, G23)</p>
+</abstract><counts><page-count count="29"/></counts>
+</article-meta>
+</front></article><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="other" dtd-version="2.3" xml:lang="EN">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">raps</journal-id>
+<journal-id journal-id-type="hwp">raps</journal-id>
+<journal-title>Review of Asset Pricing Studies</journal-title>
+<issn pub-type="ppub">2045-9920</issn>
+<issn pub-type="epub">2045-9939</issn>
+<publisher>
+<publisher-name>Oxford University Press</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.1093/rapstu/ras023</article-id>
+<article-id pub-id-type="publisher-id">ras023</article-id>
+<article-categories>
+<subj-group>
+<subject>Cover / Standing Material</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Subscription Page</article-title>
+</title-group>
+<pub-date pub-type="ppub">
+<month>12</month>
+<year>2013</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>11</day>
+<month>11</month>
+<year>2013</year>
+</pub-date>
+<volume>3</volume>
+<issue>2</issue>
+<fpage>i3</fpage>
+<lpage>i3</lpage>
+<permissions>
+<copyright-statement>© The Author 2013. Published by Oxford University Press on behalf of The Society for Financial Studies. All rights reserved. For Permissions, please email: journals.permissions@oup.com.</copyright-statement>
+<copyright-year>2013</copyright-year>
+</permissions>
+<counts>
+<page-count count="1"/>
+</counts>
+</article-meta>
+</front>
+</article><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="research-article" dtd-version="2.3" xml:lang="EN">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">raps</journal-id>
+<journal-id journal-id-type="hwp">raps</journal-id>
+<journal-title>Review of Asset Pricing Studies</journal-title>
+<issn pub-type="ppub">2045-9920</issn>
+<issn pub-type="epub">2045-9939</issn>
+<publisher>
+<publisher-name>Oxford University Press</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.1093/rapstu/rat007</article-id>
+<article-id pub-id-type="publisher-id">rat007</article-id>
+<article-categories>
+<subj-group>
+<subject>Articles</subject>
+</subj-group>
+<series-title>Editor's Choice</series-title>
+</article-categories>
+<title-group>
+<article-title>Does the Fed Control Interest Rates?</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" corresp="yes" xlink:type="simple">
+<name name-style="western"><surname>Fama</surname><given-names>Eugene F.</given-names></name>
+</contrib>
+<aff>Booth School of Business, University of Chicago</aff>
+</contrib-group>
+<author-notes>
+<corresp>Send correspondence to Eugene F. Fama, University of Chicago, Booth School of Business, 5807 S. Woodlawn Ave., Chicago, IL 60637; telephone: <phone>773-702-7282</phone>. Email: <email xlink:type="simple">eugene.fama@chicagobooth.edu</email>.</corresp>
+</author-notes>
+<pub-date pub-type="ppub">
+<month>12</month>
+<year>2013</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>2</day>
+<month>8</month>
+<year>2013</year>
+</pub-date>
+<volume>3</volume>
+<issue>2</issue>
+<fpage>180</fpage>
+<lpage>199</lpage>
+<permissions>
+<copyright-statement>© The Author 2013. Published by Oxford University Press on behalf of The Society for Financial Studies. All rights reserved. For Permissions, please email: journals.permissions@oup.com</copyright-statement>
+<copyright-year>2013</copyright-year>
+</permissions>
+<abstract>
+<p>To what extent does <italic>TF</italic>, the target Federal funds rate set by the Fed, influence other rates? There is lots of variation in rates unrelated to <italic>TF</italic>, and any effects of <italic>TF</italic> on rates dissipate quickly for longer maturities. For short rates, all the tests have interpretations in terms of: (i) a Fed that has the power to control rates and uses it, and (ii) a Fed that has little power over rates or chooses not to exercise its power. In the end, there is no conclusive evidence (here or elsewhere) on the role of the Fed versus market forces in the long-term path of interest rates. (<italic>JEL</italic> E43, E58, G12)</p>
+</abstract>
+<counts>
+<page-count count="20"/></counts>
+</article-meta>
+</front></article><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="other" dtd-version="2.3" xml:lang="EN">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">raps</journal-id>
+<journal-id journal-id-type="hwp">raps</journal-id>
+<journal-title>Review of Asset Pricing Studies</journal-title>
+<issn pub-type="ppub">2045-9920</issn>
+<issn pub-type="epub">2045-9939</issn>
+<publisher>
+<publisher-name>Oxford University Press</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.1093/rapstu/ras025</article-id>
+<article-id pub-id-type="publisher-id">ras025</article-id>
+<article-categories>
+<subj-group>
+<subject>Cover / Standing Material</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Table of Contents</article-title>
+</title-group>
+<pub-date pub-type="ppub">
+<month>12</month>
+<year>2013</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>11</day>
+<month>11</month>
+<year>2013</year>
+</pub-date>
+<volume>3</volume>
+<issue>2</issue>
+<fpage>i4</fpage>
+<lpage>i4</lpage>
+<permissions>
+<copyright-statement>© The Author 2013. Published by Oxford University Press on behalf of The Society for Financial Studies. All rights reserved. For Permissions, please email: journals.permissions@oup.com.</copyright-statement>
+<copyright-year>2013</copyright-year>
+</permissions>
+<counts>
+<page-count count="1"/>
+</counts>
+</article-meta>
+</front>
+</article><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="announcement" dtd-version="2.3" xml:lang="EN">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">raps</journal-id>
+<journal-id journal-id-type="hwp">raps</journal-id>
+<journal-title>Review of Asset Pricing Studies</journal-title>
+<issn pub-type="ppub">2045-9920</issn>
+<issn pub-type="epub">2045-9939</issn>
+<publisher>
+<publisher-name>Oxford University Press</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.1093/rapstu/rat001</article-id>
+<article-id pub-id-type="publisher-id">rat001</article-id>
+<article-categories>
+<subj-group>
+<subject>Announcements</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Announcements</article-title>
+</title-group>
+<pub-date pub-type="ppub">
+<month>12</month>
+<year>2013</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>11</day>
+<month>11</month>
+<year>2013</year>
+</pub-date>
+<volume>3</volume>
+<issue>2</issue>
+<fpage>179</fpage>
+<lpage>179</lpage>
+<permissions>
+<copyright-statement>Published by Oxford University Press 2013.</copyright-statement>
+<copyright-year>2013</copyright-year>
+</permissions>
+<counts>
+<page-count count="1"/>
+</counts>
+</article-meta>
+</front></article><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="research-article" dtd-version="2.3" xml:lang="EN">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">raps</journal-id>
+<journal-id journal-id-type="hwp">raps</journal-id>
+<journal-title>Review of Asset Pricing Studies</journal-title>
+<issn pub-type="ppub">2045-9920</issn>
+<issn pub-type="epub">2045-9939</issn>
+<publisher>
+<publisher-name>Oxford University Press</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.1093/rapstu/rat004</article-id>
+<article-id pub-id-type="publisher-id">rat004</article-id>
+<article-categories>
+<subj-group>
+<subject>Articles</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>The Puzzle of Index Option Returns</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" corresp="yes" xlink:type="simple">
+<name name-style="western"><surname>Constantinides</surname><given-names>George M.</given-names></name>
+</contrib>
+<aff>University of Chicago and NBER</aff>
+</contrib-group>
+<contrib-group>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>Jackwerth</surname><given-names>Jens Carsten</given-names></name>
+</contrib>
+<aff>University of Konstanz</aff>
+</contrib-group>
+<contrib-group>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>Savov</surname><given-names>Alexi</given-names></name>
+</contrib>
+<aff>New York University</aff>
+</contrib-group>
+<author-notes>
+<corresp>Send correspondence to George Constantinides, Booth School of Business, University of Chicago, 5807 South Woodlawn Avenue, Chicago, IL 60637; telephone: <phone>(773) 702-7258</phone>; fax: <fax>(773) 753-8045</fax>. E-mail: <email xlink:type="simple">gmc@ChicagoBooth.edu</email>.</corresp>
+</author-notes>
+<pub-date pub-type="ppub">
+<month>12</month>
+<year>2013</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>25</day>
+<month>5</month>
+<year>2013</year>
+</pub-date>
+<volume>3</volume>
+<issue>2</issue>
+<fpage>229</fpage>
+<lpage>257</lpage>
+<permissions>
+<copyright-statement>© The Author 2013. Published by Oxford University Press on behalf of The Society for Financial Studies. All rights reserved. For Permissions, please email: journals.permissions@oup.com</copyright-statement>
+<copyright-year>2013</copyright-year>
+</permissions>
+<abstract>
+<p>We construct a panel of S&amp;P 500 Index call and put option portfolios, daily adjusted to maintain targeted maturity, moneyness, and unit market beta, and test multi-factor pricing models. The standard linear factor methodology is applicable because the monthly portfolio returns have low skewness and are close to normal. We hypothesize that any one of crisis-related factors incorporating price jumps, volatility jumps, and liquidity (along with the market) explains the cross-sectional variation in returns. Our hypothesis is not rejected, even when the factor premia are constrained to equal the corresponding premia in the cross-section of equities. The alphas of short-maturity out-of-the-money puts become economically and statistically insignificant. (<italic>JEL</italic> G11, G13, G14)</p>
+</abstract>
+<counts>
+<page-count count="29"/></counts>
+</article-meta>
+</front></article><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="other" dtd-version="2.3" xml:lang="EN">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">raps</journal-id>
+<journal-id journal-id-type="hwp">raps</journal-id>
+<journal-title>Review of Asset Pricing Studies</journal-title>
+<issn pub-type="ppub">2045-9920</issn>
+<issn pub-type="epub">2045-9939</issn>
+<publisher>
+<publisher-name>Oxford University Press</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.1093/rapstu/ras021</article-id>
+<article-id pub-id-type="publisher-id">ras021</article-id>
+<article-categories>
+<subj-group>
+<subject>Cover / Standing Material</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Editorial Board</article-title>
+</title-group>
+<pub-date pub-type="ppub">
+<month>12</month>
+<year>2013</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>11</day>
+<month>11</month>
+<year>2013</year>
+</pub-date>
+<volume>3</volume>
+<issue>2</issue>
+<fpage>i2</fpage>
+<lpage>i2</lpage>
+<permissions>
+<copyright-statement>© The Author 2013. Published by Oxford University Press on behalf of The Society for Financial Studies. All rights reserved. For Permissions, please email: journals.permissions@oup.com.</copyright-statement>
+<copyright-year>2013</copyright-year>
+</permissions>
+<counts>
+<page-count count="1"/>
+</counts>
+</article-meta>
+</front>
+</article><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="editorial" dtd-version="2.3" xml:lang="EN">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">raps</journal-id>
+<journal-id journal-id-type="hwp">raps</journal-id>
+<journal-title>Review of Asset Pricing Studies</journal-title>
+<issn pub-type="ppub">2045-9920</issn>
+<issn pub-type="epub">2045-9939</issn>
+<publisher>
+<publisher-name>Oxford University Press</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.1093/rapstu/rat008</article-id>
+<article-id pub-id-type="publisher-id">rat008</article-id>
+<article-categories>
+<subj-group>
+<subject>Editorial</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>The Rap on the RAPS</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" corresp="yes" xlink:type="simple">
+<name name-style="western"><surname>Ferson</surname><given-names>Wayne</given-names></name>
+</contrib>
+<aff>Executive Editor, <italic>the Review of Asset Pricing Studies</italic></aff>
+</contrib-group>
+<pub-date pub-type="ppub">
+<month>12</month>
+<year>2013</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>11</day>
+<month>11</month>
+<year>2013</year>
+</pub-date>
+<volume>3</volume>
+<issue>2</issue>
+<fpage>177</fpage>
+<lpage>178</lpage>
+<permissions>
+<copyright-statement>© The Author 2013. Published by Oxford University Press on behalf of The Society for Financial Studies. All rights reserved. For Permissions, please email: journals.permissions@oup.com</copyright-statement>
+<copyright-year>2013</copyright-year>
+</permissions>
+<counts>
+<page-count count="2"/>
+</counts>
+</article-meta>
+</front></article><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="research-article" dtd-version="1.1d1" xml:lang="en">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">raps</journal-id>
+<journal-id journal-id-type="hwp">raps</journal-id>
+<journal-title-group>
+<journal-title>The Review of Asset Pricing Studies</journal-title>
+</journal-title-group>
+<issn pub-type="ppub">2045-9920</issn>
+<issn pub-type="epub">2045-9939</issn>
+<publisher>
+<publisher-name>Oxford University Press</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.1093/rapstu/rav006</article-id>
+<article-id pub-id-type="publisher-id">rav006</article-id>
+<article-categories>
+<subj-group>
+<subject>Articles</subject>
+</subj-group>
+<subj-group subj-group-type="hwp-journal-coll">
+<subject>G10</subject>
+<subject>G12</subject>
+<subject>G21</subject>
+<subject>G38</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Price Contagion through Balance Sheet Linkages</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" corresp="yes">
+<name name-style="western"><surname>Capponi</surname><given-names>Agostino</given-names></name>
+</contrib>
+<aff>Industrial Engineering and Operations Research Department, Columbia University</aff>
+</contrib-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name name-style="western"><surname>Larsson</surname><given-names>Martin</given-names></name>
+</contrib>
+<aff>Department of Mathematics, ETH Zurich</aff>
+</contrib-group>
+<author-notes>
+<corresp id="COR1">Send correspondence to Agostino Capponi, Industrial Engineering and Operations Research Department, Columbia University, New York, NY 10027. E-mail: <email>ac3827@columbia.edu</email>.</corresp>
+</author-notes>
+<pub-date pub-type="ppub">
+<month>12</month>
+<year>2015</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>30</day>
+<month>07</month>
+<year>2015</year>
+</pub-date>
+<volume>5</volume>
+<issue>2</issue>
+<fpage>227</fpage>
+<lpage>253</lpage>
+<permissions>
+<copyright-statement>© The Author 2015. Published by Oxford University Press on behalf of The Society for Financial Studies. All rights reserved. For Permissions, please email: journals.permissions@oup.com</copyright-statement>
+<copyright-year>2015</copyright-year>
+</permissions>
+<abstract>
+<p>We study price linkages between assets held by financial institutions that maintain fixed capital structures over time. Firms in the banking sector manage their leverage ratios to conform to prespecified levels. Our analysis suggests that regulatory policies aimed at stabilizing the system by imposing capital constraints on banks may have unintended consequences: banks’ deleveraging activities may amplify asset return shocks and lead to large fluctuations in realized returns. The same mechanism can cause spillover effects, where assets held by leverage targeting banks can experience hikes or drops caused by shocks to otherwise unrelated assets held by the same banks. (<italic toggle="yes">JEL</italic> G10, G12, G21, G38)</p>
+</abstract>
+<counts>
+<page-count count="27"/>
+</counts>
+</article-meta>
+</front></article><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="other" dtd-version="1.1d1" xml:lang="en">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">raps</journal-id>
+<journal-id journal-id-type="hwp">raps</journal-id>
+<journal-title-group>
+<journal-title>The Review of Asset Pricing Studies</journal-title>
+</journal-title-group>
+<issn pub-type="ppub">2045-9920</issn>
+<issn pub-type="epub">2045-9939</issn>
+<publisher>
+<publisher-name>Oxford University Press</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.1093/rapstu/rau017</article-id>
+<article-id pub-id-type="publisher-id">rau017</article-id>
+<article-categories>
+<subj-group>
+<subject>Cover / Standing Material</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Table of Contents</article-title>
+</title-group>
+<pub-date pub-type="ppub">
+<month>12</month>
+<year>2015</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>03</day>
+<month>11</month>
+<year>2015</year>
+</pub-date>
+<volume>5</volume>
+<issue>2</issue>
+<fpage>i4</fpage>
+<lpage>i4</lpage>
+<permissions>
+<copyright-statement>© The Author 2015. Published by Oxford University Press on behalf of The Society for Financial Studies. All rights reserved. For Permissions, please email: journals.permissions@oup.com.</copyright-statement>
+<copyright-year>2015</copyright-year>
+</permissions>
+<counts>
+<page-count count="1"/>
+</counts>
+</article-meta>
+</front>
+</article><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="other" dtd-version="1.1d1" xml:lang="en">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">raps</journal-id>
+<journal-id journal-id-type="hwp">raps</journal-id>
+<journal-title-group>
+<journal-title>The Review of Asset Pricing Studies</journal-title>
+</journal-title-group>
+<issn pub-type="ppub">2045-9920</issn>
+<issn pub-type="epub">2045-9939</issn>
+<publisher>
+<publisher-name>Oxford University Press</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.1093/rapstu/rau016</article-id>
+<article-id pub-id-type="publisher-id">rau016</article-id>
+<article-categories>
+<subj-group>
+<subject>Cover / Standing Material</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Subscription Page</article-title>
+</title-group>
+<pub-date pub-type="ppub">
+<month>12</month>
+<year>2015</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>03</day>
+<month>11</month>
+<year>2015</year>
+</pub-date>
+<volume>5</volume>
+<issue>2</issue>
+<fpage>i3</fpage>
+<lpage>i3</lpage>
+<permissions>
+<copyright-statement>© The Author 2015. Published by Oxford University Press on behalf of The Society for Financial Studies. All rights reserved. For Permissions, please email: journals.permissions@oup.com.</copyright-statement>
+<copyright-year>2015</copyright-year>
+</permissions>
+<counts>
+<page-count count="1"/>
+</counts>
+</article-meta>
+</front>
+</article><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="research-article" dtd-version="1.1d1" xml:lang="en">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">raps</journal-id>
+<journal-id journal-id-type="hwp">raps</journal-id>
+<journal-title-group>
+<journal-title>The Review of Asset Pricing Studies</journal-title>
+</journal-title-group>
+<issn pub-type="ppub">2045-9920</issn>
+<issn pub-type="epub">2045-9939</issn>
+<publisher>
+<publisher-name>Oxford University Press</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.1093/rapstu/rav005</article-id>
+<article-id pub-id-type="publisher-id">rav005</article-id>
+<article-categories>
+<subj-group>
+<subject>Articles</subject>
+</subj-group>
+<subj-group subj-group-type="hwp-journal-coll">
+<subject>G10</subject>
+<subject>G12</subject>
+<subject>G14</subject>
+<subject>G20</subject>
+<subject>G23</subject>
+</subj-group>
+<series-title>Editor's Choice</series-title>
+</article-categories>
+<title-group>
+<article-title>Managerial Activeness and Mutual Fund Performance</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name name-style="western"><surname>Doshi</surname><given-names>Hitesh</given-names></name>
+</contrib>
+<aff>University of Houston</aff>
+</contrib-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name name-style="western"><surname>Elkamhi</surname><given-names>Redouane</given-names></name>
+</contrib>
+<aff>University of Toronto</aff>
+</contrib-group>
+<contrib-group>
+<contrib contrib-type="author" corresp="yes">
+<name name-style="western"><surname>Simutin</surname><given-names>Mikhail</given-names></name>
+</contrib>
+<aff>University of Toronto</aff>
+</contrib-group>
+<author-notes>
+<corresp>Send correspondence to Mikhail Simutin, Rotman School of Management, University of Toronto, 105 St. George Street, Toronto, ON M5S 3E6, Canada; telephone: <phone>416-946-8088</phone>. E-mail: <email>mikhail.simutin@rotman.utoronto.ca</email>.</corresp>
+</author-notes>
+<pub-date pub-type="ppub">
+<month>12</month>
+<year>2015</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>02</day>
+<month>06</month>
+<year>2015</year>
+</pub-date>
+<volume>5</volume>
+<issue>2</issue>
+<fpage>156</fpage>
+<lpage>184</lpage>
+<permissions>
+<copyright-statement>© The Author 2015. Published by Oxford University Press on behalf of The Society for Financial Studies. All rights reserved. For Permissions, please email: journals.permissions@oup.com</copyright-statement>
+<copyright-year>2015</copyright-year>
+</permissions>
+<abstract>
+<p>A closet indexer is more likely to meet a value-weighted investment benchmark by value weighting the portfolio. Following this intuition, we introduce a simple measure of active management, the absolute difference between the value weights and actual weights held by a fund, summed across its holdings. This proxy captures managerial skill: active funds outperform passive ones by 2.5% annually. Compared with known measures of skill, our proxy robustly predicts fund flows, asset growth, factor-adjusted performance, and value added. Its predictive ability is orthogonal to that of other measures and is robust to controlling for volatility timing, past performance, and style. (<italic toggle="yes">JEL</italic> G10, G12, G14, G20, G23)</p>
+</abstract>
+<counts>
+<page-count count="29"/></counts>
+</article-meta>
+</front></article><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="research-article" dtd-version="1.1d1" xml:lang="en">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">raps</journal-id>
+<journal-id journal-id-type="hwp">raps</journal-id>
+<journal-title-group><journal-title>The Review of Asset Pricing Studies</journal-title></journal-title-group>
+<issn pub-type="ppub">2045-9920</issn>
+<issn pub-type="epub">2045-9939</issn>
+<publisher>
+<publisher-name>Oxford University Press</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.1093/rapstu/rav004</article-id>
+<article-id pub-id-type="publisher-id">rav004</article-id>
+<article-categories>
+<subj-group>
+<subject>Articles</subject>
+</subj-group>
+<subj-group subj-group-type="hwp-journal-coll">
+<subject>G11</subject>
+<subject>G23</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Target Date Funds: Characteristics and Performance</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name name-style="western"><surname>Elton</surname><given-names>Edwin J.</given-names></name>
+</contrib>
+<aff>Stern School of Business, New York University</aff>
+</contrib-group>
+<contrib-group>
+<contrib contrib-type="author" corresp="yes">
+<name name-style="western"><surname>Gruber</surname><given-names>Martin J.</given-names></name>
+</contrib>
+<aff>Stern School of Business, New York University</aff>
+</contrib-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name name-style="western"><surname>de Souza</surname><given-names>Andre</given-names></name>
+</contrib>
+<aff>Fordham University</aff>
+</contrib-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name name-style="western"><surname>Blake</surname><given-names>Christopher R.</given-names></name>
+</contrib>
+<aff>Fordham University</aff>
+</contrib-group>
+<author-notes>
+<corresp>Christopher R. Blake, formerly Joseph Keating, S. J. Distinguished Professor, Fordham University, is deceased prior to publication. Send correspondence to Martin J. Gruber, Stern School of Business, New York University, 44 West 4th Street, New York, NY 10012; telephone <phone>212-998-0333</phone>; fax <fax>212-995-4233</fax>. E-mail: <email>mgruber@stern.nyu.edu</email>.</corresp>
+</author-notes>
+<pub-date pub-type="ppub">
+<month>12</month>
+<year>2015</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>06</day>
+<month>05</month>
+<year>2015</year>
+</pub-date>
+<volume>5</volume>
+<issue>2</issue>
+<fpage>254</fpage>
+<lpage>272</lpage>
+<permissions>
+<copyright-statement>© The Author 2015. Published by Oxford University Press on behalf of The Society for Financial Studies. All rights reserved. For Permissions, please email: journals.permissions@oup.com</copyright-statement>
+<copyright-year>2015</copyright-year>
+</permissions>
+<abstract>
+<p>As a result of poor asset allocation decisions by 401(k) participants, 72% of all plans now offer target date funds, and participants heavily invest in them. Here, we study the characteristics and performance of TDFs, providing a unique view by employing data on TDFs holdings. We show that additional expenses charged by TDFs are largely offset by the low-cost share classes they hold, not normally open to their investors. Additionally, TDFs are very active in their allocation decisions and increasingly bet on nonstandard asset classes. However, TDFs do not earn alpha from timing or their selection of individual assets. (<italic toggle="yes">JEL G11. G23.</italic>)</p>
+</abstract>
+<counts>
+<page-count count="19"/>
+</counts>
+</article-meta>
+</front></article><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="announcement" dtd-version="1.1d1" xml:lang="en">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">raps</journal-id>
+<journal-id journal-id-type="hwp">raps</journal-id>
+<journal-title-group>
+<journal-title>The Review of Asset Pricing Studies</journal-title>
+</journal-title-group>
+<issn pub-type="ppub">2045-9920</issn>
+<issn pub-type="epub">2045-9939</issn>
+<publisher>
+<publisher-name>Oxford University Press</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.1093/rapstu/rav009</article-id>
+<article-id pub-id-type="publisher-id">rav009</article-id>
+<article-categories>
+<subj-group>
+<subject>Announcements</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Announcements</article-title>
+</title-group>
+<pub-date pub-type="ppub">
+<month>12</month>
+<year>2015</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>03</day>
+<month>11</month>
+<year>2015</year>
+</pub-date>
+<volume>5</volume>
+<issue>2</issue>
+<fpage>155</fpage>
+<lpage>155</lpage>
+<permissions>
+<copyright-statement>Published by Oxford University Press 2015.</copyright-statement>
+<copyright-year>2015</copyright-year>
+</permissions>
+<counts>
+<page-count count="1"/>
+</counts>
+</article-meta>
+</front></article><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="other" dtd-version="1.1d1" xml:lang="en">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">raps</journal-id>
+<journal-id journal-id-type="hwp">raps</journal-id>
+<journal-title-group>
+<journal-title>The Review of Asset Pricing Studies</journal-title>
+</journal-title-group>
+<issn pub-type="ppub">2045-9920</issn>
+<issn pub-type="epub">2045-9939</issn>
+<publisher>
+<publisher-name>Oxford University Press</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.1093/rapstu/rau014</article-id>
+<article-id pub-id-type="publisher-id">rau014</article-id>
+<article-categories>
+<subj-group>
+<subject>Cover / Standing Material</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Front Cover</article-title>
+</title-group>
+<pub-date pub-type="ppub">
+<month>12</month>
+<year>2015</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>03</day>
+<month>11</month>
+<year>2015</year>
+</pub-date>
+<volume>5</volume>
+<issue>2</issue>
+<fpage>i1</fpage>
+<lpage>i1</lpage>
+<permissions>
+<copyright-statement>© The Author 2015. Published by Oxford University Press on behalf of The Society for Financial Studies. All rights reserved. For Permissions, please email: journals.permissions@oup.com.</copyright-statement>
+<copyright-year>2015</copyright-year>
+</permissions>
+<counts>
+<page-count count="1"/>
+</counts>
+</article-meta>
+</front>
+</article><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="other" dtd-version="1.1d1" xml:lang="en">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">raps</journal-id>
+<journal-id journal-id-type="hwp">raps</journal-id>
+<journal-title-group>
+<journal-title>The Review of Asset Pricing Studies</journal-title>
+</journal-title-group>
+<issn pub-type="ppub">2045-9920</issn>
+<issn pub-type="epub">2045-9939</issn>
+<publisher>
+<publisher-name>Oxford University Press</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.1093/rapstu/rau015</article-id>
+<article-id pub-id-type="publisher-id">rau015</article-id>
+<article-categories>
+<subj-group>
+<subject>Cover / Standing Material</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Editorial Board</article-title>
+</title-group>
+<pub-date pub-type="ppub">
+<month>12</month>
+<year>2015</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>03</day>
+<month>11</month>
+<year>2015</year>
+</pub-date>
+<volume>5</volume>
+<issue>2</issue>
+<fpage>i2</fpage>
+<lpage>i2</lpage>
+<permissions>
+<copyright-statement>© The Author 2015. Published by Oxford University Press on behalf of The Society for Financial Studies. All rights reserved. For Permissions, please email: journals.permissions@oup.com.</copyright-statement>
+<copyright-year>2015</copyright-year>
+</permissions>
+<counts>
+<page-count count="1"/>
+</counts>
+</article-meta>
+</front>
+</article><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="research-article" dtd-version="1.1d1" xml:lang="en">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">raps</journal-id>
+<journal-id journal-id-type="hwp">raps</journal-id>
+<journal-title-group>
+<journal-title>The Review of Asset Pricing Studies</journal-title>
+</journal-title-group>
+<issn pub-type="ppub">2045-9920</issn>
+<issn pub-type="epub">2045-9939</issn>
+<publisher>
+<publisher-name>Oxford University Press</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.1093/rapstu/rav007</article-id>
+<article-id pub-id-type="publisher-id">rav007</article-id>
+<article-categories>
+<subj-group>
+<subject>Articles</subject>
+</subj-group>
+<subj-group subj-group-type="hwp-journal-coll">
+<subject>G11</subject>
+<subject>G12</subject>
+<subject>G14</subject>
+<subject>G23</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>The Impact of Hedge Funds on Asset Markets</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name name-style="western"><surname>Kruttli</surname><given-names>Mathias S.</given-names></name>
+</contrib>
+<aff>Department of Economics, University of Oxford and Oxford-Man Institute of Quantitative Finance</aff>
+</contrib-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name name-style="western"><surname>Patton</surname><given-names>Andrew J.</given-names></name>
+</contrib>
+<aff>Department of Economics, Duke University, Oxford-Man Institute of Quantitative Finance, and Discipline of Finance at the University of Sydney</aff>
+</contrib-group>
+<contrib-group>
+<contrib contrib-type="author" corresp="yes">
+<name name-style="western"><surname>Ramadorai</surname><given-names>Tarun</given-names></name>
+</contrib>
+<aff>Saïd Business School, University of Oxford, Oxford-Man Institute of Quantitative Finance, and CEPR</aff>
+</contrib-group>
+<author-notes>
+<corresp>Send correspondence to Tarun Ramadorai, Saïd Business School, Park End Street, Oxford, OX1 1HP, United Kingdom; Telephone: <phone>+44 (0)1865 278816</phone>. E-mail: <email>tarun.ramadorai@sbs.ox.ac.uk</email>.</corresp>
+</author-notes>
+<pub-date pub-type="ppub">
+<month>12</month>
+<year>2015</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>17</day>
+<month>09</month>
+<year>2015</year>
+</pub-date>
+<volume>5</volume>
+<issue>2</issue>
+<fpage>185</fpage>
+<lpage>226</lpage>
+<history>
+<date date-type="accepted">
+<day>11</day>
+<month>9</month>
+<year>2015</year>
+</date>
+</history>
+<permissions>
+<copyright-statement>© The Author 2015. Published by Oxford University Press on behalf of The Society for Financial Studies. All rights reserved. For Permissions, please email: journals.permissions@oup.com</copyright-statement>
+<copyright-year>2015</copyright-year>
+</permissions>
+<abstract>
+<p>We construct a simple measure of the aggregate illiquidity of hedge fund portfolios, based on the cross-sectional average first-order autocorrelation coefficient of hedge fund returns, and show that it has strong and robust in- and out-of-sample forecasting power for 72 portfolios of international equities, U.S. corporate bonds, and currencies over the 1994 to 2013 period. The forecasting ability of hedge fund illiquidity for asset returns is in most cases greater than, and provides independent information relative to, well-known predictive variables. We rationalize these findings using a simple equilibrium model, in which hedge funds provide liquidity in asset markets.</p></abstract>
+<kwd-group kwd-group-type="jel"><title>JEL</title><kwd>G11</kwd><kwd>G12</kwd><kwd>G14</kwd><kwd>G23</kwd></kwd-group>
+<counts><page-count count="42"/></counts>
+</article-meta>
+</front></article><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="research-article" dtd-version="2.3" xml:lang="EN">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">raps</journal-id>
+<journal-id journal-id-type="hwp">raps</journal-id>
+<journal-title>Review of Asset Pricing Studies</journal-title>
+<issn pub-type="ppub">2045-9920</issn>
+<issn pub-type="epub">2045-9939</issn>
+<publisher>
+<publisher-name>Oxford University Press</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.1093/rapstu/rar003</article-id>
+<article-id pub-id-type="publisher-id">rar003</article-id>
+<article-categories>
+<subj-group>
+<subject>Articles</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Diversification in Funds of Hedge Funds: Is It Possible to Overdiversify?</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" corresp="yes" xlink:type="simple">
+<name name-style="western"><surname>Brown</surname><given-names>Stephen J.</given-names></name>
+</contrib>
+<aff>New York University</aff>
+</contrib-group>
+<contrib-group>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>Gregoriou</surname><given-names>Greg N.</given-names></name>
+</contrib>
+<aff>State University of New York</aff>
+</contrib-group>
+<contrib-group>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>Pascalau</surname><given-names>Razvan</given-names></name>
+</contrib>
+<aff>State University of New York</aff>
+</contrib-group>
+<author-notes>
+<corresp>Send correspondence to Stephen J. Brown, David S. Loeb Professor of Finance at Stern School of Business, 44 West 4<sup>th</sup> Street, Suite 9-190, New York, NY 10310; telephone: <phone>212-998-0306</phone>; fax: <fax>212-995-4220</fax>. E-mail: <email xlink:type="simple">sbrown@stern.nyu.edu</email>, He is also a Professorial Fellow at the University of Melbourne. Greg N. Gregoriou, Professor of Finance at State University of New York (Plattsburgh), 101 Broad Street, Plattsburgh, NY 12901; telephone: <phone>518-564-4202</phone>; fax: <fax>518-564-4215</fax>. E-mail: <email xlink:type="simple">gregorg@plattsburgh.edu</email>. He is also an EDHEC Business School Research Associate in Nice, France. Razvan Pascalau, Assistant Professor of Economics and Finance at State University of New York (Plattsburgh), 101 Broad Street, Plattsburgh, NY 12901; telephone: <phone>518-564-4193</phone>; fax: <fax>518-564-4215</fax>. E-mail: <email xlink:type="simple">rpasc001@plattsburgh.edu</email>.</corresp>
+</author-notes>
+<pub-date pub-type="ppub">
+<month>6</month>
+<year>2012</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>8</day>
+<month>9</month>
+<year>2011</year>
+</pub-date>
+<volume>2</volume>
+<issue>1</issue>
+<fpage>89</fpage>
+<lpage>110</lpage>
+<permissions>
+<copyright-statement>© The Author 2011. Published by Oxford University Press on behalf of The Society for Financial Studies. All rights reserved. For Permissions, please e-mail: journals.permissions@oup.com.</copyright-statement>
+<copyright-year>2011</copyright-year>
+</permissions>
+<abstract>
+<p>Many institutions are attracted to diversified portfolios of hedge funds, referred to as Funds of Hedge Funds (FoHFs). In this article, we examine a new database that separates out for the first time the effects of diversification (the number of underlying hedge funds) from scale (the magnitude of assets under management). We find with others that the variance-reducing effects of diversification diminish once FoHFs hold more than 20 underlying hedge funds. This excess diversification actually <italic>increases</italic> their left-tail risk exposure once we account for return smoothing. Furthermore, the average FoHF in our sample is more exposed to left-tail risk than are naïve 1/<italic>N</italic> randomly chosen portfolios. This increase in tail risk is accompanied by lower returns, which we attribute to the cost of necessary due diligence that increases with the number of hedge funds.</p>
+</abstract>
+<kwd-group kwd-group-type="jel"><title>JEL</title><kwd>G11</kwd><kwd>G23</kwd><kwd>G32</kwd></kwd-group>
+<counts>
+<page-count count="22"/>
+</counts>
+</article-meta>
+</front></article><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="other" dtd-version="2.3" xml:lang="EN">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">raps</journal-id>
+<journal-id journal-id-type="hwp">raps</journal-id>
+<journal-title>Review of Asset Pricing Studies</journal-title>
+<issn pub-type="ppub">2045-9920</issn>
+<issn pub-type="epub">2045-9939</issn>
+<publisher>
+<publisher-name>Oxford University Press</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.1093/rapstu/ras008</article-id>
+<article-id pub-id-type="publisher-id">ras008</article-id>
+<article-categories>
+<subj-group>
+<subject>Cover / Standing Material</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Table of Contents</article-title>
+</title-group>
+<pub-date pub-type="ppub">
+<month>6</month>
+<year>2012</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>12</day>
+<month>6</month>
+<year>2012</year>
+</pub-date>
+<volume>2</volume>
+<issue>1</issue>
+<fpage>i2</fpage>
+<lpage>i2</lpage>
+<permissions>
+<copyright-statement>© The Author 2012. Published by Oxford University Press on behalf of The Society for Financial Studies. All rights reserved. For Permissions, please email: journals.permissions@oup.com.</copyright-statement>
+<copyright-year>2012</copyright-year>
+</permissions>
+<counts>
+<page-count count="1"/>
+</counts>
+</article-meta>
+</front>
+</article><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="research-article" dtd-version="2.3" xml:lang="EN">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">raps</journal-id>
+<journal-id journal-id-type="hwp">raps</journal-id>
+<journal-title>Review of Asset Pricing Studies</journal-title>
+<issn pub-type="ppub">2045-9920</issn>
+<issn pub-type="epub">2045-9939</issn>
+<publisher>
+<publisher-name>Oxford University Press</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.1093/rapstu/ras003</article-id>
+<article-id pub-id-type="publisher-id">ras003</article-id>
+<article-categories>
+<subj-group>
+<subject>Articles</subject>
+</subj-group>
+<series-title>Editor's Choice</series-title>
+</article-categories>
+<title-group>
+<article-title>Go Down Fighting: Short Sellers vs. Firms</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>Lamont</surname><given-names>Owen A.</given-names></name>
+</contrib>
+<aff>Department of Economics, Harvard University</aff>
+</contrib-group>
+<pub-date pub-type="ppub">
+<month>6</month>
+<year>2012</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>12</day>
+<month>6</month>
+<year>2012</year>
+</pub-date>
+<volume>2</volume>
+<issue>1</issue>
+<fpage>1</fpage>
+<lpage>30</lpage>
+<permissions>
+<copyright-statement>© The Author 2012. Published by Oxford University Press on behalf of The Society for Financial Studies. All rights reserved. For Permissions, please email: journals.permissions@oup.com.</copyright-statement>
+<copyright-year>2012</copyright-year>
+</permissions>
+<abstract>
+<p>This study examines battles between short sellers and firms. Firms use a variety of methods to impede short selling, including legal threats, investigations, lawsuits, and various technical actions intended to create a short squeeze. These actions create short sale constraints. Consistent with the hypothesis that short sale constraints allow stocks to be overpriced, firms taking anti-shorting actions have in the subsequent year very low abnormal returns of about −2% per month.</p>
+</abstract>
+<kwd-group kwd-group-type="jel"><title>JEL</title><kwd>G14</kwd></kwd-group>
+<counts>
+<page-count count="30"/>
+</counts>
+</article-meta>
+</front></article><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="other" dtd-version="2.3" xml:lang="EN">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">raps</journal-id>
+<journal-id journal-id-type="hwp">raps</journal-id>
+<journal-title>Review of Asset Pricing Studies</journal-title>
+<issn pub-type="ppub">2045-9920</issn>
+<issn pub-type="epub">2045-9939</issn>
+<publisher>
+<publisher-name>Oxford University Press</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.1093/rapstu/ras005</article-id>
+<article-id pub-id-type="publisher-id">ras005</article-id>
+<article-categories>
+<subj-group>
+<subject>Cover / Standing Material</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Editorial Board</article-title>
+</title-group>
+<pub-date pub-type="ppub">
+<month>6</month>
+<year>2012</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>12</day>
+<month>6</month>
+<year>2012</year>
+</pub-date>
+<volume>2</volume>
+<issue>1</issue>
+<fpage>i3</fpage>
+<lpage>i3</lpage>
+<permissions>
+<copyright-statement>© The Author 2012. Published by Oxford University Press on behalf of The Society for Financial Studies. All rights reserved. For Permissions, please email: journals.permissions@oup.com.</copyright-statement>
+<copyright-year>2012</copyright-year>
+</permissions>
+<counts>
+<page-count count="1"/>
+</counts>
+</article-meta>
+</front>
+</article><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="other" dtd-version="2.3" xml:lang="EN">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">raps</journal-id>
+<journal-id journal-id-type="hwp">raps</journal-id>
+<journal-title>Review of Asset Pricing Studies</journal-title>
+<issn pub-type="ppub">2045-9920</issn>
+<issn pub-type="epub">2045-9939</issn>
+<publisher>
+<publisher-name>Oxford University Press</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.1093/rapstu/ras006</article-id>
+<article-id pub-id-type="publisher-id">ras006</article-id>
+<article-categories>
+<subj-group>
+<subject>Cover / Standing Material</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Front Cover</article-title>
+</title-group>
+<pub-date pub-type="ppub">
+<month>6</month>
+<year>2012</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>12</day>
+<month>6</month>
+<year>2012</year>
+</pub-date>
+<volume>2</volume>
+<issue>1</issue>
+<fpage>i1</fpage>
+<lpage>i1</lpage>
+<permissions>
+<copyright-statement>© The Author 2012. Published by Oxford University Press on behalf of The Society for Financial Studies. All rights reserved. For Permissions, please email: journals.permissions@oup.com.</copyright-statement>
+<copyright-year>2012</copyright-year>
+</permissions>
+<counts>
+<page-count count="1"/>
+</counts>
+</article-meta>
+</front>
+</article><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="research-article" dtd-version="2.3" xml:lang="EN">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">raps</journal-id>
+<journal-id journal-id-type="hwp">raps</journal-id>
+<journal-title>Review of Asset Pricing Studies</journal-title>
+<issn pub-type="ppub">2045-9920</issn>
+<issn pub-type="epub">2045-9939</issn>
+<publisher>
+<publisher-name>Oxford University Press</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.1093/rapstu/ras001</article-id>
+<article-id pub-id-type="publisher-id">ras001</article-id>
+<article-categories>
+<subj-group>
+<subject>Articles</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Does Mutual Fund Size Matter? The Relationship Between Size and Performance</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>Elton</surname><given-names>Edwin J.</given-names></name>
+</contrib>
+<aff>Stern School of Business, New York University</aff>
+</contrib-group>
+<contrib-group>
+<contrib contrib-type="author" corresp="yes" xlink:type="simple">
+<name name-style="western"><surname>Gruber</surname><given-names>Martin J.</given-names></name>
+</contrib>
+<aff>Stern School of Business, New York University</aff>
+</contrib-group>
+<contrib-group>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>Blake</surname><given-names>Christopher R.</given-names></name>
+</contrib>
+<aff>Graduate School of Business Administration, Fordham University</aff>
+</contrib-group>
+<author-notes>
+<corresp>Send correspondence to Martin J. Gruber, Stern School of Business, New York University, 44 West 4th Street, New York, NY 10012; telephone <phone>(212) 998-0333</phone>; fax <fax>(212) 995-4233</fax>. E-mail: <email xlink:type="simple">mgruber@stern.nyu.edu</email>.</corresp>
+<fn><p>This work was supported by the UAI Foundation.</p></fn>
+</author-notes>
+<pub-date pub-type="ppub">
+<month>6</month>
+<year>2012</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>16</day>
+<month>3</month>
+<year>2012</year>
+</pub-date>
+<volume>2</volume>
+<issue>1</issue>
+<fpage>31</fpage>
+<lpage>55</lpage>
+<permissions>
+<copyright-statement>© The Author 2012. Published by Oxford University Press on behalf of The Society for Financial Studies. All rights reserved. For Permissions, please e-mail: journals.permissions@oup.com.</copyright-statement>
+<copyright-year>2012</copyright-year>
+</permissions>
+<abstract>
+<p><xref ref-type="bibr" rid="B3">Berk and Green (2004)</xref> make a theoretical argument that performance persistence should not exist since new money flows into well-performing mutual funds and there are diseconomies of scale, or because successful funds capture excess returns by raising fees. We find that performance prediction continues when we examine samples of larger and larger funds and that past performance predicts future performance for holding periods up to three years. Funds that outperform index funds of the same risk can be identified. We find that expense ratios are lower for large funds, and decrease as funds get larger or perform well.</p>
+</abstract>
+<kwd-group kwd-group-type="jel"><title>JEL</title><kwd>G11</kwd><kwd>G12</kwd></kwd-group>
+<counts>
+<page-count count="25"/>
+</counts>
+</article-meta>
+</front></article><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="research-article" dtd-version="2.3" xml:lang="EN">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">raps</journal-id>
+<journal-id journal-id-type="hwp">raps</journal-id>
+<journal-title>Review of Asset Pricing Studies</journal-title>
+<issn pub-type="ppub">2045-9920</issn>
+<issn pub-type="epub">2045-9939</issn>
+<publisher>
+<publisher-name>Oxford University Press</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.1093/rapstu/ras002</article-id>
+<article-id pub-id-type="publisher-id">ras002</article-id>
+<article-categories>
+<subj-group>
+<subject>Articles</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Comovement and Predictability Relationships Between Bonds and the Cross-section of Stocks</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>Baker</surname><given-names>Malcolm</given-names></name>
+</contrib>
+<aff>Harvard Business School and National Bureau of Economic Research</aff>
+</contrib-group>
+<contrib-group>
+<contrib contrib-type="author" corresp="yes" xlink:type="simple">
+<name name-style="western"><surname>Wurgler</surname><given-names>Jeffrey</given-names></name>
+</contrib>
+<aff>NYU Stern School of Business and National Bureau of Economic Research</aff>
+</contrib-group>
+<author-notes>
+<corresp>Send correspondence to Jeffrey Wurgler, NYU Stern School of Business, 44 West Fourth Street, Suite 9-190, New York, NY 10012; telephone: <phone>212-998-0367</phone>. E-mail: <email xlink:type="simple">jwurgler@stern.nyu</email>, <email xlink:type="simple">edujwurgler@stern.nyu.edu</email>.</corresp>
+</author-notes>
+<pub-date pub-type="ppub">
+<month>6</month>
+<year>2012</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>16</day>
+<month>2</month>
+<year>2012</year>
+</pub-date>
+<volume>2</volume>
+<issue>1</issue>
+<fpage>57</fpage>
+<lpage>87</lpage>
+<permissions>
+<copyright-statement>© The Author 2012. Published by Oxford University Press on behalf of The Society for Financial Studies. All rights reserved. For Permissions, please e-mail: journals.permissions@oup.com.</copyright-statement>
+<copyright-year>2012</copyright-year>
+</permissions>
+<abstract>
+<p>Government bonds comove more strongly with bond-like stocks: stocks of large, mature, low-volatility, profitable, dividend-paying firms that are neither high growth nor distressed. Variables that are derived from the yield curve that are already known to predict returns on bonds also predict returns on bond-like stocks; investor sentiment, a predictor of the cross-section of stock returns, also predicts excess bond returns. These relationships remain in place even when bonds and stocks become “decoupled” at the index level. They are driven by a combination of effects including correlations between real cash flows on bonds and bond-like stocks, correlations between their risk-based return premia, and periodic flights to quality.</p>
+</abstract>
+<kwd-group kwd-group-type="jel"><title>JEL</title><kwd>G12</kwd><kwd>G14</kwd></kwd-group>
+<counts>
+<page-count count="31"/>
+</counts>
+</article-meta>
+</front></article></collection>

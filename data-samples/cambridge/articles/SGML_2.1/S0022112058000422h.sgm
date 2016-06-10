@@ -1,0 +1,103 @@
+<!DOCTYPE article SYSTEM "cupjnl2_1.dtd">
+<article dtdver="2.1">
+<header>
+<issue>
+<pinfo>
+<pnm>Cambridge University Press</pnm>
+<loc>Cambridge, UK</loc>
+</pinfo>
+<jinfo>
+<jid>FLM</jid>
+<jtl>Journal of Fluid Mechanics</jtl>
+<jabt>J. Fluid Mech.</jabt>
+<issn>0022-1120</issn>
+<eissn>1469-7645</eissn>
+</jinfo>
+<pubinfo>
+<vid>4</vid>
+<iid>3</iid>
+<cd year="1958" month="7">
+</pubinfo>
+</issue>
+<artcon>
+<genhdr language="EN">
+<artinfo>
+<aid>42</aid>
+<doi>10.1017/S0022112058000422</doi>
+<altid><pii>S0022112058000422</pii></altid>
+<artty artty="RA">
+<ppct count="15">
+<ppf>261</ppf>
+<ppl>275</ppl>
+<crn crt="full">Cambridge University Press</crn>
+<hst>
+<live year="2006" month="03" day="28">
+<re year="1958" month="1" day="21">
+</hst>
+</artinfo>
+<tig>
+<atl>The stability of a two-dimensional laminar jet</atl>
+<atl purpose="recto" abbrev="abatl">The stability of a two-dimensional laminar jet</atl>
+<atl purpose="verso" abbrev="abau">T. Tatsumi and T. Kakutani</atl>
+</tig>
+<aug>
+<au><fnms>T.</fnms> <snm>Tatsumi</snm><norm>Tatsumi T</norm><orf rid="a1"></au>
+<au><fnms>T.</fnms> <snm>Kakutani</snm><norm>Kakutani T</norm><orf rid="a2"></au>
+<aff><oid id="a1"><onm>Cavendish Laboratory</onm>, University of Cambridge<fnr rid="fna1"><fn id="fna1"><p>Now on leave from University of Kyoto, Japan.</p></fn></aff>
+<aff><oid id="a2"><onm>Department of Physics</onm>, University of Kyoto</aff>
+</aug>
+<abs source="PR"><p>This paper deals with the stability of a two-dimensional laminar jet against the infinitesimal antisymmetric disturbance. The curve of the neutral stability in the (&alpha;, <e1>R</e1>)-plane (&alpha;, the wave-number; <e1>R</e1>, Reynolds number) is calculated using two different methods for the different parts of the curve; the solution is developed in powers of (&alpha;<e1>R</e1>)<sup>&minus;1</sup> for obtaining the upper branch of the curve and in powers of &alpha;<e1>R</e1> for the lower branch.</p>
+<p>The asymptotic behaviour of these branches is that for branch I,<formula form="inline" disc="math" id="ffm1"><formtex notation="ACSTeX">$\alpha \rightarrow 2, \;\; c \rightarrow \frac{2}{3}$</formtex></formula> for <formula form="inline" disc="math" id="ffm2"><formtex notation="ACSTeX">$R \rightarrow \infty$</formtex></formula>; and for branch II, <formula form="inline" disc="math" id="ffm3"><formtex notation="ACSTeX">$R \sim 1\cdot12\alpha^{-1|2},\; c \sim 1\cdot 20 \alpha^2$</formtex></formula> for &alpha; &rarr; 0. Some discussion is given on the validity of the basic assumption of the stability theory in relation to the numerical result obtained here.</p></abs>
+</genhdr>
+</artcon>
+</header>
+<footer>
+<refs>
+<ref id="ref001"><jref><au><snm>Bickley</snm>, <fnms>W.</fnms></au>
+<refcd year="1937">1937</refcd>
+<jtl>Phil. Mag.</jtl>
+<vid>23</vid>,
+<ppf>727</ppf>.</jref></ref>
+<ref id="ref002"><jref><au><snm>Curle</snm>, <fnms>N.</fnms></au>
+<refcd year="1957">1957</refcd>
+<jtl>Proc. Roy. Soc.</jtl> A,
+<vid>238</vid>,
+<ppf>489</ppf>.</jref></ref>
+<ref id="ref003"><jref><au><snm>Foote</snm>, <fnms>J. R.</fnms></au> &amp; <au><snm>Lin</snm>, <fnms>C. C.</fnms></au>
+<refcd year="1950">1950</refcd>
+<jtl>Quart. Appl. Math.</jtl>
+<vid>8</vid>,
+<ppf>265</ppf>.</jref></ref>
+<ref id="ref004"><jref><au><snm>Lessen</snm>, <fnms>M.</fnms></au>
+<refcd year="1950">1950</refcd>
+<jtl>Nat. Adv. Comm. Aero., Wash., Rep.</jtl> no. 979.</jref></ref>
+<ref id="ref005"><oref><au><snm>Lin</snm>, <fnms>C. C.</fnms></au>
+<refcd year="1955">1955</refcd>
+<chtl><e1>The Theory of Hydrodynamical Stability</e1></chtl>.
+<pnm>Cambridge University Press</pnm>.</oref></ref>
+<ref id="ref006"><jref><au><snm>McKoen</snm>, <fnms>C. H.</fnms></au>
+<refcd year="1957">1957</refcd>
+<jtl>Aero. Res. Counc., Lond., Curr. Pap.</jtl> no. 303.</jref></ref>
+<ref id="ref007"><jref><au><snm>Pai</snm>, <fnms>S. I.</fnms></au>
+<refcd year="1951">1951</refcd>
+<jtl>J. Aero. Sci.</jtl>
+<vid>18</vid>,
+<ppf>731</ppf>.</jref></ref>
+<ref id="ref008"><jref><au><snm>Savic</snm>, <fnms>P.</fnms></au>
+<refcd year="1941">1941</refcd>
+<jtl>Phil. Mag.</jtl>
+<vid>32</vid>,
+<ppf>245</ppf>.</jref></ref>
+<ref id="ref009"><jref><au><snm>Schlichting</snm>, <fnms>H.</fnms></au>
+<refcd year="1933">1933</refcd>
+<jtl>Z. Angew. Math. Mech.</jtl>
+<vid>13</vid>,
+<ppf>260</ppf>.</jref></ref>
+<ref id="ref010"><jref><au><snm>Squire</snm>, <fnms>H. B.</fnms></au>
+<refcd year="1933">1933</refcd>
+<jtl>Proc. Roy. Soc.</jtl> A,
+<vid>142</vid>,
+<ppf>621</ppf>.</jref></ref>
+</refs>
+</footer>
+</article>

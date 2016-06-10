@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metamorph xmlns="http://www.culturegraph.org/metamorph"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:schemaLocation="http://www.culturegraph.org/metamorph metamorph.xsd"
+           version="1" entityMarker=".">
+
+    <rules>
+        <data source="*ISSUE.JINFO.EISSN.value" name="eissn"/>
+        <data source="*ISSUE.JINFO.ISSN.value" name="pissn"/>
+        <data source="*ISSUE.PUBINFO.CD.YEAR" name="@pyear"/>
+
+        <data name="pyear" source="@pyear">
+            <!-- year in range 1750 - 2029 -->
+            <regexp match="(17[5-9]\d|18\d\d|19\d\d|20[0-2]\d)" format="${1}" />
+        </data>
+
+
+        <data source="*ISSUE.PINFO.PNM.value" name="publisher-name"/>
+
+        <data source="*ISSUE.PUBINFO.VID.value" name="volume"/>
+
+        <data source="*ISSUE.PUBINFO.VID.value" name="volume-number">
+            <regexp match="(\d*)" format="${1}"/>
+        </data>
+
+        <data source="*ISSUE.PUBINFO.IID.value" name="issue"/>
+
+        <data source="*ISSUE.PUBINFO.IID.value" name="issue-number">
+            <regexp match="(\d*)" format="${1}"/>
+        </data>
+
+
+        <data source="*ISSUE.JINFO.JTL.value" name="journal-title"/>
+
+        <data source="*ARTCON.GENHDR.TIG.ATL.value" name="article-title"/>
+
+        <data source="*ISSUE.JINFO.JID.value" name="journal-id"/>
+
+        <choose flushWith="*ARTCON.GENHDR.ARTINFO">
+            <data source="*ARTCON.GENHDR.ARTINFO.DOI.value" name="id">
+                <replace pattern="^doi:"  with=""/>
+                <replace pattern="^doi: "  with=""/>
+                <replace pattern="^DOI:"  with=""/>
+                <replace pattern="^DOI: "  with=""/>
+                <replace pattern="^do1:"  with=""/>
+            </data>
+
+            <!-- if no doi take article id -->
+            <data source="*ARTCON.GENHDR.ARTINFO.ALTID.PII.value" name="id"/>
+        </choose>
+
+        <data source="*ARTCON.GENHDR.ARTINFO.DOI.value" name="@valid-doi">
+            <!-- remove doi: when it is at the beginning -->
+            <replace pattern="^doi:"  with=""/>
+            <replace pattern="^doi: "  with=""/>
+            <replace pattern="^DOI:"  with=""/>
+            <replace pattern="^DOI: "  with=""/>
+            <replace pattern="^do1:"  with=""/>
+
+            <!-- only take doi which starts with 10. -->
+            <regexp match="^(10\..*)"  format="${1}"/>
+        </data>
+
+        <data name="doi" source="@valid-doi"/>
+
+        <data name="doi-prefix" source="@valid-doi">
+            <regexp match="^([^/]*)/"  format="${1}"/>
+        </data>
+
+
+
+        <data source="*ARTCON.GENHDR.ARTINFO.DOI.value" name="doi-prefix">
+            <!-- remove doi: when it is at the beginning -->
+            <replace pattern="^doi:"  with=""/>
+            <replace pattern="^doi: "  with=""/>
+            <replace pattern="^DOI:"  with=""/>
+            <replace pattern="^DOI: "  with=""/>
+            <replace pattern="^do1:"  with=""/>
+
+            <!-- only take doi which starts with 10. -->
+            <regexp match="^(.*)/"  format="${1}"/>
+
+
+        </data>
+
+
+
+        <data source="*ARTCON.GENHDR.ABS.*" name="abstract"/>
+
+        <combine name="keywords" value="${keyword}">
+            <data source="*ARTCON.GENHDR.KWDG.KWD.value" name="keyword"/>
+        </combine>
+
+
+        <!-- Authors -->
+        <combine name="author" value="${author-given-names} ${author-surname}" flushWith="ARTCON.GENHDR.AUG.AU" reset="true">
+            <data source="*ARTCON.GENHDR.AUG.AU.FNMS.value" name="author-given-names"/>
+            <data source="*ARTCON.GENHDR.AUG.AU.SNM.value" name="author-surname"/>
+        </combine>
+
+        <!-- Contributors (the same for sgml files) -->
+        <combine name="contributor" value="${author-given-names} ${author-surname}" flushWith="ARTCON.GENHDR.AUG.AU" reset="true">
+            <data source="*ARTCON.GENHDR.AUG.AU.FNMS.value" name="author-given-names"/>
+            <data source="*ARTCON.GENHDR.AUG.AU.SNM.value" name="author-surname"/>
+        </combine>
+
+
+        <!-- Affiliations -->
+        <combine name="affiliations" value="${aff}">
+            <data source="*ARTCON.GENHDR.AUG.AFF.*" name="aff"/>
+        </combine>
+
+
+        <data name="source-format" source="_id">
+            <constant value="sgml"/>
+        </data>
+
+
+    </rules>
+
+</metamorph>
+
+

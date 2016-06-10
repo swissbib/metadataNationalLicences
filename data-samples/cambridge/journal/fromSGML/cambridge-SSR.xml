@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<collection>
+
+<ARTICLE DTDVER="2.2" TYPE="HEAD"><HEADER><ISSUE><PINFO><PNM>Cambridge University Press</PNM>
+<LOC>Cambridge, UK</LOC></PINFO>
+<JINFO><JID>SSR</JID>
+<JTL>Seed Science Research</JTL>
+<JABT>Seed Sci. Res.</JABT>
+<ISSN>0960-2585</ISSN>
+<EISSN>1475-2735</EISSN></JINFO>
+<PUBINFO><VID>17</VID>
+<IID>1</IID>
+<CD YEAR="2007" MONTH="03"></CD></PUBINFO></ISSUE>
+<ARTCON><GENHDR LANGUAGE="EN"><ARTINFO><AID>38319</AID>
+<FTARTICLE>S0960258507383190a.pdf</FTARTICLE>
+<DOI>10.1017/S0960258507383190</DOI>
+<ALTID><PII>S0960258507383190</PII></ALTID>
+<ARTTY ARTTY="RA"><PPCT COUNT="12"><PPF>21</PPF>
+<PPL>32</PPL>
+<CRN CRT="full">2007 Cambridge University Press</CRN>
+<HST><LIVE YEAR="2007" MONTH="03" DAY="16"><RE YEAR="2005" MONTH="11" DAY="07"><ACC YEAR="2006" MONTH="10" DAY="31"></ACC></RE></LIVE></HST></PPCT></ARTTY></ARTINFO>
+<TIG><ATL>Dormancy-break and germination in seeds of <E1>Prunus campanulata</E1> (Rosaceae): role of covering layers and changes in concentration of abscisic acid and gibberellins</ATL>
+<ATL PURPOSE="verso">S.-Y. Chen <E1>et al.</E1></ATL>
+<ATL PURPOSE="recto">Seed dormancy in <E1>Prunus</E1></ATL></TIG>
+<AUG><AU><FNMS>Shun-Ying</FNMS>
+<SNM>Chen</SNM>
+<NORM>Chen S</NORM>
+<ORF RID="a1"><ORF RID="a4"></ORF></ORF></AU>
+<AU><FNMS>Ching-Te</FNMS>
+<SNM>Chien</SNM>
+<NORM>Chien C</NORM>
+<ORF RID="a2"><ORF RID="c1"></ORF></ORF></AU>
+<AU><FNMS>Jeng-Der</FNMS>
+<SNM>Chung</SNM>
+<NORM>Chung J</NORM>
+<ORF RID="a2"></ORF></AU>
+<AU><FNMS>Yuh-Shyong</FNMS>
+<SNM>Yang</SNM>
+<NORM>Yang Y</NORM>
+<ORF RID="a3"></ORF></AU>
+<AU><FNMS>Shing-Rong</FNMS>
+<SNM>Kuo</SNM>
+<NORM>Kuo S</NORM>
+<ORF RID="a4"></ORF></AU>
+<AFF><OID ID="a1">Division of Forest Biology, <ONM>Taiwan Forestry Research Institute</ONM>, 53 Nan-Hai Road, Taipei, 10066, <CNY>Taiwan</CNY></OID></AFF>
+<AFF><OID ID="a2">Division of Silviculture, <ONM>Taiwan Forestry Research Institute</ONM>, 53 Nan-Hai Road, Taipei, 10066, <CNY>Taiwan</CNY></OID></AFF>
+<AFF><OID ID="a3">Department of Biological Science and Technology, <ONM>National Chiao Tung University</ONM>, Hsinchu, 30068, <CNY>Taiwan</CNY></OID></AFF>
+<AFF><OID ID="a4">School of Forestry and Resource Conservation, <ONM>National Taiwan University</ONM>, Taipei, 10617, <CNY>Taiwan</CNY></OID></AFF>
+<AFF TYPE="cor"><OID ID="c1">Correspondence Fax: +886 2 23078742 Email: <EAD>chien@tfri.gov.tw</EAD></OID></AFF></AUG>
+<ABS SOURCE="PR"><P>Intact seeds (seed+endocarp) from freshly harvested fruits of <E1>Prunus campanulata</E1> were dormant, and required 46 weeks of warm followed by 8 weeks of cold stratification for maximum germination percentage. Removing both endocarp and seed coat, however, promoted germination in a high percentage of non-stratified seeds. Treatment of intact, non-stratified seeds with gibberellic acid (GA<INF>3</INF>) was only partially effective in breaking dormancy. However, GA<INF>3</INF> promoted germination of non-stratified seeds in which the endocarp (but not the seed coat) had been removed. The order of abscisic acid (ABA) concentration in fresh seeds was endocarp  seed coat  embryo, and its concentration in endocarp plus seed coat was about 6.2-fold higher than that in the embryo. Total ABA contents of seeds subjected to warm andor cold moist stratification were reduced 6- to 12-fold. A higher concentration of GA<INF>4</INF> was detected in embryos of non-dormant than in those of dormant seeds. Fluridone, a carotenoid biosynthesis inhibitor, was efficient in breaking dormancy of <E1>Prunus</E1> seeds. Paclobutrazol, a GA biosynthesis inhibitor, completely inhibited seed germination, and the inhibitory effect could be partially reversed by GA<INF>4</INF>, but not by GA<INF>3</INF>. Thus, dormancy in <E1>P. campanulata</E1> seeds is imposed by the covering layers. Dormancy break is accompanied by a decrease in ABA content of the covering layers and germination by an increase of embryonic GA<INF>4</INF> content.</P></ABS>
+<KWDG LANGUAGE="en"><KWD>abscisic acid</KWD>
+<KWD>cold and warm stratification</KWD>
+<KWD>endocarp</KWD>
+<KWD>fluridone</KWD>
+<KWD>germination</KWD>
+<KWD>gibberellins</KWD>
+<KWD>paclobutrazol</KWD>
+<KWD><E1>Prunus campanulata</E1></KWD>
+<KWD>seed coat</KWD>
+<KWD>seed dormancy</KWD></KWDG></GENHDR></ARTCON></HEADER></ARTICLE>
+
+<ARTICLE DTDVER="2.2" TYPE="HEAD"><HEADER><ISSUE><PINFO><PNM>Cambridge University Press</PNM>
+<LOC>Cambridge, UK</LOC></PINFO>
+<JINFO><JID>SSR</JID>
+<JTL>Seed Science Research</JTL>
+<JABT>Seed Sci. Res.</JABT>
+<ISSN>0960-2585</ISSN>
+<EISSN>1475-2735</EISSN></JINFO>
+<PUBINFO><VID>17</VID>
+<IID>1</IID>
+<CD YEAR="2007" MONTH="03"></CD></PUBINFO></ISSUE>
+<ARTCON><GENHDR LANGUAGE="EN"><ARTINFO><AID>38316</AID>
+<FTARTICLE>S0960258507383165a.pdf</FTARTICLE>
+<DOI>10.1017/S0960258507383165</DOI>
+<ALTID><PII>S0960258507383165</PII></ALTID>
+<ARTTY ARTTY="RA"><DISPART>Invited Research Opinion</DISPART>
+<PPCT COUNT="7"><PPF>3</PPF>
+<PPL>9</PPL>
+<CRN CRT="full">2007 Cambridge University Press</CRN>
+<HST><LIVE YEAR="2007" MONTH="03" DAY="16"><RE YEAR="2006" MONTH="07" DAY="12"><ACC YEAR="2006" MONTH="10" DAY="04"></ACC></RE></LIVE></HST></PPCT></ARTTY></ARTINFO>
+<TIG><ATL>Vapour is the principal source of water imbibed by seeds in unsaturated soils</ATL>
+<ATL PURPOSE="verso">S. Wuest</ATL>
+<ATL PURPOSE="recto">Imbibition of water vapour by seed</ATL></TIG>
+<AUG><AU><FNMS>Stewart</FNMS>
+<SNM>Wuest</SNM>
+<NORM>Wuest S</NORM>
+<ORF RID="a1"><ORF RID="c1"></ORF></ORF></AU>
+<AFF><OID ID="a1">USDA-ARS, PO Box 370, Pendleton, Oregon 97801, <CNY>USA</CNY></OID></AFF>
+<AFF TYPE="cor"><OID ID="c1">Correspondence: Fax: 541-278-4372 Email: <EAD>Stewart.Wuest@oregonstate.edu</EAD></OID></AFF></AUG>
+<ABS SOURCE="PR"><P>The assumption that seeds imbibe most of the water required for germination as liquid through seed-to-soil contact has been a dominant theme in germination research and seeding technology. Under most conditions, seeds are also exposed to water vapour during imbibition, but the relative contributions of liquid and vapour are difficult to assess. In water uptake models that include vapour, procedures used to estimate potential vapour imbibition have underappreciated the effect of distance on diffusion rate. At the same time, the amount of seed-to-soil contact and the liquid bridge from soil water to the seed tend to be greatly overestimated, considering the soil water contents often found in the field. Most researchers have recorded an approximately equal time to germination at soil water contents ranging from field capacity to nearly permanent wilting point, and little response to bulk density, soil type or seedsoil contact. While hydraulic conductivity decreases by several orders of magnitude as soil water content, bulk density and seed-contact decrease, relative humidity remains near 100%. There are several experiments demonstrating timely germination in water vapour alone. The combined evidence contradicts the assumption that seedsoil contact is important for imbibition of water by seeds. Water vapour should be considered the primary source of water for seeds in unsaturated soils.</P></ABS>
+<KWDG LANGUAGE="en"><KWD>germination</KWD>
+<KWD>hydraulic conductivity</KWD>
+<KWD>imbibition</KWD>
+<KWD>seedsoil contact</KWD>
+<KWD>water vapour</KWD></KWDG></GENHDR></ARTCON></HEADER></ARTICLE>
+
+<ARTICLE DTDVER="2.2" TYPE="HEAD"><HEADER><ISSUE><PINFO><PNM>Cambridge University Press</PNM>
+<LOC>Cambridge, UK</LOC></PINFO>
+<JINFO><JID>SSR</JID>
+<JTL>Seed Science Research</JTL>
+<JABT>Seed Sci. Res.</JABT>
+<ISSN>0960-2585</ISSN>
+<EISSN>1475-2735</EISSN></JINFO>
+<PUBINFO><VID>17</VID>
+<IID>1</IID>
+<CD YEAR="2007" MONTH="03"></CD></PUBINFO></ISSUE>
+<ARTCON><GENHDR LANGUAGE="EN"><ARTINFO><AID>65923</AID>
+<FTARTICLE>S0960258507659236a.pdf</FTARTICLE>
+<DOI>10.1017/S0960258507659236</DOI>
+<ALTID><PII>S0960258507659236</PII></ALTID>
+<ARTTY ARTTY="ED"><PPCT COUNT="1"><PPF>1</PPF>
+<PPL>1</PPL>
+<CRN CRT="full">2007 Cambridge University Press</CRN>
+<HST><LIVE YEAR="2007" MONTH="03" DAY="16"></LIVE></HST></PPCT></ARTTY></ARTINFO>
+<TIG><ATL>The News from Baton Rouge</ATL>
+<ATL PURPOSE="verso">Editorial</ATL>
+<ATL PURPOSE="recto">Editorial</ATL></TIG>
+<AUG><AU><FNMS>Marc</FNMS>
+<SNM>Alan Cohn</SNM>
+<NORM>Alan Cohn M</NORM>
+<ORF RID="a1"></ORF></AU>
+<AFF><OID ID="a1">Editor</OID></AFF></AUG></GENHDR></ARTCON></HEADER></ARTICLE>
+
+<ARTICLE DTDVER="2.2" TYPE="HEAD"><HEADER><ISSUE><PINFO><PNM>Cambridge University Press</PNM>
+<LOC>Cambridge, UK</LOC></PINFO>
+<JINFO><JID>SSR</JID>
+<JTL>Seed Science Research</JTL>
+<JABT>Seed Sci. Res.</JABT>
+<ISSN>0960-2585</ISSN>
+<EISSN>1475-2735</EISSN></JINFO>
+<PUBINFO><VID>17</VID>
+<IID>1</IID>
+<CD YEAR="2007" MONTH="03"></CD></PUBINFO></ISSUE>
+<ARTCON><GENHDR LANGUAGE="EN"><ARTINFO><AID>65921</AID>
+<FTARTICLE>S0960258507659212a.pdf</FTARTICLE>
+<DOI>10.1017/S0960258507659212</DOI>
+<ALTID><PII>S0960258507659212</PII></ALTID>
+<ARTTY ARTTY="RA"><PPCT COUNT="8"><PPF>55</PPF>
+<PPL>62</PPL>
+<CRN CRT="full">2007 Cambridge University Press</CRN>
+<HST><LIVE YEAR="2007" MONTH="03" DAY="16"><RE YEAR="2006" MONTH="08" DAY="02"><ACC YEAR="2006" MONTH="11" DAY="21"></ACC></RE></LIVE></HST></PPCT></ARTTY></ARTINFO>
+<TIG><ATL>Flooding induces secondary dormancy in <E1>Setaria parviflora</E1> seeds</ATL>
+<ATL PURPOSE="verso">F.P.O. Mollard <E1>et al.</E1></ATL>
+<ATL PURPOSE="recto">Flooding affects <E1>Setaria parviflora</E1> seed dormancy</ATL></TIG>
+<AUG><AU><FNMS>Federico P.O.</FNMS>
+<SNM>Mollard</SNM>
+<NORM>Mollard FP</NORM>
+<ORF RID="a1"><ORF RID="c1"></ORF></ORF></AU>
+<AU><FNMS>Pedro</FNMS>
+<SNM>Insausti</SNM>
+<NORM>Insausti P</NORM>
+<ORF RID="a1"></ORF></AU>
+<AU><FNMS>Rodolfo A.</FNMS>
+<SNM>Snchez</SNM>
+<NORM>Sanchez RA</NORM>
+<ORF RID="a1"></ORF></AU>
+<AFF><OID ID="a1">IFEVA-CONICET, Facultad de Agronoma, UBA, Av. San Martn 4453, C1417DSE, Buenos Aires, <CNY>Argentina</CNY></OID></AFF>
+<AFF TYPE="cor"><OID ID="c1">Correspondence Fax: +54 11 4514 8730 Email: <EAD>fmollard@ifeva.edu.ar</EAD></OID></AFF></AUG>
+<ABS SOURCE="PR"><P>The effect of flooding on the dormancy level of <E1>Setaria parviflora</E1> seeds from a non-flooded upland and a seasonally (winterspring) flooded lowland in the Pampa grasslands of Argentina was investigated. Seeds from both communities were subjected to reciprocal burial treatments in the two habitats, and exhumed during and after the flooding season. Effect of immersion in water at 5C was compared to incubation of seeds on the surface of water-saturated paper at the same temperature. After exhumation of the buried seeds or immersion treatments, germination was assayed at 25C and at 2030C in the dark or in combination with light. Burial in the lowland, which was flooded in winterspring, significantly reduced germination, while burial in the non-flooded upland did not reduce germination. Similarly, immersion in water at 5C significantly reduced germination compared to non-immersed controls. During summer, seeds buried in the lowland showed increased capacity to germinate, particularly when exposed to fluctuating temperatures or light. Thus, flooding induced secondary dormancy in <E1>S. parviflora</E1> seeds, and it was broken during the non-flooding season. These responses of the seeds would prevent germination until there was no further risk of flooding. Remarkably, in <E1>S. parviflora</E1> seeds harvested from both habitats, we observed essentially the same germination requirements after flooding. However, some slight differences were detected between the seed populations exhumed from the lowland site, indicating that flooding had larger effects on the seeds from the upland community. This suggests some differentiation of these populations evident only after flooding in the field.</P></ABS>
+<KWDG LANGUAGE="en"><KWD>flooding</KWD>
+<KWD>fluctuating temperatures</KWD>
+<KWD>germination</KWD>
+<KWD>grassland</KWD>
+<KWD>secondary dormancy</KWD>
+<KWD>seed dormancy</KWD>
+<KWD><E1>Setaria parviflora</E1></KWD></KWDG></GENHDR></ARTCON></HEADER></ARTICLE>
+
+<ARTICLE DTDVER="2.2" TYPE="HEAD"><HEADER><ISSUE><PINFO><PNM>Cambridge University Press</PNM>
+<LOC>Cambridge, UK</LOC></PINFO>
+<JINFO><JID>SSR</JID>
+<JTL>Seed Science Research</JTL>
+<JABT>Seed Sci. Res.</JABT>
+<ISSN>0960-2585</ISSN>
+<EISSN>1475-2735</EISSN></JINFO>
+<PUBINFO><VID>17</VID>
+<IID>1</IID>
+<CD YEAR="2007" MONTH="03"></CD></PUBINFO></ISSUE>
+<ARTCON><GENHDR LANGUAGE="EN"><ARTINFO><AID>38314</AID>
+<FTARTICLE>S0960258507383141a.pdf</FTARTICLE>
+<DOI>10.1017/S0960258507383141</DOI>
+<ALTID><PII>S0960258507383141</PII></ALTID>
+<ARTTY ARTTY="BR"><PPCT COUNT="1"><PPF>71</PPF>
+<PPL>71</PPL>
+<CRN CRT="full">2007 Cambridge University Press</CRN>
+<HST><LIVE YEAR="2007" MONTH="03" DAY="16"></LIVE></HST></PPCT></ARTTY></ARTINFO>
+<TIG><ATL>Seeds: Time Capsules of Life, KesselerRob and StuppyWolfgang. 0+000 pp. Papadakis Publishers, 
+London, UK. 2006. ISBN 1901092666 35. www.papadakis.net</ATL>
+<ATL PURPOSE="verso">Book Reviews</ATL>
+<ATL PURPOSE="recto">Book Reviews</ATL></TIG>
+<AUG><AU><FNMS>Ken</FNMS>
+<SNM>Thompson</SNM>
+<NORM>Thompson K</NORM>
+<ORF RID="a1"></ORF></AU>
+<AFF><OID ID="a1"><ONM>Department of Animal and Plant Sciences The University of Sheffield Western Bank</ONM>, Sheffield, S10 2TN, <CNY>UK</CNY></OID></AFF></AUG></GENHDR></ARTCON></HEADER></ARTICLE>
+
+<ARTICLE DTDVER="2.2" TYPE="HEAD"><HEADER><ISSUE><PINFO><PNM>Cambridge University Press</PNM>
+<LOC>Cambridge, UK</LOC></PINFO>
+<JINFO><JID>SSR</JID>
+<JTL>Seed Science Research</JTL>
+<JABT>Seed Sci. Res.</JABT>
+<ISSN>0960-2585</ISSN>
+<EISSN>1475-2735</EISSN></JINFO>
+<PUBINFO><VID>17</VID>
+<IID>1</IID>
+<CD YEAR="2007" MONTH="03"></CD></PUBINFO></ISSUE>
+<ARTCON><GENHDR LANGUAGE="EN"><ARTINFO><AID>65738</AID>
+<FTARTICLE>S0960258507657389a.pdf</FTARTICLE>
+<DOI>10.1017/S0960258507657389</DOI>
+<ALTID><PII>S0960258507657389</PII></ALTID>
+<ARTTY ARTTY="RA"><PPCT COUNT="11"><PPF>33</PPF>
+<PPL>43</PPL>
+<CRN CRT="full">2007 Cambridge University Press</CRN>
+<HST><LIVE YEAR="2007" MONTH="03" DAY="16"><RE YEAR="2006" MONTH="08" DAY="29"><ACC YEAR="2006" MONTH="11" DAY="11"></ACC></RE></LIVE></HST></PPCT></ARTTY></ARTINFO>
+<TIG><ATL>Quantifying the oxygen sensitivity of seed germination using a population-based threshold model</ATL>
+<ATL PURPOSE="verso">K.J. Bradford <E1>et al.</E1></ATL>
+<ATL PURPOSE="recto">Oxygen sensitivity of seed germination</ATL></TIG>
+<AUG><AU><FNMS>Kent J.</FNMS>
+<SNM>Bradford</SNM>
+<NORM>Bradford KJ</NORM>
+<ORF RID="a1"><ORF RID="c1"></ORF></ORF></AU>
+<AU><FNMS>Daniel</FNMS>
+<SNM>Cme</SNM>
+<NORM>Come D</NORM>
+<ORF RID="a2"></ORF></AU>
+<AU><FNMS>Franoise</FNMS>
+<SNM>Corbineau</SNM>
+<NORM>Corbineau F</NORM>
+<ORF RID="a2"></ORF></AU>
+<AFF><OID ID="a1">Department of Plant Sciences, One Shields Avenue, <ONM>University of California</ONM>, Davis, CA 95616-8780, <CNY>USA</CNY></OID></AFF>
+<AFF><OID ID="a2"><ONM>Universit Pierre et Marie Curie-Paris 6</ONM>, Physiologie Vgtale Applique, EA 2388 Physiologie des semences, Site dIvry, Bote 152, 4 Place Jussieu, F-75252 Paris, cedex 05, <CNY>France</CNY></OID></AFF>
+<AFF TYPE="cor"><OID ID="c1">Email: <EAD>kjbradford@ucdavis.edu</EAD></OID></AFF></AUG>
+<ABS SOURCE="PR"><P>Seeds vary widely in the sensitivity of germination to oxygen (O<INF>2</INF>) partial pressure, depending upon the species, temperature, dormancy state and physiological status of the seeds. Most analyses of the O<INF>2</INF> sensitivity of germination have focused on final germination percentages and estimated the O<INF>2</INF> percentage in air that is required to reduce germination to a given percentage (usually 50%). In contrast, we have applied a population-based threshold model utilizing time courses of germination to quantify three parameters related to seed germination sensitivity to O<INF>2</INF> availability: the median base (or threshold) O<INF>2</INF> percentage, the standard deviation of O<INF>2</INF> thresholds among seeds in the population, and an oxygentime constant that relates O<INF>2</INF> percentage to germination timing. The model fits germination responses accurately across a wide range of O<INF>2</INF> concentrations. The response to O<INF>2</INF> was logarithmic in all cases, with the O<INF>2</INF> percentage required for 50% germination ranging from 21% to as low as 0.005%, depending upon the species, the temperature and the seed dormancy level. Modelling indicated that some seeds can adapt to low O<INF>2</INF> percentages and shift their thresholds to lower values over time. Lower temperatures decreased the minimum O<INF>2</INF> threshold, as did after-ripening. Seed priming generally reduced the oxygentime constant and increased the standard deviation of germination responses, but had relatively little effect on the O<INF>2</INF> sensitivity <E1>per se</E1>. The population-based threshold model can be used to quantify the O<INF>2</INF> sensitivity of seed germination and to predict germination rates and percentages when O<INF>2</INF> availability is limiting.</P></ABS></GENHDR></ARTCON></HEADER></ARTICLE>
+
+<ARTICLE DTDVER="2.2" TYPE="HEAD"><HEADER><ISSUE><PINFO><PNM>Cambridge University Press</PNM>
+<LOC>Cambridge, UK</LOC></PINFO>
+<JINFO><JID>SSR</JID>
+<JTL>Seed Science Research</JTL>
+<JABT>Seed Sci. Res.</JABT>
+<ISSN>0960-2585</ISSN>
+<EISSN>1475-2735</EISSN></JINFO>
+<PUBINFO><VID>17</VID>
+<IID>1</IID>
+<CD YEAR="2007" MONTH="03"></CD></PUBINFO></ISSUE>
+<ARTCON><GENHDR LANGUAGE="EN"><ARTINFO><AID>38315</AID>
+<FTARTICLE>S0960258507383153a.pdf</FTARTICLE>
+<DOI>10.1017/S0960258507383153</DOI>
+<ALTID><PII>S0960258507383153</PII></ALTID>
+<ARTTY ARTTY="XX"><DISPART>Remembrance</DISPART>
+<PPCT COUNT="2"><PPF>69</PPF>
+<PPL>70</PPL>
+<CRN CRT="full">2007 Cambridge University Press</CRN>
+<HST><LIVE YEAR="2007" MONTH="03" DAY="16"></LIVE></HST></PPCT></ARTTY></ARTINFO>
+<TIG><ATL>Radomir M. Konjevi (1 August 194622 July 2006)</ATL>
+<ATL PURPOSE="verso">Remembrance</ATL>
+<ATL PURPOSE="recto">A tribute to Radomir M. Konjevi</ATL></TIG>
+<AUG><AU><FNMS>Dragoljub</FNMS>
+<SNM>Grubii</SNM>
+<NORM>Grubisic D</NORM>
+<ORF RID="a1"></ORF></AU>
+<AU><FNMS>Zlatko</FNMS>
+<SNM>Giba</SNM>
+<NORM>Giba Z</NORM>
+<ORF RID="a2"></ORF></AU>
+<AFF><OID ID="a1"><ONM>Institute for Biological Research Sinia Stankovi</ONM>, Belgrade, <CNY>Serbia</CNY></OID></AFF>
+<AFF><OID ID="a2"><ONM>Institute of Botany</ONM>, Faculty of Biology, Belgrade, <CNY>Serbia</CNY></OID></AFF></AUG></GENHDR></ARTCON></HEADER></ARTICLE>
+
+<ARTICLE DTDVER="2.2" TYPE="HEAD"><HEADER><ISSUE><PINFO><PNM>Cambridge University Press</PNM>
+<LOC>Cambridge, UK</LOC></PINFO>
+<JINFO><JID>SSR</JID>
+<JTL>Seed Science Research</JTL>
+<JABT>Seed Sci. Res.</JABT>
+<ISSN>0960-2585</ISSN>
+<EISSN>1475-2735</EISSN></JINFO>
+<PUBINFO><VID>17</VID>
+<IID>1</IID>
+<CD YEAR="2007" MONTH="03"></CD></PUBINFO></ISSUE>
+<ARTCON><GENHDR LANGUAGE="EN"><ARTINFO><AID>38317</AID>
+<FTARTICLE>S0960258507383177a.pdf</FTARTICLE>
+<DOI>10.1017/S0960258507383177</DOI>
+<ALTID><PII>S0960258507383177</PII></ALTID>
+<ARTTY ARTTY="BR"><PPCT COUNT="2"><PPF>71</PPF>
+<PPL>72</PPL>
+<CRN CRT="full">2007 Cambridge University Press</CRN>
+<HST><LIVE YEAR="2007" MONTH="03" DAY="16"></LIVE></HST></PPCT></ARTTY></ARTINFO>
+<TIG><ATL>Seed to Seed. The Secret Life of Plants, HarberdNicholas . 311 pp. (with illustrations by Polly Napper). 
+Bloomsbury Publishing, London, UK. 
+2006 ISBN 0-7475-7039-6 16.99 (hardback), (paperback available in early 2007)</ATL>
+<ATL PURPOSE="verso">Book Reviews</ATL>
+<ATL PURPOSE="recto">Book Reviews</ATL></TIG>
+<AUG><AU><FNMS>Michael</FNMS>
+<SNM>Black</SNM>
+<NORM>Black M</NORM>
+<ORF RID="a1"></ORF></AU>
+<AFF><OID ID="a1">Professor Emeritus Kings College, London Founding Editor, Seed Science Research</OID></AFF></AUG></GENHDR></ARTCON></HEADER></ARTICLE>
+
+<ARTICLE DTDVER="2.2" TYPE="HEAD"><HEADER><ISSUE><PINFO><PNM>Cambridge University Press</PNM>
+<LOC>Cambridge, UK</LOC></PINFO>
+<JINFO><JID>SSR</JID>
+<JTL>Seed Science Research</JTL>
+<JABT>Seed Sci. Res.</JABT>
+<ISSN>0960-2585</ISSN>
+<EISSN>1475-2735</EISSN></JINFO>
+<PUBINFO><VID>17</VID>
+<IID>1</IID>
+<CD YEAR="2007" MONTH="03"></CD></PUBINFO></ISSUE>
+<ARTCON><GENHDR LANGUAGE="EN"><ARTINFO><AID>38798</AID>
+<FTARTICLE>S0960258507387989a.pdf</FTARTICLE>
+<DOI>10.1017/S0960258507387989</DOI>
+<ALTID><PII>S0960258507387989</PII></ALTID>
+<ARTTY ARTTY="SC"><PPCT COUNT="5"><PPF>63</PPF>
+<PPL>67</PPL>
+<CRN CRT="full">2007 Cambridge University Press</CRN>
+<HST><LIVE YEAR="2007" MONTH="03" DAY="16"><RE YEAR="2006" MONTH="10" DAY="20"><ACC YEAR="2006" MONTH="11" DAY="08"></ACC></RE></LIVE></HST></PPCT></ARTTY></ARTINFO>
+<TIG><ATL>A new procedure for making observations of embryo morphology in dust-like seeds with rigid coats</ATL>
+<ATL PURPOSE="verso">de Vega and de Oliveira</ATL>
+<ATL PURPOSE="recto">Embryo observations in rigid-coated dust-like seeds</ATL></TIG>
+<AUG><AU><FNMS>Clara</FNMS>
+<SNM>de Vega</SNM>
+<NORM>de Vega C</NORM>
+<ORF RID="a1"><ORF RID="c1"></ORF></ORF></AU>
+<AU><FNMS>Renata Carmo</FNMS>
+<SNM>de Oliveira</SNM>
+<NORM>de Oliveira RC</NORM>
+<ORF RID="a2"></ORF></AU>
+<AFF><OID ID="a1">Departamento de Biologa Vegetal y Ecologa, <ONM>Universidad de Sevilla</ONM>, Apdo. 1095, 41080-Sevilla, <CNY>Spain</CNY></OID></AFF>
+<AFF><OID ID="a2"><ONM>Institute de Biologia</ONM>, Universidade Federal de Uberlndia, Caixa Postal 593, Uberlndia, MG, 38400-902, <CNY>Brazil</CNY></OID></AFF>
+<AFF TYPE="cor"><OID ID="c1">Correspondence: Email: <EAD>cvega@us.es</EAD></OID></AFF></AUG>
+<ABS SOURCE="PR"><P>Observing the embryo in dust-like seeds with a rigid coat presents a particular challenge, because it is not possible to use conventional techniques applied to normal-sized seeds. A new combination of softening and clearing techniques, which is remarkably effective for direct observations of embryos in minute seeds, is reported here. Moreover, no special seed treatment is required prior to application of this combination of techniques, and good results are obtained from living and preserved material. Dust-like seeds of <E1>Cytinus hypocistis</E1> and <E1>Cytinus ruber</E1> with a rigid coat were treated successively with Franklins and with Jeffreys softening fluids, and then with Herrs clearing fluid. The combined action of the two softening fluids caused sufficient seed coat rupture to allow Herrs fluid to clear seed tissues, permitting effective observation of the embryo. This technique should be applicable to a wide range of species with dust-like seeds, and its possibilities for biological studies are numerous.</P></ABS>
+<KWDG LANGUAGE="en"><KWD>clearing technique</KWD>
+<KWD><E1>Cytinus</E1></KWD>
+<KWD>dust-like seeds</KWD>
+<KWD>embryo visualization</KWD>
+<KWD>holoparasitic plants</KWD>
+<KWD>rigid-coated seeds</KWD></KWDG></GENHDR></ARTCON></HEADER></ARTICLE>
+
+<ARTICLE DTDVER="2.2" TYPE="HEAD"><HEADER><ISSUE><PINFO><PNM>Cambridge University Press</PNM>
+<LOC>Cambridge, UK</LOC></PINFO>
+<JINFO><JID>SSR</JID>
+<JTL>Seed Science Research</JTL>
+<JABT>Seed Sci. Res.</JABT>
+<ISSN>0960-2585</ISSN>
+<EISSN>1475-2735</EISSN></JINFO>
+<PUBINFO><VID>17</VID>
+<IID>1</IID>
+<CD YEAR="2007" MONTH="03"></CD></PUBINFO></ISSUE>
+<ARTCON><GENHDR LANGUAGE="EN"><ARTINFO><AID>38318</AID>
+<FTARTICLE>S0960258507383189a.pdf</FTARTICLE>
+<DOI>10.1017/S0960258507383189</DOI>
+<ALTID><PII>S0960258507383189</PII></ALTID>
+<ARTTY ARTTY="RA"><DISPART>Research Analysis</DISPART>
+<PPCT COUNT="10"><PPF>11</PPF>
+<PPL>20</PPL>
+<CRN CRT="full">2007 Cambridge University Press</CRN>
+<HST><LIVE YEAR="2007" MONTH="03" DAY="16"><RE YEAR="2006" MONTH="05" DAY="07"><ACC YEAR="2006" MONTH="10" DAY="22"></ACC></RE></LIVE></HST></PPCT></ARTTY></ARTINFO>
+<TIG><ATL>A revision of Martins seed classification system, with particular reference to his dwarf-seed type</ATL>
+<ATL PURPOSE="verso">C.C. Baskin and J.M. Baskin</ATL>
+<ATL PURPOSE="recto">A revision of Martins seed classification system</ATL></TIG>
+<AUG><AU><FNMS>Carol C.</FNMS>
+<SNM>Baskin</SNM>
+<NORM>Baskin CC</NORM>
+<ORF RID="a1"><ORF RID="a2"><ORF RID="c1"></ORF></ORF></ORF></AU>
+<AU><FNMS>Jerry M.</FNMS>
+<SNM>Baskin</SNM>
+<NORM>Baskin JM</NORM>
+<ORF RID="a1"></ORF></AU>
+<AFF><OID ID="a1">Department of Biology, <ONM>University of Kentucky</ONM>, Lexington, KY 40506-0225, <CNY>USA</CNY></OID></AFF>
+<AFF><OID ID="a2">Department of Plant and Soil Sciences, <ONM>University of Kentucky</ONM>, Lexington, KY 40546-0312, <CNY>USA</CNY></OID></AFF>
+<AFF TYPE="cor"><OID ID="c1">Correspondence: Fax: +1 859 257 1717 Email: <EAD>ccbask0@uky.edu</EAD></OID></AFF></AUG>
+<ABS SOURCE="PR"><P>Martins () seed classification system has 10 types based on embryo and endosperm characteristics and two additional types based on seed size: dwarf (0.32.0mm) and micro (0.2mm). He listed 17 families and 12 genera (in five other families) as having dwarf seeds. Our recent discovery of morphophysiological dormancy in dwarf seeds of several taxa of <E1>Campanulaceae</E1> and one of <E1>Gentianaceae</E1> prompted an evaluation of dwarf seeds. Martins paper contains 37 families with one to several small (0.32.0mm) seeded species that he did not list as being dwarf. Comparison of Martins dwarf families and the 37 small-seeded non-dwarf families revealed no consistent differences between the two groups in endosperm texture, seed-coat anatomy, embryo morphology, class of seed dormancy or phylogenetic position. Also, Martins dwarf seeds include a variety of embryo morphologies. Consequently, we have revised Martins key to seed types. The dwarf category has been removed and the micro category replaced by undifferentiated to reflect the state of the embryo in fresh seeds. Further, the key now includes linear fully developed, linear underdeveloped, spatulate fully developed and spatulate underdeveloped seed types, which Martin illustrated but did not include in his key. In the revised key, all seeds are distinguished on the basis of embryo and endosperm characteristics.</P></ABS>
+<KWDG LANGUAGE="en"><KWD>dwarf seeds</KWD>
+<KWD>embryo morphology</KWD>
+<KWD>endosperm characteristics</KWD>
+<KWD>key to seed types</KWD>
+<KWD>seed classification system</KWD>
+<KWD>seed size</KWD></KWDG></GENHDR></ARTCON></HEADER></ARTICLE>
+
+<ARTICLE DTDVER="2.2" TYPE="HEAD"><HEADER><ISSUE><PINFO><PNM>Cambridge University Press</PNM>
+<LOC>Cambridge, UK</LOC></PINFO>
+<JINFO><JID>SSR</JID>
+<JTL>Seed Science Research</JTL>
+<JABT>Seed Sci. Res.</JABT>
+<ISSN>0960-2585</ISSN>
+<EISSN>1475-2735</EISSN></JINFO>
+<PUBINFO><VID>17</VID>
+<IID>1</IID>
+<CD YEAR="2007" MONTH="03"></CD></PUBINFO></ISSUE>
+<ARTCON><GENHDR LANGUAGE="EN"><ARTINFO><AID>62943</AID>
+<FTARTICLE>S0960258507629432a.pdf</FTARTICLE>
+<DOI>10.1017/S0960258507629432</DOI>
+<ALTID><PII>S0960258507629432</PII></ALTID>
+<ARTTY ARTTY="RA"><PPCT COUNT="9"><PPF>45</PPF>
+<PPL>53</PPL>
+<CRN CRT="full">2007 Cambridge University Press</CRN>
+<HST><LIVE YEAR="2007" MONTH="03" DAY="16"><RE YEAR="2006" MONTH="01" DAY="11"><ACC YEAR="2006" MONTH="11" DAY="20"></ACC></RE></LIVE></HST></PPCT></ARTTY></ARTINFO>
+<TIG><ATL>Age-related biochemical changes during storage of beech (<E1>Fagus sylvatica</E1> L.) seeds</ATL>
+<ATL PURPOSE="verso">S. Pukacka and E. Ratajczak</ATL>
+<ATL PURPOSE="recto">Seed storage and viability of <E1>Fagus sylvatica</E1></ATL></TIG>
+<AUG><AU><FNMS>Stanislawa</FNMS>
+<SNM>Pukacka</SNM>
+<NORM>Pukacka S</NORM>
+<ORF RID="a1"><ORF RID="c1"></ORF></ORF></AU>
+<AU><FNMS>Ewelina</FNMS>
+<SNM>Ratajczak</SNM>
+<NORM>Ratajczak E</NORM>
+<ORF RID="a1"></ORF></AU>
+<AFF><OID ID="a1"><ONM>Institute of Dendrology</ONM>, Polish Academy of Sciences, Seed Biochemistry Lab, 62-035 Krnik, <CNY>Poland</CNY></OID></AFF>
+<AFF TYPE="cor"><OID ID="c1">Correspondence Email: <EAD>spukacka@man.poznan.pl</EAD></OID></AFF></AUG>
+<ABS SOURCE="PR"><P>Substances that could play a role in maintaining seed viability (phenolic compounds, -tocopherol, sterols, ascorbic acid, glutathione and soluble proteins) were estimated in beech (<E1>Fagus sylvatica</E1> L.) seed lots that had been stored for 2, 5, 7 and 10 years at 10C. Germination capacity was strongly and positively correlated with amounts of total phenolic compounds, ultraviolet (UV)-absorbing phenols and soluble proteins. Moderately strong relationships appeared between germination capacity and -tocopherol and ascorbic acid contents. Total sterol and glutathione contents were not correlated with germination capacity. A strong, negative correlation was found between germination capacity and reactive oxygen species (ROS), such as superoxide radical (<FORMULA ID="d0e176"><FORMTEX>O _{2}^{\cdot  - }</FORMTEX></FORMULA>) and hydrogen peroxide (H<INF>2</INF>O<INF>2</INF>), as well as with lipid hydroxyperoxides (LHPOs). The putative role of these compounds in the maintenance of beech seed viability during long-term storage is discussed.</P></ABS>
+<KWDG LANGUAGE="en"><KWD>ascorbic acid</KWD>
+<KWD><E1>Fagus sylvatica</E1></KWD>
+<KWD>germination</KWD>
+<KWD>glutathione</KWD>
+<KWD>phenolics</KWD>
+<KWD>reactive oxygen species</KWD>
+<KWD>seed viability</KWD>
+<KWD>-tocopherol</KWD></KWDG></GENHDR></ARTCON></HEADER></ARTICLE>
+</collection>

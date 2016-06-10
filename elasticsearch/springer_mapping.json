@@ -1,0 +1,1002 @@
+{
+  "settings": {
+    "analysis": {
+      "analyzer": {
+        "trimmer": {
+          "type": "custom",
+          "filter": [ "trim" ],
+          "tokenizer": "keyword"
+        }
+      }
+    }
+  },
+  "mappings": {
+    "article": {
+      "properties": {
+        "Journal": {
+          "properties": {
+            "JournalInfo": {
+              "properties": {
+                "JournalAbbreviatedTitle": {
+                  "properties": {
+                    "value": {
+                      "type": "string",
+                      "analyzer": "trimmer"
+                    }
+                  }
+                },
+                "JournalDOI": {
+                  "properties": {
+                    "value": {
+                      "type": "string",
+                      "analyzer": "trimmer"
+                    }
+                  }
+                },
+                "JournalElectronicISSN": {
+                  "properties": {
+                    "value": {
+                      "type": "string",
+                      "analyzer": "trimmer"
+                    }
+                  }
+                },
+                "JournalID": {
+                  "properties": {
+                    "value": {
+                      "type": "integer",
+                      "analyzer": "trimmer"
+                    }
+                  }
+                },
+                "JournalPrintISSN": {
+                  "properties": {
+                    "value": {
+                      "type": "string",
+                      "analyzer": "trimmer"
+                    }
+                  }
+                },
+                "JournalProductType": {
+                  "type": "string"
+                },
+                "JournalSubjectGroup": {
+                  "properties": {
+                    "JournalSubject": {
+                      "properties": {
+                        "Code": {
+                          "type": "string"
+                        },
+                        "Priority": {
+                          "type": "string"
+                        },
+                        "Type": {
+                          "type": "string"
+                        },
+                        "value": {
+                          "type": "string"
+                        }
+                      }
+                    },
+                    "SubjectCollection": {
+                      "properties": {
+                        "Code": {
+                          "type": "string"
+                        },
+                        "value": {
+                          "type": "string"
+                        }
+                      }
+                    }
+                  }
+                },
+                "JournalTitle": {
+                  "properties": {
+                    "value": {
+                      "type": "string",
+                      "analyzer": "trimmer"
+                    }
+                  }
+                },
+                "NumberingStyle": {
+                  "type": "string"
+                }
+              }
+            },
+            "OutputMedium": {
+              "type": "string"
+            },
+            "Volume": {
+              "properties": {
+                "Issue": {
+                  "properties": {
+                    "Article": {
+                      "properties": {
+                        "ArticleHeader": {
+                          "properties": {
+                            "AbbreviationGroup": {
+                              "properties": {
+                                "DefinitionList": {
+                                  "properties": {
+                                    "DefinitionListEntry": {
+                                      "properties": {
+                                        "Description": {
+                                          "properties": {
+                                            "Para": {
+                                              "properties": {
+                                                "ID": {
+                                                  "type": "string"
+                                                },
+                                                "value": {
+                                                  "type": "string"
+                                                }
+                                              }
+                                            }
+                                          }
+                                        },
+                                        "Term": {
+                                          "properties": {
+                                            "Subscript": {
+                                              "properties": {
+                                                "value": {
+                                                  "type": "string"
+                                                }
+                                              }
+                                            },
+                                            "value": {
+                                              "type": "string"
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                },
+                                "Heading": {
+                                  "properties": {
+                                    "value": {
+                                      "type": "string"
+                                    }
+                                  }
+                                }
+                              }
+                            },
+                            "Abstract": {
+                              "properties": {
+                                "Heading": {
+                                  "properties": {
+                                    "value": {
+                                      "type": "string"
+                                    }
+                                  }
+                                },
+                                "ID": {
+                                  "type": "string"
+                                },
+                                "Language": {
+                                  "type": "string"
+                                },
+                                "OutputMedium": {
+                                  "type": "string"
+                                },
+                                "Para": {
+                                  "properties": {
+                                    "Emphasis": {
+                                      "properties": {
+                                        "Type": {
+                                          "type": "string"
+                                        },
+                                        "value": {
+                                          "type": "string"
+                                        }
+                                      }
+                                    },
+                                    "ID": {
+                                      "type": "string"
+                                    },
+                                    "Subscript": {
+                                      "properties": {
+                                        "Emphasis": {
+                                          "properties": {
+                                            "Type": {
+                                              "type": "string"
+                                            },
+                                            "value": {
+                                              "type": "string"
+                                            }
+                                          }
+                                        },
+                                        "value": {
+                                          "type": "string"
+                                        }
+                                      }
+                                    },
+                                    "Superscript": {
+                                      "properties": {
+                                        "Emphasis": {
+                                          "properties": {
+                                            "Type": {
+                                              "type": "string"
+                                            },
+                                            "value": {
+                                              "type": "string"
+                                            }
+                                          }
+                                        },
+                                        "value": {
+                                          "type": "string"
+                                        }
+                                      }
+                                    },
+                                    "value": {
+                                      "type": "string"
+                                    }
+                                  }
+                                }
+                              }
+                            },
+                            "ArticleNote": {
+                              "properties": {
+                                "Heading": {
+                                  "properties": {
+                                    "value": {
+                                      "type": "string"
+                                    }
+                                  }
+                                },
+                                "SimplePara": {
+                                  "properties": {
+                                    "Emphasis": {
+                                      "properties": {
+                                        "Type": {
+                                          "type": "string"
+                                        },
+                                        "value": {
+                                          "type": "string"
+                                        }
+                                      }
+                                    },
+                                    "ExternalRef": {
+                                      "properties": {
+                                        "RefSource": {
+                                          "properties": {
+                                            "value": {
+                                              "type": "string"
+                                            }
+                                          }
+                                        },
+                                        "RefTarget": {
+                                          "properties": {
+                                            "Address": {
+                                              "type": "string"
+                                            },
+                                            "TargetType": {
+                                              "type": "string"
+                                            }
+                                          }
+                                        }
+                                      }
+                                    },
+                                    "value": {
+                                      "type": "string"
+                                    }
+                                  }
+                                },
+                                "Type": {
+                                  "type": "string"
+                                }
+                              }
+                            },
+                            "AuthorGroup": {
+                              "properties": {
+                                "Affiliation": {
+                                  "properties": {
+                                    "ID": {
+                                      "type": "string"
+                                    },
+                                    "OrgAddress": {
+                                      "properties": {
+                                        "City": {
+                                          "properties": {
+                                            "value": {
+                                              "type": "string",
+                                              "analyzer": "trimmer"
+                                            }
+                                          }
+                                        },
+                                        "Country": {
+                                          "properties": {
+                                            "Code": {
+                                              "type": "string"
+                                            },
+                                            "value": {
+                                              "type": "string",
+                                              "analyzer": "trimmer"
+                                            }
+                                          }
+                                        },
+                                        "Postbox": {
+                                          "properties": {
+                                            "value": {
+                                              "type": "string"
+                                            }
+                                          }
+                                        },
+                                        "Postcode": {
+                                          "properties": {
+                                            "value": {
+                                              "type": "string",
+                                              "analyzer": "trimmer"
+                                            }
+                                          }
+                                        },
+                                        "State": {
+                                          "properties": {
+                                            "value": {
+                                              "type": "string"
+                                            }
+                                          }
+                                        },
+                                        "Street": {
+                                          "properties": {
+                                            "value": {
+                                              "type": "string"
+                                            }
+                                          }
+                                        }
+                                      }
+                                    },
+                                    "OrgDivision": {
+                                      "properties": {
+                                        "value": {
+                                          "type": "string"
+                                        }
+                                      }
+                                    },
+                                    "OrgName": {
+                                      "properties": {
+                                        "value": {
+                                          "type": "string"
+                                        }
+                                      }
+                                    }
+                                  }
+                                },
+                                "Author": {
+                                  "properties": {
+                                    "AffiliationIDS": {
+                                      "type": "string"
+                                    },
+                                    "AuthorName": {
+                                      "properties": {
+                                        "Degrees": {
+                                          "properties": {
+                                            "value": {
+                                              "type": "string"
+                                            }
+                                          }
+                                        },
+                                        "DisplayOrder": {
+                                          "type": "string"
+                                        },
+                                        "FamilyName": {
+                                          "properties": {
+                                            "value": {
+                                              "type": "string"
+                                            }
+                                          }
+                                        },
+                                        "GivenName": {
+                                          "properties": {
+                                            "value": {
+                                              "type": "string"
+                                            }
+                                          }
+                                        },
+                                        "NoGivenName": {
+                                          "type": "string"
+                                        },
+                                        "Particle": {
+                                          "properties": {
+                                            "value": {
+                                              "type": "string"
+                                            }
+                                          }
+                                        },
+                                        "Prefix": {
+                                          "properties": {
+                                            "value": {
+                                              "type": "string"
+                                            }
+                                          }
+                                        },
+                                        "Suffix": {
+                                          "properties": {
+                                            "value": {
+                                              "type": "string"
+                                            }
+                                          }
+                                        }
+                                      }
+                                    },
+                                    "Contact": {
+                                      "properties": {
+                                        "Email": {
+                                          "properties": {
+                                            "value": {
+                                              "type": "string"
+                                            }
+                                          }
+                                        },
+                                        "Fax": {
+                                          "properties": {
+                                            "value": {
+                                              "type": "string"
+                                            }
+                                          }
+                                        },
+                                        "Phone": {
+                                          "properties": {
+                                            "value": {
+                                              "type": "string"
+                                            }
+                                          }
+                                        }
+                                      }
+                                    },
+                                    "CorrespondingAffiliationID": {
+                                      "type": "string"
+                                    },
+                                    "ID": {
+                                      "type": "string"
+                                    }
+                                  }
+                                },
+                                "InstitutionalAuthor": {
+                                  "properties": {
+                                    "InstitutionalAuthorName": {
+                                      "properties": {
+                                        "value": {
+                                          "type": "string"
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            },
+                            "KeywordGroup": {
+                              "properties": {
+                                "Heading": {
+                                  "properties": {
+                                    "value": {
+                                      "type": "string"
+                                    }
+                                  }
+                                },
+                                "Keyword": {
+                                  "properties": {
+                                    "Emphasis": {
+                                      "properties": {
+                                        "Type": {
+                                          "type": "string"
+                                        },
+                                        "value": {
+                                          "type": "string"
+                                        }
+                                      }
+                                    },
+                                    "Subscript": {
+                                      "properties": {
+                                        "value": {
+                                          "type": "string"
+                                        }
+                                      }
+                                    },
+                                    "value": {
+                                      "type": "string"
+                                    }
+                                  }
+                                },
+                                "Language": {
+                                  "type": "string"
+                                },
+                                "OutputMedium": {
+                                  "type": "string"
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "ArticleInfo": {
+                          "properties": {
+                            "ArticleCategory": {
+                              "properties": {
+                                "value": {
+                                  "type": "string"
+                                }
+                              }
+                            },
+                            "ArticleCollection": {
+                              "properties": {
+                                "ArticleCollectionEditor": {
+                                  "properties": {
+                                    "value": {
+                                      "type": "string"
+                                    }
+                                  }
+                                },
+                                "ArticleCollectionTitle": {
+                                  "properties": {
+                                    "value": {
+                                      "type": "string"
+                                    }
+                                  }
+                                },
+                                "ID": {
+                                  "type": "string"
+                                }
+                              }
+                            },
+                            "ArticleCopyright": {
+                              "properties": {
+                                "CopyrightHolderName": {
+                                  "properties": {
+                                    "value": {
+                                      "type": "string"
+                                    }
+                                  }
+                                },
+                                "CopyrightYear": {
+                                  "properties": {
+                                    "value": {
+                                      "type": "string"
+                                    }
+                                  }
+                                }
+                              }
+                            },
+                            "ArticleDOI": {
+                              "type": "string",
+                              "analyzer": "trimmer"
+                            },
+                            "ArticleFirstPage": {
+                              "properties": {
+                                "value": {
+                                  "type": "string"
+                                }
+                              }
+                            },
+                            "ArticleGrants": {
+                              "properties": {
+                                "AbstractGrant": {
+                                  "properties": {
+                                    "Grant": {
+                                      "type": "string",
+                                      "analyzer": "trimmer"
+                                    }
+                                  }
+                                },
+                                "BibliographyGrant": {
+                                  "properties": {
+                                    "Grant": {
+                                      "type": "string",
+                                      "analyzer": "trimmer"
+                                    }
+                                  }
+                                },
+                                "BodyHTMLGrant": {
+                                  "properties": {
+                                    "Grant": {
+                                      "type": "string",
+                                      "analyzer": "trimmer"
+                                    }
+                                  }
+                                },
+                                "BodyPDFGrant": {
+                                  "properties": {
+                                    "Grant": {
+                                      "type": "string",
+                                      "analyzer": "trimmer"
+                                    }
+                                  }
+                                },
+                                "ESMGrant": {
+                                  "properties": {
+                                    "Grant": {
+                                      "type": "string",
+                                      "analyzer": "trimmer"
+                                    }
+                                  }
+                                },
+                                "MetadataGrant": {
+                                  "properties": {
+                                    "Grant": {
+                                      "type": "string",
+                                      "analyzer": "trimmer"
+                                    }
+                                  }
+                                },
+                                "Type": {
+                                  "type": "string"
+                                }
+                              }
+                            },
+                            "ArticleHistory": {
+                              "properties": {
+                                "OnlineDate": {
+                                  "properties": {
+                                    "Day": {
+                                      "properties": {
+                                        "value": {
+                                          "type": "string"
+                                        }
+                                      }
+                                    },
+                                    "Month": {
+                                      "properties": {
+                                        "value": {
+                                          "type": "string"
+                                        }
+                                      }
+                                    },
+                                    "Year": {
+                                      "properties": {
+                                        "value": {
+                                          "type": "short",
+                                          "analyzer": "trimmer"
+                                        }
+                                      }
+                                    }
+                                  }
+                                },
+                                "RegistrationDate": {
+                                  "properties": {
+                                    "Day": {
+                                      "properties": {
+                                        "value": {
+                                          "type": "string"
+                                        }
+                                      }
+                                    },
+                                    "Month": {
+                                      "properties": {
+                                        "value": {
+                                          "type": "string"
+                                        }
+                                      }
+                                    },
+                                    "Year": {
+                                      "properties": {
+                                        "value": {
+                                          "type": "short",
+                                          "analyzer": "trimmer"
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            },
+                            "ArticleID": {
+                              "properties": {
+                                "value": {
+                                  "type": "string"
+                                }
+                              }
+                            },
+                            "ArticleLastPage": {
+                              "properties": {
+                                "value": {
+                                  "type": "string"
+                                }
+                              }
+                            },
+                            "ArticleRelatedObject": {
+                              "properties": {
+                                "RelatedObjectDOI": {
+                                  "properties": {
+                                    "value": {
+                                      "type": "string"
+                                    }
+                                  }
+                                },
+                                "RelatedObjectType": {
+                                  "type": "string"
+                                }
+                              }
+                            },
+                            "ArticleSequenceNumber": {
+                              "properties": {
+                                "value": {
+                                  "type": "string"
+                                }
+                              }
+                            },
+                            "ArticleSubTitle": {
+                              "properties": {
+                                "Emphasis": {
+                                  "properties": {
+                                    "Type": {
+                                      "type": "string"
+                                    },
+                                    "value": {
+                                      "type": "string"
+                                    }
+                                  }
+                                },
+                                "Language": {
+                                  "type": "string"
+                                },
+                                "value": {
+                                  "type": "string"
+                                }
+                              }
+                            },
+                            "ArticleTitle": {
+                              "properties": {
+                                "Emphasis": {
+                                  "properties": {
+                                    "Type": {
+                                      "type": "string"
+                                    },
+                                    "value": {
+                                      "type": "string"
+                                    }
+                                  }
+                                },
+                                "Language": {
+                                  "type": "string"
+                                },
+                                "OutputMedium": {
+                                  "type": "string"
+                                },
+                                "Subscript": {
+                                  "properties": {
+                                    "value": {
+                                      "type": "string"
+                                    }
+                                  }
+                                },
+                                "Superscript": {
+                                  "properties": {
+                                    "value": {
+                                      "type": "string"
+                                    }
+                                  }
+                                },
+                                "value": {
+                                  "type": "string"
+                                }
+                              }
+                            },
+                            "ArticleType": {
+                              "type": "string"
+                            },
+                            "ContainsESM": {
+                              "type": "string"
+                            },
+                            "Language": {
+                              "type": "string"
+                            },
+                            "NumberingStyle": {
+                              "type": "string"
+                            },
+                            "TocLevels": {
+                              "type": "string"
+                            }
+                          }
+                        },
+                        "ID": {
+                          "type": "string"
+                        },
+                        "NoBody": {
+                          "type": "string"
+                        },
+                        "OutputMedium": {
+                          "type": "string"
+                        }
+                      }
+                    },
+                    "IssueInfo": {
+                      "properties": {
+                        "IssueArticleCount": {
+                          "properties": {
+                            "value": {
+                              "type": "string"
+                            }
+                          }
+                        },
+                        "IssueCopyright": {
+                          "properties": {
+                            "CopyrightHolderName": {
+                              "properties": {
+                                "value": {
+                                  "type": "string"
+                                }
+                              }
+                            },
+                            "CopyrightYear": {
+                              "properties": {
+                                "value": {
+                                  "type": "string"
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "IssueHistory": {
+                          "properties": {
+                            "CoverDate": {
+                              "properties": {
+                                "Month": {
+                                  "properties": {
+                                    "value": {
+                                      "type": "string"
+                                    }
+                                  }
+                                },
+                                "Year": {
+                                  "properties": {
+                                    "value": {
+                                      "type": "short",
+                                      "analyzer": "trimmer"
+                                    }
+                                  }
+                                }
+                              }
+                            },
+                            "OnlineDate": {
+                              "properties": {
+                                "Day": {
+                                  "properties": {
+                                    "value": {
+                                      "type": "string"
+                                    }
+                                  }
+                                },
+                                "Month": {
+                                  "properties": {
+                                    "value": {
+                                      "type": "string"
+                                    }
+                                  }
+                                },
+                                "Year": {
+                                  "properties": {
+                                    "value": {
+                                      "type": "short",
+                                      "analyzer": "trimmer"
+                                    }
+                                  }
+                                }
+                              }
+                            },
+                            "PricelistYear": {
+                              "properties": {
+                                "value": {
+                                  "type": "short",
+                                  "analyzer": "trimmer"
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "IssueIDEnd": {
+                          "properties": {
+                            "value": {
+                              "type": "integer",
+                                 "analyzer": "trimmer"
+                            }
+                          }
+                        },
+                        "IssueIDStart": {
+                          "properties": {
+                            "value": {
+                              "type": "integer",
+                                 "analyzer": "trimmer"
+                            }
+                          }
+                        },
+                        "IssueTitle": {
+                          "properties": {
+                            "Language": {
+                              "type": "string"
+                            },
+                            "value": {
+                              "type": "string"
+                            }
+                          }
+                        },
+                        "IssueType": {
+                          "type": "string"
+                        },
+                        "TocLevels": {
+                          "type": "string"
+                        }
+                      }
+                    },
+                    "IssueType": {
+                      "type": "string"
+                    },
+                    "OutputMedium": {
+                      "type": "string"
+                    }
+                  }
+                },
+                "OutputMedium": {
+                  "type": "string"
+                },
+                "VolumeInfo": {
+                  "properties": {
+                    "TocLevels": {
+                      "type": "string"
+                    },
+                    "VolumeIDEnd": {
+                      "properties": {
+                        "value": {
+                          "type": "integer",
+                          "analyzer": "trimmer"
+                        }
+                      }
+                    },
+                    "VolumeIDStart": {
+                      "properties": {
+                        "value": {
+                          "type": "integer",
+                          "analyzer": "trimmer"
+                        }
+                      }
+                    },
+                    "VolumeIssueCount": {
+                      "properties": {
+                        "value": {
+                          "type": "string"
+                        }
+                      }
+                    },
+                    "VolumeType": {
+                      "type": "string"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "PublisherInfo": {
+          "properties": {
+            "PublisherImprintName": {
+              "properties": {
+                "value": {
+                  "type": "string"
+                }
+              }
+            },
+            "PublisherLocation": {
+              "properties": {
+                "value": {
+                  "type": "string"
+                }
+              }
+            },
+            "PublisherName": {
+              "properties": {
+                "value": {
+                  "type": "string"
+                }
+              }
+            },
+            "PublisherURL": {
+              "properties": {
+                "value": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

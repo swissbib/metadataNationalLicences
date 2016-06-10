@@ -1,0 +1,614 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<collection>
+
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="research-article" dtd-version="1.0" xml:lang="en">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">DSJ</journal-id>
+         <journal-title-group>
+            <journal-title xml:lang="en">Design Science</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">Des. Sci.</abbrev-journal-title>
+         </journal-title-group>
+         <issn pub-type="epub">2053-4701</issn>
+         <publisher>
+            <publisher-name>Cambridge University Press</publisher-name>
+            <publisher-loc>Cambridge, UK</publisher-loc>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="publisher-id">00004</article-id>
+         <article-id pub-id-type="doi">10.1017/dsj.2015.4</article-id>
+         <article-id pub-id-type="pii">S2053470115000049</article-id>
+         <title-group>
+            <article-title>How do designers generate new ideas? Design heuristics across two disciplines</article-title>
+            <alt-title alt-title-type="right-running">Design heuristics across two disciplines</alt-title>
+            <alt-title alt-title-type="left-running">S. Yilmaz <italic>et al.</italic>
+            </alt-title>
+         </title-group>
+         <contrib-group content-type="authors">
+            <contrib>
+               <name name-style="western">
+                  <surname>Yilmaz</surname>
+                  <given-names>Seda</given-names>
+               </name>
+               <xref ref-type="aff" rid="a1">
+                  <sup>1</sup>
+               </xref>
+            </contrib>
+            <contrib>
+               <name name-style="western">
+                  <surname>Daly</surname>
+                  <given-names>Shanna R.</given-names>
+               </name>
+               <xref ref-type="aff" rid="a2">
+                  <sup>2</sup>
+               </xref>
+            </contrib>
+            <contrib>
+               <name name-style="western">
+                  <surname>Seifert</surname>
+                  <given-names>Colleen M.</given-names>
+               </name>
+               <xref ref-type="aff" rid="a3">
+                  <sup>3</sup>
+               </xref>
+               <xref ref-type="corresp" rid="cor1"/>
+            </contrib>
+            <contrib>
+               <name name-style="western">
+                  <surname>Gonzalez</surname>
+                  <given-names>Richard</given-names>
+               </name>
+               <xref ref-type="aff" rid="a3">
+                  <sup>3</sup>
+               </xref>
+            </contrib>
+         </contrib-group>
+         <aff id="a1">
+            <label>1</label>
+            <addr-line>Department of Industrial Design</addr-line>, <institution>Iowa State University</institution>,  <addr-line>158 College of Design</addr-line>,  <addr-line>Ames</addr-line>,  <addr-line>IA 50011</addr-line>, <institution>USA</institution> 
+         </aff>
+         <aff id="a2">
+            <label>2</label>
+            <addr-line>Department of Mechanical Engineering</addr-line>,  <addr-line>2350 Hayward</addr-line>, <institution>University of Michigan</institution>,  <addr-line>Ann Arbor</addr-line>,  <addr-line>MI 48109-2125</addr-line>, <institution>USA</institution> 
+         </aff>
+         <aff id="a3">
+            <label>3</label>
+            <addr-line>Department of Psychology</addr-line>,  <addr-line>530 Church Street</addr-line>, <institution>University of Michigan</institution>,  <addr-line>Ann Arbor</addr-line>,  <addr-line>MI 48109-1043</addr-line>, <institution>USA</institution> 
+         </aff>
+         <author-notes>
+            <corresp id="cor1">Email address for correspondence: <email xlink:href="seifert@umich.edu" xlink:type="simple">seifert@umich.edu</email>
+            </corresp>
+         </author-notes>
+         <pub-date pub-type="epub"><day>23</day><month>11</month><year>2015</year></pub-date><pub-date pub-type="ppub">
+            <day>01</day>
+            <month>11</month>
+            <year>2015</year>
+         </pub-date>
+         <volume>1</volume>
+         <issue seq="4"/>
+         <elocation-id>e4</elocation-id>
+         <history>
+            <date date-type="received">
+               <day>09</day>
+               <month>12</month>
+               <year>2014</year>
+            </date>
+            <date date-type="rev-recd">
+               <day>29</day>
+               <month>07</month>
+               <year>2015</year>
+            </date>
+            <date date-type="accepted">
+               <day>26</day>
+               <month>08</month>
+               <year>2015</year>
+            </date>
+         </history>
+         <permissions>
+            <copyright-statement>Copyright © The Author(s) 2015 Distributed as Open Access under a CC-BY 4.0 license (<uri xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">http://creativecommons.org/licenses/by/4.0/</uri>)</copyright-statement>
+            <copyright-year>2015</copyright-year>
+            <copyright-holder>The Author(s)</copyright-holder>
+            <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+               <license-p>Distributed as Open Access under a CC-BY 4.0 license (<uri xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">http://creativecommons.org/licenses/by/4.0/</uri>)</license-p>
+            </license>
+         </permissions>
+         <abstract>
+            <p>Research supports the central role cognitive strategies can play in successful concept generation by individual designers. Design heuristics have been shown to facilitate the creation of new design concepts in the early, conceptual stage of the design process, as well as throughout the development of ideas. However, we know relatively little about their use in differing disciplines. This study examined evidence of design heuristic use in a protocol study with 12 mechanical engineers and 12 industrial designers who worked individually to develop multiple concepts. The open-ended design problem was for a novel product, and the designers’ sketches and comments were recorded as they worked on the problem for 25 min and in a retrospective interview. The results showed frequent use of design heuristics in both disciplines and a significant relationship to the rated creativity of the concepts. Though industrial designers used more heuristics in their concepts, there was a high degree of similarity in heuristic use. Some differences between design disciplines were observed in the choice of design heuristics, where industrial designers showed a greater emphasis on user experience, environmental contexts, and added features. These findings demonstrate the prevalence of design heuristics in individual concept generation and their effectiveness in generating creative concepts, across two design domains.</p>
+         </abstract>
+         <kwd-group>
+            <title>
+               <bold>Key words</bold>
+            </title>
+            <kwd>creativity</kwd>
+            <kwd>design heuristics</kwd>
+            <kwd>cognitive strategies</kwd>
+            <kwd>engineering design</kwd>
+            <kwd>industrial design</kwd>
+         </kwd-group>
+         <counts>
+            <fig-count count="11"/>
+            <table-count count="4"/>
+            <ref-count count="81"/>
+            <page-count count="29"/>
+         </counts>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>pdf</meta-name>
+               <meta-value>S2053470115000049a.pdf</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="review-article" dtd-version="1.0" xml:lang="en">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">DSJ</journal-id>
+         <journal-title-group>
+            <journal-title xml:lang="en">Design Science</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">Des. Sci.</abbrev-journal-title>
+         </journal-title-group>
+         <issn pub-type="epub">2053-4701</issn>
+         <publisher>
+            <publisher-name>Cambridge University Press</publisher-name>
+            <publisher-loc>Cambridge, UK</publisher-loc>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="publisher-id">00005</article-id>
+         <article-id pub-id-type="doi">10.1017/dsj.2015.5</article-id>
+         <article-id pub-id-type="pii">S2053470115000050</article-id>
+         <title-group>
+            <article-title>Review of supporting and refuting evidence for Innovation Engineering practices</article-title>
+            <alt-title alt-title-type="right-running">Review of supporting and refuting evidence for Innovation Engineering practices</alt-title>
+            <alt-title alt-title-type="left-running">P. Du <italic>et al.</italic>
+            </alt-title>
+         </title-group>
+         <contrib-group content-type="authors">
+            <contrib>
+               <name name-style="western">
+                  <surname>Du</surname>
+                  <given-names>Ping</given-names>
+               </name>
+               <xref ref-type="aff" rid="a1">
+                  <sup>1</sup>
+               </xref>
+            </contrib>
+            <contrib>
+               <name name-style="western">
+                  <surname>Miller</surname>
+                  <given-names>Chris</given-names>
+               </name>
+               <xref ref-type="aff" rid="a2">
+                  <sup>2</sup>
+               </xref>
+            </contrib>
+            <contrib>
+               <name name-style="western">
+                  <surname>MacDonald</surname>
+                  <given-names>Erin</given-names>
+               </name>
+               <xref ref-type="aff" rid="a3">
+                  <sup>3</sup>
+               </xref>
+               <xref ref-type="corresp" rid="cor1"/>
+            </contrib>
+            <contrib>
+               <name name-style="western">
+                  <surname>Gormley</surname>
+                  <given-names>Paul</given-names>
+               </name>
+               <xref ref-type="aff" rid="a4">
+                  <sup>4</sup>
+               </xref>
+            </contrib>
+         </contrib-group>
+         <aff id="a1">
+            <label>1</label>
+            <addr-line>Mechanical Engineering</addr-line>, <institution>Iowa State University</institution>,  <addr-line>Ames</addr-line>,  <addr-line>IA 50011</addr-line>, <country>USA</country>
+         </aff>
+         <aff id="a2">
+            <label>2</label>
+            <addr-line>Mechanical Engineering</addr-line>, <institution>North Carolina State University</institution>,  <addr-line>Raleigh</addr-line>,  <addr-line>NC 27695</addr-line>, <country>USA</country>
+         </aff>
+         <aff id="a3">
+            <label>3</label>
+            <addr-line>Mechanical Engineering</addr-line>, <institution>Stanford University</institution>,  <addr-line>Stanford</addr-line>,  <addr-line>CA 94305</addr-line>, <country>USA</country>
+         </aff>
+         <aff id="a4">
+            <label>4</label>
+            <institution>CIRAS</institution>,  <addr-line>Economic Development and Industrial Relations</addr-line>, <institution>Iowa State University</institution>,  <addr-line>Cedar Rapids</addr-line>,  <addr-line>IA 52402</addr-line>, <country>USA</country>
+         </aff>
+         <author-notes>
+            <corresp id="cor1">Email address for correspondence: <email xlink:href="erinmacd@stanford.edu" xlink:type="simple">erinmacd@stanford.edu</email>
+            </corresp>
+         </author-notes>
+         <pub-date pub-type="epub"><day>16</day><month>12</month><year>2015</year></pub-date><pub-date pub-type="ppub">
+            <day>01</day>
+            <month>12</month>
+            <year>2015</year>
+         </pub-date>
+         <volume>1</volume>
+         <issue seq="5"/>
+         <elocation-id>e5</elocation-id>
+         <history>
+            <date date-type="received">
+               <day>12</day>
+               <month>12</month>
+               <year>2014</year>
+            </date>
+            <date date-type="rev-recd">
+               <day>23</day>
+               <month>10</month>
+               <year>2015</year>
+            </date>
+            <date date-type="accepted">
+               <day>03</day>
+               <month>11</month>
+               <year>2015</year>
+            </date>
+         </history>
+         <permissions>
+            <copyright-statement>Copyright © The Author(s) 2015 Distributed as Open Access under a CC-BY 4.0 license (<uri xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">http://creativecommons.org/licenses/by/4.0/</uri>)</copyright-statement>
+            <copyright-year>2015</copyright-year>
+            <copyright-holder>The Author(s)</copyright-holder>
+            <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+               <license-p>Distributed as Open Access under a CC-BY 4.0 license (<uri xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">http://creativecommons.org/licenses/by/4.0/</uri>)</license-p>
+            </license>
+         </permissions>
+         <abstract>
+            <p>Innovation Engineering (IE) is an educational training program that presents tools and advice on product innovation in three main categories: Create, idea generation; Communicate, communicating ideas; and Commercialize, selecting ideas to invest in further. The concepts taught in IE include common suggestions for early-stage product innovation. This paper addresses a challenge of implementing the IE program, specifically that it does not provide peer-reviewed sources or adequate data to substantiate its approach. This lack of substantiation limits effective implementation at companies. This paper also takes a step in examining IE’s claims that it is ‘a new science’ and a ‘new field of academic study’, a topic motivated by the Design Science Journal’s aim to serve as the archival venue of science-based design knowledge across multiple disciplines. This paper provides a compilation of academic literature that has tested the tools and advice espoused by IE. Almost all included papers contain test-versus-control experimental evidence. A mix of supporting and refuting evidence was found. Overall, the work provides a useful compilation of evidence-of-effectiveness related to common innovation and design practices that spans different design stages and is applicable for multiple disciplines and industries. This evidence comes from a variety of sources, including design, engineering education, psychology, marketing, and management. The work can also serve as an approach to evaluate overarching approaches to design in general, specifically, testing the foundations by vetting related test-versus-control experimental studies.</p>
+         </abstract>
+         <kwd-group>
+            <title>
+               <bold>Key words</bold>
+            </title>
+            <kwd>innovation</kwd>
+            <kwd>idea generation</kwd>
+            <kwd>ideation</kwd>
+            <kwd>product development</kwd>
+            <kwd>creativity</kwd>
+         </kwd-group>
+         <counts>
+            <fig-count count="2"/>
+            <table-count count="3"/>
+            <ref-count count="161"/>
+            <page-count count="33"/>
+         </counts>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>pdf</meta-name>
+               <meta-value>S2053470115000050a.pdf</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="research-article" dtd-version="1.0" xml:lang="en">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">DSJ</journal-id>
+         <journal-title-group>
+            <journal-title xml:lang="en">Design Science</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">Des. Sci.</abbrev-journal-title>
+         </journal-title-group>
+         <issn pub-type="epub">2053-4701</issn>
+         <publisher>
+            <publisher-name>Cambridge University Press</publisher-name>
+            <publisher-loc>Cambridge, UK</publisher-loc>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="publisher-id">00003</article-id>
+         <article-id pub-id-type="doi">10.1017/dsj.2015.3</article-id>
+         <article-id pub-id-type="pii">S2053470115000037</article-id>
+         <title-group>
+            <article-title>Improving human understanding and design of complex multi-level systems with animation and parametric relationship supports</article-title>
+            <alt-title alt-title-type="right-running">Improving human understanding and design of complex multi-level systems with animation and parametric relationship supports</alt-title>
+            <alt-title alt-title-type="left-running">P. Egan <italic>et al.</italic>
+            </alt-title>
+         </title-group>
+         <contrib-group content-type="authors">
+            <contrib>
+               <name name-style="western">
+                  <surname>Egan</surname>
+                  <given-names>Paul</given-names>
+               </name>
+               <xref ref-type="aff" rid="a1">
+                  <sup>1</sup>
+               </xref>
+               <xref ref-type="aff" rid="a2">
+                  <sup>2</sup>
+               </xref>
+               <xref ref-type="corresp" rid="cor1">†</xref>
+            </contrib>
+            <contrib>
+               <name name-style="western">
+                  <surname>Schunn</surname>
+                  <given-names>Christian</given-names>
+               </name>
+               <xref ref-type="aff" rid="a3">
+                  <sup>3</sup>
+               </xref>
+            </contrib>
+            <contrib>
+               <name name-style="western">
+                  <surname>Cagan</surname>
+                  <given-names>Jonathan</given-names>
+               </name>
+               <xref ref-type="aff" rid="a2">
+                  <sup>2</sup>
+               </xref>
+            </contrib>
+            <contrib>
+               <name name-style="western">
+                  <surname>LeDuc</surname>
+                  <given-names>Philip</given-names>
+               </name>
+               <xref ref-type="aff" rid="a2">
+                  <sup>2</sup>
+               </xref>
+            </contrib>
+         </contrib-group>
+         <aff id="a1">
+            <label>1</label>
+            <addr-line>Department of Mechanical and Process Engineering</addr-line>, <institution>Swiss Federal Institute of Technology</institution>,  <addr-line>Zurich 8092</addr-line>, <country>Switzerland</country>
+         </aff>
+         <aff id="a2">
+            <label>2</label>
+            <addr-line>Department of Mechanical Engineering</addr-line>, <institution>Carnegie Mellon University</institution>,  <addr-line>Pittsburgh</addr-line>,  <addr-line>PA 15213</addr-line>, <country>USA</country>
+         </aff>
+         <aff id="a3">
+            <label>3</label>
+            <addr-line>Department of Psychology</addr-line>, <institution>University of Pittsburgh</institution>,  <addr-line>Pittsburgh</addr-line>,  <addr-line>PA 15260</addr-line>, <country>USA</country>
+         </aff>
+         <author-notes>
+            <corresp id="cor1">
+               <label>†</label>Email address for correspondence: <email xlink:href="pegan@ethz.ch" xlink:type="simple">pegan@ethz.ch</email>
+            </corresp>
+         </author-notes>
+         <pub-date pub-type="epub"><day>03</day><month>11</month><year>2015</year></pub-date><pub-date pub-type="ppub">
+            <day>01</day>
+            <month>11</month>
+            <year>2015</year>
+         </pub-date>
+         <volume>1</volume>
+         <issue seq="3"/>
+         <elocation-id>e3</elocation-id>
+         <history>
+            <date date-type="received">
+               <day>04</day>
+               <month>11</month>
+               <year>2014</year>
+            </date>
+            <date date-type="rev-recd">
+               <day>05</day>
+               <month>09</month>
+               <year>2015</year>
+            </date>
+            <date date-type="accepted">
+               <day>16</day>
+               <month>09</month>
+               <year>2015</year>
+            </date>
+         </history>
+         <permissions>
+            <copyright-statement>Copyright © The Author(s) 2015 Distributed as Open Access under a CC-BY 4.0 license (<uri xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">http://creativecommons.org/licenses/by/4.0/</uri>)</copyright-statement>
+            <copyright-year>2015</copyright-year>
+            <copyright-holder>The Author(s)</copyright-holder>
+            <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+               <license-p>Distributed as Open Access under a CC-BY 4.0 license (<uri xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">http://creativecommons.org/licenses/by/4.0/</uri>)</license-p>
+            </license>
+         </permissions>
+         <abstract>
+            <p>Complex systems are challenging to design, particularly when they contain multi-level organizations with non-obvious relationships among design components. Here, we investigate engineering students’ capacity to search for optimal nanoscale biosystem designs with stochastic component and system behaviors. The study aims to characterize information types that facilitate human learning and improve their complex system understanding and design proficiency. It is hypothesized that learning parametric system relationships and/or inter-level causal mechanisms improves design proficiency; these relationships and mechanisms are teachable through software interfaces. Two contrasting learning/design interfaces were developed that presented differing information types: an interface with performance charts that emphasized parametric relationship learning and an interface with agent-based animations that emphasized inter-level causality learning. Users improved on pre-/post-learning design tasks with both interfaces; users who demonstrated inter-level causal relationship understanding, which occurred primarily with the animation interface, had greater improvement. All users were then presented contrasting animations of systems with opposing emergent behaviors, resulting in many more participants demonstrating an understanding of inter-level causal behaviors. These findings reveal the difficulties in understanding and designing multi-level systems and that interactive software tools may convey crucial information that supports engineering design, particularly with respect to the development of reasoning skills for how system components relate across levels.</p>
+         </abstract>
+         <kwd-group>
+            <title>
+               <bold>Key words</bold>
+            </title>
+            <kwd>cognition</kwd>
+            <kwd>multi-level</kwd>
+            <kwd>complexity</kwd>
+            <kwd>biology</kwd>
+            <kwd>user interface</kwd>
+         </kwd-group>
+         <counts>
+            <fig-count count="9"/>
+            <table-count count="2"/>
+            <equation-count count="7"/>
+            <ref-count count="44"/>
+            <page-count count="31"/>
+         </counts>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>pdf</meta-name>
+               <meta-value>S2053470115000037a.pdf</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="editorial" dtd-version="1.0" xml:lang="en">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">DSJ</journal-id>
+         <journal-title-group>
+            <journal-title xml:lang="en">Design Science</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">Des. Sci.</abbrev-journal-title>
+         </journal-title-group>
+         <issn pub-type="epub">2053-4701</issn>
+         <publisher>
+            <publisher-name>Cambridge University Press</publisher-name>
+            <publisher-loc>Cambridge, UK</publisher-loc>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="publisher-id">00001</article-id>
+         <article-id pub-id-type="doi">10.1017/dsj.2015.1</article-id>
+         <article-id pub-id-type="pii">S2053470115000013</article-id>
+         <title-group>
+            <article-title>Design Science: Why, What and How</article-title>
+            <alt-title alt-title-type="right-running">Editorial</alt-title>
+            <alt-title alt-title-type="left-running">Editorial</alt-title>
+         </title-group>
+         <contrib-group content-type="authors">
+            <contrib>
+               <name name-style="western">
+                  <surname>Papalambros</surname>
+                  <given-names>Panos Y.</given-names>
+               </name>
+               <xref ref-type="aff" rid="a1"/>
+               <xref ref-type="corresp" rid="cor1">†</xref>
+            </contrib>
+         </contrib-group>
+         <aff id="a1">
+            <email xlink:href="editor@descij.org" xlink:type="simple">editor@descij.org</email>
+         </aff>
+         <author-notes>
+            <corresp id="cor1">
+               <label>†</label>
+               <email xlink:href="editor@descij.org" xlink:type="simple">editor@descij.org</email>
+            </corresp>
+         </author-notes>
+         <pub-date pub-type="ppub">
+            <day>01</day>
+            <month>07</month>
+            <year>2015</year>
+         </pub-date>
+         <volume>1</volume>
+         <issue seq="1"/>
+         <elocation-id>e1</elocation-id>
+         <permissions>
+            <copyright-statement>Copyright © The Author(s) 2015 Distributed as Open Access under a CC-BY 4.0 license (<uri xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">http://creativecommons.org/licenses/by/4.0/</uri>)</copyright-statement>
+            <copyright-year>2015</copyright-year>
+            <copyright-holder>The Author(s)</copyright-holder>
+            <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+               <license-p>Distributed as Open Access under a CC-BY 4.0 license (<uri xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">http://creativecommons.org/licenses/by/4.0/</uri>)</license-p>
+            </license>
+         </permissions>
+         <counts>
+            <table-count count="1"/>
+            <page-count count="38"/>
+         </counts>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>pdf</meta-name>
+               <meta-value>S2053470115000013a.pdf</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="research-article" dtd-version="1.0" xml:lang="en">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">DSJ</journal-id>
+         <journal-title-group>
+            <journal-title xml:lang="en">Design Science</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">Des. Sci.</abbrev-journal-title>
+         </journal-title-group>
+         <issn pub-type="epub">2053-4701</issn>
+         <publisher>
+            <publisher-name>Cambridge University Press</publisher-name>
+            <publisher-loc>Cambridge, UK</publisher-loc>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="publisher-id">00002</article-id>
+         <article-id pub-id-type="doi">10.1017/dsj.2015.2</article-id>
+         <article-id pub-id-type="pii">S2053470115000025</article-id>
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>Position Papers</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>The united innovation process: integrating science, design, and entrepreneurship as sub-processes</article-title>
+            <alt-title alt-title-type="right-running">The united innovation process</alt-title>
+            <alt-title alt-title-type="left-running">J. Luo</alt-title>
+         </title-group>
+         <contrib-group content-type="authors">
+            <contrib>
+               <name name-style="western">
+                  <surname>Luo</surname>
+                  <given-names>Jianxi</given-names>
+               </name>
+               <xref ref-type="aff" rid="a1">
+                  <sup>1</sup>
+               </xref>
+               <xref ref-type="corresp" rid="cor1">†</xref>
+            </contrib>
+         </contrib-group>
+         <aff id="a1">
+            <label>1</label>
+            <addr-line>Engineering Product Development Pillar &amp; SUTD-MIT International Design Centre</addr-line>, <institution>Singapore University of Technology &amp; Design</institution>,  <addr-line>8 Somapah Road</addr-line>, <country>Singapore</country>
+            <addr-line>487372</addr-line> 
+         </aff>
+         <author-notes>
+            <corresp id="cor1">
+               <label>†</label>Email address for correspondence: <email xlink:href="luo@sutd.edu.sg" xlink:type="simple">luo@sutd.edu.sg</email>
+            </corresp>
+         </author-notes>
+         <pub-date pub-type="epub"><day>27</day><month>10</month><year>2015</year></pub-date><pub-date pub-type="ppub">
+            <day>01</day>
+            <month>10</month>
+            <year>2015</year>
+         </pub-date>
+         <volume>1</volume>
+         <issue seq="2"/>
+         <elocation-id>e2</elocation-id>
+         <history>
+            <date date-type="received">
+               <day>10</day>
+               <month>03</month>
+               <year>2015</year>
+            </date>
+            <date date-type="rev-recd">
+               <day>06</day>
+               <month>09</month>
+               <year>2015</year>
+            </date>
+            <date date-type="accepted">
+               <day>09</day>
+               <month>09</month>
+               <year>2015</year>
+            </date>
+         </history>
+         <permissions>
+            <copyright-statement>Copyright © The Author(s) 2015 Distributed as Open Access under a CC-BY-NC_SA 4.0 license (<uri xlink:href="http://creativecommons.org/licenses/by-nc-sa/4.0/" xlink:type="simple">http://creativecommons.org/licenses/by-nc-sa/4.0/</uri>)</copyright-statement>
+            <copyright-year>2015</copyright-year>
+            <copyright-holder>The Author(s)</copyright-holder>
+            <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+               <license-p>Distributed as Open Access under a CC-BY-NC_SA 4.0 license (<uri xlink:href="http://creativecommons.org/licenses/by-nc-sa/4.0/" xlink:type="simple">http://creativecommons.org/licenses/by-nc-sa/4.0/</uri>)</license-p>
+            </license>
+         </permissions>
+         <abstract>
+            <p>‘Innovation’ has become a buzzword in academic papers, news articles, and book titles, but it is variously defined and is often referred to as ‘invention’ or ‘design’. A consensus of understanding the interrelationships of the concepts and activities pertaining to innovation is needed to guide collective action for innovation. This paper proposes a united view of the innovation process, which advocates uniting the complementary (1) science, (2) design, and (3) entrepreneurship sub-processes of innovation. The shared creative, uncertain, and costly nature of these three processes also implies an opportunity to leverage design science to understand and guide the science and entrepreneurship processes. This paper describes the benefits, major challenges, and actionable strategies for uniting science, design, and entrepreneurship as sub-processes of innovation, with a few detailed real life examples. The variety of the cases and examples shows that science, design, and entrepreneurship sub-processes can be effectively united to different extents, within and across organizations and innovation ecosystems.</p>
+         </abstract>
+         <kwd-group>
+            <title>
+               <bold>Key words</bold>
+            </title>
+            <kwd>innovation</kwd>
+            <kwd>design</kwd>
+            <kwd>entrepreneurship</kwd>
+            <kwd>invention</kwd>
+            <kwd>ecosystem</kwd>
+         </kwd-group>
+         <counts>
+            <fig-count count="4"/>
+            <table-count count="4"/>
+            <ref-count count="130"/>
+            <page-count count="29"/>
+         </counts>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>pdf</meta-name>
+               <meta-value>S2053470115000025a.pdf</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article></collection>

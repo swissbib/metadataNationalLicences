@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ 
+<metamorph xmlns="http://www.culturegraph.org/metamorph"
+		xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+		version="1" entityMarker=".">
+	
+	<rules>
+	<combine name="result" value="${pissn} | ${pyear} | (${journal_title})" flushWith="record">
+		
+		<combine name="pissn" value="${issn}" flushWith="front.journal-meta.issn" reset="true">		
+			<if>
+				<data source="front.journal-meta.issn.pub-type" name="issn-type">
+					<equals string="ppub" />
+				</data>
+			</if>
+			<data source="front.journal-meta.issn.value" name="issn" />	
+		</combine>	  
+
+		<combine name="pyear" value="${year}" flushWith="front.article-meta.pub-date" reset="true">
+			<if>
+				<data source="front.article-meta.pub-date.pub-type" name="pub-type">
+					<equals string="ppub" />
+				</data>
+			</if>
+			<data source="front.article-meta.pub-date.year.value" name="year" />
+		</combine>	
+	<data source="front.journal-meta.*journal-title.value|front.journal-meta.*abbrev-journal-title.value" name="journal_title" />
+	</combine>
+
+</rules>
+	
+</metamorph>
+
+

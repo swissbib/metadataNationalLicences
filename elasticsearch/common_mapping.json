@@ -1,0 +1,85 @@
+{
+    "settings": {
+      "analysis": {
+        "analyzer": {
+          "lower": {
+            "type": "custom",
+            "filter": [ "lowercase" ],
+            "tokenizer": "whitespace"
+          }
+        }
+      }
+    },
+    "mappings": {
+      "article": {
+        "properties": {
+          "affiliations": {
+            "type": "string"
+          },
+          "article-title": {
+            "type": "string"
+          },
+          "author": {
+            "type": "string"
+          },
+          "copyright-year": {
+            "type": "string"
+          },
+          "doi": {
+            "type": "string",
+            "index": "not_analyzed"
+          },
+          "doi-prefix" : {
+            "type": "string",
+            "index": "not_analyzed"
+          },
+          "eissn": {
+            "type": "string",
+            "index": "not_analyzed"
+          },
+          "publisher-name": {
+            "type": "string",
+            "index": "not_analyzed"
+          },
+          "emails": {
+            "type": "string"
+          },
+          "eyear": {
+            "type": "integer"
+          },
+          "journal-id": {
+            "type": "string",
+            "analyzer": "lower"
+          },
+          "journal-title": {
+            "type": "string",
+            "index": "not_analyzed"
+          },
+          "license-link": {
+            "type": "string",
+            "index": "not_analyzed"
+          },
+          "license-paragraph": {
+            "type": "string"
+          },
+          "license-type": {
+            "type": "string",
+            "index": "not_analyzed"
+          },
+          "pissn": {
+            "type": "string",
+            "index": "not_analyzed"
+          },
+          "pyear": {
+            "type": "integer"
+          },
+          "volume-number": {
+            "type": "integer"
+          },
+          "issue-number": {
+            "type": "integer"
+          }
+        }
+      }
+    }  
+}

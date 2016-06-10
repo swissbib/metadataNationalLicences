@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metamorph xmlns="http://www.culturegraph.org/metamorph"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:schemaLocation="http://www.culturegraph.org/metamorph metamorph.xsd"
+           version="1" entityMarker=".">
+
+
+    <rules>
+        <combine name="eissn" value="${issn}" flushWith="front.journal-meta.issn" reset="true">
+            <if>
+                <all reset="true">
+                    <data source="front.journal-meta.issn.pub-type" name="issn-type">
+                        <equals string="epub"/>
+                    </data>
+                    <!-- don't take empty strings -->
+                    <data source="front.journal-meta.issn.value" name="issn-value">
+                        <not-equals string=""/>
+                    </data>
+                </all>
+            </if>
+            <data source="front.journal-meta.issn.value" name="issn"/>
+        </combine>
+
+        <combine name="pissn" value="${issn}" flushWith="front.journal-meta.issn" reset="true">
+            <if>
+                <all reset="true">
+                    <data source="front.journal-meta.issn.pub-type" name="issn-type">
+                        <equals string="ppub"/>
+                    </data>
+                    <!-- don't take empty strings -->
+                    <data source="front.journal-meta.issn.value" name="issn-value">
+                        <not-equals string=""/>
+                    </data>
+                </all>
+            </if>
+            <data source="front.journal-meta.issn.value" name="issn"/>
+        </combine>
+
+
+
+
+        <choose name="@pyear" flushWith="front.article-meta"> <!-- takes ppub year, or if not present, other year, year with no pub-type, or eyear -->
+            <combine name="@pyear" value="${year}" flushWith="front.article-meta.pub-date" reset="true">
+                <if>
+                    <data source="front.article-meta.pub-date.pub-type" name="pub-type">
+                        <equals string="ppub"/>
+                    </data>
+                </if>
+                <data source="front.article-meta.pub-date.year.value" name="year"/>
+            </combine>
+            <!-- takes also year with a pub-type different from epub -->
+            <combine name="@pyear" value="${year}" flushWith="front.article-meta.pub-date" reset="true">
+                <if>
+                    <data source="front.article-meta.pub-date.pub-type" name="pub-type">
+                        <not-equals string="epub"/>
+                    </data>
+                </if>
+                <data source="front.article-meta.pub-date.year.value" name="year"/>
+            </combine>
+
+
+            <!-- takes the other years (year with no pub-type or eyear) -->
+            <data source="front.article-meta.pub-date.year.value" name="@pyear"/>
+
+            <!-- would be better : take year with no pub-type and if this doesn't exist take eyear -->
+        </choose>
+
+        <data name="pyear" source="@pyear">
+            <!-- year in range 1750 - 2029 -->
+            <regexp match="(17[5-9]\d|18\d\d|19\d\d|20[0-2]\d)" format="${1}" />
+        </data>
+
+
+
+
+
+        <data source="front.journal-meta.publisher.publisher-name.value" name="publisher-name"/>
+
+        <data source="front.article-meta.volume.value" name="volume"/>
+
+        <data source="front.article-meta.volume.value" name="volume-number">
+            <regexp match="(\d*)" format="${1}"/>
+        </data>
+
+        <data source="front.article-meta.issue.value" name="issue"/>
+
+        <data source="front.article-meta.issue.value" name="issue-number">
+            <regexp match="(\d*)" format="${1}"/>
+        </data>
+
+
+        <combine name="eyear" value="${year}" flushWith="front.article-meta.pub-date" reset="true">
+            <if>
+                <data source="front.article-meta.pub-date.pub-type" name="pub-type">
+                    <equals string="epub"/>
+                </data>
+            </if>
+            <data source="front.article-meta.pub-date.year.value" name="year"/>
+        </combine>
+        <data source="front.article-meta.permissions.copyright-year.value" name="copyright-year"/>
+
+
+
+
+
+
+        <choose name="journal-title" flushWith="front.journal-meta">
+            <!-- JATS 1.0 -->
+            <data source="front.journal-meta.journal-title-group.journal-title.value"/>
+
+            <!-- NLM < 3.0 -->
+            <data source="front.journal-meta.journal-title.value"/>
+
+            <!-- take the abbrev title if journal title is missing NLM < 3.0 -->
+            <combine name="journal-title" value="${abbrev-journal-title}" flushWith="front.journal-meta.abbrev-journal-title" reset="true">
+                <if>
+                    <data source="front.journal-meta.abbrev-journal-title.abbrev-type" name="abbrev-type">
+                        <equals string="full"/>
+                    </data>
+                </if>
+                <data source="front.journal-meta.abbrev-journal-title.value" name="abbrev-journal-title"/>
+            </combine>
+
+
+            <!-- take the abbrev title if journal title is missing JATS 1.0 -->
+            <combine name="journal-title" value="${abbrev-journal-title}" flushWith="front.journal-meta.journal-title-group.abbrev-journal-title" reset="true">
+                <if>
+                    <data source="front.journal-meta.journal-title-group.abbrev-journal-title.abbrev-type" name="abbrev-type">
+                        <equals string="full"/>
+                    </data>
+                </if>
+                <data source="front.journal-meta.journal-title-group.abbrev-journal-title.value" name="abbrev-journal-title"/>
+            </combine>
+
+
+        </choose>
+
+        <data source="front.article-meta.title-group.article-title.value" name="article-title"/>
+
+        <combine name="journal-id" value="${journal-id}" flushWith="front.journal-meta.journal-id" reset="true">
+            <if>
+                <data source="front.journal-meta.journal-id.journal-id-type" name="pub-type">
+                    <equals string="publisher-id"/>
+                </data>
+            </if>
+            <data source="front.journal-meta.journal-id.value" name="journal-id"/>
+        </combine>
+
+        <combine name="@valid-doi" value="${doi}" flushWith="front.article-meta.article-id" reset="true">
+            <if>
+                <data source="front.article-meta.article-id.pub-id-type" name="pub-type">
+                    <equals string="doi"/>
+                </data>
+            </if>
+            <data source="front.article-meta.article-id.value" name="doi">
+                <!-- remove doi: when it is at the beginning -->
+                <replace pattern="^doi:"  with=""/>
+
+                <!-- only take doi which starts with 10. -->
+                <regexp match="^(10\..*)"  format="${1}"/>
+            </data>
+        </combine>
+
+        <data name="doi" source="@valid-doi"/>
+
+        <data name="doi-prefix" source="@valid-doi">
+                <regexp match="^([^/]*)/"  format="${1}"/>
+        </data>
+
+
+
+
+        <combine name="id" value="${id}" flushWith="front.article-meta.article-id" reset="true">
+            <if>
+                <data source="front.article-meta.article-id.pub-id-type" name="pub-type">
+                    <equals string="doi"/>
+                </data>
+            </if>
+            <data source="front.article-meta.article-id.value" name="id">
+                <replace pattern="^doi:"  with=""/>
+            </data>
+        </combine>
+
+
+
+
+
+
+        <data source="front.article-meta.permissions.license.license-type" name="license-type"/>
+        <data source="front.article-meta.permissions.license.xlink_href" name="license-link"/>
+        <data source="front.article-meta.permissions.license.license-p.value" name="license-paragraph"/>
+
+        <data source="front.article-meta.permissions.copyright-statement.value" name="copyright-statement"/>
+        <data source="front.article-meta.permissions.copyright-holder.value" name="copyright-holder"/>
+
+        <data source="front.article-meta.abstract.*" name="abstract"/>
+
+        <combine name="keywords" value="${keyword}">
+            <data source="front.article-meta.kwd-group.kwd.value" name="keyword"/>
+        </combine>
+
+
+        <!-- Authors -->
+        <combine name="author" value="${author-given-names} ${author-surname}" flushWith="front.article-meta.contrib-group.contrib" reset="true">
+            <if>
+                <data source="front.article-meta.contrib-group.contrib.contrib-type" name="contrib-type">
+                    <equals string="author"/>
+                </data>
+            </if>
+            <data source="front.article-meta.contrib-group.contrib.name.given-names.value" name="author-given-names"/>
+            <data source="front.article-meta.contrib-group.contrib.name.surname.value" name="author-surname"/>
+        </combine>
+
+        <!-- Contributors -->
+        <choose name="contributor" flushWith="front.article-meta.contrib-group.contrib">
+
+            <!-- author / editor / ... -->
+            <combine name="contributor" value="${contrib-given-names} ${contrib-surname}" flushWith="front.article-meta.contrib-group.contrib" reset="true">
+                <data source="front.article-meta.contrib-group.contrib.name.given-names.value" name="contrib-given-names"/>
+                <data source="front.article-meta.contrib-group.contrib.name.surname.value" name="contrib-surname"/>
+            </combine>
+
+
+            <!-- collab -->
+            <data source="front.article-meta.contrib-group.contrib.collab.value"/>
+
+
+
+        </choose>
+
+
+
+
+
+        <!-- Affiliations -->
+        <combine name="affiliations" value="${aff}">
+            <data source="front.article-meta.contrib-group.aff.*|front.article-meta.aff.*|front.article-meta.contrib-group.contrib.aff.*" name="aff"/>
+        </combine>
+
+        <combine name="emails" value="${email}">
+            <data source="front.article-meta.contrib-group.*.email.value" name="email"/>
+        </combine>
+
+
+
+
+    </rules>
+
+</metamorph>
+
+
