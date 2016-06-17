@@ -37,12 +37,7 @@ request = {
 }
 
 
-
 result = es.search(body=request, index="all", doc_type="article", scroll="1m")
-
-
-
-
 
 
 #--- Extended Title List for analysis ---
@@ -69,46 +64,31 @@ while len(result["hits"]["hits"])>0:
 
 
         article_title=""
-        if article.has_key("article-title"):
+        if "article-title" in article:
             article_title="".join(article["article-title"])
 
-        doi=""
-        if article.has_key("doi"):
-            doi="".join(article["doi"])
-
         affiliations=""
-        if article.has_key("affiliations"):
+        if "affiliations" in article:
             if isinstance(article["affiliations"], list):
                 affiliations=" /// ".join(article["affiliations"])
             else:
                 affiliations=article["affiliations"]
 
-
-        author=""
-        if article.has_key("author"):
-            if isinstance(article["author"], list):
-                author=" /// ".join(article["author"])
+        contributor=""
+        if "contributor" in article:
+            if isinstance(article["contributor"], list):
+                contributor=" /// ".join(article["contributor"])
             else:
-                author=article["author"]
-
-        year=""
-        if article.has_key("pyear"):
-            year="".join(article["pyear"])
-
-
-        journalTitle=""
-        if article.has_key("journal-title"):
-            journalTitle="".join(article["journal-title"])
-
+                contributor=article["contributor"]
 
 
         article_list.writerow([
-            doi, #"Publisher Code"
+            article.get("doi",""), #"Publisher Code"
             article_title,
-            author,
+            contributor,
             affiliations,
-            year,
-            journalTitle
+            article.get("pyear",""),
+            article.get("journal-title","")
         ])
 
 
