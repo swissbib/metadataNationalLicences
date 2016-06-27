@@ -1,0 +1,355 @@
+journal_id,title,% of articles with this title,eissn,%of articles with this eissn,pissn,%of articles with this pissn,publisher,%of articles with this publisher,url,number of articles,minYear,maxYear,cardinality,missing years,min_volume,max_volume
+abitech,ABI-Technik,95.5,2191-4664,100.0,0720-6763,100.0,De Gruyter,95.6,http://www.degruyter.com/view/j/abitech,826,1996,2015,19,0,16,35
+abpr,The African Book Publishing Record,100.0,7865-8717,94.5,0306-0322,100.0,"Walter de Gruyter, Berlin / New York",65.3,http://www.degruyter.com/view/j/abpr,1139,1975,2015,40,0,1,41
+acv,Advances in Calculus of Variations,96.7,1864-8266,100.0,1864-8258,100.0,Walter de Gruyter GmbH & Co. KG,67.2,http://www.degruyter.com/view/j/acv,122,2008,2015,7,0,1,8
+advg,Advances in Geometry,100.0,1615-7168,100.0,1615-715X,100.0,Walter de Gruyter GmbH & Co. KG,46.9,http://www.degruyter.com/view/j/advg,537,2001,2015,14,0,1,15
+ael,"Accounting, Economics and Law",50.7,2152-2820,100.0,2194-6051,100.0,De Gruyter,100.0,http://www.degruyter.com/view/j/ael,75,2011,2015,4,0,1,5
+afd,Archiv für Diplomatik,92.8,2194-5020,100.0,0066-6297,100.0,Böhlau Verlag GmbH & CIE.,91.0,http://www.degruyter.com/view/j/afd,766,1955,2015,56,4,1,61
+afgs,Archiv für Religionsgeschichte,98.9,1868-8888,100.0,1436-3038,100.0,De Gruyter,98.9,http://www.degruyter.com/view/j/afgs,261,1999,2015,15,1,1,16
+agp,Acta Geologica Polonica,100.0,2300-1887,100.0,0001-5709,100.0,Versita,71.6,http://www.degruyter.com/view/j/agp,88,2012,2015,3,0,62,65
+agph,Archiv für Geschichte der Philosophie,100.0,1613-0650,100.0,0003-9101,100.0,"Walter de Gruyter, Berlin / New York",86.5,http://www.degruyter.com/view/j/agph,2340,1888,2015,95,32,1,97
+ajle,Asian Journal of Law and Economics,100.0,2154-4611,100.0,2194-6086,100.0,De Gruyter,100.0,http://www.degruyter.com/view/j/ajle,43,2010,2015,5,0,1,6
+akg,Archiv für Kulturgeschichte,100.0,2194-3958,100.0,0003-9233,100.0,Böhlau Verlag GmbH & CIE.,93.4,http://www.degruyter.com/view/j/akg,2194,1903,2015,87,25,1,97
+alr,Applied Linguistics Review,100.0,1868-6311,100.0,1868-6303,100.0,De Gruyter Mouton,65.9,http://www.degruyter.com/view/j/alr,88,2010,2015,5,0,1,6
+ang,Angermion,100.0,1868-9426,100.0,1438-2091,100.0,De Gruyter,57.9,http://www.degruyter.com/view/j/ang,57,2010,2015,5,0,3,8
+angl,Anglia - Zeitschrift für englische Philologie,91.9,1865-8938,100.0,0340-5222,100.0,"Niemeyer, Tübingen",48.0,http://www.degruyter.com/view/j/angl,3559,1878,2015,125,12,,
+anly,Analysis,100.0,2196-6753,100.0,0174-4747,100.0,OLDENBOURG WISSENSCHAFTSVERLAG,75.2,http://www.degruyter.com/view/j/anly,1058,1981,2015,34,0,1,35
+annalen,Annalen des Historischen Vereins für den Niederrhein,100.0,2194-3818,100.0,0341-289X,100.0,Böhlau Verlag GmbH & CIE.,98.2,http://www.degruyter.com/view/j/annalen,4520,1855,2015,145,15,1,218
+anona,Advances in Nonlinear Analysis,100.0,2191-950X,100.0,2191-9496,100.0,Walter de Gruyter GmbH,44.3,http://www.degruyter.com/view/j/anona,70,2012,2015,3,0,1,4
+anti,Antike und Abendland,13.2,1613-0421,100.0,0003-5696,100.0,Walter de Gruyter,88.5,http://www.degruyter.com/view/j/anti,790,1944,2015,59,12,1,61
+aofo,Altorientalische Forschungen,100.0,2196-6761,100.0,0232-8461,100.0,AKADEMIE VERLAG,85.8,http://www.degruyter.com/view/j/aofo,1067,1975,2015,39,2,3,41
+aot,Advanced Optical Technologies,100.0,2192-8584,100.0,2192-8576,100.0,THOSS Media & De Gruyter,51.4,http://www.degruyter.com/view/j/aot,208,2012,2015,3,0,1,4
+apam,Advances in Pure and Applied Mathematics,100.0,1869-6090,100.0,1867-1152,100.0,Walter de Gruyter GmbH & Co. KG,56.1,http://www.degruyter.com/view/j/apam,132,2010,2015,5,0,1,6
+apeiron,Apeiron,100.0,2156-7093,100.0,0003-6390,100.0,De Gruyter,97.3,http://www.degruyter.com/view/j/apeiron,962,1967,2015,47,1,1,48
+apf,Archiv für Papyrusforschung und verwandte Gebiete,100.0,1867-1551,100.0,0066-6459,100.0,"Walter de Gruyter, Berlin / New York",76.1,http://www.degruyter.com/view/j/apf,1187,1901,2015,55,59,,
+apjri,Asia-Pacific Journal of Risk and Insurance,100.0,2153-3792,100.0,2194-606X,100.0,De Gruyter,100.0,http://www.degruyter.com/view/j/apjri,107,2005,2015,10,0,1,9
+arbi,Arbitrium,100.0,1865-8849,100.0,0723-2977,100.0,"Walter de Gruyter, Berlin / New York",59.5,http://www.degruyter.com/view/j/arbi,3742,1985,2015,30,0,,
+arca,Arcadia - Internationale Zeitschrift für Literaturwissenschaft / International Journal for Literary Studies,62.2,1613-0642,100.0,0003-7982,100.0,"Walter de Gruyter, Berlin / New York",62.2,http://www.degruyter.com/view/j/arca,1163,1966,2015,49,0,1,50
+arg,Archiv für Reformationsgeschichte - Archive for Reformation History,51.5,2198-0489,100.0,0003-9381,100.0,Gütersloher Verlagshaus,100.0,http://www.degruyter.com/view/j/arg,1924,1904,2015,100,11,1,106
+argl,Archiv für Reformationsgeschichte/Literaturbericht,61.5,2198-0497,100.0,0341-8375,100.0,Gütersloher Verlagshaus,100.0,http://www.degruyter.com/view/j/argl,571,1972,2015,43,0,1,44
+asch,Aschkenas,100.0,,55.2,1016-4987,100.0,"Walter de Gruyter, Berlin / New York",46.9,http://www.degruyter.com/view/j/asch,454,1992,2015,23,0,2,92
+asia,Asiatische Studien - Études Asiatiques,68.7,2235-5871,100.0,0004-4717,100.0,De Gruyter,100.0,http://www.degruyter.com/view/j/asia,67,2014,2015,1,0,68,69
+auto,at - Automatisierungstechnik,93.1,2196-677X,100.0,0178-2312,100.0,OLDENBOURG WISSENSCHAFTSVERLAG,67.2,http://www.degruyter.com/view/j/auto,5748,1964,2015,51,0,12,63
+az,Archivalische Zeitschrift,100.0,2194-3826,100.0,0003-9497,100.0,Böhlau Verlag,56.4,http://www.degruyter.com/view/j/az,1765,1876,2013,85,53,1,93
+bams,Bio-Algorithms and Med-Systems,93.3,1896-530X,93.3,1895-9091,100.0,De Gruyter,75.3,http://www.degruyter.com/view/j/bams,89,2012,2015,3,0,8,11
+bap,Business and Politics,100.0,1469-3569,100.0,1369-5258,100.0,De Gruyter,100.0,http://www.degruyter.com/view/j/bap,282,1999,2015,16,0,1,17
+bchm,Biological Chemistry,100.0,1437-4315,90.1,1431-6730,94.1,Walter de Gruyter,74.9,http://www.degruyter.com/view/j/bchm,3188,1997,2015,19,18,378,396
+bchm1,Zeitschrift für physiologische Chemie,100.0,,nan,,nan,"Walter de Gruyter, Berlin / New York",100.0,http://www.degruyter.com/view/j/bchm,833,1878,1895,18,0,1,20
+bchm2,Hoppe-Seyler´s Zeitschrift für physiologische Chemie,100.0,1437-4315,100.0,0018-4888,100.0,"Walter de Gruyter, Berlin / New York",100.0,http://www.degruyter.com/view/j/bchm,13846,1896,1984,87,2,1,365
+bchm3,Biological Chemistry Hoppe-Seyler,88.1,1437-4315,100.0,0177-3593,100.0,"Walter de Gruyter, Berlin / New York",100.0,http://www.degruyter.com/view/j/bchm,1668,1985,1996,12,0,366,377
+bd,Bibliotheksdienst,100.0,2194-9646,100.0,0006-1972,100.0,De Gruyter,98.3,http://www.degruyter.com/view/j/bd,8938,1967,2015,48,0,1,49
+bejeap,The B.E. Journal of Economic Analysis & Policy,76.9,1935-1682,76.6,2194-6108,100.0,De Gruyter,100.0,http://www.degruyter.com/view/j/bejeap,884,2001,2015,14,0,1,15
+bejm,The B.E. Journal of Macroeconomics,63.2,1935-1690,62.6,2194-6116,73.1,De Gruyter,100.0,http://www.degruyter.com/view/j/bejm,489,2001,2015,14,0,1,15
+bejte,The B.E. Journal of Theoretical Economics,69.8,1935-1704,69.8,2194-6124,100.0,De Gruyter,100.0,http://www.degruyter.com/view/j/bejte,384,2001,2015,14,0,1,15
+bfup,BIBLIOTHEK Forschung und Praxis,86.4,1865-7648,100.0,0341-4183,100.0,Walter de Gruyter GmbH & Co. KG,44.4,http://www.degruyter.com/view/j/bfup,1747,1977,2015,38,0,1,39
+bgsl,Beiträge zur Geschichte der deutschen Sprache und Literatur (PBB),86.8,1865-9373,100.0,0005-8076,100.0,"Niemeyer, Tübingen",68.5,http://www.degruyter.com/view/j/bgsl,4073,1874,2015,130,11,,
+biomat,BIOmaterialien,66.5,2191-4672,70.2,1616-0177,70.2,De Gruyter,96.3,http://www.degruyter.com/view/j/biomat,325,2000,2015,15,0,1,16
+bis,Basic Income Studies,100.0,1932-0183,100.0,2194-6094,100.0,De Gruyter,100.0,http://www.degruyter.com/view/j/bis,191,2006,2015,10,0,1,9
+bmc,BioMolecular Concepts,77.0,1868-503X,100.0,1868-5021,100.0,Walter de Gruyter,58.4,http://www.degruyter.com/view/j/bmc,243,2010,2015,5,0,1,6
+bmte,Biomedizinische Technik/Biomedical Engineering,89.5,1862-278X,99.7,0013-5585,99.7,"Walter de Gruyter, Berlin / New York",84.8,http://www.degruyter.com/view/j/bmte,11564,1956,2015,59,0,1,60
+botm,Botanica Marina,100.0,1437-4323,97.3,0006-8055,98.0,"Walter de Gruyter, Berlin / New York",66.8,http://www.degruyter.com/view/j/botm,3143,1959,2015,56,0,1,58
+bue,Bildung und Erziehung,100.0,2194-3834,100.0,0006-2456,100.0,Böhlau Verlag GmbH & CIE.,91.5,http://www.degruyter.com/view/j/bue,3496,1948,2015,61,6,1,68
+byzs,Byzantinische Zeitschrift,100.0,1864-449X,78.2,0007-7704,100.0,"Walter de Gruyter, Berlin / New York",63.4,http://www.degruyter.com/view/j/byzs,3506,1892,2015,104,19,1,108
+caslar,Chinese as a Second Language Research,100.0,2193-2271,100.0,2193-2263,100.0,De Gruyter Mouton,100.0,http://www.degruyter.com/view/j/caslar,59,2012,2015,3,0,1,4
+cclm,Clinical Chemistry and Laboratory Medicine,86.4,1437-4331,95.6,1434-6621,95.8,"Walter de Gruyter, Berlin / New York",46.2,http://www.degruyter.com/view/j/cclm,9351,1963,2015,52,0,1,53
+cercles,Language Learning in Higher Education,90.0,2191-6128,100.0,2191-611X,100.0,De Gruyter Mouton,100.0,http://www.degruyter.com/view/j/cercles,110,2012,2015,3,0,1,5
+char,Chinese Archaeology,100.0,2160-5068,100.0,5004-4295,94.3,De Gruyter,100.0,http://www.degruyter.com/view/j/char,418,2001,2015,14,0,1,15
+cjal,Chinese Journal of Applied Linguistics,100.0,2192-9513,98.2,2192-9505,98.2,De Gruyter Mouton,71.3,http://www.degruyter.com/view/j/cjal,164,2011,2015,4,0,34,38
+cllt,Corpus Linguistics and Linguistic Theory,100.0,1613-7035,100.0,1613-7027,100.0,Walter de Gruyter GmbH & Co. KG,38.3,http://www.degruyter.com/view/j/cllt,128,2005,2015,10,0,1,11
+cmam,Computational Methods in Applied Mathematics,100.0,1609-9389,100.0,1609-4840,100.0,De Gruyter,86.4,http://www.degruyter.com/view/j/cmam,390,2001,2015,14,0,1,15
+cogl,Cognitive Linguistics,64.4,1613-3641,100.0,0936-5907,100.0,"Walter de Gruyter, Berlin / New York",35.6,http://www.degruyter.com/view/j/cogl,578,1990,2015,25,0,1,26
+comm,Communications,93.3,1613-4087,99.7,0341-2059,99.7,"Walter de Gruyter, Berlin / New York",65.2,http://www.degruyter.com/view/j/comm,1102,1976,2015,38,1,2,40
+corrrev,Corrosion Reviews,100.0,2191-0316,100.0,0334-6005,100.0,De Gruyter,92.6,http://www.degruyter.com/view/j/corrrev,578,1987,2015,27,1,7,33
+cppm,Chemical Product and Process Modeling,100.0,1934-2659,100.0,2194-6159,100.0,De Gruyter,100.0,http://www.degruyter.com/view/j/cppm,367,2006,2015,9,0,1,10
+cpt,Conceptus,100.0,2196-9523,100.0,0010-5155,100.0,De Gruyter,100.0,http://www.degruyter.com/view/j/cpt,65,2008,2015,5,2,37,42
+cr,Computer und Recht,100.0,2194-4172,100.0,0179-1990,100.0,Verlag Dr. Otto Schmidt,99.0,http://www.degruyter.com/view/j/cr,1269,2005,2015,10,0,21,31
+cri,Computer Law Review International,100.0,2194-4164,100.0,1610-7608,100.0,Verlag Dr. Otto Schmidt,100.0,http://www.degruyter.com/view/j/cri,379,2005,2015,10,0,6,16
+crll,Journal für die reine und angewandte Mathematik (Crelles Journal),53.8,1435-5345,100.0,0075-4102,100.0,"Walter de Gruyter, Berlin / New York",83.3,http://www.degruyter.com/view/j/crll,9943,1826,2015,178,11,,
+crpm,Case Reports in Perinatal Medicine,100.0,2192-8959,100.0,2192-8932,100.0,De Gruyter,100.0,http://www.degruyter.com/view/j/crpm,88,2012,2015,3,0,1,4
+css,Chinese Semiotic Studies,100.0,2198-9613,100.0,2198-9605,100.0,De Gruyter,100.0,http://www.degruyter.com/view/j/css,273,2009,2015,6,0,1,11
+dante,Deutsches Dante-Jahrbuch,100.0,2194-4059,100.0,0070-444X,100.0,De Gruyter,100.0,http://www.degruyter.com/view/j/dante,863,1949,2015,47,19,28,90
+dig,Dialectologia et Geolinguistica,100.0,1867-0903,100.0,0942-4040,100.0,"Walter de Gruyter, Berlin / New York",71.4,http://www.degruyter.com/view/j/dig,238,1993,2015,22,0,,
+dma,Discrete Mathematics and Applications,100.0,1569-3929,100.0,0924-9265,100.0,"Walter de Gruyter, Berlin / New York",49.2,http://www.degruyter.com/view/j/dma,1054,1991,2015,23,1,1,25
+dmdi,Drug Metabolism and Drug Interactions,100.0,2191-0162,100.0,0792-5077,100.0,De Gruyter,90.9,http://www.degruyter.com/view/j/dmdi,616,1980,2015,32,3,3,30
+dmvm,Mitteilungen der Deutschen Mathematiker-Vereinigung,100.0,0942-5977,100.0,0947-4471,100.0,De Gruyter,100.0,http://www.degruyter.com/view/j/dmvm,1897,1993,2015,22,0,1,23
+dnrm,Der Donauraum,100.0,2307-289X,100.0,0012-5415,100.0,Böhlau Verlag GmbH & Co.KG,95.7,http://www.degruyter.com/view/j/dnrm,2044,1956,2013,53,5,,
+dug,Demokratie und Geschichte,100.0,2307-2881,100.0,2227-7633,100.0,Böhlau Verlag GmbH & Co.KG,100.0,http://www.degruyter.com/view/j/dug,197,1997,2010,10,4,1,14
+dwir,Deutsche Zeitschrift für Wirtschafts- und Insolvenzrecht,99.3,1612-7056,100.0,1439-1589,99.8,Walter de Gruyter GmbH & Co. KG,44.4,http://www.degruyter.com/view/j/dwir,3639,1991,2015,25,0,,
+dzph,Deutsche Zeitschrift für Philosophie,100.0,2192-1482,100.0,0012-1045,100.0,AKADEMIE VERLAG,93.2,http://www.degruyter.com/view/j/dzph,7890,1953,2015,62,0,1,63
+east,English and American Studies in German,22.8,1865-8946,100.0,0071-0490,100.0,Walter de Gruyter,69.1,http://www.degruyter.com/view/j/east,1201,1969,2015,44,2,,
+ecfr,European Company and Financial Law Review,96.0,1613-2556,100.0,1613-2548,100.0,Walter de Gruyter GmbH & Co. KG,36.3,http://www.degruyter.com/view/j/ecfr,226,2004,2015,12,0,1,11
+edit,Editio,10.3,1865-9446,100.0,0931-3079,100.0,Walter de Gruyter,73.8,http://www.degruyter.com/view/j/edit,619,1988,2015,24,3,2,29
+ehs,Energy Harvesting and Systems,100.0,2329-8766,100.0,2329-8774,100.0,De Gruyter,100.0,http://www.degruyter.com/view/j/ehs,28,2014,2015,1,0,1,2
+ejnm,European Journal of Nanomedicine,100.0,1662-596X,86.9,1662-5986,100.0,De Gruyter,86.9,http://www.degruyter.com/view/j/ejnm,122,2008,2015,6,1,1,7
+ejss,European Journal of Scandinavian Studies,100.0,2191-9402,86.8,2191-9399,86.8,De Gruyter,86.8,http://www.degruyter.com/view/j/ejss,76,2010,2015,5,0,38,45
+em,Epidemiologic Methods,100.0,2161-962X,100.0,2194-9263,100.0,De Gruyter,100.0,http://www.degruyter.com/view/j/em,28,2012,2015,3,0,1,4
+eplj,European Property Law Journal,100.0,2190-8362,100.0,2190-8273,100.0,De Gruyter,91.7,http://www.degruyter.com/view/j/eplj,60,2012,2015,3,0,1,4
+epoly,e-Polymers,100.0,1618-7229,100.0,2197-4586,97.7,De Gruyter,100.0,http://www.degruyter.com/view/j/epoly,1330,2001,2015,14,0,1,15
+eqc,Economic Quality Control,100.0,1869-6147,100.0,0940-5151,100.0,Walter de Gruyter GmbH & Co. KG,84.5,http://www.degruyter.com/view/j/eqc,278,2001,2015,14,0,16,30
+ercl,European Review of Contract Law,97.4,1614-9939,100.0,1614-9920,100.0,Walter de Gruyter GmbH & Co. KG,42.7,http://www.degruyter.com/view/j/ercl,344,2005,2015,10,0,1,11
+erj,Entrepreneurship Research Journal,100.0,2157-5665,100.0,2194-6175,100.0,De Gruyter,100.0,http://www.degruyter.com/view/j/erj,97,2011,2015,4,0,1,5
+etly,European Tort Law Yearbook,100.0,2190-7781,100.0,2190-7773,100.0,De Gruyter,62.4,http://www.degruyter.com/view/j/etly,181,2010,2015,5,0,,
+etst,Etruscan Studies,99.3,2163-8217,99.7,1080-1960,99.7,De Gruyter,96.5,http://www.degruyter.com/view/j/etst,288,1994,2015,17,4,1,18
+eujal,European Journal of Applied Linguistics,100.0,2192-953X,97.1,2192-9521,97.1,De Gruyter Mouton,76.5,http://www.degruyter.com/view/j/eujal,34,2013,2015,2,0,1,3
+ev,The Economists' Voice,97.6,1553-3832,100.0,2194-6167,100.0,De Gruyter,100.0,http://www.degruyter.com/view/j/ev,369,2004,2015,11,0,1,12
+evth,Evangelische Theologie,100.0,2198-0470,100.0,0014-3502,100.0,Gütersloher Verlagshaus,100.0,http://www.degruyter.com/view/j/evth,3530,1935,2015,71,9,2,75
+fabl,Fabula,100.0,1316-0464,93.0,0014-6242,100.0,"Walter de Gruyter, Berlin / New York",70.8,http://www.degruyter.com/view/j/fabl,1369,1958,2015,55,2,1,56
+fhep,Forum for Health Economics & Policy,79.5,1558-9544,100.0,2194-6191,100.0,De Gruyter,100.0,http://www.degruyter.com/view/j/fhep,171,1998,2015,16,1,1,18
+figurationen,Figurationen,100.0,2194-363X,100.0,1439-4367,100.0,Böhlau Verlag GmbH & CIE.,92.7,http://www.degruyter.com/view/j/figurationen,449,2000,2015,15,0,1,16
+flih,Folia Linguistica Historica,97.8,1614-7316,95.0,0168-647X,94.9,De Gruyter Mouton,95.6,http://www.degruyter.com/view/j/flih,499,1980,2015,33,2,14,47
+flin,Folia Linguistica,100.0,1614-7308,100.0,0165-4004,100.0,"Walter de Gruyter, Berlin / New York",81.1,http://www.degruyter.com/view/j/flin,1153,1967,2015,46,2,1,49
+fmst,Frühmittelalterliche Studien,22.9,1613-0812,100.0,0071-9706,100.0,Walter de Gruyter,79.8,http://www.degruyter.com/view/j/fmst,1004,1967,2015,46,2,1,48
+for,The Forum,100.0,1540-8884,100.0,2194-6183,100.0,De Gruyter,100.0,http://www.degruyter.com/view/j/for,546,2002,2015,13,0,1,13
+form,Forum Mathematicum,100.0,1435-5337,99.3,0933-7741,99.3,Walter de Gruyter GmbH & Co. KG,43.2,http://www.degruyter.com/view/j/form,1090,1989,2015,26,0,1,27
+fr,Finanz-Rundschau Ertragsteuerrecht,100.0,2194-4156,100.0,0940-452X,100.0,Verlag Dr. Otto Schmidt,100.0,http://www.degruyter.com/view/j/fr,1778,2005,2015,10,0,87,97
+freq,Frequenz,100.0,2191-6349,99.9,0016-1136,99.9,De Gruyter,98.3,http://www.degruyter.com/view/j/freq,4718,1949,2015,66,0,3,69
+frm,Forum für osteuropäische Ideen -und Zeitgeschichte,100.0,2194-3672,100.0,1433-4887,100.0,Böhlau Verlag GmbH & CIE.,100.0,http://www.degruyter.com/view/j/frm,589,1997,2013,17,0,1,17
+futur,International Yearbook of Futurism Studies,100.0,2192-029X,100.0,2192-0281,100.0,De Gruyter,66.7,http://www.degruyter.com/view/j/futur,81,2011,2013,3,0,1,3
+gcc,Groups – Complexity – Cryptology,52.6,1869-6104,100.0,1867-1144,100.0,Walter de Gruyter GmbH & Co. KG,61.9,http://www.degruyter.com/view/j/gcc,97,2009,2015,6,0,1,7
+gcla,Yearbook of the German Cognitive Linguistics Association,100.0,2197-2796,100.0,2197-2788,100.0,De Gruyter,100.0,http://www.degruyter.com/view/j/gcla,30,2013,2015,2,0,1,3
+gej,Global Economy Journal,100.0,1524-5861,97.2,2194-5659,100.0,De Gruyter,100.0,http://www.degruyter.com/view/j/gej,325,2000,2015,14,1,1,15
+georgejb,George-Jahrbuch,78.8,1865-8881,100.0,1430-2519,100.0,De Gruyter,54.7,http://www.degruyter.com/view/j/georgejb,137,2009,2014,4,2,7,10
+germ,Germanistik,100.0,1865-9187,100.0,0016-8912,100.0,De Gruyter,57.4,http://www.degruyter.com/view/j/germ,620,2007,2015,8,0,48,56
+gesr,GesundheitsRecht,100.0,2194-4229,100.0,1610-1197,100.0,Verlag Dr. Otto Schmidt,100.0,http://www.degruyter.com/view/j/gesr,1105,2005,2015,10,0,4,14
+gik,Geschichte in Köln,100.0,2198-0667,98.5,0720-3659,100.0,Böhlau Verlag,98.5,http://www.degruyter.com/view/j/gik,1370,1978,2015,37,0,1,62
+gj,Global Jurist,45.8,1934-2640,45.8,2194-5675,100.0,De Gruyter,100.0,http://www.degruyter.com/view/j/gj,297,2001,2015,14,0,1,15
+glot,Glottotheory,100.0,2196-6907,100.0,1337-7892,100.0,De Gruyter Akademie Forschung,60.5,http://www.degruyter.com/view/j/glot,114,2008,2015,5,2,1,6
+gmj,Georgian Mathematical Journal,100.0,1072-9176,86.1,1072-947X,100.0,Walter de Gruyter GmbH & Co. KG,89.6,http://www.degruyter.com/view/j/gmj,1130,1994,2015,21,0,1,22
+gpr,Zeitschrift für Gemeinschaftsprivatrecht,91.4,2193-9519,100.0,1612-9229,100.0,sellier european law publishers,94.4,http://www.degruyter.com/view/j/gpr,1150,2003,2015,12,0,1,12
+gps,Green Processing and Synthesis,100.0,2191-9550,100.0,2191-9542,100.0,De Gruyter,82.4,http://www.degruyter.com/view/j/gps,336,2012,2015,3,0,1,4
+green,Green,70.8,1869-8778,100.0,1869-876X,100.0,De Gruyter,66.4,http://www.degruyter.com/view/j/green,113,2011,2015,4,0,1,5
+ha,Historische Anthropologie,100.0,2194-4032,100.0,0942-8704,100.0,Böhlau Verlag GmbH & CIE.,96.0,http://www.degruyter.com/view/j/ha,1061,1993,2015,22,0,1,23
+hc,Heterocyclic Communications,100.0,2191-0197,100.0,0793-0283,100.0,De Gruyter,95.1,http://www.degruyter.com/view/j/hc,1754,1994,2015,21,0,1,21
+helia,HELIA,95.3,2197-0483,100.0,1018-1806,100.0,De Gruyter,100.0,http://www.degruyter.com/view/j/helia,515,2000,2015,15,0,23,38
+hfsg,"Holzforschung - International Journal of the Biology, Chemistry, Physics and Technology of Wood",63.1,1437-434X,96.8,0018-3830,97.6,"Walter de Gruyter, Berlin / New York",63.1,http://www.degruyter.com/view/j/hfsg,5253,1947,2015,68,0,1,69
+hgjb,Hegel-Jahrbuch,100.0,2192-5550,100.0,0073-1579,100.0,AKADEMIE VERLAG,79.7,http://www.degruyter.com/view/j/hgjb,891,1999,2015,16,0,,
+hmbci,Hormone Molecular Biology and Clinical Investigation,100.0,1868-1891,100.0,1868-1883,100.0,Walter de Gruyter,54.4,http://www.degruyter.com/view/j/hmbci,294,2010,2015,5,0,1,21
+hpm,Historisch-Politische Mitteilungen,100.0,2194-4040,100.0,0943-691X,100.0,Böhlau Verlag GmbH & CIE.,94.9,http://www.degruyter.com/view/j/hpm,488,1994,2015,21,0,1,22
+htmp,High Temperature Materials and Processes,100.0,2191-0324,100.0,0334-6455,100.0,De Gruyter,93.1,http://www.degruyter.com/view/j/htmp,1242,1984,2015,30,1,6,34
+humr,Humor - International Journal of Humor Research,75.4,1613-3722,100.0,0933-1719,100.0,"Walter de Gruyter, Berlin / New York",54.5,http://www.degruyter.com/view/j/humr,896,1988,2015,27,0,1,28
+hzhz,Historische Zeitschrift,100.0,2196-680X,100.0,0018-2613,100.0,OLDENBOURG WISSENSCHAFTSVERLAG,68.7,http://www.degruyter.com/view/j/hzhz,7976,1859,2015,147,9,1,300
+iabi,International African Bibliography (IAB),78.4,1865-9640,100.0,0020-5877,100.0,"Walter de Gruyter, Berlin / New York",69.8,http://www.degruyter.com/view/j/iabi,1809,1971,2015,44,0,1,45
+iasl,Internationales Archiv für Sozialgeschichte der deutschen Literatur (IASL),65.4,1865-9128,97.2,0340-4528,97.7,Walter de Gruyter GmbH & Co. KG,32.9,http://www.degruyter.com/view/j/iasl,699,1976,2015,39,0,1,40
+iber,Iberoromania,100.0,1865-9039,100.0,0019-0993,100.0,"Walter de Gruyter, Berlin / New York",48.4,http://www.degruyter.com/view/j/iber,1055,1969,2015,39,7,,
+ice,International Commentary on Evidence,100.0,1554-4567,100.0,2194-5691,100.0,De Gruyter,100.0,http://www.degruyter.com/view/j/ice,105,1998,2015,18,0,1,12
+icom,i-com,81.7,2196-6826,60.5,1618-162X,100.0,Oldenbourg Wissenschaftsverlag GmbH,69.6,http://www.degruyter.com/view/j/icom,519,2001,2015,14,0,1,14
+ihr,Internationales Handelsrecht,100.0,2193-9527,100.0,1617-5395,100.0,sellier european law publishers,94.9,http://www.degruyter.com/view/j/ihr,1078,2001,2015,14,0,1,15
+ijamh,International Journal of Adolescent Medicine and Health,100.0,2191-0278,98.8,0334-0139,98.8,De Gruyter,90.4,http://www.degruyter.com/view/j/ijamh,1216,1985,2015,28,2,1,27
+ijbe,Internationales Jahrbuch der Erwachsenenbildung,100.0,2194-3699,100.0,0074-9818,100.0,Böhlau Verlag GmbH & CIE.,97.5,http://www.degruyter.com/view/j/ijbe,714,1969,2015,30,16,1,38
+ijcre,International Journal of Chemical Reactor Engineering,100.0,1542-6580,100.0,2194-5748,100.0,De Gruyter,100.0,http://www.degruyter.com/view/j/ijcre,1115,2002,2015,13,0,1,13
+ijdhd,International Journal on Disability and Human Development,100.0,2191-0367,100.0,2191-1231,100.0,De Gruyter,78.0,http://www.degruyter.com/view/j/ijdhd,709,1999,2015,15,1,1,14
+ijeeps,International Journal of Emerging Electric Power Systems,100.0,1553-779X,99.8,2194-5756,100.0,De Gruyter,100.0,http://www.degruyter.com/view/j/ijeeps,467,2004,2015,11,0,1,16
+ijfe,International Journal of Food Engineering,100.0,1556-3758,100.0,2194-5764,100.0,De Gruyter,100.0,http://www.degruyter.com/view/j/ijfe,754,2005,2015,10,0,1,11
+ijmsp,Journal for Manufacturing Science and Production,83.8,2191-0375,100.0,0793-6648,75.9,De Gruyter,97.9,http://www.degruyter.com/view/j/ijmsp,328,1997,2015,16,2,1,15
+ijnes,International Journal of Nursing Education Scholarship,100.0,1548-923X,100.0,2194-5772,100.0,De Gruyter,100.0,http://www.degruyter.com/view/j/ijnes,358,2003,2015,12,0,1,12
+ijnsns,International Journal of Nonlinear Sciences and Numerical Simulation,96.9,2191-0294,100.0,1565-1339,100.0,De Gruyter,99.4,http://www.degruyter.com/view/j/ijnsns,1280,2000,2015,15,0,1,16
+ijpt,International Journal of Practical Theology,99.7,1612-9768,100.0,1430-6921,100.0,"Walter de Gruyter, Berlin / New York",39.8,http://www.degruyter.com/view/j/ijpt,389,1997,2015,18,0,1,39
+ijsl,International Journal of the Sociology of Language,100.0,1613-3668,100.0,0165-2516,100.0,"Walter de Gruyter, Berlin / New York",65.0,http://www.degruyter.com/view/j/ijsl,2407,1974,2015,41,0,,
+ils,Issues in Legal Scholarship,100.0,1539-8323,100.0,2194-5780,100.0,De Gruyter,100.0,http://www.degruyter.com/view/j/ils,145,2001,2013,13,0,1,11
+indo,Indogermanische Forschungen,62.7,1613-0405,100.0,0019-7262,100.0,De Gruyter,60.2,http://www.degruyter.com/view/j/indo,3899,1892,2015,104,19,1,120
+ins,Innovative Neurosurgery,100.0,2193-5238,100.0,2193-522X,100.0,De Gruyter,100.0,http://www.degruyter.com/view/j/ins,37,2013,2015,2,0,1,3
+iprg,Intercultural Pragmatics,100.0,1613-365X,95.4,1612-295X,100.0,Walter de Gruyter GmbH & Co. KG,36.9,http://www.degruyter.com/view/j/iprg,325,2004,2015,11,0,1,12
+iral,IRAL - International Review of Applied Linguistics in Language Teaching,90.1,1613-4141,100.0,0019-042X,100.0,"Walter de Gruyter, Berlin / New York",81.0,http://www.degruyter.com/view/j/iral,1355,1963,2015,52,0,1,53
+irm,BioInorganic Reaction Mechanisms,100.0,2191-2491,100.0,2191-2483,100.0,De Gruyter,97.2,http://www.degruyter.com/view/j/irm,144,1998,2013,13,3,1,9
+islm,Der Islam,100.0,1613-0928,100.0,0021-1818,100.0,"Walter de Gruyter, Berlin / New York",89.0,http://www.degruyter.com/view/j/islm,1366,1910,2015,89,16,1,92
+itit,it - Information Technology,87.8,2196-7032,100.0,1611-2776,100.0,OLDENBOURG WISSENSCHAFTSVERLAG,74.9,http://www.degruyter.com/view/j/itit,3420,1959,2015,56,0,1,57
+iwp,Information - Wissenschaft & Praxis,100.0,1619-4292,92.6,1434-4653,92.6,De Gruyter,93.6,http://www.degruyter.com/view/j/iwp,203,2012,2015,3,0,63,66
+jaa,Journal of Applied Analysis,100.0,1869-6082,100.0,1425-6908,100.0,Walter de Gruyter GmbH & Co. KG,85.7,http://www.degruyter.com/view/j/jaa,357,1995,2015,20,0,1,21
+jafio,Journal of Agricultural & Food Industrial Organization,100.0,1542-0485,100.0,2194-5896,100.0,De Gruyter,100.0,http://www.degruyter.com/view/j/jafio,182,2002,2015,13,0,1,13
+jag,Journal of Applied Geodesy,100.0,1862-9024,100.0,1862-9016,100.0,Walter de Gruyter GmbH & Co. KG,49.1,http://www.degruyter.com/view/j/jag,212,2007,2015,9,0,1,9
+jah,Journal of Ancient History,100.0,2324-8114,100.0,2324-8106,100.0,De Gruyter,92.6,http://www.degruyter.com/view/j/jah,27,2013,2015,2,0,1,3
+jall,Journal of African Languages and Linguistics,100.0,1613-3811,100.0,0167-6164,100.0,"Walter de Gruyter, Berlin / New York",65.5,http://www.degruyter.com/view/j/jall,466,1979,2015,35,1,1,36
+janeh,Journal of Ancient Near Eastern History,100.0,2328-9562,100.0,2328-9554,100.0,De Gruyter,100.0,http://www.degruyter.com/view/j/janeh,12,2014,2015,1,0,1,2
+jbbbl,"Journal of Biosecurity, Biosafety, and Biodefense Law",50.8,2154-3186,100.0,2194-590X,100.0,De Gruyter,100.0,http://www.degruyter.com/view/j/jbbbl,59,2011,2015,4,0,1,6
+jbcpp,Journal of Basic and Clinical Physiology and Pharmacology,100.0,2191-0286,100.0,0792-6855,100.0,De Gruyter,93.3,http://www.degruyter.com/view/j/jbcpp,855,1986,2015,28,1,1,26
+jbgsg,Jahrbuch für Germanistische Sprachgeschichte,100.0,1869-7046,100.0,1869-7038,100.0,De Gruyter,69.2,http://www.degruyter.com/view/j/jbgsg,91,2010,2015,4,1,1,6
+jbkgv,Jahrbuch des Kölnischen Geschichtsvereins,100.0,2198-0675,97.3,0341-9320,100.0,Böhlau Verlag,88.4,http://www.degruyter.com/view/j/jbkgv,881,1912,2012,68,33,1,81
+jbpa,Internationales Jahrbuch für philosophische Anthropologie,99.1,2192-4287,100.0,2192-4279,100.0,De Gruyter,99.1,http://www.degruyter.com/view/j/jbpa,106,2008,2015,4,3,1,5
+jbr,Journal of the Bible and its Reception,100.0,2329-4434,100.0,2329-440X,100.0,De Gruyter,100.0,http://www.degruyter.com/view/j/jbr,21,2014,2015,1,0,1,2
+jbvela,Journal of Business Valuation and Economic Loss Analysis,100.0,1932-9156,100.0,2194-5861,100.0,De Gruyter,100.0,http://www.degruyter.com/view/j/jbvela,76,2006,2015,9,0,1,10
+jbwg,Jahrbuch für Wirtschaftsgeschichte / Economic History Yearbook,99.3,2196-6842,100.0,0075-2800,100.0,AKADEMIE VERLAG,95.9,http://www.degruyter.com/view/j/jbwg,3498,1960,2015,55,0,1,56
+jcde,Journal of Contemporary Drama in English,100.0,2195-0164,100.0,2195-0156,100.0,De Gruyter,97.3,http://www.degruyter.com/view/j/jcde,74,2013,2015,2,0,1,3
+jci,Journal of Causal Inference,100.0,2193-3685,100.0,2193-3677,100.0,De Gruyter,100.0,http://www.degruyter.com/view/j/jci,29,2013,2015,2,0,1,3
+jcim,Journal of Complementary and Integrative Medicine,100.0,1553-3840,100.0,2194-6329,100.0,De Gruyter,100.0,http://www.degruyter.com/view/j/jcim,313,2004,2015,11,0,1,12
+jdpa,Journal of Drug Policy Analysis,100.0,1941-2851,100.0,2194-6337,100.0,De Gruyter,100.0,http://www.degruyter.com/view/j/jdpa,18,2010,2015,5,0,3,8
+jdrg,Jahrbuch der Raabe-Gesellschaft,20.5,1865-8857,100.0,0075-2371,100.0,Walter de Gruyter,85.9,http://www.degruyter.com/view/j/jdrg,743,1960,2015,53,2,1,56
+jeeh,Journal de Economistes et des Etudes Humaines,64.4,2153-1552,65.2,2194-5799,100.0,De Gruyter,100.0,http://www.degruyter.com/view/j/jeeh,679,1990,2015,21,5,1,20
+jelf,Journal of English as a Lingua Franca,100.0,2191-933X,100.0,2191-9216,100.0,De Gruyter Mouton,100.0,http://www.degruyter.com/view/j/jelf,87,2012,2015,3,0,1,4
+jem,Journal of Econometric Methods,100.0,2156-6674,100.0,2194-6345,100.0,De Gruyter,100.0,http://www.degruyter.com/view/j/jem,20,2012,2015,3,0,1,4
+jemc,Journal of Early Modern Christianity,100.0,2196-6656,100.0,2196-6648,100.0,De Gruyter,100.0,http://www.degruyter.com/view/j/jemc,14,2014,2015,2,0,1,1
+jetl,Journal of European Tort Law,84.9,1868-9620,100.0,1868-9612,100.0,De Gruyter,52.1,http://www.degruyter.com/view/j/jetl,119,2010,2015,5,0,1,6
+jfwe,Jahrbuch für Wissenschaft und Ethik,100.0,1613-1142,100.0,1430-9017,100.0,Walter de Gruyter,66.0,http://www.degruyter.com/view/j/jfwe,324,1996,2015,17,2,1,20
+jga,Jahrbuch der Göttinger Akademie der Wissenschaften,76.3,1868-9191,100.0,0373-9767,100.0,De Gruyter,70.4,http://www.degruyter.com/view/j/jga,270,2008,2014,6,1,,
+jgd,Journal of Globalization and Development,100.0,1948-1837,100.0,2194-6353,100.0,De Gruyter,100.0,http://www.degruyter.com/view/j/jgd,85,2010,2015,5,0,1,6
+jgmo,Jahrbuch für die Geschichte Mittel- und Ostdeutschlands,100.0,2191-9909,100.0,0075-2614,100.0,DE GRUYTER SAUR,31.6,http://www.degruyter.com/view/j/jgmo,76,2009,2015,5,1,55,60
+jgth,Journal of Group Theory,100.0,1435-4446,100.0,1433-5883,100.0,Walter de Gruyter GmbH & Co. KG,53.4,http://www.degruyter.com/view/j/jgth,826,1998,2015,17,0,1,18
+jhsem,Journal of Homeland Security and Emergency Management,100.0,1547-7355,100.0,2194-6361,100.0,De Gruyter,100.0,http://www.degruyter.com/view/j/jhsem,600,2003,2015,12,0,1,12
+jias,Journal of the International Arthurian Society,96.3,2196-9361,100.0,2196-9353,100.0,De Gruyter,96.3,http://www.degruyter.com/view/j/jias,27,2013,2015,2,0,1,3
+jiip,Journal of Inverse and Ill-posed Problems,62.9,1569-3945,80.3,0928-0219,100.0,"Walter de Gruyter, Berlin / New York",26.2,http://www.degruyter.com/view/j/jiip,927,1993,2015,22,0,1,23
+jirspa,Journal of Imagery Research in Sport and Physical Activity,100.0,1932-0191,100.0,2194-637X,100.0,De Gruyter,100.0,http://www.degruyter.com/view/j/jirspa,56,2006,2015,9,0,1,10
+jisys,Journal of Intelligent Systems,100.0,2191-026X,100.0,0334-1860,100.0,De Gruyter,89.9,http://www.degruyter.com/view/j/jisys,483,1991,2015,23,1,1,24
+jjzg,Journal der Juristischen Zeitgeschichte,100.0,1868-8810,100.0,1863-9984,100.0,Walter de Gruyter GmbH & Co. KG,53.0,http://www.degruyter.com/view/j/jjzg,100,2010,2015,6,0,4,8
+jjzg-b,Jahrbuch der Juristischen Zeitgeschichte,77.8,1869-6902,77.8,1869-6899,77.8,De Gruyter,69.4,http://www.degruyter.com/view/j/jjzg-b,72,2011,2015,4,0,12,16
+jlse,Journal of Literary Semantics,100.0,1613-3838,100.0,0341-7638,100.0,"Walter de Gruyter, Berlin / New York",73.0,http://www.degruyter.com/view/j/jlse,701,1972,2015,43,0,1,44
+jlt,Journal of Literary Theory,100.0,1862-8990,100.0,1862-5290,100.0,Walter de Gruyter GmbH & Co. KG,68.7,http://www.degruyter.com/view/j/jlt,163,2007,2015,8,0,1,9
+jmbm,Journal of the Mechanical Behavior of Materials,93.5,2191-0243,98.9,0334-8938,100.0,De Gruyter,97.1,http://www.degruyter.com/view/j/jmbm,651,1989,2015,24,2,2,24
+jmc,Journal of Mathematical Cryptology,95.9,1862-2984,100.0,1862-2976,100.0,Walter de Gruyter GmbH & Co. KG,51.0,http://www.degruyter.com/view/j/jmc,147,2007,2015,8,0,1,9
+jnet,Journal of Non-Equilibrium Thermodynamics,99.6,1437-4358,100.0,0340-0204,100.0,"Walter de Gruyter, Berlin / New York",64.0,http://www.degruyter.com/view/j/jnet,1178,1976,2015,39,0,1,40
+jnma,Journal of Numerical Mathematics,100.0,1569-3953,100.0,1570-2820,100.0,Walter de Gruyter GmbH & Co. KG,38.0,http://www.degruyter.com/view/j/jnma,229,2001,2015,14,0,9,23
+joc,Journal of Optical Communications,93.0,2191-6322,100.0,0173-4911,100.0,De Gruyter,96.6,http://www.degruyter.com/view/j/joc,1611,1980,2015,34,1,1,36
+joll,Journal of Latin Linguistics,100.0,2194-8747,100.0,,89.2,De Gruyter,89.2,http://www.degruyter.com/view/j/joll,268,1980,2015,13,22,1,14
+jpem,Journal of Pediatric Endocrinology and Metabolism,100.0,2191-0251,100.0,0334-018X,100.0,De Gruyter,86.4,http://www.degruyter.com/view/j/jpem,3700,1985,2015,28,2,1,28
+jplr,"Journal of Politeness Research. Language, Behaviour, Culture",65.3,1613-4877,100.0,1612-5681,100.0,Walter de Gruyter GmbH & Co. KG,36.0,http://www.degruyter.com/view/j/jplr,150,2005,2015,10,0,1,11
+jpme,Journal of Perinatal Medicine - Official Journal of the WAPM,55.9,1619-3997,96.2,0300-5577,97.1,"Walter de Gruyter, Berlin / New York",55.9,http://www.degruyter.com/view/j/jpme,4150,1973,2015,42,0,1,43
+jqas,Journal of Quantitative Analysis in Sports,100.0,1559-0410,100.0,2194-6388,100.0,De Gruyter,100.0,http://www.degruyter.com/view/j/jqas,331,2005,2015,10,0,1,11
+jsall,Journal of South Asian Languages and Linguistics,100.0,2196-078X,100.0,2196-0771,100.0,De Gruyter Mouton,100.0,http://www.degruyter.com/view/j/jsall,14,2014,2015,1,0,1,2
+jtl,Journal of Tort Law,100.0,1932-9148,100.0,2194-6515,100.0,De Gruyter,100.0,http://www.degruyter.com/view/j/jtl,64,2006,2015,9,1,1,7
+jtms,Journal of Transcultural Medieval Studies,100.0,2198-0365,100.0,2198-0357,100.0,De Gruyter,100.0,http://www.degruyter.com/view/j/jtms,32,2014,2015,1,0,1,2
+jtse,Journal of Time Series Econometrics,100.0,1941-1928,100.0,2194-6507,100.0,De Gruyter,100.0,http://www.degruyter.com/view/j/jtse,67,2009,2015,6,0,1,7
+jura,JURA - Juristische Ausbildung,64.3,1612-7021,100.0,0170-1452,99.9,Walter de Gruyter GmbH & Co. KG,58.7,http://www.degruyter.com/view/j/jura,1173,2009,2015,6,0,,
+juru,Juristische Rundschau,99.9,1612-7064,100.0,0022-6920,100.0,"Walter de Gruyter, Berlin / New York",84.2,http://www.degruyter.com/view/j/juru,11578,1925,2015,86,4,,
+kadm,Kadmos,100.0,1613-0723,100.0,0022-7498,100.0,"Walter de Gruyter, Berlin / New York",69.0,http://www.degruyter.com/view/j/kadm,897,1962,2015,51,2,1,54
+kant,Kant-Studien,95.0,1613-1134,100.0,0022-8877,100.0,"Walter de Gruyter, Berlin / New York",62.5,http://www.degruyter.com/view/j/kant,3970,1897,2015,93,25,1,106
+kantyb,Kant Yearbook,83.1,1868-4602,100.0,1868-4599,100.0,De Gruyter,47.7,http://www.degruyter.com/view/j/kantyb,65,2009,2015,6,0,1,7
+kier,Kierkegaard Studies Yearbook,29.8,1612-9792,100.0,1430-5372,100.0,Walter de Gruyter,76.0,http://www.degruyter.com/view/j/kier,487,1996,2015,19,0,,
+kl,Kritikon Litterarum,100.0,1865-7249,100.0,0340-9767,100.0,De Gruyter,41.6,http://www.degruyter.com/view/j/kl,361,2007,2015,8,0,34,42
+klio,Klio - Beiträge zur Alten Geschichte,91.4,2192-7669,100.0,0075-6334,100.0,AKADEMIE VERLAG,91.4,http://www.degruyter.com/view/j/klio,3562,1901,2015,92,22,1,97
+kszw,Kölner Schrift zum Wirtschaftsrecht,100.0,2194-4199,100.0,1869-3679,100.0,Verlag Dr. Otto Schmidt,100.0,http://www.degruyter.com/view/j/kszw,282,2010,2015,5,0,1,6
+labm,LaboratoriumsMedizin / Journal of Laboratory Medicine,74.2,1439-0477,94.3,0342-3026,98.8,"Walter de Gruyter, Berlin / New York",74.2,http://www.degruyter.com/view/j/labm,3631,1977,2015,39,0,1,57
+labphon,Laboratory Phonology,100.0,1868-6354,100.0,1868-6346,100.0,De Gruyter,100.0,http://www.degruyter.com/view/j/labphon,80,2010,2013,4,0,1,4
+langcog,Language and Cognition,100.0,1866-9859,100.0,1866-9808,100.0,De Gruyter Mouton,57.3,http://www.degruyter.com/view/j/langcog,89,2009,2013,5,0,1,5
+ldr,The Law and Development Review,83.8,1943-3867,100.0,2194-6523,100.0,De Gruyter,100.0,http://www.degruyter.com/view/j/ldr,111,2008,2015,7,0,1,8
+lehr,Law & Ethics of Human Rights,71.1,1938-2545,100.0,2194-6531,100.0,De Gruyter,100.0,http://www.degruyter.com/view/j/lehr,97,2007,2015,8,0,1,9
+les,Lebende Sprachen,100.0,1868-0267,100.0,0023-9909,100.0,"Walter de Gruyter, Berlin / New York",84.3,http://www.degruyter.com/view/j/les,2765,1956,2015,59,0,1,60
+lexi,Lexicographica,33.2,1865-9403,100.0,0175-6206,100.0,Walter de Gruyter,69.6,http://www.degruyter.com/view/j/lexi,632,1985,2015,29,1,1,31
+lhomme,L'Homme,100.0,2194-5071,100.0,1016-362X,100.0,Böhlau Verlag GmbH & Co.KG,96.6,http://www.degruyter.com/view/j/lhomme,1184,1990,2015,25,0,1,26
+libr,Libri,99.6,1865-8423,100.0,0024-2667,100.0,"Walter de Gruyter, Berlin / New York",55.3,http://www.degruyter.com/view/j/libr,2097,1950,2015,62,3,1,65
+ling,Linguistics,100.0,1613-396X,100.0,0024-3949,99.8,"Walter de Gruyter, Berlin / New York",79.8,http://www.degruyter.com/view/j/ling,3579,1963,2015,52,0,1,53
+lity,Linguistic Typology,100.0,1613-415X,100.0,1430-0532,100.0,Walter de Gruyter GmbH & Co. KG,36.0,http://www.degruyter.com/view/j/lity,381,1997,2015,18,0,1,19
+lpp,Lodz Papers in Pragmatics,100.0,1898-4436,100.0,1895-6106,100.0,Versita,58.5,http://www.degruyter.com/view/j/lpp,135,2007,2015,8,0,3,11
+mamm,Mammalia,88.2,1864-1547,98.0,0025-1461,98.0,"Walter de Gruyter, Berlin / New York",77.7,http://www.degruyter.com/view/j/mamm,3715,1936,2015,78,1,1,79
+mc,Journal Multimodal Communication ,68.2,2230-6587,100.0,2230-6579,100.0,De Gruyter,81.8,http://www.degruyter.com/view/j/mc,44,2012,2015,3,0,1,4
+mcma,Monte Carlo Methods and Applications,100.0,1569-3961,100.0,0929-9629,100.0,"Walter de Gruyter, Berlin / New York",43.8,http://www.degruyter.com/view/j/mcma,502,1995,2015,20,0,1,21
+mdr,Microform & Digitization Review,100.0,2190-541X,100.0,2190-0752,100.0,De Gruyter,57.4,http://www.degruyter.com/view/j/mdr,54,2011,2012,2,0,40,41
+mdtr,Monatsschrift für Deutsches Recht,100.0,2194-4202,100.0,0340-1812,100.0,Verlag Dr. Otto Schmidt,100.0,http://www.degruyter.com/view/j/mdtr,1357,2005,2015,10,0,59,69
+me,Man and the Economy,100.0,2196-9647,100.0,2196-9639,100.0,De Gruyter,100.0,http://www.degruyter.com/view/j/me,21,2014,2015,1,0,1,2
+mel,Mathematical Economics Letters,100.0,2195-4623,100.0,2195-4615,100.0,De Gruyter,100.0,http://www.degruyter.com/view/j/mel,27,2013,2014,2,0,1,2
+mfir,Microform & Imaging Review,100.0,1865-8458,100.0,0949-5770,100.0,"Walter de Gruyter, Berlin / New York",74.5,http://www.degruyter.com/view/j/mfir,1540,1972,2010,39,0,1,39
+mgmc,Main Group Metal Chemistry,100.0,2191-0219,100.0,0792-1241,100.0,De Gruyter,97.4,http://www.degruyter.com/view/j/mgmc,1359,1994,2015,21,0,17,38
+mgzs,Militaergeschichtliche Zeitschrift,94.2,,100.0,2196-6850,91.4,OLDENBOURG WISSENSCHAFTSVERLAG,90.9,http://www.degruyter.com/view/j/mgzs,1234,1967,2015,48,0,1,74
+mial,Das Mittelalter,100.0,2196-6869,100.0,0949-0345,100.0,AKADEMIE VERLAG,67.8,http://www.degruyter.com/view/j/mial,522,1996,2015,19,0,1,20
+miog,Mitteilungen des Instituts für Österreichische Geschichtsforschung,100.0,2307-2903,100.0,0073-8484,100.0,Böhlau Verlag GmbH & Co.KG,99.0,http://www.degruyter.com/view/j/miog,3487,1880,2015,119,16,1,123
+mjb,Millennium,39.7,1867-0318,100.0,1862-1139,51.8,Walter de Gruyter,51.1,http://www.degruyter.com/view/j/mjb,174,2004,2015,11,0,1,12
+mlt,Multicultural Learning and Teaching,100.0,2161-2412,100.0,2194-654X,100.0,De Gruyter,100.0,http://www.degruyter.com/view/j/mlt,139,2006,2015,9,0,1,10
+mopp,Moral Philosophy and Politics,100.0,2194-5624,100.0,2194-5616,100.0,De Gruyter,100.0,http://www.degruyter.com/view/j/mopp,25,2014,2015,1,0,1,2
+mp,Metaphysica,100.0,1874-6373,100.0,1437-2053,100.0,De Gruyter,100.0,http://www.degruyter.com/view/j/mp,28,2014,2015,1,0,15,16
+muk,Maske und Kothurn,100.0,2305-0667,100.0,0025-4606,100.0,Böhlau Verlag GmbH & Co.KG,99.0,http://www.degruyter.com/view/j/muk,2346,1955,2013,59,0,1,59
+mult,Multilingua - Journal of Cross-Cultural and Interlanguage Communication,87.3,1613-3684,99.9,0167-8507,99.9,"Walter de Gruyter, Berlin / New York",67.1,http://www.degruyter.com/view/j/mult,1077,1982,2015,34,0,1,35
+mwjhr,Muslim World Journal of Human Rights,100.0,1554-4419,100.0,2194-6558,100.0,De Gruyter,100.0,http://www.degruyter.com/view/j/mwjhr,72,2004,2015,9,2,1,12
+naha,Naharaim - Zeitschrift für deutsch-jüdische Literatur und Kulturgeschichte,47.1,1862-9156,100.0,1862-9148,100.0,Walter de Gruyter GmbH & Co. KG,62.3,http://www.degruyter.com/view/j/naha,138,2007,2015,7,1,1,35
+ngs,New Global Studies,100.0,1940-0004,100.0,2194-6566,85.7,De Gruyter,100.0,http://www.degruyter.com/view/j/ngs,179,2007,2015,9,0,1,8
+niet,Nietzsche-Studien,23.6,1613-0790,100.0,0342-1422,100.0,Walter de Gruyter,75.2,http://www.degruyter.com/view/j/niet,1158,1973,2015,41,1,2,44
+nifo,Nietzscheforschung,100.0,2191-9259,100.0,1869-5604,100.0,AKADEMIE VERLAG,77.8,http://www.degruyter.com/view/j/nifo,563,1994,2015,20,1,1,22
+nleng,Nonlinear Engineering,100.0,2192-8029,55.0,2192-8010,55.0,De Gruyter,100.0,http://www.degruyter.com/view/j/nleng,60,2012,2015,3,0,1,4
+npf,Nonprofit Policy Forum,100.0,2154-3348,100.0,2194-6035,100.0,De Gruyter,100.0,http://www.degruyter.com/view/j/npf,69,2010,2015,5,0,1,6
+ntrev,Nanotechnology Reviews,100.0,2191-9097,100.0,2191-9089,100.0,De Gruyter,64.9,http://www.degruyter.com/view/j/ntrev,154,2012,2015,3,0,1,4
+nzst,Neue Zeitschrift für Systematische Theologie und Religionsphilosophie,93.7,1612-9520,100.0,0028-3517,100.0,"Walter de Gruyter, Berlin / New York",70.6,http://www.degruyter.com/view/j/nzst,1356,1959,2015,56,0,1,57
+olzg,Orientalistische Literaturzeitung,100.0,2196-6877,100.0,0030-5383,100.0,AKADEMIE VERLAG,93.9,http://www.degruyter.com/view/j/olzg,6639,1898,2015,105,12,1,110
+omz,Österreichische Musikzeitschrift,100.0,2307-2970,100.0,0029-9316,100.0,Böhlau Verlag GmbH & Co.KG,98.6,http://www.degruyter.com/view/j/omz,15201,1946,2014,67,2,1,69
+pac,Pure and Applied Chemistry,100.0,1365-3075,100.0,0033-4545,100.0,De Gruyter,99.7,http://www.degruyter.com/view/j/pac,9498,1960,2015,55,0,1,87
+para,Paragrana,100.0,2196-6885,100.0,0938-0116,100.0,Akademie Verlag GmbH,67.1,http://www.degruyter.com/view/j/para,304,2008,2015,7,0,17,24
+pdtc,"Preservation, Digital Technology & Culture",62.5,2195-2965,100.0,2195-2957,100.0,De Gruyter,100.0,http://www.degruyter.com/view/j/pdtc,72,2013,2015,2,0,42,44
+peps,"Peace Economics, Peace Science and Public Policy",100.0,1554-8597,100.0,1079-2457,91.7,De Gruyter,100.0,http://www.degruyter.com/view/j/peps,260,1993,2015,21,1,1,21
+pepsi,Journal for Perspectives of Economic Political and Social Integration,100.0,,100.0,1733-3911,100.0,De Gruyter Open,73.5,http://www.degruyter.com/view/j/pepsi,34,2010,2015,4,1,16,21
+phil,Philologus - Zeitschrift für antike Literatur und ihre Rezeption,96.6,2196-7008,100.0,0031-7985,100.0,AKADEMIE VERLAG,96.6,http://www.degruyter.com/view/j/phil,6903,1846,2015,123,46,1,159
+piko,PIK - Praxis der Informationsverarbeitung und Kommunikation,76.3,1865-8342,100.0,0930-5157,100.0,Walter de Gruyter GmbH & Co. KG,36.3,http://www.degruyter.com/view/j/piko,1494,1986,2015,29,0,1,38
+piko.1,Das Rechenzentrum,100.0,,100.0,0343-317X,100.0,"Walter de Gruyter, Berlin / New York",100.0,http://www.degruyter.com/view/j/piko,391,1978,1985,8,0,1,8
+plm,Photonics & Lasers in Medicine,55.6,2193-0643,100.0,2193-0635,100.0,De Gruyter,82.2,http://www.degruyter.com/view/j/plm,169,2012,2015,3,0,1,4
+pol,Pólemos,100.0,2036-4601,100.0,2035-5262,100.0,De Gruyter,100.0,http://www.degruyter.com/view/j/pol,72,2012,2015,3,0,6,9
+polyeng,Journal of Polymer Engineering,100.0,2191-0340,100.0,0334-6447,100.0,De Gruyter,89.7,http://www.degruyter.com/view/j/polyeng,1102,1984,2015,30,1,4,35
+pop,POP,100.0,2198-0322,100.0,2194-6981,100.0,transcript Verlag,100.0,http://www.degruyter.com/view/j/pop,119,2012,2015,3,0,1,4
+prbs,Probus,93.6,1613-4079,100.0,0921-4771,100.0,"Walter de Gruyter, Berlin / New York",57.9,http://www.degruyter.com/view/j/prbs,361,1989,2015,26,0,1,27
+prhz,Praehistorische Zeitschrift,99.0,1613-0804,100.0,0079-4848,95.2,"Walter de Gruyter, Berlin / New York",67.1,http://www.degruyter.com/view/j/prhz,1149,1909,2015,75,31,1,90
+prth,Praktische Theologie,88.9,2198-0462,100.0,0946-3518,100.0,Gütersloher Verlagshaus,100.0,http://www.degruyter.com/view/j/prth,2691,1966,2015,49,0,1,50
+psicl,Poznań Studies in Contemporary Linguistics,88.5,1897-7499,97.4,0137-2459,100.0,Versita,47.6,http://www.degruyter.com/view/j/psicl,227,2007,2015,8,0,43,51
+pteridines,Pteridines,100.0,2195-4720,100.0,0933-4807,100.0,De Gruyter,100.0,http://www.degruyter.com/view/j/pteridines,577,1989,2015,25,1,1,26
+pubhef,Public Health Forum,100.0,1876-4851,53.7,0944-5587,100.0,De Gruyter,95.0,http://www.degruyter.com/view/j/pubhef,2071,1993,2015,22,0,1,23
+pwp,Perspektiven der Wirtschaftspolitik,100.0,1468-2516,100.0,1465-6493,100.0,De Gruyter,100.0,http://www.degruyter.com/view/j/pwp,536,2000,2015,15,0,1,16
+qfiab,Quellen und Forschungen aus italienischen Archiven und Bibliotheken,60.9,1865-8865,100.0,0079-9068,100.0,De Gruyter,42.0,http://www.degruyter.com/view/j/qfiab,138,2009,2015,5,1,88,94
+ract,Radiochimica Acta,94.6,2193-3405,100.0,0033-8230,97.2,OLDENBOURG WISSENSCHAFTSVERLAG,68.9,http://www.degruyter.com/view/j/ract,5631,1962,2015,53,0,1,103
+rbm,Restoration of Buildings and Monuments,100.0,1864-7022,100.0,1864-7251,100.0,De Gruyter,96.1,http://www.degruyter.com/view/j/rbm,1705,1995,2015,20,0,1,21
+rest,Restaurator,91.0,1865-8431,100.0,0034-5806,100.0,"Walter de Gruyter, Berlin / New York",61.4,http://www.degruyter.com/view/j/rest,766,1970,2015,36,9,1,36
+revac,Reviews in Analytical Chemistry,100.0,2191-0189,100.0,0793-0135,99.8,De Gruyter,91.5,http://www.degruyter.com/view/j/revac,448,1980,2015,31,4,4,34
+revce,Reviews in Chemical Engineering,100.0,2191-0235,100.0,0167-8299,100.0,De Gruyter,87.5,http://www.degruyter.com/view/j/revce,264,1982,2015,31,2,1,31
+reveh,Reviews on Environmental Health,100.0,2191-0308,100.0,0048-7554,100.0,De Gruyter,89.2,http://www.degruyter.com/view/j/reveh,553,1986,2015,23,6,6,30
+revic,Reviews in Inorganic Chemistry,100.0,2191-0227,100.0,0193-4929,100.0,De Gruyter,95.7,http://www.degruyter.com/view/j/revic,326,1985,2015,29,1,7,35
+revneuro,Reviews in the Neurosciences,99.7,2191-0200,100.0,0334-1763,100.0,De Gruyter,88.9,http://www.degruyter.com/view/j/revneuro,760,1987,2015,26,2,1,26
+rhet,Rhetorik,17.8,1865-9160,100.0,0720-5775,100.0,Walter de Gruyter,79.1,http://www.degruyter.com/view/j/rhet,484,1980,2015,32,3,1,34
+rhiz,Rhizomata,100.0,2196-5110,100.0,2196-5102,100.0,De Gruyter,100.0,http://www.degruyter.com/view/j/rhiz,31,2013,2015,2,0,1,3
+rle,Review of Law & Economics,100.0,1555-5879,100.0,2194-6000,100.0,De Gruyter,100.0,http://www.degruyter.com/view/j/rle,269,2005,2015,10,0,1,11
+rmeef,Review of Middle East Economics and Finance,100.0,1475-3693,89.8,1475-3685,100.0,De Gruyter,100.0,http://www.degruyter.com/view/j/rmeef,147,2003,2015,11,1,1,11
+rnam,Russian Journal of Numerical Analysis and Mathematical Modelling,100.0,1569-3988,100.0,0927-6467,100.0,"Walter de Gruyter, Berlin / New York",49.2,http://www.degruyter.com/view/j/rnam,1008,1986,2015,29,0,1,30
+rne,Review of Network Economics,100.0,1446-9022,100.0,2194-5993,100.0,De Gruyter,100.0,http://www.degruyter.com/view/j/rne,281,2002,2015,13,0,1,14
+roma,Romanistisches Jahrbuch,55.3,1613-0413,100.0,0080-3898,100.0,De Gruyter,49.0,http://www.degruyter.com/view/j/roma,1847,1948,2015,63,4,1,65
+romb,Romanische Bibliographie,77.7,1865-9055,100.0,0080-388X,100.0,De Gruyter,61.5,http://www.degruyter.com/view/j/romb,278,2007,2015,8,0,,
+roms,Review of Marketing Science,100.0,1546-5616,100.0,2194-5985,100.0,De Gruyter,100.0,http://www.degruyter.com/view/j/roms,42,2003,2015,12,0,1,13
+rose,Random Operators and Stochastic Equations,100.0,1569-397X,62.7,0926-6364,100.0,"Walter de Gruyter, Berlin / New York",49.4,http://www.degruyter.com/view/j/rose,526,1993,2015,22,0,1,23
+rra,ReiseRechts aktuell,94.1,2193-9535,100.0,0944-7490,100.0,sellier european law publishers,98.4,http://www.degruyter.com/view/j/rra,3775,1993,2015,22,0,1,23
+saeculum,Saeculum,100.0,2194-4075,100.0,0080-5319,100.0,Böhlau Verlag GmbH & CIE.,91.0,http://www.degruyter.com/view/j/saeculum,1550,1950,2015,64,1,1,65
+sagmb,Statistical Applications in Genetics and Molecular Biology,100.0,1544-6115,100.0,2194-6302,100.0,De Gruyter,100.0,http://www.degruyter.com/view/j/sagmb,509,2002,2015,13,0,1,14
+sats,SATS,100.0,1869-7577,100.0,1600-1974,100.0,Walter de Gruyter GmbH & Co. KG,86.1,http://www.degruyter.com/view/j/sats,287,2000,2015,15,0,1,16
+scid,Statistical Communications in Infectious Diseases,100.0,1948-4690,100.0,2194-6310,100.0,De Gruyter,100.0,http://www.degruyter.com/view/j/scid,25,2009,2013,5,0,1,5
+scipo,Scientia Poetica,100.0,1868-9418,100.0,1431-5041,100.0,De Gruyter,62.1,http://www.degruyter.com/view/j/scipo,124,2010,2015,5,0,14,19
+secm,Science and Engineering of Composite Materials,100.0,2191-0359,100.0,0792-1233,100.0,De Gruyter,89.7,http://www.degruyter.com/view/j/secm,707,1988,2015,24,3,1,22
+selt,"Studies in Ethics, Law, and Technology",100.0,1941-6008,100.0,,nan,De Gruyter,100.0,http://www.degruyter.com/view/j/selt,116,2007,2013,7,0,1,7
+semi,Semiotica,100.0,1613-3692,100.0,0037-1998,100.0,"Walter de Gruyter, Berlin / New York",64.7,http://www.degruyter.com/view/j/semi,3644,1969,2015,46,0,,
+slaw,Zeitschrift für Slawistik,100.0,2196-7016,100.0,0044-3506,100.0,AKADEMIE VERLAG,89.3,http://www.degruyter.com/view/j/slaw,4215,1956,2015,59,0,1,60
+snde,Studies in Nonlinear Dynamics & Econometrics,90.3,1558-3708,100.0,1081-1826,100.0,De Gruyter,100.0,http://www.degruyter.com/view/j/snde,421,1996,2015,19,0,1,19
+soci,Sociolinguistica,100.0,1865-939X,100.0,0933-1883,100.0,De Gruyter,100.0,http://www.degruyter.com/view/j/soci,522,1987,2015,27,2,1,28
+spp,"Statistics, Politics, and Policy",78.8,2151-7509,100.0,2194-6299,100.0,De Gruyter,100.0,http://www.degruyter.com/view/j/spp,33,2010,2015,5,0,1,6
+srsr,Soziologische Revue,100.0,2196-7024,100.0,0343-4109,100.0,OLDENBOURG WISSENSCHAFTSVERLAG,87.7,http://www.degruyter.com/view/j/srsr,2122,1978,2015,37,0,1,38
+strm,Statistics & Risk Modeling,100.0,2196-7040,100.0,2193-1402,100.0,OLDENBOURG WISSENSCHAFTSVERLAG,92.8,http://www.degruyter.com/view/j/strm,824,1982,2015,25,8,1,32
+stuf,STUF - Language Typology and Universals,97.4,2196-7148,100.0,1867-8319,96.9,AKADEMIE VERLAG,92.1,http://www.degruyter.com/view/j/stuf,3097,1948,2015,64,3,1,68
+sus,Strategie und Sicherheit,100.0,2304-4845,100.0,2227-7668,100.0,Böhlau Verlag GmbH & Co.KG,54.8,http://www.degruyter.com/view/j/sus,290,2010,2015,5,0,,
+tcs,Trends in Classics,100.0,1866-7481,100.0,1866-7473,100.0,De Gruyter,54.4,http://www.degruyter.com/view/j/tcs,125,2009,2015,6,0,1,7
+teme,tm - Technisches Messen,92.5,2196-7113,100.0,0171-8096,100.0,OLDENBOURG WISSENSCHAFTSVERLAG,82.0,http://www.degruyter.com/view/j/teme,9956,1931,2015,76,8,1,525
+text,Text & Talk,26.8,1860-7349,75.0,1860-7330,75.0,Walter de Gruyter GmbH & Co. KG,48.7,http://www.degruyter.com/view/j/text,456,2001,2015,14,0,21,35
+text.1,Text - Interdisciplinary Journal for the Study of Discourse,98.1,1613-4117,100.0,0165-4888,100.0,"Walter de Gruyter, Berlin / New York",98.1,http://www.degruyter.com/view/j/text,618,1981,2001,21,0,1,21
+thli,Theoretical Linguistics,100.0,1613-4060,100.0,0301-4428,95.9,"Walter de Gruyter, Berlin / New York",59.1,http://www.degruyter.com/view/j/thli,638,1974,2015,40,1,1,41
+til,Theoretical Inquiries in Law,98.4,1565-3404,100.0,,50.0,De Gruyter,100.0,http://www.degruyter.com/view/j/til,366,2001,2015,14,0,1,16
+tillich,International Yearbook for Tillich Research,100.0,2190-7455,100.0,1990-4231,100.0,De Gruyter,73.0,http://www.degruyter.com/view/j/tillich,63,2011,2015,4,0,6,10
+tjj,International Journal of Turbo and Jet Engines,87.2,2191-0332,100.0,0334-0082,100.0,De Gruyter,96.5,http://www.degruyter.com/view/j/tjj,852,1985,2015,30,0,2,32
+tlir,The Linguistic Review,100.0,1613-3676,100.0,0167-6318,100.0,"Walter de Gruyter, Berlin / New York",54.8,http://www.degruyter.com/view/j/tlir,617,1981,2015,32,2,1,32
+ur,Umsatzsteuer-Rundschau,100.0,2194-4180,100.0,0341-8669,100.0,Verlag Dr. Otto Schmidt,100.0,http://www.degruyter.com/view/j/ur,1302,2005,2015,10,0,54,64
+vf,Verkündigung und Forschung,88.1,2198-0454,100.0,0342-2410,100.0,Gütersloher Verlagshaus,100.0,http://www.degruyter.com/view/j/vf,919,1940,2015,52,23,1,60
+vfzg,Vierteljahrshefte für Zeitgeschichte,100.0,2196-7121,100.0,0042-5702,100.0,Oldenbourg Wissenschaftsverlag GmbH,47.1,http://www.degruyter.com/view/j/vfzg,276,2005,2015,10,0,53,63
+wgst,Wittgenstein-Studien,81.5,1868-7458,100.0,1868-7431,100.0,De Gruyter,64.2,http://www.degruyter.com/view/j/wgst,81,2010,2015,5,0,1,6
+wjk,Wiener Jahrbuch für Kunstgeschichte,100.0,2307-2962 ,68.8,0083-9981,100.0,Böhlau Verlag GmbH & Co.KG,68.8,http://www.degruyter.com/view/j/wjk,785,1923,2015,55,37,2,63
+wps,World Political Science,100.0,2363-4782,100.0,2363-4774,100.0,De Gruyter,100.0,http://www.degruyter.com/view/j/wps,136,2006,2015,9,0,1,11
+yejls,Yearbook for European Jewish Literature Studies,100.0,2196-6257,100.0,2196-6249,100.0,De Gruyter,100.0,http://www.degruyter.com/view/j/yejls,23,2014,2015,1,0,1,2
+yop,Yearbook of Phraseology,100.0,1868-6338,100.0,1868-632X,100.0,De Gruyter,44.4,http://www.degruyter.com/view/j/yop,54,2010,2015,5,0,,
+zaa,Zeitschrift für Anglistik und Amerikanistik,100.0,2196-4726,100.0,,86.5,De Gruyter,100.0,http://www.degruyter.com/view/j/zaa,493,2004,2015,11,0,52,63
+zach,Zeitschrift für Antikes Christentum,54.4,1612-961X,100.0,0949-9571,100.0,Walter de Gruyter GmbH & Co. KG,35.7,http://www.degruyter.com/view/j/zach,575,1997,2015,18,0,1,19
+zaes,Zeitschrift für Ägyptische Sprache,91.9,2196-713X,100.0,0044-216X,100.0,AKADEMIE VERLAG,93.6,http://www.degruyter.com/view/j/zaes,3636,1863,2015,123,29,1,141
+zatw,Zeitschrift für die Alttestamentliche Wissenschaft,98.4,1613-0103,100.0,0044-2526,100.0,"Walter de Gruyter, Berlin / New York",83.6,http://www.degruyter.com/view/j/zatw,3615,1881,2015,121,13,1,127
+zava,Zeitschrift für Assyriologie und Vorderasiatische Archäologie,89.1,1613-1150,100.0,0084-5299,100.0,"Walter de Gruyter, Berlin / New York",88.5,http://www.degruyter.com/view/j/zava,2157,1886,2015,104,25,1,105
+zcph,Zeitschrift für celtische Philologie (ZcP),73.2,1865-889X,100.0,0084-5302,100.0,"Walter de Gruyter, Berlin / New York",61.7,http://www.degruyter.com/view/j/zcph,1708,1897,2015,60,58,1,62
+zee,Zeitschrift für Evangelische Ethik,91.2,2197-912X,100.0,0044-2674,100.0,Gütersloher Verlagshaus,100.0,http://www.degruyter.com/view/j/zee,2647,1957,2015,56,2,1,59
+zfal,Zeitschrift für angewandte Linguistik,84.9,2190-0191,98.8,1433-9889,98.8,De Gruyter Mouton,52.9,http://www.degruyter.com/view/j/zfal,86,2010,2015,5,0,,
+zfgl,Zeitschrift für Germanistische Linguistik,79.1,1613-0626,100.0,0301-3294,100.0,"Walter de Gruyter, Berlin / New York",59.1,http://www.degruyter.com/view/j/zfgl,1182,1973,2015,42,0,1,43
+zfk,Zeitschrift für Kulturwissenschaft,100.0,2197-9111,100.0,2197-9103,100.0,transcript Verlag,100.0,http://www.degruyter.com/view/j/zfk,168,2011,2015,4,0,5,9
+zfr,Zeitschrift für Religionswissenschaft,100.0,2194-508X,100.0,0943-8610,99.7,De Gruyter,98.3,http://www.degruyter.com/view/j/zfr,288,1993,2015,21,1,1,23
+zfsw,Zeitschrift für Sprachwissenschaft,100.0,1613-3706,99.8,0721-9067,99.8,"Walter de Gruyter, Berlin / New York",39.1,http://www.degruyter.com/view/j/zfsw,553,1982,2015,33,0,1,57
+zgre,Zeitschrift für Unternehmens- und Gesellschaftsrecht,99.9,1612-7048,100.0,0340-2479,100.0,"Walter de Gruyter, Berlin / New York",63.4,http://www.degruyter.com/view/j/zgre,1380,1972,2015,43,0,1,44
+zig,Zeitschrift für interkulturelle Germanistik,100.0,2198-0330,100.0,,nan,transcript Verlag,100.0,http://www.degruyter.com/view/j/zig,203,2010,2015,5,0,1,6
+zkm,Zeitschrift für Konfliktmanagement,100.0,2194-4210,100.0,1439-2127,100.0,Verlag Dr. Otto Schmidt,100.0,http://www.degruyter.com/view/j/zkm,646,2005,2015,10,0,8,18
+zkri,Zeitschrift für Kristallographie - Crystalline Materials,81.4,2196-7105,84.0,2194-4946,81.5,De Gruyter Oldenbourg,91.8,http://www.degruyter.com/view/j/zkri,15564,1877,2015,115,23,1,230
+zksp,Zeitschrift für kritische Sozialtheorie und Philosophie,100.0,2194-5640,100.0,2194-5632,100.0,De Gruyter,100.0,http://www.degruyter.com/view/j/zksp,16,2014,2015,1,0,1,2
+znth,Zeitschrift für Neuere Theologiegeschichte / Journal for the History of Modern Theology,45.6,1612-9776,100.0,0943-7592,100.0,"Walter de Gruyter, Berlin / New York",41.5,http://www.degruyter.com/view/j/znth,294,1994,2015,21,0,1,22
+zntw,Zeitschrift für die Neutestamentliche Wissenschaft und die Kunde der Älteren Kirche,90.0,1613-009X,100.0,0044-2615,100.0,"Walter de Gruyter, Berlin / New York",89.6,http://www.degruyter.com/view/j/zntw,2604,1900,2015,101,14,1,106
+zpch,Zeitschrift für Physikalische Chemie,97.5,2196-7156,100.0,0942-9352,98.8,R. Oldenbourg Verlag,31.1,http://www.degruyter.com/view/j/zpch,8966,1954,2015,61,0,,
+zrgga,Zeitschrift der Savigny-Stiftung für Rechtsgeschichte. Germanistische Abteilung,96.9,2304-4861,98.1,0323-4045,100.0,Böhlau Verlag GmbH & Co.KG,96.3,http://www.degruyter.com/view/j/zrgga,11951,1861,2015,138,16,1,132
+zrgka,Zeitschrift der Savigny-Stiftung für Rechtsgeschichte. Kanonistische Abteilung,99.1,2304-4896,100.0,0323-4142,100.0,Böhlau Verlag GmbH & Co.KG,99.1,http://www.degruyter.com/view/j/zrgka,4524,1911,2015,95,9,1,101
+zrgra,Zeitschrift der Savigny-Stiftung für Rechtsgeschichte. Romanistische Abteilung,99.1,2304-4934,100.0,0323-4096,100.0,Böhlau Verlag GmbH & Co.KG,99.1,http://www.degruyter.com/view/j/zrgra,6022,1880,2015,128,7,1,132
+zrph,Zeitschrift für romanische Philologie (ZrP),82.0,1865-9063,100.0,0049-8661,100.0,"Walter de Gruyter, Berlin / New York",72.3,http://www.degruyter.com/view/j/zrph,5057,1877,2015,132,6,1,131
+zstw,Zeitschrift für die gesamte Strafrechtswissenschaft,95.4,1612-703X,99.8,0084-5310,99.4,"Walter de Gruyter, Berlin / New York",86.4,http://www.degruyter.com/view/j/zstw,4116,1881,2015,121,13,1,127

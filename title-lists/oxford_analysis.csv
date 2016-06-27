@@ -1,0 +1,223 @@
+journal_id,title,% of articles with this title,eissn,%of articles with this eissn,pissn,%of articles with this pissn,publisher,%of articles with this publisher,url,number of articles,minYear,maxYear,cardinality,missing years,min_volume,max_volume
+acn,Archives of Clinical Neuropsychology,100.0,1873-5843,100.0,0887-6177,100.0,Elsevier,65.7,http://acn.oxfordjournals.org,,1986,2015,19,0,1,30
+ae,American Entomologist,100.0,2155-9902,100.0,1046-2821,100.0,Oxford University Press,100.0,http://ae.oxfordjournals.org,,1990,2015,7,8,47,61
+aepp,Review of Agricultural Economics,71.0,1467-9353,71.0,1058-7195,71.0,Oxford University Press,100.0,http://aepp.oxfordjournals.org,,1996,2015,20,0,18,37
+aesa,Annals of the Entomological Society of America,100.0,1938-2901,100.0,0013-8746,100.0,Oxford University Press,100.0,http://aesa.oxfordjournals.org,,1908,2015,20,0,89,108
+aesthj,The British Journal of Aesthetics,80.6,1468-2842,100.0,0007-0904,100.0,Oxford University Press,98.9,http://bjaesthetics.oxfordjournals.org,,1960,2015,20,0,1,55
+afrafj,African Affairs,100.0,1468-2621,100.0,0001-9909,100.0,Oxford University Press,100.0,http://afraf.oxfordjournals.org,,1901,2015,20,0,1,114
+ageing,Age and Ageing,94.3,1468-2834,100.0,0002-0729,100.0,Oxford University Press,100.0,http://ageing.oxfordjournals.org,,1972,2015,20,0,1,44
+ahr,The American Historical Review,100.0,1937-5239,100.0,0002-8762,100.0,Oxford University Press,64.9,http://ahr.oxfordjournals.org,,1895,2015,20,0,1,120
+aje,American Journal of Epidemiology,100.0,1476-6256,99.9,0002-9262,100.0,Oxford University Press,99.8,http://aje.oxfordjournals.org,,1952,2015,20,0,55,182
+ajh,American Journal of Hypertension,100.0,1941-7225,100.0,0895-7061,100.0,Oxford University Press,100.0,http://ajh.oxfordjournals.org,,1895,2015,20,0,9,28
+ajj,The American Journal of Jurisprudence,100.0,2049-6494,100.0,0065-8995,100.0,Oxford University Press,100.0,http://ajj.oxfordjournals.org,,1956,2015,19,0,1,60
+alcalc,Alcohol and Alcoholism,84.9,1464-3502,100.0,0735-0414,100.0,Oxford University Press,100.0,http://alcalc.oxfordjournals.org,,1963,2015,20,0,1,50
+alhist,American Literary History,100.0,1468-4365,100.0,0896-7148,100.0,Oxford University Press,99.0,http://alh.oxfordjournals.org,,1989,2015,19,0,1,27
+analys,Analysis,100.0,1467-8284,100.0,0003-2638,100.0,Oxford University Press,59.7,http://analysis.oxfordjournals.org,,1933,2015,19,1,1,75
+annbot,Annals of Botany,100.0,1095-8290,100.0,0305-7364,100.0,Oxford University Press,99.6,http://aob.oxfordjournals.org,,1887,2015,20,0,1,116
+annhyg,Annals of Occupational Hygiene,61.8,1475-3162,100.0,0003-4878,100.0,Oxford University Press,90.9,http://annhyg.oxfordjournals.org,,1972,2015,20,0,15,59
+annonc,Annals of Oncology,99.7,1569-8041,99.8,0923-7534,99.8,Oxford University Press,100.0,http://annonc.oxfordjournals.org,,1990,2015,20,0,1,26
+applij,Applied Linguistics,100.0,1477-450X,100.0,0142-6001,100.0,Oxford University Press,100.0,http://applij.oxfordjournals.org,,1980,2015,20,0,1,36
+arbitration,Arbitration International,100.0,1875-8398,100.0,0957-0411,100.0,Oxford University Press,100.0,http://arbitration.oxfordjournals.org,,1985,2015,20,0,1,31
+asj,Aesthetic Surgery Journal,100.0,1527-330X,100.0,1090-820X,100.0,Blackwell Publishing Ltd,86.6,http://asj.oxfordjournals.org,,1995,2015,20,0,16,35
+beheco,Behavioral Ecology,100.0,1465-7279,99.9,1045-2249,100.0,Oxford University Press,100.0,http://beheco.oxfordjournals.org,,1990,2015,19,0,1,26
+bioinformatics,Bioinformatics,97.5,1460-2059,100.0,1367-4803,100.0,Oxford University Press,100.0,http://bioinformatics.oxfordjournals.org,,1985,2015,20,0,1,31
+biomet,Biometrika,100.0,1464-3510,100.0,0006-3444,100.0,Oxford University Press,100.0,http://biomet.oxfordjournals.org,,1901,2015,20,0,1,102
+bioscience,BioScience,100.0,1525-3244,100.0,0006-3568,100.0,American Institute of Biological Sciences,90.9,http://bioscience.oxfordjournals.org,,1964,2015,20,0,14,65
+bjaint,British Journal of Anaesthesia,74.4,1471-6771,100.0,0007-0912,100.0,Oxford University Press,100.0,http://bja.oxfordjournals.org,,1923,2015,20,0,1,115
+blms,Bulletin of the London Mathematical Society,100.0,1469-2120,100.0,0024-6093,100.0,Oxford University Press,100.0,http://blms.oxfordjournals.org,,1969,2015,20,0,1,47
+brainj,Brain,94.1,1460-2156,100.0,0006-8950,100.0,Oxford University Press,100.0,http://brain.oxfordjournals.org,,1878,2015,20,0,1,138
+brheum,Rheumatology,89.5,1462-0332,100.0,1462-0324,91.6,Oxford University Press,100.0,http://rheumatology.oxfordjournals.org,,1952,2015,20,0,1,54
+brimed,British Medical Bulletin,100.0,1471-8391,100.0,0007-1420,100.0,Oxford University Press,100.0,http://bmb.oxfordjournals.org,,1943,2015,20,0,1,116
+cameco,Cambridge Journal of Economics,79.3,1464-3545,100.0,0309-166X,100.0,Oxford University Press,99.6,http://cje.oxfordjournals.org,,1977,2015,20,0,1,39
+camquj,The Cambridge Quarterly,100.0,1471-6836,100.0,0008-199X,100.0,Oxford University Press,100.0,http://camqtly.oxfordjournals.org,,1965,2015,19,0,1,44
+carcin,Carcinogenesis,100.0,1460-2180,100.0,0143-3334,100.0,Oxford University Press,100.0,http://carcin.oxfordjournals.org,,1980,2015,20,0,1,36
+cardiovascres,Cardiovascular Research,100.0,1755-3245,100.0,0008-6363,100.0,Elsevier Science,54.4,http://cardiovascres.oxfordjournals.org,,1967,2015,20,0,1,108
+cb,Christian Bioethics,100.0,1744-4195,100.0,1380-3603,95.9,Oxford University Press,47.2,http://cb.oxfordjournals.org,,1995,2015,20,0,1,21
+cdj,Community Development Journal,99.9,1468-2656,100.0,0010-3802,100.0,Oxford University Press,100.0,http://cdj.oxfordjournals.org,,1966,2015,20,0,1,50
+cercor,Cerebral Cortex,96.7,1460-2199,100.0,1047-3211,100.0,Oxford University Press,100.0,http://cercor.oxfordjournals.org,,1991,2015,20,0,1,25
+chemse,Chemical Senses,100.0,1464-3553,100.0,0379-864X,100.0,Oxford University Press,99.8,http://chemse.oxfordjournals.org,,1974,2015,20,0,1,40
+chromsci,Journal of Chromatographic Science,100.0,1945-239X,96.7,0021-9665,100.0,Oxford University Press,100.0,http://jcs.oxfordjournals.org,,1963,2015,20,0,34,53
+cid,Clinical Infectious Diseases,99.6,1537-6591,100.0,1058-4838,100.0,The University of Chicago Press,70.0,http://cid.oxfordjournals.org,,1979,2015,20,0,22,61
+clp,Current Legal Problems,100.0,2044-8422,100.0,0070-1998,100.0,Oxford University Press,100.0,http://clp.oxfordjournals.org,,1948,2015,19,0,1,68
+combul,ITNOW,64.7,1746-5710,100.0,1746-5702,100.0,Oxford University Press,100.0,http://itnow.oxfordjournals.org,,1995,2015,20,0,37,57
+computer_journal,The Computer Journal,100.0,1460-2067,100.0,0010-4620,100.0,Oxford University Press,100.0,http://comjnl.oxfordjournals.org,,1958,2015,19,0,1,58
+conpec,Contributions to Political Economy,100.0,1464-3588,100.0,0277-5921,100.0,Oxford University Press,100.0,http://cpe.oxfordjournals.org,,1982,2015,18,1,1,34
+crimin,British Journal of Criminology,41.4,1464-3529,98.9,0007-0955,98.9,Oxford University Press,99.1,http://bjc.oxfordjournals.org,,1960,2015,19,0,1,55
+cs,Children & Schools,100.0,1545-682X,100.0,1532-8759,100.0,Oxford University Press,100.0,http://cs.oxfordjournals.org,,1978,2015,20,0,1,37
+design,Journal of Design History,81.8,1741-7279,100.0,0952-4649,100.0,Oxford University Press,100.0,http://jdh.oxfordjournals.org,,1988,2015,19,0,1,28
+dh,Diplomatic History,100.0,1467-7709,100.0,0145-2096,100.0,Blackwell Publishing Ltd,83.2,http://dh.oxfordjournals.org,,1977,2015,39,0,1,39
+dsh,Digital Scholarship in the Humanities,100.0,2055-768X,100.0,2055-7671,100.0,Oxford University Press,100.0,http://dsh.oxfordjournals.org,,2015,2015,1,0,30,30
+earlyj,Early Music,100.0,1741-7260,100.0,0306-1078,100.0,Oxford University Press,99.6,http://em.oxfordjournals.org,,1973,2015,20,0,1,43
+economicpolicy,Economic Policy,100.0,1468-0327,100.0,0266-4658,100.0,Oxford University Press,100.0,http://economicpolicy.oxfordjournals.org,,1985,2015,3,10,18,30
+ecopol,Oxford Review of Economic Policy,79.3,1460-2121,100.0,0266-903X,100.0,Oxford University Press,100.0,http://oxrep.oxfordjournals.org,,1985,2015,20,0,1,31
+ee,Environmental Entomology,100.0,1938-2936,100.0,0046-225X,100.0,Oxford University Press,100.0,http://ee.oxfordjournals.org,,1972,2015,19,1,25,44
+ejcts,European Journal of Cardio-Thoracic Surgery,100.0,1873-734X,100.0,1010-7940,100.0,Elsevier Science B.V.,75.0,http://ejcts.oxfordjournals.org,,1981,2015,20,0,1,48
+eltj,ELT Journal,81.5,1477-4526,100.0,0951-0893,100.0,Oxford University Press,100.0,http://eltj.oxfordjournals.org,,1946,2015,19,1,1,69
+enghis,The English Historical Review,100.0,1477-4534,100.0,0013-8266,100.0,Oxford University Press,100.0,http://ehr.oxfordjournals.org,,1886,2015,19,0,1,130
+english,English,95.0,1756-1124,100.0,0013-8215,100.0,The English Association,53.8,http://english.oxfordjournals.org,,1936,2015,19,0,1,64
+envlaw,Journal of Environmental Law,100.0,1464-374X,100.0,0952-8873,100.0,Oxford University Press,100.0,http://jel.oxfordjournals.org,,1989,2015,19,0,1,27
+eortho,The European Journal of Orthodontics,78.0,1460-2210,100.0,0141-5387,100.0,Oxford University Press,100.0,http://ejo.oxfordjournals.org,,1979,2015,20,0,1,37
+epirev,Epidemiologic Reviews,100.0,1478-6729,100.0,0193-936X,100.0,Oxford University Press,100.0,http://epirev.oxfordjournals.org,,1997,2015,19,0,19,37
+erae,European Review of Agricultural Economics,100.0,1464-3618,100.0,0165-1587,100.0,Oxford University Press,100.0,http://erae.oxfordjournals.org,,1973,2015,19,0,1,42
+escrit,Essays in Criticism,100.0,1471-6852,99.8,0014-0856,100.0,Oxford University Press,100.0,http://eic.oxfordjournals.org,,1951,2015,20,0,1,65
+eurheartj,European Heart Journal,100.0,1522-9645,100.0,0195-668X,100.0,Oxford University Press,100.0,http://eurheartj.oxfordjournals.org,,1980,2015,20,0,1,36
+eurpub,The European Journal of Public Health,88.9,1464-360X,100.0,1101-1262,100.0,Oxford University Press,100.0,http://eurpub.oxfordjournals.org,,1991,2015,20,0,1,25
+eursoj,European Sociological Review,100.0,1468-2672,100.0,0266-7215,100.0,Oxford University Press,100.0,http://esr.oxfordjournals.org,,1985,2015,20,0,1,31
+exbotj,Journal of Experimental Botany,75.9,1460-2431,99.8,0022-0957,99.8,Oxford University Press,99.8,http://jxb.oxfordjournals.org,,1950,2015,20,0,1,66
+famprj,Family Practice,93.4,1460-2229,100.0,0263-2136,100.0,Oxford University Press,100.0,http://fampra.oxfordjournals.org,,1984,2015,19,0,1,32
+femsec,FEMS Microbiology Ecology,100.0,1574-6941,97.9,,nan,Blackwell Publishing Ltd,96.6,http://femsec.oxfordjournals.org,,1985,2015,20,0,19,91
+femsle,FEMS Microbiology Letters,99.2,1574-6968,100.0,0378-1097,100.0,Blackwell Publishing Ltd,98.1,http://femsle.oxfordjournals.org,,1977,2015,20,0,135,362
+femspd,Pathogens and Disease,100.0,,100.0,2049-632X,100.0,Blackwell Publishing Ltd,58.8,http://femspd.oxfordjournals.org,,1988,2015,2,0,70,73
+femsre,FEMS Microbiology Reviews,100.0,1574-6976,100.0,,nan,Blackwell Publishing Ltd,95.2,http://femsre.oxfordjournals.org,,1985,2015,18,2,18,39
+foresj,Forestry,80.5,1464-3626,99.9,0015-752X,99.9,Oxford University Press,98.8,http://forestry.oxfordjournals.org,,1940,2015,19,0,14,88
+formod,Forum for Modern Language Studies,100.0,1471-6860,100.0,0015-8518,100.0,Oxford University Press,100.0,http://fmls.oxfordjournals.org,,1965,2015,20,0,1,51
+frebul,French Studies Bulletin,100.0,1748-9180,100.0,0262-2750,100.0,Oxford University Press,100.0,http://fsb.oxfordjournals.org,,1981,2015,19,0,1,36
+french,French History,100.0,1477-4542,100.0,0269-1191,100.0,Oxford University Press,100.0,http://fh.oxfordjournals.org,,1987,2015,20,0,1,29
+frestu,French Studies,100.0,1468-2931,100.0,0016-1128,100.0,Oxford University Press,100.0,http://fs.oxfordjournals.org,,1947,2015,20,0,1,69
+gerona,The Journals of Gerontology Series A: Biological Sciences and Medical Sciences,54.2,1758-535X,100.0,1079-5006,100.0,Oxford University Press,86.5,http://biomedgerontology.oxfordjournals.org,,1995,2015,20,0,50,70
+geronb,The Journals of Gerontology Series B: Psychological Sciences and Social Sciences,55.6,1758-5368,100.0,1079-5014,100.0,Oxford University Press,82.7,http://psychsocgerontology.oxfordjournals.org,,1995,2015,20,0,50,70
+geront,The Gerontologist,100.0,1758-5341,100.0,0016-9013,100.0,Oxford University Press,76.6,http://gerontologist.oxfordjournals.org,,1961,2015,20,0,1,55
+gh,German History,100.0,1477-089X,100.0,0266-3554,100.0,Oxford University Press,50.7,http://gh.oxfordjournals.org,,1984,2015,20,0,1,33
+gji,Geophysical Journal International,100.0,1365-246X,100.0,0956-540X,100.0,Blackwell Publishing Ltd,74.1,http://gji.oxfordjournals.org,,1958,2015,20,0,124,203
+glycob,Glycobiology,100.0,1460-2423,99.6,0959-6658,99.6,Oxford University Press,100.0,http://glycob.oxfordjournals.org,,1990,2015,20,0,1,25
+healed,Health Education Research,100.0,1465-3648,100.0,0268-1153,100.0,Oxford University Press,100.0,http://her.oxfordjournals.org,,1986,2015,20,0,1,30
+heapol,Health Policy and Planning,99.9,1460-2237,100.0,0268-1080,100.0,Oxford University Press,100.0,http://heapol.oxfordjournals.org,,1986,2015,20,0,1,30
+heapro,Health Promotion International,100.0,1460-2245,100.0,0957-4824,100.0,Oxford University Press,100.0,http://heapro.oxfordjournals.org,,1986,2015,20,0,1,30
+hiscol,Journal of the History of Collections,82.8,1477-8564,100.0,0954-6650,100.0,Oxford University Press,99.8,http://jhc.oxfordjournals.org,,1989,2015,19,0,11,27
+hiwork,History Workshop Journal,100.0,1477-4569,100.0,1363-3554,100.0,Oxford University Press,100.0,http://hwj.oxfordjournals.org,,1976,2015,19,0,1,
+hmg,Human Molecular Genetics,100.0,1460-2083,100.0,0964-6906,100.0,Oxford University Press,100.0,http://hmg.oxfordjournals.org,,1992,2015,20,0,1,24
+holgen,Holocaust and Genocide Studies,100.0,1476-7937,100.0,8756-6583,100.0,Oxford University Press,100.0,http://hgs.oxfordjournals.org,,1986,2015,19,0,1,29
+hsw,Health & Social Work,100.0,1545-6854,100.0,0360-7283,100.0,Oxford University Press,100.0,http://hsw.oxfordjournals.org,,1981,2015,20,0,1,40
+humrep,Human Reproduction,87.3,1460-2350,100.0,0268-1161,100.0,Oxford University Press,100.0,http://humrep.oxfordjournals.org,,1986,2015,20,0,1,30
+humupd,Human Reproduction Update,100.0,1460-2369,100.0,1355-4786,100.0,Oxford University Press,100.0,http://humupd.oxfordjournals.org,,1995,2015,20,0,1,21
+icb,Integrative and Comparative Biology,100.0,1557-7023,100.0,1540-7063,100.0,Oxford University Press,100.0,http://icb.oxfordjournals.org,,1961,2015,20,0,1,55
+icesjms,ICES Journal of Marine Science,100.0,1095-9289,100.0,1054-3139,100.0,Oxford University Press,100.0,http://icesjms.oxfordjournals.org,,1903,2015,20,0,1,72
+icsidreview,ICSID Review,88.2,2049-1999,100.0,0258-3690,100.0,Oxford University Press,100.0,http://icsidreview.oxfordjournals.org,,1986,2015,19,0,12,30
+igpl,Logic Journal of IGPL,81.8,1368-9894,100.0,1367-0751,100.0,Oxford University Press,100.0,http://jigpal.oxfordjournals.org,,1993,2015,20,0,1,23
+ije,International Journal of Epidemiology,92.5,1464-3685,100.0,0300-5771,100.0,Oxford University Press,100.0,http://ije.oxfordjournals.org,,1972,2015,20,0,1,44
+imaman,IMA Journal of Management Mathematics,100.0,1471-6798,100.0,1471-678X,100.0,Oxford University Press,100.0,http://imaman.oxfordjournals.org,,1986,2015,20,0,1,26
+imamat,IMA Journal of Applied Mathematics,80.8,1464-3634,100.0,0272-4960,100.0,Oxford University Press,100.0,http://imamat.oxfordjournals.org,,1965,2015,20,0,1,80
+imamci,IMA Journal of Mathematical Control and Information,87.4,1471-6887,100.0,0265-0754,100.0,Oxford University Press,100.0,http://imamci.oxfordjournals.org,,1984,2015,20,0,1,32
+imammb,Mathematical Medicine and Biology: A Journal of the IMA,50.3,1477-8602,100.0,1477-8599,100.0,Oxford University Press,100.0,http://imammb.oxfordjournals.org,,1984,2015,20,0,1,32
+imanum,IMA Journal of Numerical Analysis,77.8,1464-3642,100.0,0272-4979,100.0,Oxford University Press,100.0,http://imajna.oxfordjournals.org,,1981,2015,20,0,1,35
+imrn,International Mathematics Research Notices,100.0,1687-0247,67.8,1073-7928,100.0,Oxford University Press,67.8,http://imrn.oxfordjournals.org,,1991,2015,19,0,,
+indcor,Industrial and Corporate Change,100.0,1464-3650,99.1,0960-6491,99.1,Oxford University Press,100.0,http://icc.oxfordjournals.org,,1992,2015,19,0,1,24
+indlaw,Industrial Law Journal,100.0,1464-3669,100.0,0305-9332,100.0,Oxford University Press,100.0,http://ilj.oxfordjournals.org,,1972,2015,20,0,1,44
+intimm,International Immunology,86.7,1460-2377,99.9,0953-8178,99.9,Oxford University Press,99.8,http://intimm.oxfordjournals.org,,1989,2015,20,0,1,27
+intpor,International Journal of Public Opinion Research,99.8,1471-6909,100.0,0954-2892,100.0,Oxford University Press,100.0,http://ijpor.oxfordjournals.org,,1989,2015,19,0,1,27
+intqhc,International Journal for Quality in Health Care,100.0,1464-3677,100.0,1353-4505,100.0,Oxford University Press,100.0,http://intqhc.oxfordjournals.org,,1989,2015,19,0,1,27
+inttec,International Journal of Law and Information Technology,100.0,1464-3693,100.0,0967-0769,100.0,Oxford University Press,100.0,http://ijlit.oxfordjournals.org,,1993,2015,19,0,1,23
+islamj,Journal of Islamic Studies,100.0,1471-6917,100.0,0955-2340,100.0,Oxford University Press,100.0,http://jis.oxfordjournals.org,,1990,2015,20,0,1,26
+isle,Interdisciplinary Studies in Literature and Environment,100.0,1759-1090,100.0,1076-0962,100.0,University of Nevada Press,59.6,http://isle.oxfordjournals.org,,1993,2015,19,0,1,22
+iwc,Interacting with Computers,100.0,1873-7951,100.0,0953-5438,99.8,Oxford University Press,100.0,http://iwc.oxfordjournals.org,,1989,2015,20,0,1,27
+jaarel,Journal of the American Academy of Religion,100.0,1477-4585,100.0,0002-7189,100.0,Oxford University Press,100.0,http://jaar.oxfordjournals.org,,1933,2015,19,0,1,83
+jac,Journal of Antimicrobial Chemotherapy,92.5,1460-2091,100.0,0305-7453,100.0,Oxford University Press,100.0,http://jac.oxfordjournals.org,,1975,2015,20,0,1,70
+jafeco,Journal of African Economies,100.0,1464-3723,100.0,0963-8024,100.0,Oxford University Press,100.0,http://jae.oxfordjournals.org,,1992,2015,20,0,1,24
+jahist,The Journal of American History,93.9,1945-2314,87.4,0021-8723,100.0,Organization of American Historians,62.0,http://jahist.oxfordjournals.org,,1914,2015,20,0,83,102
+jalsci,Journal of the History of Medicine and Allied Sciences,100.0,1468-4373,100.0,0022-5045,100.0,Oxford University Press,100.0,http://jhmas.oxfordjournals.org,,1946,2015,20,0,1,70
+jamia,Journal of the American Medical Informatics Association,100.0,1527-974X,100.0,1067-5027,100.0,BMJ Group,74.9,http://jamia.oxfordjournals.org,,1994,2015,20,0,3,22
+japr,Journal of Applied Poultry Research,100.0,1537-0437,100.0,1056-6171,100.0,Oxford University Press,91.6,http://japr.oxfordjournals.org,,1992,2015,19,0,1,24
+jat,Journal of Analytical Toxicology,100.0,1945-2403,100.0,0146-4760,100.0,Oxford University Press,100.0,http://jat.oxfordjournals.org,,1977,2015,20,0,20,39
+jbchem,The Journal of Biochemistry,68.2,-,68.2,0021-924X,100.0,Oxford University Press,100.0,http://jb.oxfordjournals.org,,1996,2015,20,0,119,158
+jcs,Journal of Church and State,100.0,2040-4867,100.0,0021-969X,100.0,Oxford University Press,100.0,http://jcs.oxfordjournals.org,,1959,2015,19,0,1,57
+jee,Journal of Economic Entomology,100.0,1938-291X,100.0,0022-0493,100.0,Oxford University Press,100.0,http://jee.oxfordjournals.org,,1908,2015,16,4,89,108
+jhered,Journal of Heredity,82.5,1465-7333,100.0,0022-1503,100.0,Oxford University Press,100.0,http://jhered.oxfordjournals.org,,1910,2015,20,0,1,106
+jid,The Journal of Infectious Diseases,72.5,1537-6613,98.9,0022-1899,100.0,The University of Chicago Press,67.8,http://jid.oxfordjournals.org,,1904,2015,20,0,173,212
+jjco,Japanese Journal of Clinical Oncology,100.0,1465-3621,100.0,0368-2811,96.9,Oxford University Press,89.3,http://jjco.oxfordjournals.org,,1975,2015,20,0,5,45
+jleorg,"The Journal of Law, Economics, & Organization",49.4,1465-7341,100.0,8756-6222,100.0,Oxford University Press,100.0,http://jleo.oxfordjournals.org,,1985,2015,20,0,1,31
+jlms,Journal of the London Mathematical Society,100.0,1469-7750,99.2,0024-6107,99.2,Oxford University Press,100.0,http://jlms.oxfordjournals.org,,1926,2015,20,0,1,92
+jmammal,Journal of Mammalogy,100.0,1545-1542,87.1,0022-2372,87.1,American Society of Mammalogists,93.9,http://jmammal.oxfordjournals.org,,1919,2015,20,0,77,96
+jme,Journal of Medical Entomology,100.0,1938-2928,99.2,0022-2585,100.0,Oxford University Press,100.0,http://jme.oxfordjournals.org,,1964,2015,20,0,33,52
+jmicro,Microscopy,51.0,1477-9986,98.8,0022-0744,98.8,Oxford University Press,100.0,http://jmicro.oxfordjournals.org,,1996,2015,20,0,45,64
+jmp,The Journal of Medicine and Philosophy,53.2,1744-5019,100.0,0360-5310,100.0,Oxford University Press,46.8,http://jmp.oxfordjournals.org,,1976,2015,20,0,1,40
+jmt,Journal of Music Therapy,95.5,2053-7395,100.0,0022-2917,100.0,American Music Therapy Association,84.7,http://jmt.oxfordjournals.org,,1964,2015,19,0,1,52
+jnci,Journal of the National Cancer Institute,78.7,1460-2105,100.0,0027-8874,99.6,Oxford University Press,99.9,http://jnci.oxfordjournals.org,,1988,2015,20,0,80,107
+jopart,Journal of Public Administration Research and Theory,78.1,1477-9803,100.0,1053-1858,100.0,Oxford University Press,99.9,http://jpart.oxfordjournals.org,,1991,2015,20,0,1,25
+jpepsy,Journal of Pediatric Psychology,97.5,1465-735X,100.0,0146-8693,100.0,Oxford University Press,100.0,http://jpepsy.oxfordjournals.org,,1976,2015,20,0,1,40
+jsh,Journal of Social History,100.0,1527-1897,100.0,0022-4529,98.8,Oxford University Press,100.0,http://jsh.oxfordjournals.org,,1967,2015,20,0,30,49
+lawfam,"International Journal of Law, Policy and the Family",91.3,1464-3707,100.0,1360-9939,100.0,Oxford University Press,100.0,http://lawfam.oxfordjournals.org,,1987,2015,20,0,1,29
+lbaeck,The Leo Baeck Institute Yearbook,80.7,1758-437X,100.0,0075-8744,100.0,The Leo Baeck Institute,70.7,http://leobaeck.oxfordjournals.org,,1956,2015,20,0,1,60
+lexico,International Journal of Lexicography,100.0,1477-4577,100.0,0950-3846,100.0,Oxford University Press,100.0,http://ijl.oxfordjournals.org,,1988,2015,20,0,1,28
+libraj,The Library,68.5,1744-8581,60.3,0024-2160,98.4,Oxford University Press,100.0,http://library.oxfordjournals.org,,1889,2015,20,0,1,21
+litthe,Literature and Theology,99.0,1477-4623,100.0,0269-1205,100.0,Oxford University Press,100.0,http://litthe.oxfordjournals.org,,1987,2015,20,0,1,29
+logcom,Journal of Logic and Computation,100.0,1465-363X,100.0,0955-792X,100.0,Oxford University Press,100.0,http://logcom.oxfordjournals.org,,1990,2015,20,0,1,25
+maghis,OAH Magazine of History,95.4,1938-2340,100.0,0882-228X,100.0,Organization of American Historians,76.7,http://maghis.oxfordjournals.org,,1985,2013,18,0,11,27
+medlaw,Medical Law Review,100.0,1464-3790,100.0,0967-0742,100.0,Oxford University Press,100.0,http://medlaw.oxfordjournals.org,,1993,2015,19,0,1,23
+melus,MELUS,88.2,1946-3170,100.0,0163-755X,100.0,The Society for the Study of the Multi-Ethnic Literature of the United States,88.2,http://melus.oxfordjournals.org,,1974,2015,20,0,1,40
+mind,Mind,100.0,1460-2113,100.0,0026-4423,100.0,Oxford University Press,100.0,http://mind.oxfordjournals.org,,1876,2015,20,0,1,124
+mmy,Medical Mycology,100.0,1460-2709,99.8,1369-3786,100.0,Informa UK Ltd,93.5,http://mmy.oxfordjournals.org,,1998,2015,18,0,36,53
+mnras,Monthly Notices of the Royal Astronomical Society,99.8,1365-2966,99.8,0035-8711,99.8,Blackwell Publishing Ltd,38.4,http://mnras.oxfordjournals.org,,1827,2015,20,0,1,453
+modjud,Modern Judaism,60.8,1086-3273,100.0,0276-1114,97.2,Oxford University Press,100.0,http://mj.oxfordjournals.org,,1981,2015,20,0,1,35
+molehr,Molecular Human Reproduction,77.1,1460-2407,100.0,1360-9947,100.0,Oxford University Press,100.0,http://molehr.oxfordjournals.org,,1995,2015,20,0,1,21
+mollus,Journal of Molluscan Studies,100.0,1464-3766,100.0,0260-1230,100.0,Oxford University Press,100.0,http://mollus.oxfordjournals.org,,1986,2015,20,0,52,81
+monist,The Monist,100.0,2153-3601,97.5,0026-9662,97.5,Oxford University Press,100.0,http://monist.oxfordjournals.org,,1890,2015,20,0,1,98
+mtp,Music Therapy Perspectives,100.0,2053-7387,100.0,0734-6875,100.0,American Music Therapy Association,92.7,http://mtp.oxfordjournals.org,,1982,2015,19,0,1,33
+mts,Music Theory Spectrum,100.0,1533-8339,100.0,0195-6167,100.0,University of California Press,90.2,http://mts.oxfordjournals.org,,1979,2015,19,0,1,37
+musicj,Music and Letters,99.4,1477-4631,100.0,0027-4224,98.6,Oxford University Press,100.0,http://ml.oxfordjournals.org,,1920,2015,20,0,1,96
+musqtl,The Musical Quarterly,100.0,1741-8399,88.3,0027-4631,88.3,Oxford University Press,100.0,http://mq.oxfordjournals.org,,1915,2015,18,1,1,98
+mutage,Mutagenesis,100.0,1464-3804,100.0,0267-8357,100.0,Oxford University Press,100.0,http://mutage.oxfordjournals.org,,1986,2015,20,0,1,30
+nar,Nucleic Acids Research,100.0,1362-4962,100.0,0305-1048,100.0,Oxford University Press,100.0,http://nar.oxfordjournals.org,,1974,2015,20,0,1,93
+ndt,Nephrology Dialysis Transplantation,85.2,1460-2385,100.0,0931-0509,100.0,Oxford University Press,100.0,http://ndt.oxfordjournals.org,,1986,2015,20,0,1,30
+notesj,Notes and Queries,100.0,1471-6941,100.0,0029-3970,100.0,Oxford University Press,100.0,http://nq.oxfordjournals.org,,1849,2015,4,0,1,62
+nutritionreviews,Nutrition Reviews,100.0,1753-4887,100.0,0029-6643,100.0,Oxford University Press,100.0,http://nutritionreviews.oxfordjournals.org,,1942,2015,20,0,54,73
+occmed,Occupational Medicine,100.0,1471-8405,99.9,0962-7480,100.0,Oxford University Press,98.5,http://occmed.oxfordjournals.org,,1948,2015,20,0,1,65
+oep,Oxford Economic Papers,100.0,1464-3812,100.0,0030-7653,100.0,Oxford University Press,100.0,http://oep.oxfordjournals.org,,1938,2015,20,0,1,67
+ohr,The Oral History Review,71.9,1533-8592,79.4,0094-0798,86.0,Oxford University Press,59.7,http://ohr.oxfordjournals.org,,1973,2015,19,0,1,42
+operaq,The Opera Quarterly,100.0,1476-2870,100.0,0736-0053,100.0,Oxford University Press,100.0,http://oq.oxfordjournals.org,,1983,2015,20,0,1,31
+oxartj,Oxford Art Journal,100.0,1741-7287,100.0,0142-6540,100.0,Oxford University Press,100.0,http://oaj.oxfordjournals.org,,1978,2015,19,0,1,38
+oxjlsj,Oxford Journal of Legal Studies,99.8,1464-3820,100.0,0143-6503,100.0,Oxford University Press,100.0,http://ojls.oxfordjournals.org,,1981,2015,19,0,1,35
+parlij,Parliamentary Affairs,100.0,1460-2482,100.0,0031-2290,100.0,Oxford University Press,100.0,http://pa.oxfordjournals.org,,1947,2015,20,0,1,68
+past,Past & Present,70.2,1477-464X,100.0,0031-2746,100.0,Oxford University Press,100.0,http://past.oxfordjournals.org,,1952,2015,20,0,1,229
+pcp,Plant and Cell Physiology,100.0,1471-9053,100.0,0032-0781,100.0,Oxford University Press,97.0,http://pcp.oxfordjournals.org,,1959,2015,20,0,1,56
+petroj,Journal of Petrology,99.8,1460-2415,100.0,0022-3530,100.0,Oxford University Press,100.0,http://petrology.oxfordjournals.org,,1960,2015,20,0,1,56
+philmat,Philosophia Mathematica,100.0,1744-6406,100.0,0031-8019,100.0,Oxford University Press,100.0,http://philmat.oxfordjournals.org,,1964,2015,20,0,1,23
+phisci,The British Journal for the Philosophy of Science,98.4,1464-3537,100.0,0007-0882,100.0,Oxford University Press,100.0,http://bjps.oxfordjournals.org,,1950,2015,20,0,1,66
+plankt,Journal of Plankton Research,100.0,1464-3774,100.0,0142-7873,100.0,Oxford University Press,100.0,http://plankt.oxfordjournals.org,,1979,2015,20,0,1,37
+plms,Proceedings of the London Mathematical Society,100.0,1460-244X,100.0,0024-6115,100.0,Oxford University Press,100.0,http://plms.oxfordjournals.org,,1865,2015,20,0,1,111
+polana,Political Analysis,100.0,1476-4989,99.5,1047-1987,99.5,Oxford University Press,100.0,http://pan.oxfordjournals.org,,1989,2015,18,0,1,23
+poq,Public Opinion Quarterly,96.8,1537-5331,100.0,0033-362X,100.0,Oxford University Press,100.0,http://poq.oxfordjournals.org,,1937,2015,19,0,1,79
+pq,The Philosophical Quarterly,100.0,1467-9213,100.0,0031-8094,100.0,Blackwell Publishers Ltd,87.9,http://pq.oxfordjournals.org,,1950,2015,20,0,1,65
+proeng,Protein Engineering,32.4,1741-0134,61.3,1741-0126,51.4,Oxford University Press,100.0,http://peds.oxfordjournals.org,,1986,2015,20,0,1,28
+ps,Poultry Science,100.0,1525-3171,100.0,0032-5791,100.0,Oxford University Press,90.6,http://ps.oxfordjournals.org,,1908,2015,20,0,1,94
+pubjof,Publius: The Journal of Federalism,100.0,1747-7107,100.0,0048-5950,100.0,Oxford University Press,100.0,http://publius.oxfordjournals.org,,1971,2015,19,0,1,45
+pubmed,Journal of Public Health,100.0,1741-3850,100.0,1741-3842,100.0,Oxford University Press,100.0,http://jpubhealth.oxfordjournals.org,,1990,2015,20,0,12,37
+qje,The Quarterly Journal of Economics,100.0,1531-4650,100.0,0033-5533,100.0,MIT Press,70.9,http://qje.oxfordjournals.org,,1933,2015,20,0,111,130
+qjmamj,The Quarterly Journal of Mechanics and Applied Mathematics,72.5,1464-3855,100.0,0033-5614,100.0,Oxford University Press,100.0,http://qjmam.oxfordjournals.org,,1948,2015,20,0,1,68
+qjmedj,QJM: An International Journal of Medicine,61.1,1460-2393,100.0,1460-2725,100.0,Oxford University Press,100.0,http://qjmed.oxfordjournals.org,,1907,2015,20,0,1,108
+qmathj,The Quarterly Journal of Mathematics,100.0,1464-3847,100.0,0033-5606,100.0,Oxford University Press,100.0,http://qjmath.oxfordjournals.org,,1932,2015,20,0,1,66
+raps,Review of Asset Pricing Studies,72.1,2045-9939,100.0,2045-9920,100.0,Oxford University Press,100.0,http://raps.oxfordjournals.org,,2011,2015,5,0,1,5
+rcfs,The Review of Corporate Finance Studies,89.5,2046-9136,100.0,2046-9128,100.0,Oxford University Press,100.0,http://rcfs.oxfordjournals.org,,2012,2015,4,0,1,4
+reflaw,International Journal of Refugee Law,76.8,1464-3715,100.0,0953-8186,100.0,Oxford University Press,100.0,http://ijrl.oxfordjournals.org,,1989,2015,20,0,1,27
+refqtl,Refugee Survey Quarterly,100.0,1471-695X,100.0,1020-4067,100.0,Oxford University Press,100.0,http://rsq.oxfordjournals.org,,1982,2015,19,0,1,34
+refuge,Journal of Refugee Studies,100.0,1471-6925,100.0,0951-6328,100.0,Oxford University Press,100.0,http://jrs.oxfordjournals.org,,1988,2015,20,0,1,28
+restud,The Review of Economic Studies,88.4,1467-937X,99.9,0034-6527,100.0,Wiley-Blackwell,71.8,http://restud.oxfordjournals.org,,1934,2015,20,0,63,82
+rev,Research Evaluation,100.0,1471-5449,100.0,0958-2029,100.0,Beech Tree Publishing,83.5,http://rev.oxfordjournals.org,,1991,2015,19,1,6,24
+revesj,The Review of English Studies,90.6,1471-6968,100.0,0034-6551,100.0,Oxford University Press,100.0,http://res.oxfordjournals.org,,1925,2015,20,0,1,66
+rpd,Radiation Protection Dosimetry,100.0,1742-3406,100.0,0144-8420,100.0,Oxford University Press,100.0,http://rpd.oxfordjournals.org,,1981,2015,20,0,1,167
+screen,Screen,100.0,1460-2474,100.0,0036-9546,56.4,Oxford University Press,100.0,http://screen.oxfordjournals.org,,1969,2015,19,0,10,56
+semant,Journal of Semantics,100.0,1477-4593,100.0,0167-5133,100.0,Oxford University Press,100.0,http://jos.oxfordjournals.org,,1982,2015,20,0,1,32
+semitj,Journal of Semitic Studies,100.0,1477-8556,100.0,0022-4480,100.0,Oxford University Press,100.0,http://jss.oxfordjournals.org,,1956,2014,18,0,1,59
+sf,Social Forces,100.0,1534-7605,100.0,0037-7732,100.0,The University of North Carolina Press,82.4,http://sf.oxfordjournals.org,,1922,2015,21,0,74,93
+sochis,Social History of Medicine,100.0,1477-4666,100.0,0951-631X,100.0,Oxford University Press,100.0,http://shm.oxfordjournals.org,,1988,2015,19,1,1,28
+social,British Journal of Social Work,78.9,1468-263X,100.0,0045-3102,100.0,Oxford University Press,100.0,http://bjsw.oxfordjournals.org,,1972,2015,20,0,2,45
+socpol,"Social Politics: International Studies in Gender, State & Society",60.6,1468-2893,100.0,1072-4745,100.0,Oxford University Press,100.0,http://sp.oxfordjournals.org,,1994,2015,19,0,1,22
+socpro,Social Problems,100.0,1533-8533,100.0,0037-7791,100.0,Oxford University Press,100.0,http://socpro.oxfordjournals.org,,2001,2015,20,0,43,62
+socrel,Sociology of Religion,100.0,1759-8818,100.0,1069-4404,100.0,Oxford University Press,100.0,http://socrel.oxfordjournals.org,,1964,2015,19,0,25,76
+spp,Science and Public Policy,100.0,1471-5430,100.0,0302-3427,100.0,Beech Tree Publishing,78.8,http://spp.oxfordjournals.org,,1974,2015,20,0,23,42
+stalaw,Statute Law Review,100.0,1464-3863,100.0,0144-3593,100.0,Oxford University Press,100.0,http://slr.oxfordjournals.org,,1980,2015,19,0,1,36
+sw,Social Work,100.0,1545-6846,100.0,0037-8046,100.0,Oxford University Press,100.0,http://sw.oxfordjournals.org,,1981,2015,20,0,1,60
+swr,Social Work Research,100.0,1545-6838,100.0,1070-5309,100.0,Oxford University Press,100.0,http://swr.oxfordjournals.org,,1981,2015,20,0,1,39
+sysbio,Systematic Biology,100.0,1076-836X,100.0,1063-5157,100.0,Oxford University Press,43.1,http://sysbio.oxfordjournals.org,,1952,2015,20,0,1,64
+tandt,Trusts & Trustees,100.0,1363-1780,63.8,1752-2110,50.0,Oxford University Press,100.0,http://tandt.oxfordjournals.org,,1994,2015,21,0,1,21
+theolj,The Journal of Theological Studies,86.5,1477-4607,100.0,0022-5185,100.0,Oxford University Press,100.0,http://jts.oxfordjournals.org,,1899,2015,20,0,1,66
+toxsci,Toxicological Sciences,100.0,1096-0929,100.0,1096-6080,100.0,Oxford University Press,99.7,http://toxsci.oxfordjournals.org,,1981,2015,19,1,1,148
+tropej,Journal of Tropical Pediatrics,100.0,1465-3664,100.0,0142-6338,100.0,Oxford University Press,100.0,http://tropej.oxfordjournals.org,,1968,2015,20,0,14,61
+trstmh,Transactions of The Royal Society of Tropical Medicine and Hygiene,100.0,1878-3503,100.0,0035-9203,100.0,Royal Society of Tropical Medicine and Hygiene,90.7,http://trstmh.oxfordjournals.org,,1908,2015,20,0,2,109
+tweceb,Twentieth Century British History,100.0,1477-4674,100.0,0955-2359,100.0,Oxford University Press,100.0,http://tcbh.oxfordjournals.org,,1990,2015,19,0,1,26
+ulr,Uniform Law Review - Revue de droit uniforme,93.4,2050-9065,100.0,1124-3694,100.0,Oxford University Press,100.0,http://ulr.oxfordjournals.org,,1973,2015,20,0,1,20
+wber,The World Bank Economic Review,100.0,1564-698X,100.0,0258-6770,100.0,Oxford University Press,100.0,http://wber.oxfordjournals.org,,1986,2015,20,0,1,29
+wbro,The World Bank Research Observer,100.0,1564-6971,100.0,0257-3032,100.0,Oxford University Press,100.0,http://wbro.oxfordjournals.org,,1986,2015,20,0,1,30
+yel,Yearbook of European Law,100.0,2045-0044,100.0,0263-3264,100.0,Oxford University Press,100.0,http://yel.oxfordjournals.org,,1981,2014,16,2,1,33
+yielaw,Yearbook of International Environmental Law,78.6,2045-0052,100.0,0965-1721,100.0,Oxford University Press,100.0,http://yielaw.oxfordjournals.org,,1991,2014,18,0,1,24
+ywcct,The Year's Work in Critical and Cultural Theory,85.2,1471-681X,94.0,1077-4254,94.7,Oxford University Press,100.0,http://ywcct.oxfordjournals.org,,1991,2015,16,3,1,23
+ywes,The Year's Work in English Studies,72.9,1471-6801,86.0,0084-4144,86.1,Oxford University Press,100.0,http://ywes.oxfordjournals.org,,1919,2015,16,3,1,94
