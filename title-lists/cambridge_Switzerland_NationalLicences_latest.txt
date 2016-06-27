@@ -4,7 +4,7 @@ Advances in Applied Mathematics and Mechanics	2070-0733	2075-1354	2011	3		2015	8
 Annals of Actuarial Science	1748-4995	1748-5002	2006	1		2015	9		http://journals.cambridge.org/action/displayJournal?jid=aas		aas		fulltext		Cambridge University Press	serial								
 Advances in Animal Biosciences	2040-4700	2040-4719	2010	1		2015	6		http://journals.cambridge.org/action/displayJournal?jid=abs		abs		fulltext		Cambridge University Press	serial								
 Archaeologia	0261-3409		1770	1		1992	110		http://journals.cambridge.org/action/displayJournal?jid=ach		ach		fulltext		Cambridge University Press	serial								
-Asian Journal of Comparative Law	2194-6078	1932-0205	2006	1		2015	10		http://journals.cambridge.org/action/displayJournal?jid=acl		acl		fulltext		Cambridge University Press	serial								
+Asian Journal of Comparative Law	2194-6078	1932-0205	2013	8		2015	10		http://journals.cambridge.org/action/displayJournal?jid=acl		acl		fulltext		Cambridge University Press	serial								
 Australian Journal of Environmental Education	0814-0626	2049-775X	1984	1		2015	31		http://journals.cambridge.org/action/displayJournal?jid=aee		aee		fulltext		Cambridge University Press	serial								
 The Journal of African History	0021-8537	1469-5138	1960	1		2015	56		http://journals.cambridge.org/action/displayJournal?jid=afh		afh		fulltext		Cambridge University Press	serial								
 Africa	0001-9720	1750-0184	1928	1		2015	85		http://journals.cambridge.org/action/displayJournal?jid=afr		afr		fulltext		Cambridge University Press	serial								
@@ -100,7 +100,7 @@ Comparative Studies in Society and History	0010-4175	1475-2999	1958	1		2015	57		
 Cardiology in the Young	1047-9511	1467-1107	1991	1		2015	25		http://journals.cambridge.org/action/displayJournal?jid=cty		cty		fulltext		Cambridge University Press	serial								
 Journal of Dairy Research	0022-0299	1469-7629	1929	1		2015	82		http://journals.cambridge.org/action/displayJournal?jid=dar		dar		fulltext		Cambridge University Press	serial								
 Du Bois Review: Social Science Research on Race	1742-058X	1742-0598	2004	1		2015	12		http://journals.cambridge.org/action/displayJournal?jid=dbr		dbr		fulltext		Cambridge University Press	serial								
-Recherches économiques de Louvain	0770-4518	1782-1495	2011	77		2015	81		http://journals.cambridge.org/action/displayJournal?jid=dem		dem		fulltext		Cambridge University Press	serial								
+Recherches économiques de Louvain	0770-4518	1782-1495	2015	81		2015	81		http://journals.cambridge.org/action/displayJournal?jid=dem		dem		fulltext		Cambridge University Press	serial								
 Dialogue	0012-2173	1759-0949	1962	1		2015	54		http://journals.cambridge.org/action/displayJournal?jid=dia		dia		fulltext		Cambridge University Press	serial								
 Disaster Medicine and Public Health Preparedness	1935-7893	1938-744X	2007	1		2015	9		http://journals.cambridge.org/action/displayJournal?jid=dmp		dmp		fulltext		Cambridge University Press	serial								
 Journal of Developmental Origins of Health and Disease	2040-1744	2040-1752	2009	1		2015	6		http://journals.cambridge.org/action/displayJournal?jid=doh		doh		fulltext		Cambridge University Press	serial								
@@ -208,8 +208,8 @@ Journal of Management & Organization	1833-3672	1839-3527	1995	1		2015	21		http:/
 Journal of Materials Research	0884-2914	2044-5326	1986	1		2015	30		http://journals.cambridge.org/action/displayJournal?jid=jmr		jmr		fulltext		Cambridge University Press	serial								
 Journal of Nutritional Science		2048-6790	2012	1		2015	4		http://journals.cambridge.org/action/displayJournal?jid=jns		jns		fulltext		Cambridge University Press	serial								
 Journal of Institutional Economics	1744-1374	1744-1382	2005	1		2015	11		http://journals.cambridge.org/action/displayJournal?jid=joi		joi		fulltext		Cambridge University Press	serial								
-Journal of Mechanics	1727-7191	1811-8216	1998	14		2015	31		http://journals.cambridge.org/action/displayJournal?jid=jom		jom		fulltext		Cambridge University Press	serial								
-Journal of Paleontology	0022-3360	1937-2337	1986	60		2015	89		http://journals.cambridge.org/action/displayJournal?jid=jpa		jpa		fulltext		Cambridge University Press	serial								
+Journal of Mechanics	1727-7191	1811-8216	2008	24		2015	31		http://journals.cambridge.org/action/displayJournal?jid=jom		jom		fulltext		Cambridge University Press	serial								
+Journal of Paleontology	0022-3360	1937-2337	2015	89		2015	89		http://journals.cambridge.org/action/displayJournal?jid=jpa		jpa		fulltext		Cambridge University Press	serial								
 Journal of Policy History	0898-0306	1528-4190	1989	1		2015	27		http://journals.cambridge.org/action/displayJournal?jid=jph		jph		fulltext		Cambridge University Press	serial								
 Journal of Psychiatric Intensive Care	1742-6464	1744-2206	2005	1		2015	11		http://journals.cambridge.org/action/displayJournal?jid=jpi		jpi		fulltext		Cambridge University Press	serial								
 Journal of the Plainsong and Mediaeval Music Society	0143-4918		1978	1		1990	13		http://journals.cambridge.org/action/displayJournal?jid=jpm		jpm		fulltext		Cambridge University Press	serial								
@@ -242,7 +242,7 @@ Laser and Particle Beams	0263-0346	1469-803X	1983	1		2015	33		http://journals.ca
 Language in Society	0047-4045	1469-8013	1972	1		2015	44		http://journals.cambridge.org/action/displayJournal?jid=lsy		lsy		fulltext		Cambridge University Press	serial								
 Language Teaching	0261-4448	1475-3049	1968	1		2015	48		http://journals.cambridge.org/action/displayJournal?jid=lta		lta		fulltext		Cambridge University Press	serial								
 Language Variation and Change	0954-3945	1469-8021	1989	1		2015	27		http://journals.cambridge.org/action/displayJournal?jid=lvc		lvc		fulltext		Cambridge University Press	serial								
-The Mathematical Gazette	0025-5572	2056-6328	2010	94		2015	99		http://journals.cambridge.org/action/displayJournal?jid=mag		mag		fulltext		Cambridge University Press	serial								
+The Mathematical Gazette	0025-5572	2056-6328	2015	99		2015	99		http://journals.cambridge.org/action/displayJournal?jid=mag		mag		fulltext		Cambridge University Press	serial								
 Microscopy and Microanalysis	1431-9276	1435-8115	1995	1		2015	21		http://journals.cambridge.org/action/displayJournal?jid=mam		mam		fulltext		Cambridge University Press	serial								
 Mathematical Notes	1757-7489		1909	1		1961	44		http://journals.cambridge.org/action/displayJournal?jid=man		man		fulltext		Cambridge University Press	serial								
 Journal of the Marine Biological Association of the United Kingdom	0025-3154	1469-7769	1887	1		2015	95		http://journals.cambridge.org/action/displayJournal?jid=mbi		mbi		fulltext		Cambridge University Press	serial								
@@ -269,7 +269,7 @@ Nordic Journal of Linguistics	0332-5865	1502-4717	1978	1		2015	38		http://journa
 Natural Language Engineering	1351-3249	1469-8110	1995	1		2015	21		http://journals.cambridge.org/action/displayJournal?jid=nle		nle		fulltext		Cambridge University Press	serial								
 New Perspectives on Turkey	0896-6346	1305-3299	1987	1		2015	53		http://journals.cambridge.org/action/displayJournal?jid=npt		npt		fulltext		Cambridge University Press	serial								
 Nutrition Research Reviews	0954-4224	1475-2700	1988	1		2015	28		http://journals.cambridge.org/action/displayJournal?jid=nrr		nrr		fulltext		Cambridge University Press	serial								
-New Surveys in the Classics	0533-2451	2052-8531	1967	1		2012	42		http://journals.cambridge.org/action/displayJournal?jid=nsy		nsy		fulltext		Cambridge University Press	serial								
+New Surveys in the Classics	0533-2451	2052-8531	2006	36		2012	42		http://journals.cambridge.org/action/displayJournal?jid=nsy		nsy		fulltext		Cambridge University Press	serial								
 New Theatre Quarterly	0266-464X	1474-0613	1985	1		2015	31		http://journals.cambridge.org/action/displayJournal?jid=ntq		ntq		fulltext		Cambridge University Press	serial								
 New Testament Studies	0028-6885	1469-8145	1954	1		2015	61		http://journals.cambridge.org/action/displayJournal?jid=nts		nts		fulltext		Cambridge University Press	serial								
 Network Science	2050-1242	2050-1250	2013	1		2015	3		http://journals.cambridge.org/action/displayJournal?jid=nws		nws		fulltext		Cambridge University Press	serial								
@@ -278,7 +278,7 @@ Cambridge Opera Journal	0954-5867	1474-0621	1989	1		2015	27		http://journals.cam
 The Australian and New Zealand Journal of Organisational Psychology		1835-7601	2008	1		2015	8		http://journals.cambridge.org/action/displayJournal?jid=orp		orp		fulltext		Cambridge University Press	serial								
 Oryx	0030-6053	1365-3008	1950	1		2015	49		http://journals.cambridge.org/action/displayJournal?jid=orx		orx		fulltext		Cambridge University Press	serial								
 Organised Sound	1355-7718	1469-8153	1996	1		2015	20		http://journals.cambridge.org/action/displayJournal?jid=oso		oso		fulltext		Cambridge University Press	serial								
-Paleobiology	0094-8373	1938-5331	1975	1		2015	41		http://journals.cambridge.org/action/displayJournal?jid=pab		pab		fulltext		Cambridge University Press	serial								
+Paleobiology	0094-8373	1938-5331	2015	38		2015	41		http://journals.cambridge.org/action/displayJournal?jid=pab		pab		fulltext		Cambridge University Press	serial								
 Politics & Gender	1743-923X	1743-9248	2005	1		2015	11		http://journals.cambridge.org/action/displayJournal?jid=pag		pag		fulltext		Cambridge University Press	serial								
 Parasitology	0031-1820	1469-8161	1908	1		2015	142		http://journals.cambridge.org/action/displayJournal?jid=par		par		fulltext		Cambridge University Press	serial								
 Publications of the Astronomical Society of Australia	1323-3580	1448-6083	1997	14		2015	32		http://journals.cambridge.org/action/displayJournal?jid=pas		pas		fulltext		Cambridge University Press	serial								
@@ -360,7 +360,7 @@ Social Philosophy and Policy	0265-0525	1471-6437	1983	1		2015	32		http://journal
 South Pacific Journal of Psychology	0257-5434		1984	1		2005	16		http://journals.cambridge.org/action/displayJournal?jid=spp		spp		fulltext		Cambridge University Press	serial								
 Social Policy and Society	1474-7464	1475-3073	2002	1		2015	14		http://journals.cambridge.org/action/displayJournal?jid=sps		sps		fulltext		Cambridge University Press	serial								
 Seed Science Research	0960-2585	1475-2735	1991	1		2015	25		http://journals.cambridge.org/action/displayJournal?jid=ssr		ssr		fulltext		Cambridge University Press	serial								
-The Americas	0003-1615	1533-6247	1944	1		2015	72		http://journals.cambridge.org/action/displayJournal?jid=tam		tam		fulltext		Cambridge University Press	serial								
+The Americas	0003-1615	1533-6247	2009	66		2015	72		http://journals.cambridge.org/action/displayJournal?jid=tam		tam		fulltext		Cambridge University Press	serial								
 The Canadian Entomologist	0008-347X	1918-3240	1868	1		2015	147		http://journals.cambridge.org/action/displayJournal?jid=tce		tce		fulltext		Cambridge University Press	serial								
 twentieth-century music	1478-5722	1478-5730	2004	1		2015	12		http://journals.cambridge.org/action/displayJournal?jid=tcm		tcm		fulltext		Cambridge University Press	serial								
 Transnational Environmental Law	2047-1025	2047-1033	2012	1		2015	4		http://journals.cambridge.org/action/displayJournal?jid=tel		tel		fulltext		Cambridge University Press	serial								
