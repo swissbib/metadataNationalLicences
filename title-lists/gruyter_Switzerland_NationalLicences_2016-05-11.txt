@@ -1,0 +1,355 @@
+publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	notes	publisher_name	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id	access_type
+ABI-Technik	0720-6763	2191-4664	1996	16		2015	35		abitech		abitech		fulltext		De Gruyter	serial								
+The African Book Publishing Record	0306-0322	7865-8717	1975	1		2015	41		abpr		abpr		fulltext		Walter de Gruyter, Berlin / New York	serial								
+Advances in Calculus of Variations	1864-8258	1864-8266	2008	1		2015	8		acv		acv		fulltext		Walter de Gruyter GmbH & Co. KG	serial								
+Advances in Geometry	1615-715X	1615-7168	2001	1		2015	15		advg		advg		fulltext		Walter de Gruyter GmbH & Co. KG	serial								
+Accounting, Economics and Law	2194-6051	2152-2820	2011	1		2015	5		ael		ael		fulltext		De Gruyter	serial								
+Archiv für Diplomatik	0066-6297	2194-5020	1955	1		2015	61		afd		afd		fulltext		Böhlau Verlag GmbH & CIE.	serial								
+Archiv für Religionsgeschichte	1436-3038	1868-8888	1999	1		2015	16		afgs		afgs		fulltext		De Gruyter	serial								
+Acta Geologica Polonica	0001-5709	2300-1887	2012	62		2015	65		agp		agp		fulltext		Versita	serial								
+Archiv für Geschichte der Philosophie	0003-9101	1613-0650	1888	1		2015	97		agph		agph		fulltext		Walter de Gruyter, Berlin / New York	serial								
+Asian Journal of Law and Economics	2194-6086	2154-4611	2010	1		2015	6		ajle		ajle		fulltext		De Gruyter	serial								
+Archiv für Kulturgeschichte	0003-9233	2194-3958	1903	1		2015	97		akg		akg		fulltext		Böhlau Verlag GmbH & CIE.	serial								
+Applied Linguistics Review	1868-6303	1868-6311	2010	1		2015	6		alr		alr		fulltext		De Gruyter Mouton	serial								
+Angermion	1438-2091	1868-9426	2010	3		2015	8		ang		ang		fulltext		De Gruyter	serial								
+Anglia - Zeitschrift für englische Philologie	0340-5222	1865-8938	1878			2015			angl		angl		fulltext		Niemeyer, Tübingen	serial								
+Analysis	0174-4747	2196-6753	1981	1		2015	35		anly		anly		fulltext		OLDENBOURG WISSENSCHAFTSVERLAG	serial								
+Annalen des Historischen Vereins für den Niederrhein	0341-289X	2194-3818	1855	1		2015	218		annalen		annalen		fulltext		Böhlau Verlag GmbH & CIE.	serial								
+Advances in Nonlinear Analysis	2191-9496	2191-950X	2012	1		2015	4		anona		anona		fulltext		Walter de Gruyter GmbH	serial								
+Antike und Abendland	0003-5696	1613-0421	1944	1		2015	61		anti		anti		fulltext		Walter de Gruyter	serial								
+Altorientalische Forschungen	0232-8461	2196-6761	1975	3		2015	41		aofo		aofo		fulltext		AKADEMIE VERLAG	serial								
+Advanced Optical Technologies	2192-8576	2192-8584	2012	1		2015	4		aot		aot		fulltext		THOSS Media & De Gruyter	serial								
+Advances in Pure and Applied Mathematics	1867-1152	1869-6090	2010	1		2015	6		apam		apam		fulltext		Walter de Gruyter GmbH & Co. KG	serial								
+Apeiron	0003-6390	2156-7093	1967	1		2015	48		apeiron		apeiron		fulltext		De Gruyter	serial								
+Archiv für Papyrusforschung und verwandte Gebiete	0066-6459	1867-1551	1901			2015			apf		apf		fulltext		Walter de Gruyter, Berlin / New York	serial								
+Asia-Pacific Journal of Risk and Insurance	2194-606X	2153-3792	2005	1		2015	9		apjri		apjri		fulltext		De Gruyter	serial								
+Arbitrium	0723-2977	1865-8849	1985			2015			arbi		arbi		fulltext		Walter de Gruyter, Berlin / New York	serial								
+Arcadia - Internationale Zeitschrift für Literaturwissenschaft / International Journal for Literary Studies	0003-7982	1613-0642	1966	1		2015	50		arca		arca		fulltext		Walter de Gruyter, Berlin / New York	serial								
+Archiv für Reformationsgeschichte - Archive for Reformation History	0003-9381	2198-0489	1904	1		2015	106		arg		arg		fulltext		Gütersloher Verlagshaus	serial								
+Archiv für Reformationsgeschichte/Literaturbericht	0341-8375	2198-0497	1972	1		2015	44		argl		argl		fulltext		Gütersloher Verlagshaus	serial								
+Aschkenas	1016-4987		1992	2		2015	92		asch		asch		fulltext		Walter de Gruyter, Berlin / New York	serial								
+Asiatische Studien - Études Asiatiques	0004-4717	2235-5871	2014	68		2015	69		asia		asia		fulltext		De Gruyter	serial								
+at - Automatisierungstechnik	0178-2312	2196-677X	1964	12		2015	63		auto		auto		fulltext		OLDENBOURG WISSENSCHAFTSVERLAG	serial								
+Archivalische Zeitschrift	0003-9497	2194-3826	1876	1		2013	93		az		az		fulltext		Böhlau Verlag	serial								
+Bio-Algorithms and Med-Systems	1895-9091	1896-530X	2012	8		2015	11		bams		bams		fulltext		De Gruyter	serial								
+Business and Politics	1369-5258	1469-3569	1999	1		2015	17		bap		bap		fulltext		De Gruyter	serial								
+Biological Chemistry	1431-6730	1437-4315	1997	378		2015	396		bchm		bchm		fulltext		Walter de Gruyter	serial								
+Zeitschrift für physiologische Chemie			1878	1		1895	20		bchm		bchm1		fulltext		Walter de Gruyter, Berlin / New York	serial								
+Hoppe-Seyler´s Zeitschrift für physiologische Chemie	0018-4888	1437-4315	1896	1		1984	365		bchm		bchm2		fulltext		Walter de Gruyter, Berlin / New York	serial								
+Biological Chemistry Hoppe-Seyler	0177-3593	1437-4315	1985	366		1996	377		bchm		bchm3		fulltext		Walter de Gruyter, Berlin / New York	serial								
+Bibliotheksdienst	0006-1972	2194-9646	1967	1		2015	49		bd		bd		fulltext		De Gruyter	serial								
+The B.E. Journal of Economic Analysis & Policy	2194-6108	1935-1682	2001	1		2015	15		bejeap		bejeap		fulltext		De Gruyter	serial								
+The B.E. Journal of Macroeconomics	2194-6116	1935-1690	2001	1		2015	15		bejm		bejm		fulltext		De Gruyter	serial								
+The B.E. Journal of Theoretical Economics	2194-6124	1935-1704	2001	1		2015	15		bejte		bejte		fulltext		De Gruyter	serial								
+BIBLIOTHEK Forschung und Praxis	0341-4183	1865-7648	1977	1		2015	39		bfup		bfup		fulltext		Walter de Gruyter GmbH & Co. KG	serial								
+Beiträge zur Geschichte der deutschen Sprache und Literatur (PBB)	0005-8076	1865-9373	1874			2015			bgsl		bgsl		fulltext		Niemeyer, Tübingen	serial								
+BIOmaterialien	1616-0177	2191-4672	2000	1		2015	16		biomat		biomat		fulltext		De Gruyter	serial								
+Basic Income Studies	2194-6094	1932-0183	2006	1		2015	9		bis		bis		fulltext		De Gruyter	serial								
+BioMolecular Concepts	1868-5021	1868-503X	2010	1		2015	6		bmc		bmc		fulltext		Walter de Gruyter	serial								
+Biomedizinische Technik/Biomedical Engineering	0013-5585	1862-278X	1956	1		2015	60		bmte		bmte		fulltext		Walter de Gruyter, Berlin / New York	serial								
+Botanica Marina	0006-8055	1437-4323	1959	1		2015	58		botm		botm		fulltext		Walter de Gruyter, Berlin / New York	serial								
+Bildung und Erziehung	0006-2456	2194-3834	1948	1		2015	68		bue		bue		fulltext		Böhlau Verlag GmbH & CIE.	serial								
+Byzantinische Zeitschrift	0007-7704	1864-449X	1892	1		2015	108		byzs		byzs		fulltext		Walter de Gruyter, Berlin / New York	serial								
+Chinese as a Second Language Research	2193-2263	2193-2271	2012	1		2015	4		caslar		caslar		fulltext		De Gruyter Mouton	serial								
+Clinical Chemistry and Laboratory Medicine	1434-6621	1437-4331	1963	1		2015	53		cclm		cclm		fulltext		Walter de Gruyter, Berlin / New York	serial								
+Language Learning in Higher Education	2191-611X	2191-6128	2012	1		2015	5		cercles		cercles		fulltext		De Gruyter Mouton	serial								
+Chinese Archaeology	5004-4295	2160-5068	2001	1		2015	15		char		char		fulltext		De Gruyter	serial								
+Chinese Journal of Applied Linguistics	2192-9505	2192-9513	2011	34		2015	38		cjal		cjal		fulltext		De Gruyter Mouton	serial								
+Corpus Linguistics and Linguistic Theory	1613-7027	1613-7035	2005	1		2015	11		cllt		cllt		fulltext		Walter de Gruyter GmbH & Co. KG	serial								
+Computational Methods in Applied Mathematics	1609-4840	1609-9389	2001	1		2015	15		cmam		cmam		fulltext		De Gruyter	serial								
+Cognitive Linguistics	0936-5907	1613-3641	1990	1		2015	26		cogl		cogl		fulltext		Walter de Gruyter, Berlin / New York	serial								
+Communications	0341-2059	1613-4087	1976	2		2015	40		comm		comm		fulltext		Walter de Gruyter, Berlin / New York	serial								
+Corrosion Reviews	0334-6005	2191-0316	1987	7		2015	33		corrrev		corrrev		fulltext		De Gruyter	serial								
+Chemical Product and Process Modeling	2194-6159	1934-2659	2006	1		2015	10		cppm		cppm		fulltext		De Gruyter	serial								
+Conceptus	0010-5155	2196-9523	2008	37		2015	42		cpt		cpt		fulltext		De Gruyter	serial								
+Computer und Recht	0179-1990	2194-4172	2005	21		2015	31		cr		cr		fulltext		Verlag Dr. Otto Schmidt	serial								
+Computer Law Review International	1610-7608	2194-4164	2005	6		2015	16		cri		cri		fulltext		Verlag Dr. Otto Schmidt	serial								
+Journal für die reine und angewandte Mathematik (Crelles Journal)	0075-4102	1435-5345	1826			2015			crll		crll		fulltext		Walter de Gruyter, Berlin / New York	serial								
+Case Reports in Perinatal Medicine	2192-8932	2192-8959	2012	1		2015	4		crpm		crpm		fulltext		De Gruyter	serial								
+Chinese Semiotic Studies	2198-9605	2198-9613	2009	1		2015	11		css		css		fulltext		De Gruyter	serial								
+Deutsches Dante-Jahrbuch	0070-444X	2194-4059	1949	28		2015	90		dante		dante		fulltext		De Gruyter	serial								
+Dialectologia et Geolinguistica	0942-4040	1867-0903	1993			2015			dig		dig		fulltext		Walter de Gruyter, Berlin / New York	serial								
+Discrete Mathematics and Applications	0924-9265	1569-3929	1991	1		2015	25		dma		dma		fulltext		Walter de Gruyter, Berlin / New York	serial								
+Drug Metabolism and Drug Interactions	0792-5077	2191-0162	1980	3		2015	30		dmdi		dmdi		fulltext		De Gruyter	serial								
+Mitteilungen der Deutschen Mathematiker-Vereinigung	0947-4471	0942-5977	1993	1		2015	23		dmvm		dmvm		fulltext		De Gruyter	serial								
+Der Donauraum	0012-5415	2307-289X	1956			2013			dnrm		dnrm		fulltext		Böhlau Verlag GmbH & Co.KG	serial								
+Demokratie und Geschichte	2227-7633	2307-2881	1997	1		2010	14		dug		dug		fulltext		Böhlau Verlag GmbH & Co.KG	serial								
+Deutsche Zeitschrift für Wirtschafts- und Insolvenzrecht	1439-1589	1612-7056	1991			2015			dwir		dwir		fulltext		Walter de Gruyter GmbH & Co. KG	serial								
+Deutsche Zeitschrift für Philosophie	0012-1045	2192-1482	1953	1		2015	63		dzph		dzph		fulltext		AKADEMIE VERLAG	serial								
+English and American Studies in German	0071-0490	1865-8946	1969			2015			east		east		fulltext		Walter de Gruyter	serial								
+European Company and Financial Law Review	1613-2548	1613-2556	2004	1		2015	11		ecfr		ecfr		fulltext		Walter de Gruyter GmbH & Co. KG	serial								
+Editio	0931-3079	1865-9446	1988	2		2015	29		edit		edit		fulltext		Walter de Gruyter	serial								
+Energy Harvesting and Systems	2329-8774	2329-8766	2014	1		2015	2		ehs		ehs		fulltext		De Gruyter	serial								
+European Journal of Nanomedicine	1662-5986	1662-596X	2008	1		2015	7		ejnm		ejnm		fulltext		De Gruyter	serial								
+European Journal of Scandinavian Studies	2191-9399	2191-9402	2010	38		2015	45		ejss		ejss		fulltext		De Gruyter	serial								
+Epidemiologic Methods	2194-9263	2161-962X	2012	1		2015	4		em		em		fulltext		De Gruyter	serial								
+European Property Law Journal	2190-8273	2190-8362	2012	1		2015	4		eplj		eplj		fulltext		De Gruyter	serial								
+e-Polymers	2197-4586	1618-7229	2001	1		2015	15		epoly		epoly		fulltext		De Gruyter	serial								
+Economic Quality Control	0940-5151	1869-6147	2001	16		2015	30		eqc		eqc		fulltext		Walter de Gruyter GmbH & Co. KG	serial								
+European Review of Contract Law	1614-9920	1614-9939	2005	1		2015	11		ercl		ercl		fulltext		Walter de Gruyter GmbH & Co. KG	serial								
+Entrepreneurship Research Journal	2194-6175	2157-5665	2011	1		2015	5		erj		erj		fulltext		De Gruyter	serial								
+European Tort Law Yearbook	2190-7773	2190-7781	2010			2015			etly		etly		fulltext		De Gruyter	serial								
+Etruscan Studies	1080-1960	2163-8217	1994	1		2015	18		etst		etst		fulltext		De Gruyter	serial								
+European Journal of Applied Linguistics	2192-9521	2192-953X	2013	1		2015	3		eujal		eujal		fulltext		De Gruyter Mouton	serial								
+The Economists' Voice	2194-6167	1553-3832	2004	1		2015	12		ev		ev		fulltext		De Gruyter	serial								
+Evangelische Theologie	0014-3502	2198-0470	1935	2		2015	75		evth		evth		fulltext		Gütersloher Verlagshaus	serial								
+Fabula	0014-6242	1316-0464	1958	1		2015	56		fabl		fabl		fulltext		Walter de Gruyter, Berlin / New York	serial								
+Forum for Health Economics & Policy	2194-6191	1558-9544	1998	1		2015	18		fhep		fhep		fulltext		De Gruyter	serial								
+Figurationen	1439-4367	2194-363X	2000	1		2015	16		figurationen		figurationen		fulltext		Böhlau Verlag GmbH & CIE.	serial								
+Folia Linguistica Historica	0168-647X	1614-7316	1980	14		2015	47		flih		flih		fulltext		De Gruyter Mouton	serial								
+Folia Linguistica	0165-4004	1614-7308	1967	1		2015	49		flin		flin		fulltext		Walter de Gruyter, Berlin / New York	serial								
+Frühmittelalterliche Studien	0071-9706	1613-0812	1967	1		2015	48		fmst		fmst		fulltext		Walter de Gruyter	serial								
+The Forum	2194-6183	1540-8884	2002	1		2015	13		for		for		fulltext		De Gruyter	serial								
+Forum Mathematicum	0933-7741	1435-5337	1989	1		2015	27		form		form		fulltext		Walter de Gruyter GmbH & Co. KG	serial								
+Finanz-Rundschau Ertragsteuerrecht	0940-452X	2194-4156	2005	87		2015	97		fr		fr		fulltext		Verlag Dr. Otto Schmidt	serial								
+Frequenz	0016-1136	2191-6349	1949	3		2015	69		freq		freq		fulltext		De Gruyter	serial								
+Forum für osteuropäische Ideen -und Zeitgeschichte	1433-4887	2194-3672	1997	1		2013	17		frm		frm		fulltext		Böhlau Verlag GmbH & CIE.	serial								
+International Yearbook of Futurism Studies	2192-0281	2192-029X	2011	1		2013	3		futur		futur		fulltext		De Gruyter	serial								
+Groups – Complexity – Cryptology	1867-1144	1869-6104	2009	1		2015	7		gcc		gcc		fulltext		Walter de Gruyter GmbH & Co. KG	serial								
+Yearbook of the German Cognitive Linguistics Association	2197-2788	2197-2796	2013	1		2015	3		gcla		gcla		fulltext		De Gruyter	serial								
+Global Economy Journal	2194-5659	1524-5861	2000	1		2015	15		gej		gej		fulltext		De Gruyter	serial								
+George-Jahrbuch	1430-2519	1865-8881	2009	7		2014	10		georgejb		georgejb		fulltext		De Gruyter	serial								
+Germanistik	0016-8912	1865-9187	2007	48		2015	56		germ		germ		fulltext		De Gruyter	serial								
+GesundheitsRecht	1610-1197	2194-4229	2005	4		2015	14		gesr		gesr		fulltext		Verlag Dr. Otto Schmidt	serial								
+Geschichte in Köln	0720-3659	2198-0667	1978	1		2015	62		gik		gik		fulltext		Böhlau Verlag	serial								
+Global Jurist	2194-5675	1934-2640	2001	1		2015	15		gj		gj		fulltext		De Gruyter	serial								
+Glottotheory	1337-7892	2196-6907	2008	1		2015	6		glot		glot		fulltext		De Gruyter Akademie Forschung	serial								
+Georgian Mathematical Journal	1072-947X	1072-9176	1994	1		2015	22		gmj		gmj		fulltext		Walter de Gruyter GmbH & Co. KG	serial								
+Zeitschrift für Gemeinschaftsprivatrecht	1612-9229	2193-9519	2003	1		2015	12		gpr		gpr		fulltext		sellier european law publishers	serial								
+Green Processing and Synthesis	2191-9542	2191-9550	2012	1		2015	4		gps		gps		fulltext		De Gruyter	serial								
+Green	1869-876X	1869-8778	2011	1		2015	5		green		green		fulltext		De Gruyter	serial								
+Historische Anthropologie	0942-8704	2194-4032	1993	1		2015	23		ha		ha		fulltext		Böhlau Verlag GmbH & CIE.	serial								
+Heterocyclic Communications	0793-0283	2191-0197	1994	1		2015	21		hc		hc		fulltext		De Gruyter	serial								
+HELIA	1018-1806	2197-0483	2000	23		2015	38		helia		helia		fulltext		De Gruyter	serial								
+Holzforschung - International Journal of the Biology, Chemistry, Physics and Technology of Wood	0018-3830	1437-434X	1947	1		2015	69		hfsg		hfsg		fulltext		Walter de Gruyter, Berlin / New York	serial								
+Hegel-Jahrbuch	0073-1579	2192-5550	1999			2015			hgjb		hgjb		fulltext		AKADEMIE VERLAG	serial								
+Hormone Molecular Biology and Clinical Investigation	1868-1883	1868-1891	2010	1		2015	21		hmbci		hmbci		fulltext		Walter de Gruyter	serial								
+Historisch-Politische Mitteilungen	0943-691X	2194-4040	1994	1		2015	22		hpm		hpm		fulltext		Böhlau Verlag GmbH & CIE.	serial								
+High Temperature Materials and Processes	0334-6455	2191-0324	1984	6		2015	34		htmp		htmp		fulltext		De Gruyter	serial								
+Humor - International Journal of Humor Research	0933-1719	1613-3722	1988	1		2015	28		humr		humr		fulltext		Walter de Gruyter, Berlin / New York	serial								
+Historische Zeitschrift	0018-2613	2196-680X	1859	1		2015	300		hzhz		hzhz		fulltext		OLDENBOURG WISSENSCHAFTSVERLAG	serial								
+International African Bibliography (IAB)	0020-5877	1865-9640	1971	1		2015	45		iabi		iabi		fulltext		Walter de Gruyter, Berlin / New York	serial								
+Internationales Archiv für Sozialgeschichte der deutschen Literatur (IASL)	0340-4528	1865-9128	1976	1		2015	40		iasl		iasl		fulltext		Walter de Gruyter GmbH & Co. KG	serial								
+Iberoromania	0019-0993	1865-9039	1969			2015			iber		iber		fulltext		Walter de Gruyter, Berlin / New York	serial								
+International Commentary on Evidence	2194-5691	1554-4567	1998	1		2015	12		ice		ice		fulltext		De Gruyter	serial								
+i-com	1618-162X	2196-6826	2001	1		2015	14		icom		icom		fulltext		Oldenbourg Wissenschaftsverlag GmbH	serial								
+Internationales Handelsrecht	1617-5395	2193-9527	2001	1		2015	15		ihr		ihr		fulltext		sellier european law publishers	serial								
+International Journal of Adolescent Medicine and Health	0334-0139	2191-0278	1985	1		2015	27		ijamh		ijamh		fulltext		De Gruyter	serial								
+Internationales Jahrbuch der Erwachsenenbildung	0074-9818	2194-3699	1969	1		2015	38		ijbe		ijbe		fulltext		Böhlau Verlag GmbH & CIE.	serial								
+International Journal of Chemical Reactor Engineering	2194-5748	1542-6580	2002	1		2015	13		ijcre		ijcre		fulltext		De Gruyter	serial								
+International Journal on Disability and Human Development	2191-1231	2191-0367	1999	1		2015	14		ijdhd		ijdhd		fulltext		De Gruyter	serial								
+International Journal of Emerging Electric Power Systems	2194-5756	1553-779X	2004	1		2015	16		ijeeps		ijeeps		fulltext		De Gruyter	serial								
+International Journal of Food Engineering	2194-5764	1556-3758	2005	1		2015	11		ijfe		ijfe		fulltext		De Gruyter	serial								
+Journal for Manufacturing Science and Production	0793-6648	2191-0375	1997	1		2015	15		ijmsp		ijmsp		fulltext		De Gruyter	serial								
+International Journal of Nursing Education Scholarship	2194-5772	1548-923X	2003	1		2015	12		ijnes		ijnes		fulltext		De Gruyter	serial								
+International Journal of Nonlinear Sciences and Numerical Simulation	1565-1339	2191-0294	2000	1		2015	16		ijnsns		ijnsns		fulltext		De Gruyter	serial								
+International Journal of Practical Theology	1430-6921	1612-9768	1997	1		2015	39		ijpt		ijpt		fulltext		Walter de Gruyter, Berlin / New York	serial								
+International Journal of the Sociology of Language	0165-2516	1613-3668	1974			2015			ijsl		ijsl		fulltext		Walter de Gruyter, Berlin / New York	serial								
+Issues in Legal Scholarship	2194-5780	1539-8323	2001	1		2013	11		ils		ils		fulltext		De Gruyter	serial								
+Indogermanische Forschungen	0019-7262	1613-0405	1892	1		2015	120		indo		indo		fulltext		De Gruyter	serial								
+Innovative Neurosurgery	2193-522X	2193-5238	2013	1		2015	3		ins		ins		fulltext		De Gruyter	serial								
+Intercultural Pragmatics	1612-295X	1613-365X	2004	1		2015	12		iprg		iprg		fulltext		Walter de Gruyter GmbH & Co. KG	serial								
+IRAL - International Review of Applied Linguistics in Language Teaching	0019-042X	1613-4141	1963	1		2015	53		iral		iral		fulltext		Walter de Gruyter, Berlin / New York	serial								
+BioInorganic Reaction Mechanisms	2191-2483	2191-2491	1998	1		2013	9		irm		irm		fulltext		De Gruyter	serial								
+Der Islam	0021-1818	1613-0928	1910	1		2015	92		islm		islm		fulltext		Walter de Gruyter, Berlin / New York	serial								
+it - Information Technology	1611-2776	2196-7032	1959	1		2015	57		itit		itit		fulltext		OLDENBOURG WISSENSCHAFTSVERLAG	serial								
+Information - Wissenschaft & Praxis	1434-4653	1619-4292	2012	63		2015	66		iwp		iwp		fulltext		De Gruyter	serial								
+Journal of Applied Analysis	1425-6908	1869-6082	1995	1		2015	21		jaa		jaa		fulltext		Walter de Gruyter GmbH & Co. KG	serial								
+Journal of Agricultural & Food Industrial Organization	2194-5896	1542-0485	2002	1		2015	13		jafio		jafio		fulltext		De Gruyter	serial								
+Journal of Applied Geodesy	1862-9016	1862-9024	2007	1		2015	9		jag		jag		fulltext		Walter de Gruyter GmbH & Co. KG	serial								
+Journal of Ancient History	2324-8106	2324-8114	2013	1		2015	3		jah		jah		fulltext		De Gruyter	serial								
+Journal of African Languages and Linguistics	0167-6164	1613-3811	1979	1		2015	36		jall		jall		fulltext		Walter de Gruyter, Berlin / New York	serial								
+Journal of Ancient Near Eastern History	2328-9554	2328-9562	2014	1		2015	2		janeh		janeh		fulltext		De Gruyter	serial								
+Journal of Biosecurity, Biosafety, and Biodefense Law	2194-590X	2154-3186	2011	1		2015	6		jbbbl		jbbbl		fulltext		De Gruyter	serial								
+Journal of Basic and Clinical Physiology and Pharmacology	0792-6855	2191-0286	1986	1		2015	26		jbcpp		jbcpp		fulltext		De Gruyter	serial								
+Jahrbuch für Germanistische Sprachgeschichte	1869-7038	1869-7046	2010	1		2015	6		jbgsg		jbgsg		fulltext		De Gruyter	serial								
+Jahrbuch des Kölnischen Geschichtsvereins	0341-9320	2198-0675	1912	1		2012	81		jbkgv		jbkgv		fulltext		Böhlau Verlag	serial								
+Internationales Jahrbuch für philosophische Anthropologie	2192-4279	2192-4287	2008	1		2015	5		jbpa		jbpa		fulltext		De Gruyter	serial								
+Journal of the Bible and its Reception	2329-440X	2329-4434	2014	1		2015	2		jbr		jbr		fulltext		De Gruyter	serial								
+Journal of Business Valuation and Economic Loss Analysis	2194-5861	1932-9156	2006	1		2015	10		jbvela		jbvela		fulltext		De Gruyter	serial								
+Jahrbuch für Wirtschaftsgeschichte / Economic History Yearbook	0075-2800	2196-6842	1960	1		2015	56		jbwg		jbwg		fulltext		AKADEMIE VERLAG	serial								
+Journal of Contemporary Drama in English	2195-0156	2195-0164	2013	1		2015	3		jcde		jcde		fulltext		De Gruyter	serial								
+Journal of Causal Inference	2193-3677	2193-3685	2013	1		2015	3		jci		jci		fulltext		De Gruyter	serial								
+Journal of Complementary and Integrative Medicine	2194-6329	1553-3840	2004	1		2015	12		jcim		jcim		fulltext		De Gruyter	serial								
+Journal of Drug Policy Analysis	2194-6337	1941-2851	2010	3		2015	8		jdpa		jdpa		fulltext		De Gruyter	serial								
+Jahrbuch der Raabe-Gesellschaft	0075-2371	1865-8857	1960	1		2015	56		jdrg		jdrg		fulltext		Walter de Gruyter	serial								
+Journal de Economistes et des Etudes Humaines	2194-5799	2153-1552	1990	1		2015	20		jeeh		jeeh		fulltext		De Gruyter	serial								
+Journal of English as a Lingua Franca	2191-9216	2191-933X	2012	1		2015	4		jelf		jelf		fulltext		De Gruyter Mouton	serial								
+Journal of Econometric Methods	2194-6345	2156-6674	2012	1		2015	4		jem		jem		fulltext		De Gruyter	serial								
+Journal of Early Modern Christianity	2196-6648	2196-6656	2014	1		2015	1		jemc		jemc		fulltext		De Gruyter	serial								
+Journal of European Tort Law	1868-9612	1868-9620	2010	1		2015	6		jetl		jetl		fulltext		De Gruyter	serial								
+Jahrbuch für Wissenschaft und Ethik	1430-9017	1613-1142	1996	1		2015	20		jfwe		jfwe		fulltext		Walter de Gruyter	serial								
+Jahrbuch der Göttinger Akademie der Wissenschaften	0373-9767	1868-9191	2008			2014			jga		jga		fulltext		De Gruyter	serial								
+Journal of Globalization and Development	2194-6353	1948-1837	2010	1		2015	6		jgd		jgd		fulltext		De Gruyter	serial								
+Jahrbuch für die Geschichte Mittel- und Ostdeutschlands	0075-2614	2191-9909	2009	55		2015	60		jgmo		jgmo		fulltext		DE GRUYTER SAUR	serial								
+Journal of Group Theory	1433-5883	1435-4446	1998	1		2015	18		jgth		jgth		fulltext		Walter de Gruyter GmbH & Co. KG	serial								
+Journal of Homeland Security and Emergency Management	2194-6361	1547-7355	2003	1		2015	12		jhsem		jhsem		fulltext		De Gruyter	serial								
+Journal of the International Arthurian Society	2196-9353	2196-9361	2013	1		2015	3		jias		jias		fulltext		De Gruyter	serial								
+Journal of Inverse and Ill-posed Problems	0928-0219	1569-3945	1993	1		2015	23		jiip		jiip		fulltext		Walter de Gruyter, Berlin / New York	serial								
+Journal of Imagery Research in Sport and Physical Activity	2194-637X	1932-0191	2006	1		2015	10		jirspa		jirspa		fulltext		De Gruyter	serial								
+Journal of Intelligent Systems	0334-1860	2191-026X	1991	1		2015	24		jisys		jisys		fulltext		De Gruyter	serial								
+Journal der Juristischen Zeitgeschichte	1863-9984	1868-8810	2010	4		2015	8		jjzg		jjzg		fulltext		Walter de Gruyter GmbH & Co. KG	serial								
+Jahrbuch der Juristischen Zeitgeschichte	1869-6899	1869-6902	2011	12		2015	16		jjzg-b		jjzg-b		fulltext		De Gruyter	serial								
+Journal of Literary Semantics	0341-7638	1613-3838	1972	1		2015	44		jlse		jlse		fulltext		Walter de Gruyter, Berlin / New York	serial								
+Journal of Literary Theory	1862-5290	1862-8990	2007	1		2015	9		jlt		jlt		fulltext		Walter de Gruyter GmbH & Co. KG	serial								
+Journal of the Mechanical Behavior of Materials	0334-8938	2191-0243	1989	2		2015	24		jmbm		jmbm		fulltext		De Gruyter	serial								
+Journal of Mathematical Cryptology	1862-2976	1862-2984	2007	1		2015	9		jmc		jmc		fulltext		Walter de Gruyter GmbH & Co. KG	serial								
+Journal of Non-Equilibrium Thermodynamics	0340-0204	1437-4358	1976	1		2015	40		jnet		jnet		fulltext		Walter de Gruyter, Berlin / New York	serial								
+Journal of Numerical Mathematics	1570-2820	1569-3953	2001	9		2015	23		jnma		jnma		fulltext		Walter de Gruyter GmbH & Co. KG	serial								
+Journal of Optical Communications	0173-4911	2191-6322	1980	1		2015	36		joc		joc		fulltext		De Gruyter	serial								
+Journal of Latin Linguistics		2194-8747	1980	1		2015	14		joll		joll		fulltext		De Gruyter	serial								
+Journal of Pediatric Endocrinology and Metabolism	0334-018X	2191-0251	1985	1		2015	28		jpem		jpem		fulltext		De Gruyter	serial								
+Journal of Politeness Research. Language, Behaviour, Culture	1612-5681	1613-4877	2005	1		2015	11		jplr		jplr		fulltext		Walter de Gruyter GmbH & Co. KG	serial								
+Journal of Perinatal Medicine - Official Journal of the WAPM	0300-5577	1619-3997	1973	1		2015	43		jpme		jpme		fulltext		Walter de Gruyter, Berlin / New York	serial								
+Journal of Quantitative Analysis in Sports	2194-6388	1559-0410	2005	1		2015	11		jqas		jqas		fulltext		De Gruyter	serial								
+Journal of South Asian Languages and Linguistics	2196-0771	2196-078X	2014	1		2015	2		jsall		jsall		fulltext		De Gruyter Mouton	serial								
+Journal of Tort Law	2194-6515	1932-9148	2006	1		2015	7		jtl		jtl		fulltext		De Gruyter	serial								
+Journal of Transcultural Medieval Studies	2198-0357	2198-0365	2014	1		2015	2		jtms		jtms		fulltext		De Gruyter	serial								
+Journal of Time Series Econometrics	2194-6507	1941-1928	2009	1		2015	7		jtse		jtse		fulltext		De Gruyter	serial								
+JURA - Juristische Ausbildung	0170-1452	1612-7021	2009			2015			jura		jura		fulltext		Walter de Gruyter GmbH & Co. KG	serial								
+Juristische Rundschau	0022-6920	1612-7064	1925			2015			juru		juru		fulltext		Walter de Gruyter, Berlin / New York	serial								
+Kadmos	0022-7498	1613-0723	1962	1		2015	54		kadm		kadm		fulltext		Walter de Gruyter, Berlin / New York	serial								
+Kant-Studien	0022-8877	1613-1134	1897	1		2015	106		kant		kant		fulltext		Walter de Gruyter, Berlin / New York	serial								
+Kant Yearbook	1868-4599	1868-4602	2009	1		2015	7		kantyb		kantyb		fulltext		De Gruyter	serial								
+Kierkegaard Studies Yearbook	1430-5372	1612-9792	1996			2015			kier		kier		fulltext		Walter de Gruyter	serial								
+Kritikon Litterarum	0340-9767	1865-7249	2007	34		2015	42		kl		kl		fulltext		De Gruyter	serial								
+Klio - Beiträge zur Alten Geschichte	0075-6334	2192-7669	1901	1		2015	97		klio		klio		fulltext		AKADEMIE VERLAG	serial								
+Kölner Schrift zum Wirtschaftsrecht	1869-3679	2194-4199	2010	1		2015	6		kszw		kszw		fulltext		Verlag Dr. Otto Schmidt	serial								
+LaboratoriumsMedizin / Journal of Laboratory Medicine	0342-3026	1439-0477	1977	1		2015	57		labm		labm		fulltext		Walter de Gruyter, Berlin / New York	serial								
+Laboratory Phonology	1868-6346	1868-6354	2010	1		2013	4		labphon		labphon		fulltext		De Gruyter	serial								
+Language and Cognition	1866-9808	1866-9859	2009	1		2013	5		langcog		langcog		fulltext		De Gruyter Mouton	serial								
+The Law and Development Review	2194-6523	1943-3867	2008	1		2015	8		ldr		ldr		fulltext		De Gruyter	serial								
+Law & Ethics of Human Rights	2194-6531	1938-2545	2007	1		2015	9		lehr		lehr		fulltext		De Gruyter	serial								
+Lebende Sprachen	0023-9909	1868-0267	1956	1		2015	60		les		les		fulltext		Walter de Gruyter, Berlin / New York	serial								
+Lexicographica	0175-6206	1865-9403	1985	1		2015	31		lexi		lexi		fulltext		Walter de Gruyter	serial								
+L'Homme	1016-362X	2194-5071	1990	1		2015	26		lhomme		lhomme		fulltext		Böhlau Verlag GmbH & Co.KG	serial								
+Libri	0024-2667	1865-8423	1950	1		2015	65		libr		libr		fulltext		Walter de Gruyter, Berlin / New York	serial								
+Linguistics	0024-3949	1613-396X	1963	1		2015	53		ling		ling		fulltext		Walter de Gruyter, Berlin / New York	serial								
+Linguistic Typology	1430-0532	1613-415X	1997	1		2015	19		lity		lity		fulltext		Walter de Gruyter GmbH & Co. KG	serial								
+Lodz Papers in Pragmatics	1895-6106	1898-4436	2007	3		2015	11		lpp		lpp		fulltext		Versita	serial								
+Mammalia	0025-1461	1864-1547	1936	1		2015	79		mamm		mamm		fulltext		Walter de Gruyter, Berlin / New York	serial								
+Journal Multimodal Communication 	2230-6579	2230-6587	2012	1		2015	4		mc		mc		fulltext		De Gruyter	serial								
+Monte Carlo Methods and Applications	0929-9629	1569-3961	1995	1		2015	21		mcma		mcma		fulltext		Walter de Gruyter, Berlin / New York	serial								
+Microform & Digitization Review	2190-0752	2190-541X	2011	40		2012	41		mdr		mdr		fulltext		De Gruyter	serial								
+Monatsschrift für Deutsches Recht	0340-1812	2194-4202	2005	59		2015	69		mdtr		mdtr		fulltext		Verlag Dr. Otto Schmidt	serial								
+Man and the Economy	2196-9639	2196-9647	2014	1		2015	2		me		me		fulltext		De Gruyter	serial								
+Mathematical Economics Letters	2195-4615	2195-4623	2013	1		2014	2		mel		mel		fulltext		De Gruyter	serial								
+Microform & Imaging Review	0949-5770	1865-8458	1972	1		2010	39		mfir		mfir		fulltext		Walter de Gruyter, Berlin / New York	serial								
+Main Group Metal Chemistry	0792-1241	2191-0219	1994	17		2015	38		mgmc		mgmc		fulltext		De Gruyter	serial								
+Militaergeschichtliche Zeitschrift	2196-6850		1967	1		2015	74		mgzs		mgzs		fulltext		OLDENBOURG WISSENSCHAFTSVERLAG	serial								
+Das Mittelalter	0949-0345	2196-6869	1996	1		2015	20		mial		mial		fulltext		AKADEMIE VERLAG	serial								
+Mitteilungen des Instituts für Österreichische Geschichtsforschung	0073-8484	2307-2903	1880	1		2015	123		miog		miog		fulltext		Böhlau Verlag GmbH & Co.KG	serial								
+Millennium	1862-1139	1867-0318	2004	1		2015	12		mjb		mjb		fulltext		Walter de Gruyter	serial								
+Multicultural Learning and Teaching	2194-654X	2161-2412	2006	1		2015	10		mlt		mlt		fulltext		De Gruyter	serial								
+Moral Philosophy and Politics	2194-5616	2194-5624	2014	1		2015	2		mopp		mopp		fulltext		De Gruyter	serial								
+Metaphysica	1437-2053	1874-6373	2014	15		2015	16		mp		mp		fulltext		De Gruyter	serial								
+Maske und Kothurn	0025-4606	2305-0667	1955	1		2013	59		muk		muk		fulltext		Böhlau Verlag GmbH & Co.KG	serial								
+Multilingua - Journal of Cross-Cultural and Interlanguage Communication	0167-8507	1613-3684	1982	1		2015	35		mult		mult		fulltext		Walter de Gruyter, Berlin / New York	serial								
+Muslim World Journal of Human Rights	2194-6558	1554-4419	2004	1		2015	12		mwjhr		mwjhr		fulltext		De Gruyter	serial								
+Naharaim - Zeitschrift für deutsch-jüdische Literatur und Kulturgeschichte	1862-9148	1862-9156	2007	1		2015	35		naha		naha		fulltext		Walter de Gruyter GmbH & Co. KG	serial								
+New Global Studies	2194-6566	1940-0004	2007	1		2015	8		ngs		ngs		fulltext		De Gruyter	serial								
+Nietzsche-Studien	0342-1422	1613-0790	1973	2		2015	44		niet		niet		fulltext		Walter de Gruyter	serial								
+Nietzscheforschung	1869-5604	2191-9259	1994	1		2015	22		nifo		nifo		fulltext		AKADEMIE VERLAG	serial								
+Nonlinear Engineering	2192-8010	2192-8029	2012	1		2015	4		nleng		nleng		fulltext		De Gruyter	serial								
+Nonprofit Policy Forum	2194-6035	2154-3348	2010	1		2015	6		npf		npf		fulltext		De Gruyter	serial								
+Nanotechnology Reviews	2191-9089	2191-9097	2012	1		2015	4		ntrev		ntrev		fulltext		De Gruyter	serial								
+Neue Zeitschrift für Systematische Theologie und Religionsphilosophie	0028-3517	1612-9520	1959	1		2015	57		nzst		nzst		fulltext		Walter de Gruyter, Berlin / New York	serial								
+Orientalistische Literaturzeitung	0030-5383	2196-6877	1898	1		2015	110		olzg		olzg		fulltext		AKADEMIE VERLAG	serial								
+Österreichische Musikzeitschrift	0029-9316	2307-2970	1946	1		2014	69		omz		omz		fulltext		Böhlau Verlag GmbH & Co.KG	serial								
+Pure and Applied Chemistry	0033-4545	1365-3075	1960	1		2015	87		pac		pac		fulltext		De Gruyter	serial								
+Paragrana	0938-0116	2196-6885	2008	17		2015	24		para		para		fulltext		Akademie Verlag GmbH	serial								
+Preservation, Digital Technology & Culture	2195-2957	2195-2965	2013	42		2015	44		pdtc		pdtc		fulltext		De Gruyter	serial								
+Peace Economics, Peace Science and Public Policy	1079-2457	1554-8597	1993	1		2015	21		peps		peps		fulltext		De Gruyter	serial								
+Journal for Perspectives of Economic Political and Social Integration	1733-3911		2010	16		2015	21		pepsi		pepsi		fulltext		De Gruyter Open	serial								
+Philologus - Zeitschrift für antike Literatur und ihre Rezeption	0031-7985	2196-7008	1846	1		2015	159		phil		phil		fulltext		AKADEMIE VERLAG	serial								
+PIK - Praxis der Informationsverarbeitung und Kommunikation	0930-5157	1865-8342	1986	1		2015	38		piko		piko		fulltext		Walter de Gruyter GmbH & Co. KG	serial								
+Das Rechenzentrum	0343-317X		1978	1		1985	8		piko		piko.1		fulltext		Walter de Gruyter, Berlin / New York	serial								
+Photonics & Lasers in Medicine	2193-0635	2193-0643	2012	1		2015	4		plm		plm		fulltext		De Gruyter	serial								
+Pólemos	2035-5262	2036-4601	2012	6		2015	9		pol		pol		fulltext		De Gruyter	serial								
+Journal of Polymer Engineering	0334-6447	2191-0340	1984	4		2015	35		polyeng		polyeng		fulltext		De Gruyter	serial								
+POP	2194-6981	2198-0322	2012	1		2015	4		pop		pop		fulltext		transcript Verlag	serial								
+Probus	0921-4771	1613-4079	1989	1		2015	27		prbs		prbs		fulltext		Walter de Gruyter, Berlin / New York	serial								
+Praehistorische Zeitschrift	0079-4848	1613-0804	1909	1		2015	90		prhz		prhz		fulltext		Walter de Gruyter, Berlin / New York	serial								
+Praktische Theologie	0946-3518	2198-0462	1966	1		2015	50		prth		prth		fulltext		Gütersloher Verlagshaus	serial								
+Poznań Studies in Contemporary Linguistics	0137-2459	1897-7499	2007	43		2015	51		psicl		psicl		fulltext		Versita	serial								
+Pteridines	0933-4807	2195-4720	1989	1		2015	26		pteridines		pteridines		fulltext		De Gruyter	serial								
+Public Health Forum	0944-5587	1876-4851	1993	1		2015	23		pubhef		pubhef		fulltext		De Gruyter	serial								
+Perspektiven der Wirtschaftspolitik	1465-6493	1468-2516	2000	1		2015	16		pwp		pwp		fulltext		De Gruyter	serial								
+Quellen und Forschungen aus italienischen Archiven und Bibliotheken	0079-9068	1865-8865	2009	88		2015	94		qfiab		qfiab		fulltext		De Gruyter	serial								
+Radiochimica Acta	0033-8230	2193-3405	1962	1		2015	103		ract		ract		fulltext		OLDENBOURG WISSENSCHAFTSVERLAG	serial								
+Restoration of Buildings and Monuments	1864-7251	1864-7022	1995	1		2015	21		rbm		rbm		fulltext		De Gruyter	serial								
+Restaurator	0034-5806	1865-8431	1970	1		2015	36		rest		rest		fulltext		Walter de Gruyter, Berlin / New York	serial								
+Reviews in Analytical Chemistry	0793-0135	2191-0189	1980	4		2015	34		revac		revac		fulltext		De Gruyter	serial								
+Reviews in Chemical Engineering	0167-8299	2191-0235	1982	1		2015	31		revce		revce		fulltext		De Gruyter	serial								
+Reviews on Environmental Health	0048-7554	2191-0308	1986	6		2015	30		reveh		reveh		fulltext		De Gruyter	serial								
+Reviews in Inorganic Chemistry	0193-4929	2191-0227	1985	7		2015	35		revic		revic		fulltext		De Gruyter	serial								
+Reviews in the Neurosciences	0334-1763	2191-0200	1987	1		2015	26		revneuro		revneuro		fulltext		De Gruyter	serial								
+Rhetorik	0720-5775	1865-9160	1980	1		2015	34		rhet		rhet		fulltext		Walter de Gruyter	serial								
+Rhizomata	2196-5102	2196-5110	2013	1		2015	3		rhiz		rhiz		fulltext		De Gruyter	serial								
+Review of Law & Economics	2194-6000	1555-5879	2005	1		2015	11		rle		rle		fulltext		De Gruyter	serial								
+Review of Middle East Economics and Finance	1475-3685	1475-3693	2003	1		2015	11		rmeef		rmeef		fulltext		De Gruyter	serial								
+Russian Journal of Numerical Analysis and Mathematical Modelling	0927-6467	1569-3988	1986	1		2015	30		rnam		rnam		fulltext		Walter de Gruyter, Berlin / New York	serial								
+Review of Network Economics	2194-5993	1446-9022	2002	1		2015	14		rne		rne		fulltext		De Gruyter	serial								
+Romanistisches Jahrbuch	0080-3898	1613-0413	1948	1		2015	65		roma		roma		fulltext		De Gruyter	serial								
+Romanische Bibliographie	0080-388X	1865-9055	2007			2015			romb		romb		fulltext		De Gruyter	serial								
+Review of Marketing Science	2194-5985	1546-5616	2003	1		2015	13		roms		roms		fulltext		De Gruyter	serial								
+Random Operators and Stochastic Equations	0926-6364	1569-397X	1993	1		2015	23		rose		rose		fulltext		Walter de Gruyter, Berlin / New York	serial								
+ReiseRechts aktuell	0944-7490	2193-9535	1993	1		2015	23		rra		rra		fulltext		sellier european law publishers	serial								
+Saeculum	0080-5319	2194-4075	1950	1		2015	65		saeculum		saeculum		fulltext		Böhlau Verlag GmbH & CIE.	serial								
+Statistical Applications in Genetics and Molecular Biology	2194-6302	1544-6115	2002	1		2015	14		sagmb		sagmb		fulltext		De Gruyter	serial								
+SATS	1600-1974	1869-7577	2000	1		2015	16		sats		sats		fulltext		Walter de Gruyter GmbH & Co. KG	serial								
+Statistical Communications in Infectious Diseases	2194-6310	1948-4690	2009	1		2013	5		scid		scid		fulltext		De Gruyter	serial								
+Scientia Poetica	1431-5041	1868-9418	2010	14		2015	19		scipo		scipo		fulltext		De Gruyter	serial								
+Science and Engineering of Composite Materials	0792-1233	2191-0359	1988	1		2015	22		secm		secm		fulltext		De Gruyter	serial								
+Studies in Ethics, Law, and Technology		1941-6008	2007	1		2013	7		selt		selt		fulltext		De Gruyter	serial								
+Semiotica	0037-1998	1613-3692	1969			2015			semi		semi		fulltext		Walter de Gruyter, Berlin / New York	serial								
+Zeitschrift für Slawistik	0044-3506	2196-7016	1956	1		2015	60		slaw		slaw		fulltext		AKADEMIE VERLAG	serial								
+Studies in Nonlinear Dynamics & Econometrics	1081-1826	1558-3708	1996	1		2015	19		snde		snde		fulltext		De Gruyter	serial								
+Sociolinguistica	0933-1883	1865-939X	1987	1		2015	28		soci		soci		fulltext		De Gruyter	serial								
+Statistics, Politics, and Policy	2194-6299	2151-7509	2010	1		2015	6		spp		spp		fulltext		De Gruyter	serial								
+Soziologische Revue	0343-4109	2196-7024	1978	1		2015	38		srsr		srsr		fulltext		OLDENBOURG WISSENSCHAFTSVERLAG	serial								
+Statistics & Risk Modeling	2193-1402	2196-7040	1982	1		2015	32		strm		strm		fulltext		OLDENBOURG WISSENSCHAFTSVERLAG	serial								
+STUF - Language Typology and Universals	1867-8319	2196-7148	1948	1		2015	68		stuf		stuf		fulltext		AKADEMIE VERLAG	serial								
+Strategie und Sicherheit	2227-7668	2304-4845	2010			2015			sus		sus		fulltext		Böhlau Verlag GmbH & Co.KG	serial								
+Trends in Classics	1866-7473	1866-7481	2009	1		2015	7		tcs		tcs		fulltext		De Gruyter	serial								
+tm - Technisches Messen	0171-8096	2196-7113	1931	1		2015	525		teme		teme		fulltext		OLDENBOURG WISSENSCHAFTSVERLAG	serial								
+Text & Talk	1860-7330	1860-7349	2001	21		2015	35		text		text		fulltext		Walter de Gruyter GmbH & Co. KG	serial								
+Text - Interdisciplinary Journal for the Study of Discourse	0165-4888	1613-4117	1981	1		2001	21		text		text.1		fulltext		Walter de Gruyter, Berlin / New York	serial								
+Theoretical Linguistics	0301-4428	1613-4060	1974	1		2015	41		thli		thli		fulltext		Walter de Gruyter, Berlin / New York	serial								
+Theoretical Inquiries in Law		1565-3404	2001	1		2015	16		til		til		fulltext		De Gruyter	serial								
+International Yearbook for Tillich Research	1990-4231	2190-7455	2011	6		2015	10		tillich		tillich		fulltext		De Gruyter	serial								
+International Journal of Turbo and Jet Engines	0334-0082	2191-0332	1985	2		2015	32		tjj		tjj		fulltext		De Gruyter	serial								
+The Linguistic Review	0167-6318	1613-3676	1981	1		2015	32		tlir		tlir		fulltext		Walter de Gruyter, Berlin / New York	serial								
+Umsatzsteuer-Rundschau	0341-8669	2194-4180	2005	54		2015	64		ur		ur		fulltext		Verlag Dr. Otto Schmidt	serial								
+Verkündigung und Forschung	0342-2410	2198-0454	1940	1		2015	60		vf		vf		fulltext		Gütersloher Verlagshaus	serial								
+Vierteljahrshefte für Zeitgeschichte	0042-5702	2196-7121	2005	53		2015	63		vfzg		vfzg		fulltext		Oldenbourg Wissenschaftsverlag GmbH	serial								
+Wittgenstein-Studien	1868-7431	1868-7458	2010	1		2015	6		wgst		wgst		fulltext		De Gruyter	serial								
+Wiener Jahrbuch für Kunstgeschichte	0083-9981	2307-2962 	1923	2		2015	63		wjk		wjk		fulltext		Böhlau Verlag GmbH & Co.KG	serial								
+World Political Science	2363-4774	2363-4782	2006	1		2015	11		wps		wps		fulltext		De Gruyter	serial								
+Yearbook for European Jewish Literature Studies	2196-6249	2196-6257	2014	1		2015	2		yejls		yejls		fulltext		De Gruyter	serial								
+Yearbook of Phraseology	1868-632X	1868-6338	2010			2015			yop		yop		fulltext		De Gruyter	serial								
+Zeitschrift für Anglistik und Amerikanistik		2196-4726	2004	52		2015	63		zaa		zaa		fulltext		De Gruyter	serial								
+Zeitschrift für Antikes Christentum	0949-9571	1612-961X	1997	1		2015	19		zach		zach		fulltext		Walter de Gruyter GmbH & Co. KG	serial								
+Zeitschrift für Ägyptische Sprache	0044-216X	2196-713X	1863	1		2015	141		zaes		zaes		fulltext		AKADEMIE VERLAG	serial								
+Zeitschrift für die Alttestamentliche Wissenschaft	0044-2526	1613-0103	1881	1		2015	127		zatw		zatw		fulltext		Walter de Gruyter, Berlin / New York	serial								
+Zeitschrift für Assyriologie und Vorderasiatische Archäologie	0084-5299	1613-1150	1886	1		2015	105		zava		zava		fulltext		Walter de Gruyter, Berlin / New York	serial								
+Zeitschrift für celtische Philologie (ZcP)	0084-5302	1865-889X	1897	1		2015	62		zcph		zcph		fulltext		Walter de Gruyter, Berlin / New York	serial								
+Zeitschrift für Evangelische Ethik	0044-2674	2197-912X	1957	1		2015	59		zee		zee		fulltext		Gütersloher Verlagshaus	serial								
+Zeitschrift für angewandte Linguistik	1433-9889	2190-0191	2010			2015			zfal		zfal		fulltext		De Gruyter Mouton	serial								
+Zeitschrift für Germanistische Linguistik	0301-3294	1613-0626	1973	1		2015	43		zfgl		zfgl		fulltext		Walter de Gruyter, Berlin / New York	serial								
+Zeitschrift für Kulturwissenschaft	2197-9103	2197-9111	2011	5		2015	9		zfk		zfk		fulltext		transcript Verlag	serial								
+Zeitschrift für Religionswissenschaft	0943-8610	2194-508X	1993	1		2015	23		zfr		zfr		fulltext		De Gruyter	serial								
+Zeitschrift für Sprachwissenschaft	0721-9067	1613-3706	1982	1		2015	57		zfsw		zfsw		fulltext		Walter de Gruyter, Berlin / New York	serial								
+Zeitschrift für Unternehmens- und Gesellschaftsrecht	0340-2479	1612-7048	1972	1		2015	44		zgre		zgre		fulltext		Walter de Gruyter, Berlin / New York	serial								
+Zeitschrift für interkulturelle Germanistik		2198-0330	2010	1		2015	6		zig		zig		fulltext		transcript Verlag	serial								
+Zeitschrift für Konfliktmanagement	1439-2127	2194-4210	2005	8		2015	18		zkm		zkm		fulltext		Verlag Dr. Otto Schmidt	serial								
+Zeitschrift für Kristallographie - Crystalline Materials	2194-4946	2196-7105	1877	1		2015	230		zkri		zkri		fulltext		De Gruyter Oldenbourg	serial								
+Zeitschrift für kritische Sozialtheorie und Philosophie	2194-5632	2194-5640	2014	1		2015	2		zksp		zksp		fulltext		De Gruyter	serial								
+Zeitschrift für Neuere Theologiegeschichte / Journal for the History of Modern Theology	0943-7592	1612-9776	1994	1		2015	22		znth		znth		fulltext		Walter de Gruyter, Berlin / New York	serial								
+Zeitschrift für die Neutestamentliche Wissenschaft und die Kunde der Älteren Kirche	0044-2615	1613-009X	1900	1		2015	106		zntw		zntw		fulltext		Walter de Gruyter, Berlin / New York	serial								
+Zeitschrift für Physikalische Chemie	0942-9352	2196-7156	1954			2015			zpch		zpch		fulltext		R. Oldenbourg Verlag	serial								
+Zeitschrift der Savigny-Stiftung für Rechtsgeschichte. Germanistische Abteilung	0323-4045	2304-4861	1861	1		2015	132		zrgga		zrgga		fulltext		Böhlau Verlag GmbH & Co.KG	serial								
+Zeitschrift der Savigny-Stiftung für Rechtsgeschichte. Kanonistische Abteilung	0323-4142	2304-4896	1911	1		2015	101		zrgka		zrgka		fulltext		Böhlau Verlag GmbH & Co.KG	serial								
+Zeitschrift der Savigny-Stiftung für Rechtsgeschichte. Romanistische Abteilung	0323-4096	2304-4934	1880	1		2015	132		zrgra		zrgra		fulltext		Böhlau Verlag GmbH & Co.KG	serial								
+Zeitschrift für romanische Philologie (ZrP)	0049-8661	1865-9063	1877	1		2015	131		zrph		zrph		fulltext		Walter de Gruyter, Berlin / New York	serial								
+Zeitschrift für die gesamte Strafrechtswissenschaft	0084-5310	1612-703X	1881	1		2015	127		zstw		zstw		fulltext		Walter de Gruyter, Berlin / New York	serial								
