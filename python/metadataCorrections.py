@@ -15,14 +15,31 @@ cambridge_correct_start_year={
     "jfp" : 1991,
     "jse" : 1977,
     "qre" : 1994,
-    "rms" : 1967
+    "rms" : 1967,
+    "acl" : 2013,
+    "dem" : 2015,
+    "jom" : 2008,
+    "jpa" : 2015,
+    "mag" : 2015,
+    "nsy" : 2006,
+    "pab" : 2015,
+    "tam" : 2009
+
 }
 
 cambridge_correct_start_volume={
     "cha" : 1,
     "jse" : 1,
     "qre" : 1,
-    "rms" : 1
+    "rms" : 1,
+    "acl" : 8,
+    "dem" : 81,
+    "jom" : 24,
+    "jpa" : 89,
+    "mag" : 99,
+    "nsy" : 36,
+    "pab" : 38,
+    "tam" : 66
 }
 
 cambridge_correct_end_year={

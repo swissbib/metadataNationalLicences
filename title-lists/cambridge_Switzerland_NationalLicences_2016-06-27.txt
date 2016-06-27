@@ -368,4 +368,22 @@ Tempo	0040-2982	1478-2286	1939	57		2015	69		http://journals.cambridge.org/action
 Transactions of the Faculty of Actuaries	0071-3686		1903	1		1992	44		http://journals.cambridge.org/action/displayJournal?jid=tfa		tfa		fulltext		Cambridge University Press	serial								
 International Journal of Technology Assessment in Health Care	0266-4623	1471-6348	1985	1		2015	31		http://journals.cambridge.org/action/displayJournal?jid=thc		thc		fulltext		Cambridge University Press	serial								
 Twin Research and Human Genetics	1832-4274	1839-2628	1998	1		2015	18		http://journals.cambridge.org/action/displayJournal?jid=thg		thg		fulltext		Cambridge University Press	serial								
-Think	1477-1756	1755-1196	2002	1		2015	14		http://journals.cambridge
+Think	1477-1756	1755-1196	2002	1		2015	14		http://journals.cambridge.org/action/displayJournal?jid=thi		thi		fulltext		Cambridge University Press	serial								
+Theory and Practice of Logic Programming	1471-0684	1475-3081	2001	1		2015	15		http://journals.cambridge.org/action/displayJournal?jid=tlp		tlp		fulltext		Cambridge University Press	serial								
+Numerical Mathematics: Theory, Methods and Applications	1004-8979	2079-7338	2011	4		2015	8		http://journals.cambridge.org/action/displayJournal?jid=tma		tma		fulltext		Cambridge University Press	serial								
+Transactions of the Royal Asiatic Society of Great Britain and Ireland	0950-4737		1827	1		1834	3		http://journals.cambridge.org/action/displayJournal?jid=tra		tra		fulltext		Cambridge University Press	serial								
+Transactions of the Royal Society of Edinburgh	0080-4568	1473-7116	1788	1		2015	106		http://journals.cambridge.org/action/displayJournal?jid=tre		tre		fulltext		Royal Society of Edinburgh Scotland Foundation	serial								
+Theatre Research International	0307-8833	1474-0672	1975	1		2015	40		http://journals.cambridge.org/action/displayJournal?jid=tri		tri		fulltext		Cambridge University Press	serial								
+TRaNS: Trans -Regional and -National Studies of Southeast Asia	2051-364X	2051-3658	2013	1		2015	3		http://journals.cambridge.org/action/displayJournal?jid=trn		trn		fulltext		Cambridge University Press	serial								
+Journal of Tropical Ecology	0266-4674	1469-7831	1985	1		2015	31		http://journals.cambridge.org/action/displayJournal?jid=tro		tro		fulltext		Cambridge University Press	serial								
+Theatre Survey	0040-5574	1475-4533	1960	1		2015	56		http://journals.cambridge.org/action/displayJournal?jid=tsy		tsy		fulltext		Cambridge University Press	serial								
+Urban History	0963-9268	1469-8706	1974	1		2015	42		http://journals.cambridge.org/action/displayJournal?jid=uhy		uhy		fulltext		Cambridge University Press	serial								
+Utilitas	0953-8208	1741-6183	1989	1		2015	27		http://journals.cambridge.org/action/displayJournal?jid=uti		uti		fulltext		Cambridge University Press	serial								
+Victorian Literature and Culture	1060-1503	1470-1553	1973	1		2015	43		http://journals.cambridge.org/action/displayJournal?jid=vlc		vlc		fulltext		Cambridge University Press	serial								
+Visual Neuroscience	0952-5238	1469-8714	1988	1		2015	32		http://journals.cambridge.org/action/displayJournal?jid=vns		vns		fulltext		Cambridge University Press	serial								
+World Politics	0043-8871	1086-3338	1948	1		2015	67		http://journals.cambridge.org/action/displayJournal?jid=wpo		wpo		fulltext		Cambridge University Press	serial								
+World's Poultry Science Journal	0043-9339	1743-4777	1945	1		2015	71		http://journals.cambridge.org/action/displayJournal?jid=wps		wps		fulltext		Cambridge University Press	serial								
+Wireless Power Transfer		2052-8418	2014	1		2015	2		http://journals.cambridge.org/action/displayJournal?jid=wpt		wpt		fulltext		Cambridge University Press	serial								
+World Trade Review	1474-7456	1475-3138	2002	1		2015	14		http://journals.cambridge.org/action/displayJournal?jid=wtr		wtr		fulltext		Cambridge University Press	serial								
+Journal of Experimental Political Science	2052-2630	2052-2649	2014	1		2015	2		http://journals.cambridge.org/action/displayJournal?jid=xps		xps		fulltext		Cambridge University Press	serial								
+Zygote	0967-1994	1469-8730	1993	1		2015	23		http://journals.cambridge.org/action/displayJournal?jid=zyg		zyg		fulltext		Cambridge University Press	serial								

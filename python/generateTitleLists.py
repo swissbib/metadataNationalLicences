@@ -6,6 +6,7 @@ import datetime
 import json
 from elasticsearch import Elasticsearch
 import re
+from shutil import copyfile
 
 import locale
 locale.setlocale(locale.LC_ALL, '')
@@ -23,7 +24,7 @@ import metadataCorrections
 # - a csv title list with more fields to analyze the coverage of the metadata
 
 es = Elasticsearch()
-targetDirectoryCSV = "/home/lionel/Documents/mycloud/swissbib/git_repo/documentation/public/csv/"
+targetDirectoryCSV = "../title-lists/"
 
 # elasticsearch request
 request = {
@@ -583,7 +584,14 @@ for publisher in ["gruyter", "oxford", "cambridge"]:
                 ""  #"access_type"
             ])
 
+    # to be able to see changes in title lists directly on github and to ease downloads, the latest version is copied
+    # in a file with "latest" at the end instead of the date
 
+    filename_kbart_latest=targetDirectoryCSV+publisher+"_Switzerland_NationalLicences_"+"latest"+".txt"
+    copyfile(filename_kbart,filename_kbart_latest)
+
+    filename_public_title_list_latest=targetDirectoryCSV+publisher+"_title_list_"+"latest"+".csv"
+    copyfile(filename_public_title_list, filename_public_title_list_latest)
 
 
 
