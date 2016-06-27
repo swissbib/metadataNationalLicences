@@ -1,0 +1,389 @@
+publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	notes	publisher_name	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id	access_type
+Journal of Agricultural and Applied Economics	1074-0708		1969	1		2015	47		aae		aae		fulltext		Cambridge University Press	serial								
+Advances in Applied Mathematics and Mechanics	2070-0733	2075-1354	2011	3		2015	8		aam		aam		fulltext		Cambridge University Press	serial								
+Annals of Actuarial Science	1748-4995	1748-5002	2006	1		2015	9		aas		aas		fulltext		Cambridge University Press	serial								
+Advances in Animal Biosciences	2040-4700	2040-4719	2010	1		2015	6		abs		abs		fulltext		Cambridge University Press	serial								
+Archaeologia	0261-3409		1770	1		1992	110		ach		ach		fulltext		Cambridge University Press	serial								
+Asian Journal of Comparative Law	2194-6078	1932-0205	2006	1		2015	10		acl		acl		fulltext		Cambridge University Press	serial								
+Australian Journal of Environmental Education	0814-0626	2049-775X	1984	1		2015	31		aee		aee		fulltext		Cambridge University Press	serial								
+The Journal of African History	0021-8537	1469-5138	1960	1		2015	56		afh		afh		fulltext		Cambridge University Press	serial								
+Africa	0001-9720	1750-0184	1928	1		2015	85		afr		afr		fulltext		Cambridge University Press	serial								
+Animal Genetic Resources Information	1014-2339	2076-4022	1983	1		2015	57		agr		agr		fulltext		Cambridge University Press	serial								
+The Journal of Agricultural Science	0021-8596	1469-5146	1905	1		2015	153		ags		ags		fulltext		Cambridge University Press	serial								
+Animal Health Research Reviews	1466-2523	1475-2654	2000	1		2015	16		ahr		ahr		fulltext		Cambridge University Press	serial								
+Austrian History Yearbook	0067-2378	1558-5255	1965	1		2015	46		ahy		ahy		fulltext		Cambridge University Press	serial								
+Artificial Intelligence for Engineering Design, Analysis and Manufacturing	0890-0604	1469-1760	1987	1		2015	29		aie		aie		fulltext		Cambridge University Press	serial								
+American Journal of Alternative Agriculture	0889-1893	1478-5498	1986	1		2003	18		aja		aja		fulltext		Cambridge University Press	serial								
+Asian Journal of International Law	2044-2513	2044-2521	2011	1		2015	5		ajl		ajl		fulltext		Cambridge University Press	serial								
+AJS Review	0364-0094	1475-4541	1976	1		2015	39		ajs		ajs		fulltext		Cambridge University Press	serial								
+Albion	0095-1390	2326-1242	1969	1		2005	36		alb		alb		fulltext		Cambridge University Press	serial								
+Asian Journal of Law and Society	2052-9015	2052-9023	2014	1		2015	2		als		als		fulltext		Cambridge University Press	serial								
+Acta geneticae medicae et gemellologiae	1120-9623		1952	1		1998	47		amg		amg		fulltext		Cambridge University Press	serial								
+Journal of American Studies	0021-8758	1469-5154	1967	1		2015	49		ams		ams		fulltext		Cambridge University Press	serial								
+Anatolian Studies	0066-1546	2048-0849	1951	1		2015	65		ank		ank		fulltext		Cambridge University Press	serial								
+animal	1751-7311	1751-732X	2007	1		2015	9		anm		anm		fulltext		Cambridge University Press	serial								
+Antichthon	0066-4774	2056-8819	1967	1		2015	49		ann		ann		fulltext		Cambridge University Press	serial								
+Antarctic Science	0954-1020	1365-2079	1989	1		2015	27		ans		ans		fulltext		Cambridge University Press	serial								
+The Antiquaries Journal	0003-5815	1758-5309	1921	1		2015	95		ant		ant		fulltext		Cambridge University Press	serial								
+Acta Numerica	0962-4929	1474-0508	1992	1		2015	24		anu		anu		fulltext		Cambridge University Press	serial								
+The Journal of the Australian Mathematical Society. Series B. Applied Mathematics	0334-2700	1446-8735	1975	19		2015	57		anz		anz		fulltext		Cambridge University Press	serial								
+Journal of the American Philosophical Association	2053-4477	2053-4485	2015	1		2015	1		apa		apa		fulltext		Cambridge University Press	serial								
+Annual Review of Applied Linguistics	0267-1905	1471-6356	1980	1		2015	35		apl		apl		fulltext		Cambridge University Press	serial								
+Applied Psycholinguistics	0142-7164	1469-1817	1980	1		2015	36		aps		aps		fulltext		Cambridge University Press	serial								
+Antiquity	0003-598X	1745-1744	1927	1		2015	89		aqy		aqy		fulltext		Cambridge University Press	serial								
+Archaeological Dialogues	1380-2038	1478-2294	1994	1		2015	22		ard		ard		fulltext		Cambridge University Press	serial								
+Archaeological Reports	0570-6084	2041-4102	1955	1		2015	61		are		are		fulltext		Cambridge University Press	serial								
+British Journal of Anaesthetic and Recovery Nursing	1742-6456	1744-2192	2000	1		2013	14		arn		arn		fulltext		Cambridge University Press	serial								
+Architectural Research Quarterly	1359-1355	1474-0516	1995	1		2015	19		arq		arq		fulltext		Cambridge University Press	serial								
+ASTIN Bulletin	0515-0361	1783-1350	1958	1		2015	45		asb		asb		fulltext		Cambridge University Press	serial								
+Animal Production	0003-3561	1748-748X	1959	1		2006	82		asc		asc		fulltext		Cambridge University Press	serial								
+Anglo-Saxon England	0263-6751	1474-0532	1972	1		2014	43		ase		ase		fulltext		Cambridge University Press	serial								
+International Journal of Asian Studies	1479-5914	1479-5922	2004	1		2015	12		asi		asi		fulltext		Cambridge University Press	serial								
+Ageing and Society	0144-686X	1469-1779	1981	1		2015	35		aso		aso		fulltext		Cambridge University Press	serial								
+Arabic Sciences and Philosophy	0957-4239	1474-0524	1991	1		2015	25		asp		asp		fulltext		Cambridge University Press	serial								
+African Studies Review	0002-0206	1555-2462	1962	5		2015	58		asr		asr		fulltext		Cambridge University Press	serial								
+Modern Asian Studies	0026-749X	1469-8099	1967	1		2015	49		ass		ass		fulltext		Cambridge University Press	serial								
+Journal of Anglican Studies	1740-3553	1745-5278	2003	1		2015	13		ast		ast		fulltext		Cambridge University Press	serial								
+The Annual of the British School at Athens	0068-2454	2045-2403	1894	1		2015	110		ath		ath		fulltext		Cambridge University Press	serial								
+Ancient Mesoamerica	0956-5361	1469-1787	1990	1		2015	26		atm		atm		fulltext		Cambridge University Press	serial								
+British Actuarial Journal	1357-3217	2044-0456	1995	1		2015	20		baj		baj		fulltext		Cambridge University Press	serial								
+Bulletin of the Australian Mathematical Society	0004-9727	1755-1633	1969	1		2015	92		baz		baz		fulltext		Cambridge University Press	serial								
+Bulletin of the British Society for the History of Science	0950-5636		1949	1		1961	2		bbh		bbh		fulltext		Cambridge University Press	serial								
+Behavioral and Brain Sciences	0140-525X	1469-1825	1978	1		2015	38		bbs		bbs		fulltext		Cambridge University Press	serial								
+Journal of Benefit-Cost Analysis	2194-5888	2152-2812	2010	1		2015	6		bca		bca		fulltext		Cambridge University Press	serial								
+Recusant History	0034-1932		1957	4		2015	32		bch		bch		fulltext		Cambridge University Press	serial								
+Bird Conservation International	0959-2709	1474-0001	1991	1		2015	25		bci		bci		fulltext		Cambridge University Press	serial								
+Behavioural and Cognitive Psychotherapy	1352-4658	1469-1833	1975	3		2015	43		bcp		bcp		fulltext		Cambridge University Press	serial								
+Behaviour Change	0813-4839	2049-7768	1984	1		2015	32		bec		bec		fulltext		Cambridge University Press	serial								
+Business Ethics Quarterly	1052-150X	2153-3326	1991	1		2015	25		beq		beq		fulltext		Cambridge University Press	serial								
+Bulletin of Entomological Research	0007-4853	1475-2670	1910	1		2015	105		ber		ber		fulltext		Cambridge University Press	serial								
+Bulletin of entomological research supplement series	1367-4269		1993	1		1995	3		bes		bes		fulltext		Cambridge University Press	serial								
+Business History Review	0007-6805	2044-768X	1926	1		2015	89		bhr		bhr		fulltext		Cambridge University Press	serial								
+Bilingualism: Language and Cognition	1366-7289	1469-1841	1998	1		2015	18		bil		bil		fulltext		Cambridge University Press	serial								
+Brain Impairment	1443-9646	1839-5252	2000	1		2015	16		bim		bim		fulltext		Cambridge University Press	serial								
+The British Journal for the History of Science	0007-0874	1474-001X	1962	1		2015	48		bjh		bjh		fulltext		Cambridge University Press	serial								
+British Journal of Nutrition	0007-1145	1475-2662	1947	1		2015	114		bjn		bjn		fulltext		Cambridge University Press	serial								
+British Journal of Music Education	0265-0517	1469-2104	1984	1		2015	32		bme		bme		fulltext		Cambridge University Press	serial								
+Bulletin of the British Association for American Studies	0524-5001		1956	1		1966	12		bms		bms		fulltext		Cambridge University Press	serial								
+Bulletin International des Societes de la Croix-Rouge	1816-9686		1869	1		1918	49		brc		brc		fulltext		Cambridge University Press	serial								
+Britannia	0068-113X	1753-5352	1970	1		2015	46		bri		bri		fulltext		Cambridge University Press	serial								
+Bulletin of the International Institute of Social History	0921-254X		1937	1		1955	10		bsh		bsh		fulltext		Cambridge University Press	serial								
+Bulletin of Symbolic Logic	1079-8986	1943-5894	1995	1		2015	21		bsl		bsl		fulltext		Cambridge University Press	serial								
+Bulletin of the School of Oriental and African Studies	0041-977X	1474-0699	1917	1		2015	78		bso		bso		fulltext		Cambridge University Press	serial								
+Cambridge Archaeological Journal	0959-7743	1474-0540	1991	1		2015	25		caj		caj		fulltext		Cambridge University Press	serial								
+The Classical Quarterly	0009-8388	1471-6844	1907	1		2015	65		caq		caq		fulltext		Cambridge University Press	serial								
+The Classical Review	0009-840X	1464-3561	1887	1		2015	65		car		car		fulltext		Cambridge University Press	serial								
+The Cognitive Behaviour Therapist		1754-470X	2008	1		2015	8		cbt		cbt		fulltext		Cambridge University Press	serial								
+Central European History	0008-9389	1569-1616	1968	1		2015	48		ccc		ccc		fulltext		Cambridge University Press	serial								
+Proceedings of the Cambridge Philological Society	0068-6735	2047-993X	1882	1		2015	180		ccj		ccj		fulltext		Cambridge University Press	serial								
+Contemporary European History	0960-7773	1469-2171	1992	1		2015	24		ceh		ceh		fulltext		Cambridge University Press	serial								
+Cambridge Yearbook of European Legal Studies	1528-8870	2049-7636	1998	1		2015	17		cel		cel		fulltext		Cambridge University Press	serial								
+Children Australia	1035-0772	2049-7776	1976	1		2015	40		cha		cha		fulltext		Cambridge University Press	serial								
+Church History: Studies in Christianity and Culture	0009-6407	1755-2613	1932	1		2015	84		chh		chh		fulltext		Cambridge University Press	serial								
+Cambridge Historical Journal	1474-6913		1923	1		1957	13		chj		chj		fulltext		Cambridge University Press	serial								
+Canadian Journal of Economics and Political Science/Revue canadienne de economiques et science politique	0315-4890		1935	1		1967	33		cje		cje		fulltext		Cambridge University Press	serial								
+Canadian Journal on Aging / La Revue canadienne du vieillissement	0714-9808	1710-1107	1982	1		2015	34		cjg		cjg		fulltext		Cambridge University Press	serial								
+The Canadian Journal of Law and Jurisprudence	0841-8209	2056-4260	1988	1		2015	28		cjl		cjl		fulltext		Cambridge University Press	serial								
+Canadian Journal of Neurological Sciences / Journal Canadien des Sciences Neurologiques	0317-1671	2057-0155	1974	1		2015	42		cjn		cjn		fulltext		Cambridge University Press	serial								
+Canadian Journal of Political Science	0008-4239	1744-9324	1968	1		2015	48		cjp		cjp		fulltext		Cambridge University Press	serial								
+The Cambridge Law Journal	0008-1973	1469-2139	1921	1		2015	74		clj		clj		fulltext		Cambridge University Press	serial								
+Canadian journal of law and society	0829-3201	1911-0227	1986	1		2015	30		cls		cls		fulltext		Cambridge University Press	serial								
+CNS Spectrums	1092-8529	2165-6509	1996	1		2015	20		cns		cns		fulltext		Cambridge University Press	serial								
+Compositio Mathematica	0010-437X	1570-5846	1997	105		2015	151		com		com		fulltext		London Mathematical Society	serial								
+Continuity and Change	0268-4160	1469-218X	1986	1		2015	30		con		con		fulltext		Cambridge University Press	serial								
+Congress on Research in Dance Conference Proceedings		2049-1255	2007			2015			cor		cor		fulltext		Cambridge University Press	serial								
+Combinatorics, Probability and Computing	0963-5483	1469-2163	1992	1		2015	24		cpc		cpc		fulltext		Cambridge University Press	serial								
+Communications in Computational Physics	1815-2406	1991-7120	2011	9		2015	18		cph		cph		fulltext		Cambridge University Press	serial								
+Cambridge Quarterly of Healthcare Ethics	0963-1801	1469-2147	1992	1		2015	24		cqh		cqh		fulltext		Cambridge University Press	serial								
+The China Quarterly	0305-7410	1468-2648	1960	1		2015	224		cqy		cqy		fulltext		Cambridge University Press	serial								
+Comparative Studies in Society and History	0010-4175	1475-2999	1958	1		2015	57		css		css		fulltext		Cambridge University Press	serial								
+Cardiology in the Young	1047-9511	1467-1107	1991	1		2015	25		cty		cty		fulltext		Cambridge University Press	serial								
+Journal of Dairy Research	0022-0299	1469-7629	1929	1		2015	82		dar		dar		fulltext		Cambridge University Press	serial								
+Du Bois Review: Social Science Research on Race	1742-058X	1742-0598	2004	1		2015	12		dbr		dbr		fulltext		Cambridge University Press	serial								
+Recherches économiques de Louvain	0770-4518	1782-1495	2011	77		2015	81		dem		dem		fulltext		Cambridge University Press	serial								
+Dialogue	0012-2173	1759-0949	1962	1		2015	54		dia		dia		fulltext		Cambridge University Press	serial								
+Disaster Medicine and Public Health Preparedness	1935-7893	1938-744X	2007	1		2015	9		dmp		dmp		fulltext		Cambridge University Press	serial								
+Journal of Developmental Origins of Health and Disease	2040-1744	2040-1752	2009	1		2015	6		doh		doh		fulltext		Cambridge University Press	serial								
+Development and Psychopathology	0954-5794	1469-2198	1989	1		2015	27		dpp		dpp		fulltext		Cambridge University Press	serial								
+Dance Research Journal	0149-7677	1940-509X	1973	6		2015	47		drj		drj		fulltext		Cambridge University Press	serial								
+Design Science		2053-4701	2015	1		2015	1		dsj		dsj		fulltext		Cambridge University Press	serial								
+Early China	0362-5028	2325-2324	1975	1		2015	38		eac		eac		fulltext		Cambridge University Press	serial								
+Experimental Agriculture	0014-4797	1469-4441	1965	1		2015	51		eag		eag		fulltext		Cambridge University Press	serial								
+East Asian Journal on Applied Mathematics	2079-7362	2079-7370	2011	1		2015	5		eam		eam		fulltext		Cambridge University Press	serial								
+Economics and Philosophy	0266-2671	1474-0028	1985	1		2015	31		eap		eap		fulltext		Cambridge University Press	serial								
+The Journal of Ecclesiastical History	0022-0469	1469-7637	1950	1		2015	66		ech		ech		fulltext		Cambridge University Press	serial								
+Eighteenth Century Music	1478-5706	1478-5714	2004	1		2015	12		ecm		ecm		fulltext		Cambridge University Press	serial								
+Econometric Theory	0266-4666	1469-4360	1985	1		2015	31		ect		ect		fulltext		Cambridge University Press	serial								
+Environment and Development Economics	1355-770X	1469-4395	1996	1		2015	20		ede		ede		fulltext		Cambridge University Press	serial								
+The Australian Educational and Developmental Psychologist	0816-5122	1839-2504	1985	2		2015	32		edp		edp		fulltext		Cambridge University Press	serial								
+Ethics & International Affairs	0892-6794	1747-7093	1987	1		2015	29		eia		eia		fulltext		Cambridge University Press	serial								
+Edinburgh Journal of Botany	0960-4286	1474-0036	1990	47		2015	72		ejb		ejb		fulltext		Cambridge University Press	serial								
+European Journal of Applied Mathematics	0956-7925	1469-4425	1990	1		2015	26		ejm		ejm		fulltext		Cambridge University Press	serial								
+Ecclesiastical Law Journal	0956-618X	1751-8539	1987	1		2015	17		elj		elj		fulltext		Cambridge University Press	serial								
+English Language and Linguistics	1360-6743	1469-4379	1997	1		2015	19		ell		ell		fulltext		Cambridge University Press	serial								
+Early Music History	0261-1279	1474-0559	1981	1		2015	34		emh		emh		fulltext		Cambridge University Press	serial								
+Environmental Conservation	0376-8929	1469-4387	1974	1		2015	42		enc		enc		fulltext		Cambridge University Press	serial								
+English Today	0266-0784	1474-0567	1985	1		2015	31		eng		eng		fulltext		Cambridge University Press	serial								
+Environmental Practice	1466-0466	1466-0474	1999	1		2015	17		enp		enp		fulltext		Cambridge University Press	serial								
+Episteme	1742-3600	1750-0117	2004	1		2015	12		epi		epi		fulltext		Cambridge University Press	serial								
+English Profile Journal		2041-5362	2010	1		2013	3		epj		epj		fulltext		Cambridge University Press	serial								
+European Political Science Review	1755-7739	1755-7747	2009	1		2015	7		epr		epr		fulltext		Cambridge University Press	serial								
+Epidemiologia e Psichiatria Sociale	1121-189X	2038-1816	1992	1		2015	24		eps		eps		fulltext		Cambridge University Press	serial								
+Epidemiologia e psichiatria sociale. Monograph Supplement	1827-4331		1997	6		2004	13		epx		epx		fulltext		Cambridge University Press	serial								
+Expert Reviews in Molecular Medicine	1462-3994		1997	1		2015	17		erm		erm		fulltext		Cambridge University Press	serial								
+European Review	1062-7987	1474-0575	1993	1		2015	23		erw		erw		fulltext		Cambridge University Press	serial								
+Enterprise and Society	1467-2227	1467-2235	2000	1		2015	16		eso		eso		fulltext		Cambridge University Press	serial								
+Ergodic Theory and Dynamical Systems	0143-3857	1469-4417	1981	1		2015	35		ets		ets		fulltext		Cambridge University Press	serial								
+European Journal of Sociology	0003-9756	1474-0583	1960	1		2015	56		eur		eur		fulltext		Cambridge University Press	serial								
+Financial History Review	0968-5650	1474-0052	1994	1		2015	22		fhr		fhr		fulltext		Cambridge University Press	serial								
+Journal of Fluid Mechanics	0022-1120	1469-7645	1956	1		2015	785		flm		flm		fulltext		Cambridge University Press	serial								
+Forum of Mathematics, Pi		2050-5086	2013	1		2015	3		fmp		fmp		fulltext		Cambridge University Press	serial								
+Fetal and Maternal Medicine Review	0965-5395	1469-5065	1989	1		2014	25		fmr		fmr		fulltext		Cambridge University Press	serial								
+Forum of Mathematics, Sigma		2050-5094	2013	1		2015	3		fms		fms		fulltext		Cambridge University Press	serial								
+Foreign Policy Bulletin	1052-7036	1745-1302	1990	1		2012	22		fpb		fpb		fulltext		Cambridge University Press	serial								
+Greece and Rome	0017-3835	1477-4550	1931	1		2015	62		gar		gar		fulltext		Cambridge University Press	serial								
+Global Constitutionalism	2045-3817	2045-3825	2012	1		2015	4		gcn		gcn		fulltext		Cambridge University Press	serial								
+Geological Magazine	0016-7568	1469-5081	1864	1		2015	152		geo		geo		fulltext		Cambridge University Press	serial								
+Global Mental Health		2054-4251	2014	1		2015	2		gmh		gmh		fulltext		Cambridge University Press	serial								
+Glasgow Mathematical Journal	0017-0895	1469-509X	1952	1		2015	57		gmj		gmj		fulltext		Cambridge University Press	serial								
+Government and Opposition	0017-257X	1477-7053	1965	1		2015	50		gov		gov		fulltext		Cambridge University Press	serial								
+Genetical Research	0016-6723	1469-5073	1960	1		2015	97		grh		grh		fulltext		Cambridge University Press	serial								
+Health Economics, Policy and Law	1744-1331	1744-134X	2006	1		2015	10		hep		hep		fulltext		Cambridge University Press	serial								
+Journal of the History of Economic Thought	1053-8372	1469-9656	1979	1		2015	37		het		het		fulltext		Cambridge University Press	serial								
+Hegel Bulletin	0263-5232	2051-5375	1980	1		2015	36		hgl		hgl		fulltext		Cambridge University Press	serial								
+History in Africa	0361-5413	1558-2744	1974	1		2015	42		hia		hia		fulltext		Cambridge University Press	serial								
+The Historical Journal	0018-246X	1469-5103	1958	1		2015	58		his		his		fulltext		Cambridge University Press	serial								
+Horizons	0360-9669	2050-8557	1974	1		2015	42		hor		hor		fulltext		Cambridge University Press	serial								
+High Power Laser Science and Engineering	2095-4719	2052-3289	2013	1		2015	3		hpl		hpl		fulltext		Cambridge University Press	serial								
+Harvard Theological Review	0017-8160	1475-4517	1908	1		2015	108		htr		htr		fulltext		Cambridge University Press	serial								
+Epidemiology and Infection	0950-2688	1469-4409	1901	1		2015	143		hyg		hyg		fulltext		Cambridge University Press	serial								
+Proceedings of the International Astronomical Union	1743-9213	1743-9221	2004			2015			iau		iau		fulltext		Cambridge University Press	serial								
+Infection Control & Hospital Epidemiology	0899-823X	1559-6834	1980	1		2015	36		ice		ice		fulltext		Cambridge University Press	serial								
+International Journal of Disability Management	1833-8550	1834-4887	2006	1		2015	10		idm		idm		fulltext		Cambridge University Press	serial								
+Irish Historical Studies	0021-1214	2056-4139	2010	37		2015	39		ihs		ihs		fulltext		Cambridge University Press	serial								
+International Journal of Astrobiology	1473-5504	1475-3006	2002	1		2015	14		ija		ija		fulltext		Cambridge University Press	serial								
+International Journal of Law in Context	1744-5523	1744-5531	2005	1		2015	11		ijc		ijc		fulltext		Cambridge University Press	serial								
+International and Comparative Law Quarterly	0020-5893	1471-6895	1952	1		2015	64		ilq		ilq		fulltext		Cambridge University Press	serial								
+International Labor and Working-Class History	0147-5479	1471-6445	1972	1		2015	88		ilw		ilw		fulltext		Cambridge University Press	serial								
+International Organization	0020-8183	1531-5088	1947	1		2015	69		ino		ino		fulltext		Cambridge University Press	serial								
+Journal of the International Neuropsychological Society	1355-6177	1469-7661	1995	1		2015	21		ins		ins		fulltext		Cambridge University Press	serial								
+International Theory	1752-9719	1752-9727	2009	1		2015	7		int		int		fulltext		Cambridge University Press	serial								
+Industrial and Organizational Psychology	1754-9426	1754-9434	2008	1		2015	8		iop		iop		fulltext		Cambridge University Press	serial								
+Journal of the International Phonetic Association	0025-1003	1475-3502	1971	1		2015	45		ipa		ipa		fulltext		Cambridge University Press	serial								
+International Psychogeriatrics	1041-6102	1741-203X	1989	1		2015	27		ipg		ipg		fulltext		Cambridge University Press	serial								
+Irish Journal of Psychological Medicine	0790-9667	2051-6967	1989	6		2015	32		ipm		ipm		fulltext		Cambridge University Press	serial								
+International Review of Poultry Science	1877-9654		1928	1		1940	13		ips		ips		fulltext		Cambridge University Press	serial								
+Revue Internationale de la Croix-Rouge et Bulletin international des Sociétés de la Croix-Rouge	1026-8812	1607-5889	1919	1		2014	96		irc		irc		fulltext		Cambridge University Press	serial								
+Iraq	0021-0889	2053-4744	1934	1		2015	77		irq		irq		fulltext		Cambridge University Press	serial								
+International Review for Social History	1873-0841		1936	1		1938	4		irs		irs		fulltext		Cambridge University Press	serial								
+International Review of Social History	0020-8590	1469-512X	1956	1		2015	60		ish		ish		fulltext		Cambridge University Press	serial								
+Israel Law Review	0021-2237	2047-9336	1966	1		2015	48		isr		isr		fulltext		Cambridge University Press	serial								
+Itinerario	0165-1153	2041-2827	1977	1		2015	39		iti		iti		fulltext		Cambridge University Press	serial								
+Journal of African Law	0021-8553	1464-3731	1957	1		2015	59		jal		jal		fulltext		Cambridge University Press	serial								
+Journal of Applied Animal Nutrition		2049-257X	2012	1		2015	3		jan		jan		fulltext		Cambridge University Press	serial								
+The Journal of Asian Studies	0021-9118	1752-0401	1941	1		2015	74		jas		jas		fulltext		Cambridge University Press	serial								
+Journal of the Australian Mathematical Society	1446-7887	1446-8107	1959	1		2015	99		jaz		jaz		fulltext		Cambridge University Press	serial								
+The Journal of British Studies	0021-9371	1545-6986	1962	1		2015	54		jbr		jbr		fulltext		Cambridge University Press	serial								
+Journal of Biosocial Science	0021-9320	1469-7599	1969	1		2015	47		jbs		jbs		fulltext		Cambridge University Press	serial								
+Journal of Child Language	0305-0009	1469-7602	1974	1		2015	42		jcl		jcl		fulltext		Cambridge University Press	serial								
+International Journal of Cultural Property	0940-7391	1465-7317	1992	1		2015	22		jcp		jcp		fulltext		Cambridge University Press	serial								
+The Journal of Economic History	0022-0507	1471-6372	1941	1		2015	75		jeh		jeh		fulltext		Cambridge University Press	serial								
+Journal of French Language Studies	0959-2695	1474-0079	1991	1		2015	25		jfl		jfl		fulltext		Cambridge University Press	serial								
+Journal of Functional Programming	0956-7968	1469-7653	1991	1		2015	25		jfp		jfp		fulltext		Cambridge University Press	serial								
+Journal of Financial and Quantitative Analysis	0022-1090	1756-6916	1966	1		2015	50		jfq		jfq		fulltext		Cambridge University Press	serial								
+The Journal of the Gilded Age and Progressive Era	1537-7814	1943-3557	2002	1		2015	14		jga		jga		fulltext		Cambridge University Press	serial								
+Australian Journal of Guidance and Counselling	1037-2911	1839-2520	1991	1		2015	25		jgc		jgc		fulltext		Cambridge University Press	serial								
+Journal of Germanic Linguistics	1470-5427	1475-3014	1989	1		2015	27		jgl		jgl		fulltext		Cambridge University Press	serial								
+Journal of Helminthology	0022-149X	1475-2697	1923	1		2015	89		jhl		jhl		fulltext		Cambridge University Press	serial								
+The Journal of Hellenic Studies	0075-4269	2041-4099	1880	1		2015	135		jhs		jhs		fulltext		Cambridge University Press	serial								
+Journal of the Institute of Actuaries	0020-2681		1974	101		1994	121		jia		jia		fulltext		Cambridge University Press	serial								
+The Aboriginal Child at School	0310-5822	2049-7784	1973	1		2015	44		jie		jie		fulltext		Cambridge University Press	serial								
+Journal of the Staple Inn Actuarial Society	0020-269X		1911	1		1993	33		jis		jis		fulltext		Cambridge University Press	serial								
+Japanese Journal of Political Science	1468-1099	1474-0060	2000	1		2015	16		jjp		jjp		fulltext		Cambridge University Press	serial								
+Journal of Linguistic Geography		2049-7547	2013	1		2015	3		jlg		jlg		fulltext		Cambridge University Press	serial								
+The Journal of Laryngology & Otology	0022-2151	1748-5460	1887	1		2015	129		jlo		jlo		fulltext		Cambridge University Press	serial								
+Journal of Law and Religion	0748-0814	2163-3088	1983	1		2015	30		jlr		jlr		fulltext		Cambridge University Press	serial								
+Journal of the Institute of Mathematics of Jussieu	1474-7480	1475-3030	2002	1		2015	14		jmj		jmj		fulltext		Cambridge University Press	serial								
+Journal of Management & Organization	1833-3672	1839-3527	1995	1		2015	21		jmo		jmo		fulltext		Cambridge University Press	serial								
+Journal of Materials Research	0884-2914	2044-5326	1986	1		2015	30		jmr		jmr		fulltext		Cambridge University Press	serial								
+Journal of Nutritional Science		2048-6790	2012	1		2015	4		jns		jns		fulltext		Cambridge University Press	serial								
+Journal of Institutional Economics	1744-1374	1744-1382	2005	1		2015	11		joi		joi		fulltext		Cambridge University Press	serial								
+Journal of Mechanics	1727-7191	1811-8216	1998	14		2015	31		jom		jom		fulltext		Cambridge University Press	serial								
+Journal of Paleontology	0022-3360	1937-2337	1986	60		2015	89		jpa		jpa		fulltext		Cambridge University Press	serial								
+Journal of Policy History	0898-0306	1528-4190	1989	1		2015	27		jph		jph		fulltext		Cambridge University Press	serial								
+Journal of Psychiatric Intensive Care	1742-6464	1744-2206	2005	1		2015	11		jpi		jpi		fulltext		Cambridge University Press	serial								
+Journal of the Plainsong and Mediaeval Music Society	0143-4918		1978	1		1990	13		jpm		jpm		fulltext		Cambridge University Press	serial								
+British Journal of Political Science	0007-1234	1469-2112	1971	1		2015	45		jps		jps		fulltext		Cambridge University Press	serial								
+Journal of the Royal Asiatic Society of Great Britain & Ireland	0035-869X	1474-0591	1834	1		2015	122		jra		jra		fulltext		Cambridge University Press	serial								
+The Australian Journal of Rehabilitation Counselling	1323-8922	1838-6059	1995	1		2015	21		jrc		jrc		fulltext		Cambridge University Press	serial								
+Journal of Roman Archaeology	1047-7594	2331-5709	1988	1		2015	28		jro		jro		fulltext		Journal of Roman Archaeology L.L.C.	serial								
+Journal of Radiotherapy in Practice	1460-3969	1467-1131	1999	1		2015	15		jrp		jrp		fulltext		Cambridge University Press	serial								
+Journal of Relationships Research		1838-0956	2010	1		2015	6		jrr		jrr		fulltext		Cambridge University Press	serial								
+Journal of Roman Studies	0075-4358	1753-528X	1911	1		2015	105		jrs		jrs		fulltext		Cambridge University Press	serial								
+Journal of Smoking Cessation		1834-2612	2006	1		2015	10		jsc		jsc		fulltext		Cambridge University Press	serial								
+Australasian Journal of Special Education	1030-0112	1833-6914	1977	1		2015	39		jse		jse		fulltext		Cambridge University Press	serial								
+The Journal of Symbolic Logic	0022-4812	1943-5886	1936	1		2015	80		jsl		jsl		fulltext		Cambridge University Press	serial								
+Journal of Social Policy	0047-2794	1740-2948	1972	1		2015	44		jsp		jsp		fulltext		Cambridge University Press	serial								
+International Journal of Tropical Insect Science	1742-7584	1742-7592	1980	1		2015	35		jti		jti		fulltext		Cambridge University Press	serial								
+Journal of Tropical Psychology		1838-9902	2011	1		2015	5		jtp		jtp		fulltext		Cambridge University Press	serial								
+Journal of Wine Economics	1931-4361	1931-437X	2006	1		2015	10		jwe		jwe		fulltext		Cambridge University Press	serial								
+The Knowledge Engineering Review	0269-8889	1469-8005	1984	1		2015	30		ker		ker		fulltext		Cambridge University Press	serial								
+Kantian Review	1369-4154	2044-2394	1997	1		2015	20		krv		krv		fulltext		Cambridge University Press	serial								
+Journal of Latin American Studies	0022-216X	1469-767X	1969	1		2015	47		las		las		fulltext		Cambridge University Press	serial								
+Language and Cognition	1866-9808	1866-9859	2009	1		2015	7		lco		lco		fulltext		Cambridge University Press	serial								
+Legal Theory	1352-3252	1469-8048	1995	1		2015	21		leg		leg		fulltext		Cambridge University Press	serial								
+Law and History Review	0738-2480	1939-9022	1983	1		2015	33		lhr		lhr		fulltext		Cambridge University Press	serial								
+The Lichenologist	0024-2829	1096-1135	1958	1		2015	47		lic		lic		fulltext		Cambridge University Press	serial								
+Legal Information Management	1472-6696	1741-2021	2001	1		2015	15		lim		lim		fulltext		Cambridge University Press	serial								
+Journal of Linguistics	0022-2267	1469-7742	1965	1		2015	51		lin		lin		fulltext		Cambridge University Press	serial								
+Libyan Studies	0263-7189	2052-6148	1970	1		2015	46		lis		lis		fulltext		Cambridge University Press	serial								
+Leiden Journal of International Law	0922-1565	1478-9698	1988	1		2015	28		ljl		ljl		fulltext		Cambridge University Press	serial								
+Laser and Particle Beams	0263-0346	1469-803X	1983	1		2015	33		lpb		lpb		fulltext		Cambridge University Press	serial								
+Language in Society	0047-4045	1469-8013	1972	1		2015	44		lsy		lsy		fulltext		Cambridge University Press	serial								
+Language Teaching	0261-4448	1475-3049	1968	1		2015	48		lta		lta		fulltext		Cambridge University Press	serial								
+Language Variation and Change	0954-3945	1469-8021	1989	1		2015	27		lvc		lvc		fulltext		Cambridge University Press	serial								
+The Mathematical Gazette	0025-5572	2056-6328	2010	94		2015	99		mag		mag		fulltext		Cambridge University Press	serial								
+Microscopy and Microanalysis	1431-9276	1435-8115	1995	1		2015	21		mam		mam		fulltext		Cambridge University Press	serial								
+Mathematical Notes	1757-7489		1909	1		1961	44		man		man		fulltext		Cambridge University Press	serial								
+Journal of the Marine Biological Association of the United Kingdom	0025-3154	1469-7769	1887	1		2015	95		mbi		mbi		fulltext		Cambridge University Press	serial								
+Memoirs of the Entomological Society of Canada	0071-075X		1955	87		1997	129		mce		mce		fulltext		Cambridge University Press	serial								
+Medical History	0025-7273	2048-8343	1957	1		2015	59		mdh		mdh		fulltext		Cambridge University Press	serial								
+Macroeconomic Dynamics	1365-1005	1469-8056	1997	1		2015	19		mdy		mdy		fulltext		Cambridge University Press	serial								
+International Journal of Middle East Studies	0020-7438	1471-6380	1970	1		2015	47		mes		mes		fulltext		Cambridge University Press	serial								
+Modern Intellectual History	1479-2443	1479-2451	2004	1		2015	12		mih		mih		fulltext		Cambridge University Press	serial								
+MRS Internet Journal of Nitride Semiconductor Research	1092-5783		1996	1		2005	10		mij		mij		fulltext		Cambridge University Press	serial								
+The Journal of Modern African Studies	0022-278X	1469-7777	1963	1		2015	53		moa		moa		fulltext		Cambridge University Press	serial								
+Management and Organization Review	1740-8776	1740-8784	2005	1		2015	11		mor		mor		fulltext		Cambridge University Press	serial								
+MRS Communications	2159-6859	2159-6867	2011	1		2015	5		mrc		mrc		fulltext		Cambridge University Press	serial								
+MRS Energy & Sustainability	2329-2229	2329-2237	2014	1		2015	2		mre		mre		fulltext		Cambridge University Press	serial								
+International Journal of Microwave and Wireless Technologies	1759-0787	1759-0795	2009	1		2015	7		mrf		mrf		fulltext		Cambridge University Press	serial								
+MRS Bulletin	0883-7694	1938-1425	1974	1		2015	40		mrs		mrs		fulltext		Cambridge University Press	serial								
+Mathematical Structures in Computer Science	0960-1295	1469-8072	1991	1		2015	25		msc		msc		fulltext		Cambridge University Press	serial								
+Mathematika	0025-5793	2041-7942	1954	1		2015	61		mtk		mtk		fulltext		London Mathematical Society	serial								
+Microscopy Today	1551-9295	2150-3583	2009	17		2015	23		mto		mto		fulltext		Cambridge University Press	serial								
+Journal of Navigation	0373-4633	1469-7785	1948	1		2015	68		nav		nav		fulltext		Cambridge University Press	serial								
+Nineteenth-Century Music Review	1479-4098	2044-8414	2004	1		2015	12		ncm		ncm		fulltext		Cambridge University Press	serial								
+Acta Neuropsychiatrica	0924-2708	1601-5215	1989	1		2015	27		neu		neu		fulltext		Cambridge University Press	serial								
+Netherlands Journal of Geosciences	0016-7746	1573-9708	2009	88		2015	94		njg		njg		fulltext		Cambridge University Press	serial								
+Nordic Journal of Linguistics	0332-5865	1502-4717	1978	1		2015	38		njl		njl		fulltext		Cambridge University Press	serial								
+Natural Language Engineering	1351-3249	1469-8110	1995	1		2015	21		nle		nle		fulltext		Cambridge University Press	serial								
+New Perspectives on Turkey	0896-6346	1305-3299	1987	1		2015	53		npt		npt		fulltext		Cambridge University Press	serial								
+Nutrition Research Reviews	0954-4224	1475-2700	1988	1		2015	28		nrr		nrr		fulltext		Cambridge University Press	serial								
+New Surveys in the Classics	0533-2451	2052-8531	1967	1		2012	42		nsy		nsy		fulltext		Cambridge University Press	serial								
+New Theatre Quarterly	0266-464X	1474-0613	1985	1		2015	31		ntq		ntq		fulltext		Cambridge University Press	serial								
+New Testament Studies	0028-6885	1469-8145	1954	1		2015	61		nts		nts		fulltext		Cambridge University Press	serial								
+Network Science	2050-1242	2050-1250	2013	1		2015	3		nws		nws		fulltext		Cambridge University Press	serial								
+BSAP Occasional Publication	0263-967X		1978	1		1994	18		oba		oba		fulltext		Cambridge University Press	serial								
+Cambridge Opera Journal	0954-5867	1474-0621	1989	1		2015	27		opr		opr		fulltext		Cambridge University Press	serial								
+The Australian and New Zealand Journal of Organisational Psychology		1835-7601	2008	1		2015	8		orp		orp		fulltext		Cambridge University Press	serial								
+Oryx	0030-6053	1365-3008	1950	1		2015	49		orx		orx		fulltext		Cambridge University Press	serial								
+Organised Sound	1355-7718	1469-8153	1996	1		2015	20		oso		oso		fulltext		Cambridge University Press	serial								
+Paleobiology	0094-8373	1938-5331	1975	1		2015	41		pab		pab		fulltext		Cambridge University Press	serial								
+Politics & Gender	1743-923X	1743-9248	2005	1		2015	11		pag		pag		fulltext		Cambridge University Press	serial								
+Parasitology	0031-1820	1469-8161	1908	1		2015	142		par		par		fulltext		Cambridge University Press	serial								
+Publications of the Astronomical Society of Australia	1323-3580	1448-6083	1997	14		2015	32		pas		pas		fulltext		Cambridge University Press	serial								
+Palliative and Supportive Care	1478-9515	1478-9523	2003	1		2015	13		pax		pax		fulltext		Cambridge University Press	serial								
+Proceedings of the British Society of Animal Production (1972)	0308-2296		1972	1		1975	4		pba		pba		fulltext		Cambridge University Press	serial								
+Papers of the American Society of Church History	1079-9028		1889	1		1934	9		pch		pch		fulltext		Cambridge University Press	serial								
+Powder Diffraction	0885-7156	1945-7413	1986	1		2015	30		pdj		pdj		fulltext		Cambridge University Press	serial								
+Prehospital and Disaster Medicine	1049-023X	1945-1938	1985	1		2015	30		pdm		pdm		fulltext		Cambridge University Press	serial								
+Journal of Pension Economics and Finance	1474-7472	1475-3022	2002	1		2015	14		pef		pef		fulltext		Cambridge University Press	serial								
+Proceedings of the Edinburgh Mathematical Society	0013-0915	1464-3839	1883	1		2015	58		pem		pem		fulltext		Cambridge University Press	serial								
+Probability in the Engineering and Informational Sciences	0269-9648	1469-8951	1987	1		2015	29		pes		pes		fulltext		Cambridge University Press	serial								
+Plant Genetic Resources	1479-2621	1479-263X	2003	1		2015	13		pgr		pgr		fulltext		Cambridge University Press	serial								
+Primary Health Care Research & Development	1463-4236	1477-1128	2000	1		2015	16		phc		phc		fulltext		Cambridge University Press	serial								
+Philosophy	0031-8191	1469-817X	1926	1		2015	90		phi		phi		fulltext		Cambridge University Press	serial								
+Public Health Nutrition	1368-9800	1475-2727	1998	1		2015	19		phn		phn		fulltext		Cambridge University Press	serial								
+Phonology	0952-6757	1469-8188	1984	1		2015	32		pho		pho		fulltext		Cambridge University Press	serial								
+Royal Institute of Philosophy Supplement	1358-2461	1755-3555	1968	1		2015	77		phs		phs		fulltext		Cambridge University Press	serial								
+Journal of Plasma Physics	0022-3778	1469-7807	1967	1		2015	81		pla		pla		fulltext		Cambridge University Press	serial								
+The Cambridge Journal of Postcolonial Literary Inquiry	2052-2614	2052-2622	2014	1		2015	2		pli		pli		fulltext		Cambridge University Press	serial								
+Plainsong and Medieval Music	0961-1371	1474-0087	1992	1		2015	24		pmm		pmm		fulltext		Cambridge University Press	serial								
+Psychological Medicine. Monograph Supplement	0264-1801		1982	1		1993	24		pms		pms		fulltext		Cambridge University Press	serial								
+Popular Music	0261-1430	1474-0095	1981	1		2015	34		pmu		pmu		fulltext		Cambridge University Press	serial								
+Proceedings of the Nutrition Society	0029-6651	1475-2719	1944	1		2015	74		pns		pns		fulltext		Cambridge University Press	serial								
+Proceedings of the Society of Antiquaries of London	0950-7973		1849	1		1920	32		pnt		pnt		fulltext		Cambridge University Press	serial								
+Polar Record	0032-2474	1475-3057	1931	1		2015	51		pol		pol		fulltext		Cambridge University Press	serial								
+Proceedings of the American Political Science Association	1520-8605		1905	1		1914	10		pop		pop		fulltext		Cambridge University Press	serial								
+Proceedings of the Prehistoric Society of East Anglia	0958-8418		1911	1		1934	7		ppe		ppe		fulltext		Cambridge University Press	serial								
+Proceedings of the Prehistoric Society	0079-497X	2050-2729	1935	1		2015	81		ppr		ppr		fulltext		Cambridge University Press	serial								
+Perspectives on Politics	1537-5927	1541-0986	2003	1		2015	13		pps		pps		fulltext		Cambridge University Press	serial								
+Proceedings of the Royal Society of Edinburgh. Section B. Biological Sciences	0269-7270		1941	61		1996	104		prb		prb		fulltext		Royal Society of Edinburgh Scotland Foundation	serial								
+Proceedings of the Royal Society of Edinburgh	0370-1646		1845	1		1940	60		pre		pre		fulltext		Royal Society of Edinburgh Scotland Foundation	serial								
+Proceedings of the Royal Society of Edinburgh: Section A Mathematics	0308-2105	1473-7124	1941	61		2015	145		prm		prm		fulltext		Royal Society of Edinburgh Scotland Foundation	serial								
+Journal of Pacific Rim Psychology	1834-4909		2007	1		2015	9		prp		prp		fulltext		Cambridge University Press	serial								
+PS: Political Science & Politics	1049-0965	1537-5935	1968	1		2015	48		psc		psc		fulltext		Cambridge University Press	serial								
+Psychological Medicine	0033-2917	1469-8978	1970	1		2015	45		psm		psm		fulltext		Cambridge University Press	serial								
+Mathematical Proceedings of the Cambridge Philosophical Society	0305-0041	1469-8064	1924	22		2015	159		psp		psp		fulltext		Cambridge University Press	serial								
+American Political Science Review	0003-0554	1537-5943	1906	1		2015	109		psr		psr		fulltext		Cambridge University Press	serial								
+Political Science Teacher	0896-0828		1988	1		1990	3		pst		pst		fulltext		Cambridge University Press	serial								
+Prospects	0361-2333	1471-6399	1976	1		2005	30		pts		pts		fulltext		Cambridge University Press	serial								
+Journal of Public Policy	0143-814X	1469-7815	1981	1		2015	35		pup		pup		fulltext		Cambridge University Press	serial								
+Abstracts of Working Papers in Economics	0951-0079	1471-6410	1986	1		2004	21		pye		pye		fulltext		Cambridge University Press	serial								
+Queensland Journal of Guidance and Counselling	1030-3162		1987	1		1990	4		qgc		qgc		fulltext		Cambridge University Press	serial								
+Quarterly Reviews of Biophysics	0033-5835	1469-8994	1968	1		2015	48		qrb		qrb		fulltext		Cambridge University Press	serial								
+Queensland Review	1321-8166	2049-7792	1994	1		2015	22		qre		qre		fulltext		Cambridge University Press	serial								
+Renewable Agriculture and Food Systems	1742-1705	1742-1713	2004	19		2015	30		raf		raf		fulltext		Cambridge University Press	serial								
+Political Science Research and Methods	2049-8470	2049-8489	2013	1		2015	3		ram		ram		fulltext		Cambridge University Press	serial								
+Politics and Religion	1755-0483	1744-0491	2008	1		2015	8		rap		rap		fulltext		Cambridge University Press	serial								
+International Review of the Red Cross	0020-8604		1961	1		1998	38		rce		rce		fulltext		Cambridge University Press	serial								
+Reviews in Clinical Gerontology	0959-2598	1469-9036	1991	1		2015	25		rcg		rcg		fulltext		Cambridge University Press	serial								
+Revista Internacional de la Cruz Roja	0250-569X		1976	1		1999	24		rcs		rcs		fulltext		Cambridge University Press	serial								
+ReCALL	0958-3440	1474-0109	1989	1		2015	27		rec		rec		fulltext		Cambridge University Press	serial								
+Religious Studies	0034-4125	1469-901X	1965	1		2015	51		res		res		fulltext		Cambridge University Press	serial								
+Camden Fifth Series	0960-1163	1478-5110	1993	1		2015	48		rhc		rhc		fulltext		Cambridge University Press	serial								
+Revista de Historia Económica / Journal of Iberian and Latin American Economic History	0212-6109	2041-3335	1983	1		2015	33		rhe		rhe		fulltext		Cambridge University Press	serial								
+Camden Fourth Series	0068-6905		1964	1		1992	44		rhf		rhf		fulltext		Cambridge University Press	serial								
+Camden New Series		2042-1702	1872	1		1901	62		rhn		rhn		fulltext		Cambridge University Press	serial								
+Camden Old Series		2042-1699	1838	1		1872	106		rho		rho		fulltext		Cambridge University Press	serial								
+Camden Third Series		2042-1710	1900	1		1963	94		rhr		rhr		fulltext		Cambridge University Press	serial								
+Transactions of the Royal Historical Society	0080-4401	1474-0648	1872	1		2015	40		rht		rht		fulltext		Cambridge University Press	serial								
+Review of International Studies	0260-2105	1469-9044	1975	1		2015	41		ris		ris		fulltext		Cambridge University Press	serial								
+Reproductive Medicine Review	0962-2799	1469-9028	1992	1		2003	11		rmr		rmr		fulltext		Cambridge University Press	serial								
+Review of Middle East Studies	2151-3481	2329-3225	1967	1		2015	49		rms		rms		fulltext		Cambridge University Press	serial								
+Ramus	0048-671X	2202-932X	1972	1		2015	44		rmu		rmu		fulltext		Cambridge University Press	serial								
+Robotica	0263-5747	1469-8668	1983	1		2015	33		rob		rob		fulltext		Cambridge University Press	serial								
+Papers of the British School at Rome	0068-2462	2045-239X	1902	1		2015	83		rom		rom		fulltext		Cambridge University Press	serial								
+The Review of Politics	0034-6705	1748-6858	1939	1		2015	77		rop		rop		fulltext		Cambridge University Press	serial								
+The Review of Symbolic Logic	1755-0203	1755-0211	2008	1		2015	8		rsl		rsl		fulltext		Cambridge University Press	serial								
+Rural History	0956-7933	1474-0656	1990	1		2015	26		ruh		ruh		fulltext		Cambridge University Press	serial								
+Journal of the Society for American Music	1752-1963	1752-1971	2007	1		2015	9		sam		sam		fulltext		Cambridge University Press	serial								
+Studies in American Political Development	0898-588X	1469-8692	1986	1		2015	29		sap		sap		fulltext		Cambridge University Press	serial								
+Journal of Southeast Asian Studies	0022-4634	1474-0680	1970	1		2015	46		sea		sea		fulltext		Cambridge University Press	serial								
+Journal of Southeast Asian History	0217-7811		1960	1		1969	10		seh		seh		fulltext		Cambridge University Press	serial								
+Science in Context	0269-8897	1474-0664	1987	1		2015	28		sic		sic		fulltext		Cambridge University Press	serial								
+APSIPA Transactions on Signal and Information Processing		2048-7703	2012	1		2015	4		sip		sip		fulltext		Cambridge University Press	serial								
+The Spanish journal of psychology	1138-7416	1988-2904	1998	1		2015	18		sjp		sjp		fulltext		Cambridge University Press	serial								
+Scottish Journal of Theology	0036-9306	1475-3065	1948	1		2015	68		sjt		sjt		fulltext		Cambridge University Press	serial								
+Studies in Second Language Acquisition	0272-2631	1470-1545	1978	1		2015	37		sla		sla		fulltext		Cambridge University Press	serial								
+Social Philosophy and Policy	0265-0525	1471-6437	1983	1		2015	32		soy		soy		fulltext		Cambridge University Press	serial								
+South Pacific Journal of Psychology	0257-5434		1984	1		2005	16		spp		spp		fulltext		Cambridge University Press	serial								
+Social Policy and Society	1474-7464	1475-3073	2002	1		2015	14		sps		sps		fulltext		Cambridge University Press	serial								
+Seed Science Research	0960-2585	1475-2735	1991	1		2015	25		ssr		ssr		fulltext		Cambridge University Press	serial								
+The Americas	0003-1615	1533-6247	1944	1		2015	72		tam		tam		fulltext		Cambridge University Press	serial								
+The Canadian Entomologist	0008-347X	1918-3240	1868	1		2015	147		tce		tce		fulltext		Cambridge University Press	serial								
+twentieth-century music	1478-5722	1478-5730	2004	1		2015	12		tcm		tcm		fulltext		Cambridge University Press	serial								
+Transnational Environmental Law	2047-1025	2047-1033	2012	1		2015	4		tel		tel		fulltext		Cambridge University Press	serial								
+Tempo	0040-2982	1478-2286	1939	57		2015	69		tem		tem		fulltext		Cambridge University Press	serial								
+Transactions of the Faculty of Actuaries	0071-3686		1903	1		1992	44		tfa		tfa		fulltext		Cambridge University Press	serial								
+International Journal of Technology Assessment in Health Care	0266-4623	1471-6348	1985	1		2015	31		thc		thc		fulltext		Cambridge University Press	serial								
+Twin Research and Human Genetics	1832-4274	1839-2628	1998	1		2015	18		thg		thg		fulltext		Cambridge University Press	serial								
+Think	1477-1756	1755-1196	2002	1		2015	14		thi		thi		fulltext		Cambridge University Press	serial								
+Theory and Practice of Logic Programming	1471-0684	1475-3081	2001	1		2015	15		tlp		tlp		fulltext		Cambridge University Press	serial								
+Numerical Mathematics: Theory, Methods and Applications	1004-8979	2079-7338	2011	4		2015	8		tma		tma		fulltext		Cambridge University Press	serial								
+Transactions of the Royal Asiatic Society of Great Britain and Ireland	0950-4737		1827	1		1834	3		tra		tra		fulltext		Cambridge University Press	serial								
+Transactions of the Royal Society of Edinburgh	0080-4568	1473-7116	1788	1		2015	106		tre		tre		fulltext		Royal Society of Edinburgh Scotland Foundation	serial								
+Theatre Research International	0307-8833	1474-0672	1975	1		2015	40		tri		tri		fulltext		Cambridge University Press	serial								
+TRaNS: Trans -Regional and -National Studies of Southeast Asia	2051-364X	2051-3658	2013	1		2015	3		trn		trn		fulltext		Cambridge University Press	serial								
+Journal of Tropical Ecology	0266-4674	1469-7831	1985	1		2015	31		tro		tro		fulltext		Cambridge University Press	serial								
+Theatre Survey	0040-5574	1475-4533	1960	1		2015	56		tsy		tsy		fulltext		Cambridge University Press	serial								
+Urban History	0963-9268	1469-8706	1974	1		2015	42		uhy		uhy		fulltext		Cambridge University Press	serial								
+Utilitas	0953-8208	1741-6183	1989	1		2015	27		uti		uti		fulltext		Cambridge University Press	serial								
+Victorian Literature and Culture	1060-1503	1470-1553	1973	1		2015	43		vlc		vlc		fulltext		Cambridge University Press	serial								
+Visual Neuroscience	0952-5238	1469-8714	1988	1		2015	32		vns		vns		fulltext		Cambridge University Press	serial								
+World Politics	0043-8871	1086-3338	1948	1		2015	67		wpo		wpo		fulltext		Cambridge University Press	serial								
+World's Poultry Science Journal	0043-9339	1743-4777	1945	1		2015	71		wps		wps		fulltext		Cambridge University Press	serial								
+Wireless Power Transfer		2052-8418	2014	1		2015	2		wpt		wpt		fulltext		Cambridge University Press	serial								
+World Trade Review	1474-7456	1475-3138	2002	1		2015	14		wtr		wtr		fulltext		Cambridge University Press	serial								
+Journal of Experimental Political Science	2052-2630	2052-2649	2014	1		2015	2		xps		xps		fulltext		Cambridge University Press	serial								
+Zygote	0967-1994	1469-8730	1993	1		2015	23		zyg		zyg		fulltext		Cambridge University Press	serial								
