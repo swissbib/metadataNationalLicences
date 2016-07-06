@@ -46,7 +46,7 @@ This is a concern only when loading article xml directly in elasticsearch withou
 
 The solution is here
 
-<https://github.com/linked-swissbib/swissbib-metafacture-commands/tree/lionel-hack>
+<https://github.com/liowalter/swissbib-metafacture-commands/tree/lionel-hack>
 
 Way to proceed :
 
