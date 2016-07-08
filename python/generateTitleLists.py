@@ -394,6 +394,14 @@ for publisher in ["gruyter", "oxford", "cambridge","oxford2"]:
                 else:
                     ratio[agg]=0.0
 
+        if publisher == "oxford":
+            #too many mistakes in Oxford metadata
+            publisher_name="Oxford University Press"
+        else:
+            publisher_name=topresult["publisher_name_agg"]
+
+
+
         if topresult["pissn_agg"]==topresult["eissn_agg"]:
             topresult["eissn_agg"]=""
 
@@ -475,7 +483,7 @@ for publisher in ["gruyter", "oxford", "cambridge","oxford2"]:
                              '{0:.1f}'.format(ratio["eissn_agg"]),
                              topresult["pissn_agg"],
                              '{0:.1f}'.format(ratio["pissn_agg"]),
-                             topresult["publisher_name_agg"],
+                             publisher_name,
                              '{0:.1f}'.format(ratio["publisher_name_agg"]),
                              baseJournalUrl[publisher]+keyforurl+postJournalUrl[publisher], #"Url"
                              number_of_articles,
@@ -493,7 +501,7 @@ for publisher in ["gruyter", "oxford", "cambridge","oxford2"]:
             topresult["title_agg"], #"Journal Title"
             topresult["pissn_agg"], #"Print ISSN"
             topresult["eissn_agg"], #"Electronic ISSN"
-            topresult["publisher_name_agg"], #"Publisher"
+            publisher_name, #"Publisher"
             baseJournalUrl[publisher]+keyforurl+postJournalUrl[publisher], #"Url"
             number_of_articles, #"Total Number of articles"
             min_year, #"First Year in the Licence"
@@ -519,7 +527,7 @@ for publisher in ["gruyter", "oxford", "cambridge","oxford2"]:
                     "",  #embargo_info
                     "fulltext",  #coverage_depth
                     "",  #notes
-                    topresult["publisher_name_agg"],  #"publisher_name",
+                    publisher_name,  #"publisher_name",
                     "serial",  #"publication_type",
                     "",  #"date_monograph_published_print",
                     "",  #"date_monograph_published_online",
