@@ -53,7 +53,7 @@ cd $SOURCE_DIRECTORY
 # get a list of journal abbreviation (the beginning of each folder name)
 ls | grep -o "^[a-zA-Z0-9]*\." | sed -e 's/\.$//g' | sort | uniq | merge_records
 #cat /home/lionel/Documents/swissbib/git_repo/analysis/shell/directory_redo.txt | merge_records
-cd /home/lionel/Documents/swissbib/git_repo/analysis/shell
+
 
 
 

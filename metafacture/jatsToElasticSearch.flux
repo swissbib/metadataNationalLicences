@@ -13,7 +13,7 @@ default out = "stdout";
 
 //indir="/home/lionel/Documents/data-swissbib-no-backup/cambridge/cambridge-xml/";
 
-indir="/home/lionel/Documents/data-swissbib-no-backup/gruyter/";
+indir="/home/lionel/Documents/data-swissbib-no-backup/oxford2/";
 
 
 indir|
@@ -28,7 +28,7 @@ generic-xml-handle-dtd ("article") |
 morph(FLUX_DIR + "jatsToElasticSearchMorph.xml")|
 change-id("id")|
 catch-stream-exception |
-encode-esbulk(escapeChars="true", header="true", index="gruyter-v5", type="article")|
+encode-esbulk(escapeChars="true", header="true", index="oxford2", type="article")|
 index-esbulk(esNodes="localhost:9300", esClustername="elasticsearch", recordsPerUpload="1000");
 //write-esbulk(baseOutDir="./", fileSize="10000000", jsonCompliant="true");
 //write(out);

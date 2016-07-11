@@ -44,7 +44,7 @@ function merge_records ()
 cd $SOURCE_DIRECTORY
 ls -A | merge_records
 #cat /home/lionel/Documents/swissbib/git_repo/analysis/shell/directory_redo.txt | merge_records
-cd /home/lionel/Documents/swissbib/git_repo/analysis/shell
+
 
 
 

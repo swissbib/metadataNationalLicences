@@ -2,7 +2,7 @@
 
 
 METADATA_DIRECTORY=/media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/
-OUTPUT_DIRECTORY=/home/lionel/Documents/mycloud/swissbib/git_repo/documentation/_includes/quality_control/oxford2/
+OUTPUT_DIRECTORY=/home/lionel/Documents/mycloud/swissbib/git_repo/metadataNationalLicencesDocumentation/_includes/quality_control/oxford2/
 
 function markdownify
 {

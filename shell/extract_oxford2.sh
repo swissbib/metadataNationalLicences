@@ -6,7 +6,7 @@
 #SOURCE_DIRECTORY=/home/lionel/Documents/data-swissbib-no-backup/testdata/testdata_nationallizenzen/oxford3/
 #TARGET_DIRECTORY=/home/lionel/Documents/data-swissbib-no-backup/testdata/testdata_nationallizenzen/oxford3/extracted/
 
-SOURCE_DIRECTORY=/media/lionel/Data/swissbib-data/oxford/2nd_delivery_original_zips/all/
+SOURCE_DIRECTORY=/media/lionel/Data/swissbib-data/oxford/2nd_delivery_original_zips/current_delivery/
 TARGET_DIRECTORY=/media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/
 
 
