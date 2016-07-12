@@ -42,9 +42,9 @@
         </xsl:element>
     </xsl:template>
 
-    <!-- continuer ici -->https://github.com/ncbi/JATSPreviewStylesheets/blob/master/xslt/main/jats-html.xsl
 
-    <!-- TODO DRY : group this and the removing of the elements -->
+
+
 
     <xsl:template match="article-meta">
         <xsl:copy>
@@ -52,21 +52,21 @@
 
             <xsl:for-each select="*">
                 <xsl:choose>
-                    <xsl:when test="local-name()=$permissions1stElement">
+                    <xsl:when test="name()=$permissions1stElement">
                         <xsl:call-template name="permissions"></xsl:call-template>
                     </xsl:when>
 
                     <!-- TODO improve this with a variable? -->
-                    <xsl:when test="local-name()='copyright-statement'">
+                    <xsl:when test="name()='copyright-statement'">
 
                     </xsl:when>
-                    <xsl:when test="local-name()='copyright-year'">
+                    <xsl:when test="name()='copyright-year'">
 
                     </xsl:when>
-                    <xsl:when test="local-name()='copyright-holder'">
+                    <xsl:when test="name()='copyright-holder'">
 
                     </xsl:when>
-                    <xsl:when test="local-name()='license'">
+                    <xsl:when test="name()='license'">
 
                     </xsl:when>
                     <xsl:otherwise>
