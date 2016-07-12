@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with OASIS Tables with MathML3 v1.1 20151215//EN" "JATS-archive-oasis-article1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" dtd-version="1.1" article-type="article">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">advg</journal-id>
+            <journal-title-group>
+                <abbrev-journal-title abbrev-type="full">Advances in Geometry</abbrev-journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">1615-715X</issn>
+            <issn pub-type="epub">1615-7168</issn>
+            <publisher>
+                <publisher-name>Walter de Gruyter</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="publisher-id">advg.7.4.529</article-id>
+            <article-id pub-id-type="doi">10.1515/ADVGEOM.2007.031</article-id>
+            <title-group>
+                <article-title>Groups of type <italic>L</italic>
+                    <sub>2</sub>(<italic>q</italic>) acting on polytopes</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name>
+                        <surname>Leemans</surname>
+                        <given-names>Dimitri</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="a1">
+                        <sup>1</sup>
+                    </xref>
+                    <aff id="a1">
+                        <label>
+                            <sup>1</sup>
+                        </label>Université Libre de Bruxelles, Département de Mathématiques - C.P.216, Boulevard du Triomphe, B-1050 Bruxelles.</aff>
+                    <email xlink:href="mailto:dleemans@ulb.ac.be" xlink:type="simple">dleemans@ulb.ac.be</email>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name>
+                        <surname>Schulte</surname>
+                        <given-names>Egon</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="a2">
+                        <sup>2</sup>
+                    </xref>
+                    <aff id="a2">
+                        <label>
+                            <sup>2</sup>
+                        </label>Northeastern University, Department of Mathematics, 360 Huntington Avenue, Boston, MA 02115, USA.</aff>
+                    <email xlink:href="mailto:schulte@neu.edu" xlink:type="simple">schulte@neu.edu</email>
+                </contrib>
+            </contrib-group>
+            <author-notes>
+                <fn fn-type="com">
+                    <p>(Communicated by H. Van Maldeghem)</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="ppub">
+                <day>19</day>
+                <month>10</month>
+                <year>2007</year>
+                <string-date>October 2007</string-date>
+            </pub-date>
+            <pub-date pub-type="epub">
+                <day>22</day>
+                <month>11</month>
+                <year>2007</year>
+            </pub-date>
+            <volume>7</volume>
+            <issue>4</issue>
+            <fpage>529</fpage>
+            <lpage>539</lpage>
+            <history>
+                <date date-type="received">
+                    <day>24</day>
+                    <month>12</month>
+                    <year>2005</year>
+                </date>
+                <date date-type="rev-recd">
+                    <day>03</day>
+                    <month>07</month>
+                    <year>2006</year>
+                </date>
+                <date date-type="rev-recd">
+                    <day>06</day>
+                    <month>04</month>
+                    <year>2007</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>© Walter de Gruyter</copyright-statement>
+                <copyright-year>2007</copyright-year>
+            </permissions>
+            <related-article related-article-type="pdf" xlink:href="advgeom.2007.031.pdf" xlink:type="simple"/>
+            <abstract>
+                <title>Abstract</title>
+                <p>We prove that if <italic>G</italic> is a string C-group of rank 4 and <italic>G</italic> ≅ <italic>L</italic>
+                    <sub>2</sub>(<italic>q</italic>) with <italic>q</italic> a prime power, then <italic>q</italic> must be 11 or 19. The polytopes arising are Grünbaum's 11-cell of type {3, 5, 3} for <italic>L</italic>
+                    <sub>2</sub>(11) and Coxeter's 57-cell of type {5, 3, 5} for <italic>L</italic>
+                    <sub>2</sub>(19), each a locally projective regular 4-polytope.</p>
+            </abstract>
+        </article-meta>
+    </front>
+</article>
