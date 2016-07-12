@@ -1,6 +1,15 @@
-<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:stylesheet version="2.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 
     <xsl:output method="xml"/>
+
+    <xsl:key name="permissions"
+             match="/article/front/article-meta/copyright-year|
+                    /article/front/article-meta/copyright-statement|
+                    /article/front/article-meta/copyright-holder|
+                    /article/front/article-meta/license"
+             use="'yes'">
+    </xsl:key>
+    <xsl:variable name="permissions1stElement" select="name(key('permissions','yes')[1])"></xsl:variable>
 
 
     <xsl:template match="*|@*|comment()|processing-instruction()|text()">
@@ -48,26 +57,10 @@
 
     <xsl:template match="article-meta">
         <xsl:copy>
-            <xsl:variable name="permissions1stElement" select="name((copyright-statement|copyright-year|copyright-holder|licence)[1])"></xsl:variable>
-
             <xsl:for-each select="*">
                 <xsl:choose>
                     <xsl:when test="name()=$permissions1stElement">
                         <xsl:call-template name="permissions"></xsl:call-template>
-                    </xsl:when>
-
-                    <!-- TODO improve this with a variable? -->
-                    <xsl:when test="name()='copyright-statement'">
-
-                    </xsl:when>
-                    <xsl:when test="name()='copyright-year'">
-
-                    </xsl:when>
-                    <xsl:when test="name()='copyright-holder'">
-
-                    </xsl:when>
-                    <xsl:when test="name()='license'">
-
                     </xsl:when>
                     <xsl:otherwise>
                         <xsl:copy>
@@ -101,10 +94,9 @@
 
     <xsl:template name="permissions">
         <permissions>
-            <xsl:copy-of select="/article/front/article-meta/copyright-year"></xsl:copy-of>
-            <xsl:copy-of select="/article/front/article-meta/copyright-statement"></xsl:copy-of>
-            <xsl:copy-of select="/article/front/article-meta/copyright-holder"></xsl:copy-of>
-            <xsl:copy-of select="/article/front/article-meta/license"></xsl:copy-of>
+            <xsl:for-each select="key('permissions','yes')">
+                <xsl:copy-of select="."></xsl:copy-of>
+            </xsl:for-each>
         </permissions>
     </xsl:template>
 
