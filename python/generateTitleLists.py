@@ -158,7 +158,6 @@ oxford_urlkey={
     "jafeco" : "jae",
     "japres" : "japr",
     "jbchem" : "jb",
-    "chromsci" : "jcs",
     "jconsl" : "jcsl",
     "eccojcc" : "ecco-jcc",
     "eccojs" : "ecco-jccs",
@@ -455,7 +454,7 @@ for publisher in ["gruyter", "oxford", "cambridge","oxford2"]:
             keyforurl=keyforurl[0:keyforurl.find(".")]
 
         #corrections for Oxford
-        if publisher== "oxford" and oxford_urlkey.has_key(keyforurl):
+        if (publisher == "oxford" or publisher=="oxford2") and oxford_urlkey.has_key(keyforurl):
             #replace journal code by url code
             keyforurl=oxford_urlkey[keyforurl]
 
