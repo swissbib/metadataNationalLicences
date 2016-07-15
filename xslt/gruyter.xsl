@@ -2,11 +2,24 @@
     <xsl:import href="nlm-2-to-jats-1-1.xsl"/>
 
     <!-- De Gruyter use often this field to store the whole name of the journal -->
-    <xsl:template match="/article/front/journal-meta//abbrev-journal-title[@abbrev-type='full']">
-        <xsl:element name="journal-title">
-            <xsl:apply-templates select="text()" />
-        </xsl:element>
+
+    <!-- overrides to rename abbrev-journal-title -->
+    <xsl:template match="key('journal-title-group','yes')" mode="copy">
+        <xsl:choose>
+            <xsl:when test="name(.)='abbrev-journal-title' and @abbrev-type='full'">
+                <xsl:element name="journal-title">
+                    <xsl:apply-templates select="text()" />
+                </xsl:element>
+            </xsl:when>
+            <xsl:otherwise>
+                <xsl:copy>
+                    <xsl:copy-of select="@*"></xsl:copy-of>
+                    <xsl:apply-templates/>
+                </xsl:copy>
+            </xsl:otherwise>
+        </xsl:choose>
     </xsl:template>
+
 
     <!-- remove these specific De Gruyter fields -->
     <xsl:template match="/article/front/article-meta/contrib-group/contrib/name/x"/>

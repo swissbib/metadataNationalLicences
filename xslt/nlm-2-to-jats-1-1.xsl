@@ -46,18 +46,8 @@
                     <xsl:when test="name()=$journalTitleGroup1stElement">
                         <xsl:call-template name="journal-title-group"/>
                     </xsl:when>
-
-                    <!-- TODO improve this with a variable ! based on keys  -->
-                    <xsl:when test="name()='journal-title'"/>
-                    <xsl:when test="name()='journal-subtitle'"/>
-                    <xsl:when test="name()='trans-title'"/>
-                    <xsl:when test="name()='trans-subtitle'"/>
-                    <xsl:when test="name()='abbrev-journal-title'"/>
-
                     <xsl:otherwise>
-                        <xsl:copy>
-                            <xsl:apply-templates select="*|@*|comment()|processing-instruction()|text()" />
-                        </xsl:copy>
+                        <xsl:apply-templates select="." />
                     </xsl:otherwise>
 
                 </xsl:choose>
@@ -74,15 +64,6 @@
                     <xsl:when test="name()=$permissions1stElement">
                         <xsl:call-template name="permissions"/>
                     </xsl:when>
-
-                    <!-- TODO improve this with a variable ! based on key permissions -->
-                    <xsl:when test="name()='copyright-statement'"/>
-                    <xsl:when test="name()='copyright-year'"/>
-                    <xsl:when test="name()='copyright-holder'"/>
-                    <xsl:when test="name()='license'"/>
-
-
-
                     <xsl:otherwise>
                         <xsl:apply-templates select="."/>
                     </xsl:otherwise>
@@ -136,19 +117,46 @@
     <xsl:template name="permissions">
         <permissions>
             <xsl:for-each select="key('permissions','yes')">
-                <xsl:apply-templates select="."/>
+                <xsl:apply-templates select="." mode="copy"/>
             </xsl:for-each>
         </permissions>
     </xsl:template>
+
+    <!-- remove copyright-statement... from the original position -->
+    <xsl:template match="key('permissions','yes')"/>
+
+    <!-- copy copyright-statement... to the new position -->
+    <xsl:template match="key('permissions','yes')" mode="copy">
+        <xsl:copy>
+            <xsl:copy-of select="@*"></xsl:copy-of>
+            <xsl:apply-templates/>
+        </xsl:copy>
+    </xsl:template>
+
+
 
 
     <xsl:template name="journal-title-group">
         <journal-title-group>
             <xsl:for-each select="key('journal-title-group','yes')">
-                <xsl:apply-templates select="."/>
+                <xsl:apply-templates select="." mode="copy"/>
             </xsl:for-each>
         </journal-title-group>
     </xsl:template>
+
+    <xsl:template match="key('journal-title-group','yes')"></xsl:template>
+
+    <xsl:template match="key('journal-title-group','yes')" mode="copy">
+        <xsl:copy>
+            <xsl:copy-of select="@*"></xsl:copy-of>
+            <xsl:apply-templates/>
+        </xsl:copy>
+    </xsl:template>
+
+
+
+
+
 
 
 
