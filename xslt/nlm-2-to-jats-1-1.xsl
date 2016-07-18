@@ -1,4 +1,4 @@
-<xsl:stylesheet version="2.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:xlink="http://www.w3.org/1999/xlink">
 
     <xsl:output method="xml" doctype-public="-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with OASIS Tables with MathML3 v1.1 20151215//EN" doctype-system="JATS-archive-oasis-article1-mathml3.dtd" indent="yes" />
 
@@ -69,7 +69,20 @@
                     </xsl:otherwise>
                 </xsl:choose>
             </xsl:for-each>
+            <xsl:call-template name="article-custom-meta"></xsl:call-template>
         </xsl:copy>
+
+    </xsl:template>
+
+
+    <xsl:template name="article-custom-meta">
+        <xsl:element name="custom-meta-group">
+            <xsl:element name="custom-meta">
+                <xsl:element name="meta-name">original-filename</xsl:element>
+                <xsl:element name="meta-value">needs xpath 2.0</xsl:element>
+            </xsl:element>
+        </xsl:element>
+
     </xsl:template>
 
 
@@ -152,11 +165,6 @@
             <xsl:apply-templates/>
         </xsl:copy>
     </xsl:template>
-
-
-
-
-
 
 
 

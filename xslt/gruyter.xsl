@@ -1,4 +1,4 @@
-<xsl:stylesheet version="2.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
     <xsl:import href="nlm-2-to-jats-1-1.xsl"/>
 
     <!-- De Gruyter use often this field to store the whole name of the journal -->
