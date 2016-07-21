@@ -69,21 +69,37 @@
                     </xsl:otherwise>
                 </xsl:choose>
             </xsl:for-each>
-            <xsl:call-template name="article-custom-meta"></xsl:call-template>
         </xsl:copy>
+
 
     </xsl:template>
 
+    <xsl:template match="/article/front/article-meta//license/p">
+        <xsl:element name="license-p">
+            <xsl:apply-templates/>
+        </xsl:element>
 
-    <xsl:template name="article-custom-meta">
-        <xsl:element name="custom-meta-group">
-            <xsl:element name="custom-meta">
-                <xsl:element name="meta-name">original-filename</xsl:element>
-                <xsl:element name="meta-value">needs xpath 2.0</xsl:element>
+    </xsl:template>
+
+    <!-- should add the trans-subtitle as well -->
+    <xsl:template match="/article/front/article-meta/trans-title | /article/front/article-meta/title-group/trans-title">
+        <xsl:element name="trans-title-group">
+            <xsl:apply-templates select="@*"/>
+            <xsl:element name="trans-title">
+            <xsl:apply-templates/>
             </xsl:element>
         </xsl:element>
 
     </xsl:template>
+
+    <xsl:template match="custom-meta-wrap">
+        <xsl:element name="custom-meta-group">
+            <xsl:apply-templates/>
+        </xsl:element>
+    </xsl:template>
+
+
+
 
 
 
@@ -93,6 +109,14 @@
     <!-- replace xlink.href by xlink:href -->
     <xsl:template match="@xlink.href">
         <xsl:attribute name="xlink:href">
+            <xsl:value-of select="."/>
+            <xsl:apply-templates select="*|@*|comment()|processing-instruction()|text()" />
+        </xsl:attribute>
+    </xsl:template>
+
+    <!-- replace xlink.type by xlink:type -->
+    <xsl:template match="@xlink.type">
+        <xsl:attribute name="xlink:type">
             <xsl:value-of select="."/>
             <xsl:apply-templates select="*|@*|comment()|processing-instruction()|text()" />
         </xsl:attribute>
@@ -124,6 +148,16 @@
         <xsl:apply-templates select="string-date"/>
         </xsl:copy>
     </xsl:template>
+
+    <!-- write the publisher fields in the good order -->
+    <xsl:template match="publisher">
+        <xsl:copy>
+            <xsl:apply-templates select="@*"/>
+            <xsl:apply-templates select="publisher-name"/>
+            <xsl:apply-templates select="publisher-loc"/>
+        </xsl:copy>
+    </xsl:template>
+
 
 
 
@@ -170,6 +204,15 @@
 
     <!-- remove the following elements entirely -->
     <xsl:template match="/article/body"/>
+
+    <!-- remove empty elements -->
+    <xsl:template match="*[not(@*|*|comment()|processing-instruction()) and normalize-space()='']"/>
+
+    <!-- remove subject-groups with only empty elements -->
+    <xsl:template match="subj-group[not(subject/text())]"></xsl:template>
+
+    <!-- remove contrib-groups with only empty elements -->
+    <xsl:template match="contrib-group[not(*//text())]"></xsl:template>
 
 
 
