@@ -69,6 +69,7 @@
                     </xsl:otherwise>
                 </xsl:choose>
             </xsl:for-each>
+            <xsl:call-template name="article-custom-meta"></xsl:call-template>
         </xsl:copy>
 
 
@@ -97,6 +98,9 @@
             <xsl:apply-templates/>
         </xsl:element>
     </xsl:template>
+
+    <!-- does nothing by default, but this can be overriden in templates that import this stylesheet -->
+    <xsl:template name="article-custom-meta"></xsl:template>
 
 
 

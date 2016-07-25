@@ -125,7 +125,13 @@
                 <p>This content is free.</p>
             </license>
         </permissions>
-        <related-article related-article-type="pdf" xlink.href="advgeom.2007.031.pdf" xlink:type="simple" /><post-process status="nothing-found">2013-08-15T23:23:23.10345+02:00</post-process><original type="pdf" xlink.href="advgeom.2007.031.pdf" />
+
+        <custom-meta-wrap>
+            <custom-meta>
+                <meta-name>pdf</meta-name>
+                <meta-value>S006824540001176Xa.pdf</meta-value>
+            </custom-meta>
+        </custom-meta-wrap>
         <abstract>
             <title>Abstract</title>
             <p>We prove that if <italic>G</italic> is a string C-group of rank 4 and <italic>G</italic> ≅ <italic>L</italic>

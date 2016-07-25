@@ -1,4 +1,4 @@
-<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:xlink="http://www.w3.org/1999/xlink">
     <xsl:import href="nlm-2-to-jats-1-1.xsl"/>
 
 
@@ -34,6 +34,16 @@
                 </xsl:copy>
             </xsl:otherwise>
         </xsl:choose>
+    </xsl:template>
+
+    <!-- store the pdf filename in self-uri -->
+    <!-- sometimes it is in xlink.href (mistake : a '.' instead of ':') and sometimes in xlink:href -->
+    <xsl:template match="related-article[@related-article-type='pdf']">
+        <xsl:element name="self-uri">
+            <xsl:attribute name="content-type">pdf</xsl:attribute>
+            <xsl:attribute name="xlink:href"><xsl:value-of select="@xlink.href"/><xsl:value-of select="@xlink:href"/></xsl:attribute>
+        </xsl:element>
+
     </xsl:template>
 
 
