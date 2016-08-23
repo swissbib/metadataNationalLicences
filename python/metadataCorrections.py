@@ -56,11 +56,13 @@ cambridge_correct_end_volume={
 
 # to correct some errors from gruyter in metadata
 gruyter_correct_start_year={
-    "bchm" : 1997
+    "bchm" : 1997,
+    "jbcpp" : 1990
 }
 
 gruyter_correct_start_volume={
-    "bchm" : 378
+    "bchm" : 378,
+    "jbcpp" : 1
 }
 
 
