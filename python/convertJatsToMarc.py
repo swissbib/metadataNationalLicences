@@ -8,11 +8,10 @@ from xml.dom.minidom import Element, parseString
 jats_parser = jats_utils_reviewed.JATSParser()
 
 result1=jats_parser.get_record('../data-samples/cambridge/articles/JATS_1.0/S0024282914000401h.xml','cambridge')
-
 f=open('record-cambridge.xml', 'w+')
 f.write(result1)
 
-result2=jats_parser.get_record('/home/lionel/Documents/mycloud/swissbib/git_repo/metadataNationalLicences/xslt/swissbib-jats.xml','gruyter')
+result2=jats_parser.get_record('/media/lionel/Data/swissbib-data/degruyter/transformed/j/abitech.2007.27.3/abitech.2007.27.3.160/abitech.2007.27.3.160.xml','gruyter')
 f=open('record-gruyter.xml', 'w+')
 f.write(result2)
 
