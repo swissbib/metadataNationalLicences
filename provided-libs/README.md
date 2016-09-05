@@ -1,1 +1,0 @@
-This folder is meant to be used for libraries usually provided by the user of an application such as JDBC drivers or JNDI providers. Any jar or class file placed in this folder is automatically loaded.
