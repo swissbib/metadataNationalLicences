@@ -230,6 +230,116 @@
         </choose>
 
 
+        <!-- 1st option : front.article-meta.contrib-group.aff -->
+
+
+        <concat name="better-aff1" flushWith="front.article-meta.contrib-group.aff" reset="true">
+
+        <!-- deal with institution-wrap ? -->
+            <data source="front.article-meta.contrib-group.aff.value"></data>
+            <data source="front.article-meta.contrib-group.aff.addr-line.value"></data>
+            <data source="front.article-meta.contrib-group.aff.city.value"></data>
+            <data source="front.article-meta.contrib-group.aff.country.value"></data>
+            <data source="front.article-meta.contrib-group.aff.institution.value"></data>
+            <data source="front.article-meta.contrib-group.aff.postal-code.value"></data>
+            <data source="front.article-meta.contrib-group.aff.state.value"></data>
+            <data source="front.article-meta.contrib-group.aff.email.value"></data>
+            <data source="front.article-meta.contrib-group.aff.ext-link.value"></data>
+
+        </concat>
+
+        <concat name="better-aff2" flushWith="front.article-meta.contrib-group.aff" reset="true">
+
+            <!-- deal with institution-wrap ? -->
+            <data source="front.article-meta.contrib-group.aff.value"></data>
+            <data source="front.article-meta.contrib-group.aff.*.value"></data>
+            <data source="front.article-meta.contrib-group.aff.*.*.value"></data>
+            <data source="front.article-meta.contrib-group.aff.*.*.*.value"></data>
+
+        </concat>
+
+        <!-- 2nd option : front.article-meta.aff -->
+
+
+        <concat name="better-aff1" flushWith="front.article-meta.aff" reset="true">
+
+            <!-- deal with institution-wrap ? -->
+            <data source="front.article-meta.aff.value"></data>
+            <data source="front.article-meta.aff.addr-line.value"></data>
+            <data source="front.article-meta.aff.city.value"></data>
+            <data source="front.article-meta.aff.country.value"></data>
+            <data source="front.article-meta.aff.institution.value"></data>
+            <data source="front.article-meta.aff.postal-code.value"></data>
+            <data source="front.article-meta.aff.state.value"></data>
+            <data source="front.article-meta.aff.email.value"></data>
+            <data source="front.article-meta.aff.ext-link.value"></data>
+
+        </concat>
+
+        <concat name="better-aff2" flushWith="front.article-meta.aff" reset="true">
+
+            <!-- deal with institution-wrap ? -->
+            <data source="front.article-meta.aff.value"></data>
+            <data source="front.article-meta.aff.*.value"></data>
+            <data source="front.article-meta.aff.*.*.value"></data>
+            <data source="front.article-meta.aff.*.*.*.value"></data>
+
+        </concat>
+
+        <!-- 3rd option front.article-meta.contrib-group.contrib.aff -->
+
+        <concat name="better-aff1" flushWith="front.article-meta.contrib-group.contrib.aff" reset="true">
+
+            <!-- deal with institution-wrap ? -->
+            <data source="front.article-meta.contrib-group.contrib.aff.value"></data>
+            <data source="front.article-meta.contrib-group.contrib.aff.addr-line.value"></data>
+            <data source="front.article-meta.contrib-group.contrib.aff.city.value"></data>
+            <data source="front.article-meta.contrib-group.contrib.aff.country.value"></data>
+            <data source="front.article-meta.contrib-group.contrib.aff.institution.value"></data>
+            <data source="front.article-meta.contrib-group.contrib.aff.postal-code.value"></data>
+            <data source="front.article-meta.contrib-group.contrib.aff.state.value"></data>
+            <data source="front.article-meta.contrib-group.contrib.aff.email.value"></data>
+            <data source="front.article-meta.contrib-group.contrib.aff.ext-link.value"></data>
+
+        </concat>
+
+        <concat name="better-aff2" flushWith="front.article-meta.contrib-group.contrib.aff" reset="true">
+
+            <!-- deal with institution-wrap ? -->
+            <data source="front.article-meta.contrib-group.contrib.aff.value"></data>
+            <data source="front.article-meta.contrib-group.contrib.aff.*.value"></data>
+            <data source="front.article-meta.contrib-group.contrib.aff.*.*.value"></data>
+            <data source="front.article-meta.contrib-group.contrib.aff.*.*.*.value"></data>
+
+        </concat>
+
+
+
+        <!-- author / with address -->
+
+        <!-- to be developed...
+        
+        <entity name="enrichedContributor" flushWith="">
+            
+        </entity>
+        <combine name="enrichedContributor" value="${contrib-given-names} ${contrib-surname} ${affiliation}" flushWith="front.article-meta.contrib-group" reset="true">
+            <data source="front.article-meta.contrib-group.contrib.name.given-names.value" name="contrib-given-names"/>
+            <data source="front.article-meta.contrib-group.contrib.name.surname.value" name="contrib-surname"/>
+            <data source="front.article-meta.contrib-group.contrib.xref.rid" name="@rid"/>
+
+            <combine name="affiliation" value="${affiliation-value}">
+                <if>
+                    <data source="front.article-meta.contrib-group.aff.id">
+                        <equals string="@rid"/>
+                    </data>
+                </if>
+                <data source="front.article-meta.contrib-group.aff.value" name="affiliation-value" />
+            </combine>
+        </combine>
+
+        -->
+
+
 
 
 

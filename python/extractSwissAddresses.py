@@ -37,7 +37,7 @@ request = {
 }
 
 
-result = es.search(body=request, index="all", doc_type="article", scroll="1m")
+result = es.search(body=request, index="cambridge-v6", doc_type="article", scroll="1m")
 
 
 #--- Extended Title List for analysis ---
@@ -50,7 +50,9 @@ article_list.writerow([
     "Authors",
     "Affiliations",
     "Year",
-    "Journal Title"])
+    "Journal Title",
+    "First Swiss Address",
+    "Institution Guess"])
 
 
 
@@ -82,13 +84,40 @@ while len(result["hits"]["hits"])>0:
                 contributor=article["contributor"]
 
 
+        firstSwissAddress=""
+        if "better-aff1" in article:
+            if isinstance(article["better-aff1"], list):
+                for address in article["better-aff1"]:
+                    if address.lower().find("switzerland")>=0:
+                        firstSwissAddress=address
+
+            else:
+                firstSwissAddress=article["better-aff1"]
+
+        institutionGuess=""
+        if firstSwissAddress.lower().find("eth")>=0 and firstSwissAddress.lower().find("zurich")>=0:
+            institutionGuess="ETH"
+
+        if firstSwissAddress.lower().find("epfl")>=0:
+            institutionGuess="EPFL"
+
+        if firstSwissAddress.lower().find("universit")>=0 and firstSwissAddress.lower().find("basel")>=0:
+            institutionGuess="University of Basel"
+
+
+
+
+
+
         article_list.writerow([
             article.get("doi",""), #"Publisher Code"
             article_title,
             contributor,
             affiliations,
             article.get("pyear",""),
-            article.get("journal-title","")
+            article.get("journal-title",""),
+            firstSwissAddress,
+            institutionGuess
         ])
 
 
