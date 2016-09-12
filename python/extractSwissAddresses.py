@@ -101,7 +101,7 @@ while len(result["hits"]["hits"])>0:
                 contributor=article["contributor"]
 
 
-        firstSwissAddress=""
+        firstSwissAddress=unicode("","utf-8")
         if "better-aff1" in article:
             if isinstance(article["better-aff1"], list):
                 for address in article["better-aff1"]:
