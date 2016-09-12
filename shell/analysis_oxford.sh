@@ -1,8 +1,8 @@
 #!/bin/bash
 
 
-METADATA_DIRECTORY=/media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/
-OUTPUT_DIRECTORY=/home/lionel/Documents/mycloud/swissbib/git_repo/metadataNationalLicencesDocumentation/_includes/quality_control/oxford2/
+METADATA_DIRECTORY=/media/lionel/Data/swissbib-data/oxford/3rd_delivery_extracted/
+OUTPUT_DIRECTORY=/home/lionel/Documents/mycloud/swissbib/git_repo/metadataNationalLicencesDocumentation/_includes/quality_control/oxford3/
 
 function markdownify
 {
