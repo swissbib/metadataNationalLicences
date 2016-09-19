@@ -1,8 +1,8 @@
 #!/bin/bash
 
-#on exclut les directories nommés issue-files qui regroupent des récapitulatifs d'issues
-METADATA_DIRECTORY='/media/lionel/Data/swissbib-data/cambridge/extracted/app/cjo/content'
-OUTPUT_DIRECTORY=/home/lionel/Documents/swissbib/git_repo/documentation/_includes/quality_control/cambridge1
+
+METADATA_DIRECTORY='/media/lionel/Data/swissbib-data/elsevier/extracted'
+OUTPUT_DIRECTORY=/home/lionel/Documents/swissbib/git_repo/documentation/_includes/quality_control/elsevier
 
 function markdownify
 #input result of grep-sed-sort-uniq like this
@@ -28,13 +28,13 @@ sed -e 's/$/|/g ' -i $FILE_TO_MARKDOWNIFY
 
 #JOURNALS
 FILENAME=$OUTPUT_DIRECTORY/journals.txt
-grep -ohr '<journal-title>.*<\/journal-title>' $METADATA_DIRECTORY | sed -e 's/<[\/]\{0,1\}journal-title>//g' | sort  | uniq -ci | sort -n > $FILENAME
+grep -ohr '<jid>.*<\/jid>' $METADATA_DIRECTORY | sed -e 's/<[\/]\{0,1\}journal-title>//g' | sort  | uniq -ci | sort -n > $FILENAME
 markdownify $FILENAME
 
 
 #ISSN-P
 FILENAME=$OUTPUT_DIRECTORY/pissn.txt
-grep -ohr '<issn pub-type\=\"ppub\">[^>]*<\/issn>' $METADATA_DIRECTORY | sed -e 's/<[\/]\{0,1\}issn[^>]*>//g' | sort  | uniq -c | sort -n > $FILENAME
+grep -ohr '<ce:issn>[^>]*<\/ce:issn>' $METADATA_DIRECTORY | sed -e 's/<[\/]\{0,1\}issn[^>]*>//g' | sort  | uniq -c | sort -n > $FILENAME
 markdownify $FILENAME
 
 
@@ -42,7 +42,7 @@ markdownify $FILENAME
 #DOCTYPES
 FILENAME=$OUTPUT_DIRECTORY/doctypes.txt
 #doctypes for cambridge are split over multiple lines
-grep -ohrE '(PUBLIC|SYSTEM|public|system)[^>]*dtd\">' $METADATA_DIRECTORY | sort  | uniq -c | sort -n > $FILENAME
+grep -ohrE '(PUBLIC|SYSTEM|public|system)[^>]*dtd' $METADATA_DIRECTORY | sort  | uniq -c | sort -n > $FILENAME
 markdownify $FILENAME
 
 
@@ -54,7 +54,7 @@ markdownify $FILENAME
 
 #COPYRIGHT YEARS
 FILENAME=$OUTPUT_DIRECTORY/copyright-years.txt
-grep -ohr "<copyright-year>.*<\/copyright-year>" $METADATA_DIRECTORY | sed -e 's/<[\/]\{0,1\}copyright-year>//g' | sort  | uniq -c > $FILENAME
+grep -ohr 'copyright .* year="[^>]*>.*copyright>' $METADATA_DIRECTORY | sed -e 's/<[\/]\{0,1\}copyright-year>//g' | sort  | uniq -c > $FILENAME
 markdownify $FILENAME
 
 #ENCODINGS
