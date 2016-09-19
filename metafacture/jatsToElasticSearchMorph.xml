@@ -138,6 +138,8 @@
 
         <data source="front.article-meta.title-group.article-title.value" name="article-title"/>
 
+        <data source="article-type" name="article-type"/>
+
         <combine name="journal-id" value="${journal-id}" flushWith="front.journal-meta.journal-id" reset="true">
             <if>
                 <data source="front.journal-meta.journal-id.journal-id-type" name="pub-type">

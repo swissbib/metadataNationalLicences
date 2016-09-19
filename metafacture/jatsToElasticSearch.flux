@@ -9,11 +9,11 @@
 
 default out = "stdout";
 
-indir="/home/lionel/Documents/data-swissbib-no-backup/oxford1/";
+//indir="/home/lionel/Documents/data-swissbib-no-backup/oxford1/";
 
 //indir=".";
 
-//indir="/home/lionel/Documents/data-swissbib-no-backup/cambridge/cambridge-xml/";
+indir="/home/lionel/Documents/data-swissbib-no-backup/cambridge/cambridge-xml/";
 
 //indir="/home/lionel/Documents/data-swissbib-no-backup/gruyter/";
 
@@ -25,7 +25,7 @@ read-dir(recursive="true")|
 
 //filter-strings("addressSample.xml")|
 
-//filter-strings(".*SEMANT.*")|
+//filter-strings(".*ANT.*")|
 
 catch-object-exception |
 open-file|
@@ -37,7 +37,6 @@ generic-xml-handle-dtd ("article") |
 morph(FLUX_DIR + "jatsToElasticSearchMorph.xml")|
 change-id("id")|
 catch-stream-exception |
-encode-esbulk(escapeChars="true", header="true", index="oxford-v6", type="article")|
+encode-esbulk(escapeChars="true", header="true", index="cambridge-v7", type="article")|
 index-esbulk(esNodes="localhost:9300", esClustername="elasticsearch", recordsPerUpload="1000");
-//write-esbulk(baseOutDir="./", fileSize="10000", jsonCompliant="true");
 //write(out);
