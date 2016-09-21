@@ -26,11 +26,16 @@ import metadataCorrections
 es = Elasticsearch()
 targetDirectoryCSV = "../title-lists/"
 
+
+
+
 # elasticsearch request
 request = {
     "query" : {
-        "range" : {
-            "pyear" : {"lte" : 2015}
+        "bool": {
+            "must" : {"range" : { "pyear" : {"lte" : 2015}}},
+            "must_not" : {"match" : { "article-title" : "frontmatter"}},
+            "must_not" : {"match" : { "article-title" : "titelei"}}
         }
     },
     "aggs": {
@@ -73,7 +78,8 @@ request = {
                 "min_volume" : {"min" : { "field" : "volume-number"}},
                 "max_volume" : {"max" : { "field" : "volume-number"}},
 
-                "number_of_years" : {"cardinality" : { "field" : "pyear"}}
+                "number_of_years" : {"cardinality" : { "field" : "pyear"}},
+                "number_of_volumes" : {"cardinality" : { "field" : "volume-number"}}
 
             }
         }
@@ -274,8 +280,8 @@ postJournalUrl= {
 
 
 
-for publisher in ["gruyter", "oxford", "cambridge","oxford2"]:
-#for publisher in ["gruyter"]:
+#for publisher in ["gruyter", "oxford", "cambridge","oxford2"]:
+for publisher in ["gruyter"]:
 
     index_to_query=publisher
 
@@ -308,7 +314,9 @@ for publisher in ["gruyter", "oxford", "cambridge","oxford2"]:
         "cardinality",
         "missing years",
         "min_volume",
-        "max_volume"])
+        "max_volume",
+        "cardinality-volumes",
+        "number of missing volumes"])
 
 
     #--- Public Title List ---
@@ -369,6 +377,8 @@ for publisher in ["gruyter", "oxford", "cambridge","oxford2"]:
 
 
 
+
+
     for x in result["aggregations"]["journal_agg"]["buckets"]:
 
 
@@ -377,8 +387,8 @@ for publisher in ["gruyter", "oxford", "cambridge","oxford2"]:
         if publisher== "cambridge" and x["key"]== "tia":
             #this journal has a problem, we skip it
             continue
-        if publisher== "gruyter" and x["key"]== "crll.1":
-            #this journal has a problem, we skip it
+        if publisher== "gruyter" and (x["key"] in metadataCorrections.gruyter_journals_to_skip):
+            #these journals shouldn't be included, we skip them
             continue
 
 
@@ -419,13 +429,6 @@ for publisher in ["gruyter", "oxford", "cambridge","oxford2"]:
         max_year=int(x["max_year"]["value"])
 
 
-        ## 10.5.2016 : De Gruyter has only delivered metadata up to 2014
-        ## we set end year to 2015 except for the journals that stop in 2014 and we increase the last volume by one
-        publisher_stops_2014=("georgejb","jga","omz","mel")
-        if publisher== "gruyter" and max_year==2014 and x["key"] not in publisher_stops_2014:
-            max_year=2015
-            if max_volume!= "":
-                max_volume=max_volume+1
 
 
         ## This is meant to correct some of Cambridge errors
@@ -445,6 +448,10 @@ for publisher in ["gruyter", "oxford", "cambridge","oxford2"]:
                 min_year=metadataCorrections.gruyter_correct_start_year[x["key"]]
             if metadataCorrections.gruyter_correct_start_volume.has_key(x["key"]):
                 min_volume=metadataCorrections.gruyter_correct_start_volume[x["key"]]
+            if metadataCorrections.gruyter_correct_end_year.has_key(x["key"]):
+                max_year=metadataCorrections.gruyter_correct_end_year[x["key"]]
+            if metadataCorrections.gruyter_correct_end_volume.has_key(x["key"]):
+                max_volume=metadataCorrections.gruyter_correct_end_volume[x["key"]]
 
         keyforurl=x["key"]
 
@@ -452,6 +459,10 @@ for publisher in ["gruyter", "oxford", "cambridge","oxford2"]:
         if publisher== "gruyter" and re.search("\d$", keyforurl):
             #this will replace text.1 by text and bchm2 by bchm
             keyforurl=keyforurl[0:keyforurl.find(".")]
+
+        if publisher== "gruyter" and keyforurl=="flih":
+            #this will replace text.1 by text and bchm2 by bchm
+            keyforurl="flin"
 
         #corrections for Oxford
         if (publisher == "oxford" or publisher=="oxford2") and oxford_urlkey.has_key(keyforurl):
@@ -491,7 +502,9 @@ for publisher in ["gruyter", "oxford", "cambridge","oxford2"]:
                              x["number_of_years"]["value"],
                              int(x["max_year"]["value"] or 0) - int(x["min_year"]["value"] or 0) + 1 - int(x["number_of_years"]["value"] or 0),
                              min_volume,
-                             max_volume
+                             max_volume,
+                             x["number_of_volumes"]["value"],
+                             int(max_volume or 0) - int(min_volume or 0) + 1 - int(x["number_of_volumes"]["value"] or 0)
                              ])
 
 
