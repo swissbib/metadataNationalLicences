@@ -26,15 +26,18 @@
 #    │        │   └── abpr.1977.3.4.270.xml
 
 
-
-
-SOURCE_DIRECTORY=/media/lionel/Data/swissbib-data/degruyter/original_zip/
-TARGET_DIRECTORY=/media/lionel/Data/swissbib-data/degruyter/extracted/
-
+if [ $# -ne 2 ]
+then
+   echo "Usage: $0 SOURCE_DIRECTORY TARGET_DIRECTORY"
+   exit 1
+else
+   SOURCE_DIRECTORY=$1
+   TARGET_DIRECTORY=$2
+fi
 
 cd $SOURCE_DIRECTORY
 #don't extract table of contents for issues
-unzip "*.zip" -d $TARGET_DIRECTORY -x */issue-files/*
+unzip -q "*.zip" -d $TARGET_DIRECTORY -x */issue-files/*
 
 
 
