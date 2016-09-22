@@ -13,7 +13,7 @@ default out = "stdout";
 
 //indir=".";
 
-indir="/home/lionel/Documents/data-swissbib-no-backup/cambridge/cambridge-xml/";
+indir="/home/lionel/Documents/data-swissbib-no-backup/gruyter/";
 
 //indir="/home/lionel/Documents/data-swissbib-no-backup/gruyter/";
 
@@ -23,7 +23,7 @@ indir="/home/lionel/Documents/data-swissbib-no-backup/cambridge/cambridge-xml/";
 indir|
 read-dir(recursive="true")|
 
-//filter-strings("addressSample.xml")|
+filter-strings("gruyter-2nd-delivery.xml")|
 
 //filter-strings(".*ANT.*")|
 
@@ -37,6 +37,6 @@ generic-xml-handle-dtd ("article") |
 morph(FLUX_DIR + "jatsToElasticSearchMorph.xml")|
 change-id("id")|
 catch-stream-exception |
-encode-esbulk(escapeChars="true", header="true", index="cambridge-v7", type="article")|
+encode-esbulk(escapeChars="true", header="true", index="gruyter-v6", type="article")|
 index-esbulk(esNodes="localhost:9300", esClustername="elasticsearch", recordsPerUpload="1000");
 //write(out);
