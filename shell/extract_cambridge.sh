@@ -15,10 +15,17 @@
 # the zip ACL1.zip has the following structure
 # in /app/cjo/content/ACL/ACL1/ you can find all the articles
 
+if [ $# -ne 2 ]
+then
+   echo "Usage: $0 SOURCE_DIRECTORY TARGET_DIRECTORY"
+   exit 1
+else
+   SOURCE_DIRECTORY=$1
+   TARGET_DIRECTORY=$2
+fi
 
 
-SOURCE_DIRECTORY=/media/lionel/Data/swissbib-data/cambridge/original_zip/
-TARGET_DIRECTORY=/media/lionel/Data/swissbib-data/cambridge/extracted/
+
 
 
 cd $SOURCE_DIRECTORY

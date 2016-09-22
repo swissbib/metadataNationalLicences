@@ -1,14 +1,16 @@
 #!/bin/bash
 
-./extract_cambridge.sh
-./rename_cambridge.sh
-./transform_records_cambridge.sh
 
-cd /var/swissbib/dbbu/nationallizenzen/transformed/cambridge
+DATA_BASE_DIR=/media/lionel/Data/swissbib-data/nationallizenzen/
+CODE_BASE_DIR=/home/lionel/Documents/mycloud/swissbib/git_repo/metadataNationalLicences/
+DTD_DIRECTORY=/home/lionel/Documents/mycloud/swissbib/dtd/
 
-find . -name "*.xml" -type f -exec xmllint --noout --dropdtd --dtdvalid ../../dtd/JATS-Archiving-1-1-OASIS-MathML3-DTD/JATS-archive-oasis-article1-mathml3.dtd --nowarning 1>>log.txt 2>>error-validation.txt {} \;
-grep -ohr "^\..*xml" error-validation.txt | sort | uniq | wc -l >>report.txt
-echo "invalid files">>report.txt
-echo " ">>report.txt
-echo "Most common errors: ">>report.txt
-more error-validation.txt | sed -e's/^[^:]*:[0-9]*://g' | sort | uniq -ci | sort -nr >> report.txt
+PUBLISHER=cambridge
+SOURCE_DIRECTORY=$DATA_BASE_DIR/$PUBLISHER/source/delivery_2016_08_29/
+EXTRACTED_DIR=$DATA_BASE_DIR/$PUBLISHER/extracted/
+SWISSBIB_JATS_DIR=$DATA_BASE_DIR/$PUBLISHER/swissbib-jats/
+XSLT_DIRECTORY=$CODE_BASE_DIR/xslt/
+
+./extract_cambridge.sh $SOURCE_DIRECTORY $EXTRACTED_DIR
+./rename_cambridge.sh $EXTRACTED_DIR
+./transform_records_cambridge.sh $EXTRACTED_DIR $SWISSBIB_JATS_DIR $XSLT_DIRECTORY $DTD_DIRECTORY
