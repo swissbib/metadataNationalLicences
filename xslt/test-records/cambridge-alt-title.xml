@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article
+        xmlns:xlink="http://www.w3.org/1999/xlink" article-type="book-review" dtd-version="2.2">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">UTI</journal-id>
+            <journal-title>Utilitas</journal-title>
+            <abbrev-journal-title>Utilitas</abbrev-journal-title>
+            <issn pub-type="ppub">0953-8208</issn>
+            <issn pub-type="epub">1741-6183</issn>
+            <publisher>
+                <publisher-name>Cambridge University Press</publisher-name>
+                <publisher-loc>Cambridge, UK</publisher-loc>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.1017/S0953820811000197</article-id>
+            <article-id pub-id-type="pii">S0953820811000197</article-id>
+            <article-id pub-id-type="publisher-id">00019</article-id>
+            <title-group>
+                <article-title/>
+                <alt-title alt-title-type="left-running">Book ReviewsL</alt-title>
+                <alt-title alt-title-type="right-running">Book ReviewsR</alt-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>TOLONEN</surname>
+                        <given-names>MIKKO</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="aff001"/>
+                </contrib>
+            </contrib-group>
+            <aff id="aff001">
+                <institution>University of Helsinki</institution>
+            </aff>
+            <pub-date pub-type="epub">
+                <year>2011</year>
+                <month>08</month>
+                <day>17</day>
+            </pub-date>
+            <pub-date pub-type="ppub">
+                <month>09</month>
+                <year>2011</year>
+            </pub-date>
+            <volume>23</volume>
+            <issue>3</issue>
+            <fpage seq="9">352</fpage>
+            <lpage>354</lpage>
+            <product product-type="book">
+                <target id="ref1" target-type="product"/>
+                <name>
+                    <surname>Baier</surname>
+                    <given-names>Annette C.</given-names>
+                </name>,
+                <source>The Cautious Jealous Virtue: Hume on Justice</source> (
+                <publisher-loc>Cambridge, Mass.</publisher-loc>:
+                <publisher-name>Harvard University Press</publisher-name>,
+                <year>2010</year>), pp. xii +
+                <fpage>261</fpage>.
+            </product>
+            <permissions>
+                <copyright-statement>Copyright © Cambridge University Press 2011</copyright-statement>
+                <copyright-year>2011</copyright-year>
+                <copyright-holder>Cambridge University Press</copyright-holder>
+            </permissions>
+            <counts>
+                <page-count count="3"/>
+            </counts>
+            <custom-meta-wrap>
+                <custom-meta>
+                    <meta-name>pdf</meta-name>
+                    <meta-value>S0953820811000197a.pdf</meta-value>
+                </custom-meta>
+            </custom-meta-wrap>
+        </article-meta>
+    </front>
+</article>

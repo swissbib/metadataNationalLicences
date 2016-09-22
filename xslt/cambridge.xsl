@@ -22,16 +22,37 @@
         <alt-title alt-title-type="right-running">Book Reviews</alt-title>
     </title-group>
 
-    if article-title is empty, fill it with <alt-title alt-title-type="left-running"
+    if article-title is empty, fill it with <alt-title alt-title-type="left-running" or <alt-title alt-title-type="left-running"
 
     -->
 
     <xsl:template match="/article/front/article-meta/title-group/article-title[normalize-space()='']" priority="1.0">
-        <xsl:for-each select="/article/front/article-meta/title-group/alt-title[@alt-title-type='left-running']">
+        <xsl:for-each select="/article/front/article-meta/title-group/alt-title[(@alt-title-type='left-running' or @alt-title-type='right-running')][last()]">
             <xsl:element name="article-title">
                 <xsl:value-of select="."></xsl:value-of>
             </xsl:element>
         </xsl:for-each>
+    </xsl:template>
+
+    <!-- a lot of book reviews at cambridge have empty titles, the title is in
+    <product product-type="book">
+            <name name-style="western">
+               <surname>Boardman</surname>
+               <given-names>J.</given-names>
+            </name>: <source>Athenian black-figure vases: a handbook</source>. <publisher-loc>London</publisher-loc>:
+            <publisher-name>Thames and Hudson (World of Art Library)</publisher-name>, <year>1974</year>. <fpage>252 pp.</fpage>
+            , 383 illustrations. £2.50.</product>
+
+    -->
+
+
+    <xsl:template match="/article/front/article-meta/title-group/article-title[normalize-space()='']" priority="1.0">
+        <xsl:if test="/article[@article-type='book-review']">
+            <xsl:element name="article-title">
+                <xsl:text>Book Review : </xsl:text>
+                <xsl:value-of select="normalize-space(concat(/article/front/article-meta/product))"></xsl:value-of>
+            </xsl:element>
+        </xsl:if>
     </xsl:template>
 
 </xsl:stylesheet>

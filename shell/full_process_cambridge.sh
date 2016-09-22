@@ -3,6 +3,7 @@
 ./extract_cambridge.sh
 ./rename_cambridge.sh
 ./transform_records_cambridge.sh
+
 cd /var/swissbib/dbbu/nationallizenzen/transformed/cambridge
 
 find . -name "*.xml" -type f -exec xmllint --noout --dropdtd --dtdvalid ../../dtd/JATS-Archiving-1-1-OASIS-MathML3-DTD/JATS-archive-oasis-article1-mathml3.dtd --nowarning 1>>log.txt 2>>error-validation.txt {} \;
