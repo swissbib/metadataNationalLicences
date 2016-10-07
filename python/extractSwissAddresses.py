@@ -36,6 +36,9 @@ def match(someText, arrayOfStrings):
 es = Elasticsearch()
 targetDirectoryCSV = "."
 
+query_term="switzerland"
+index_to_search="cambridge-v7"
+
 # elasticsearch request
 request = {
     "query" : {
@@ -43,7 +46,7 @@ request = {
             "query": {
                 "bool": {
                     "should": [
-                        { "match": { "affiliations": "switzerland"   }}
+                        { "match": { "affiliations": query_term   }}
 
                     ]
                 }
@@ -53,15 +56,15 @@ request = {
 }
 
 
-result = es.search(body=request, index="all", doc_type="article", scroll="1m")
+result = es.search(body=request, index=index_to_search, doc_type="article", scroll="1m")
 
 
 #--- Extended Title List for analysis ---
-filename="swissAddresses.csv"
+filename=query_term+"_"+index_to_search+"_Adresses.csv"
 article_list = csv.writer(open(filename, "wb+"), dialect="excel")
 #csv header
 article_list.writerow([
-    "First Swiss Address",
+    "First "+query_term+" Address",
     "Institution Guess",
     "doi",
     "url",
@@ -105,7 +108,7 @@ while len(result["hits"]["hits"])>0:
         if "better-aff1" in article:
             if isinstance(article["better-aff1"], list):
                 for address in article["better-aff1"]:
-                    if address.lower().find("switzerland")>=0:
+                    if address.lower().find(query_term)>=0:
                         firstSwissAddress=address
 
             else:
@@ -125,22 +128,32 @@ while len(result["hits"]["hits"])>0:
             ):
             institutionGuess="EPFL"
 
-        if match(firstSwissAddress,['universit', 'basel']):
+        if (match(firstSwissAddress,['universit', 'basel']) or
+            match(firstSwissAddress,['hospital', 'basel'])
+            ):
             institutionGuess="University of Basel"
 
         if match(firstSwissAddress,['universit', 'fribourg']):
             institutionGuess="University of Fribourg"
 
-        if match(firstSwissAddress,['universit', 'zurich']):
+        if (match(firstSwissAddress,['universit', 'zurich']) or
+            match(firstSwissAddress,['hospital', 'zurich'])
+            ):
             institutionGuess="University of Zurich"
 
-        if match(firstSwissAddress,['universit', 'lausanne']):
+        if (match(firstSwissAddress,['universit', 'lausanne']) or
+            match(firstSwissAddress,['hospital', 'lausanne']) or
+            match(firstSwissAddress,['chuv', 'lausanne'])
+            ):
             institutionGuess="University of Lausanne"
 
         if match(firstSwissAddress,['universit', 'gall']):
             institutionGuess="University of St-Gall"
 
-        if match(firstSwissAddress,['universit', 'bern']):
+        if (match(firstSwissAddress,['universit', 'bern']) or
+            match(firstSwissAddress,['hospital', 'bern']) or
+                match(firstSwissAddress,['inselspital', 'bern'])
+            ):
             institutionGuess="University of Bern"
 
         if (match(firstSwissAddress,['universit', 'lucerne']) or
@@ -148,7 +161,9 @@ while len(result["hits"]["hits"])>0:
             ):
             institutionGuess="University of Lucerne"
 
-        if match(firstSwissAddress,['universit', 'genev']):
+        if (match(firstSwissAddress,['universit', 'genev']) or
+            match(firstSwissAddress,['hospital', 'genev'])
+            ):
             institutionGuess="University of Geneva"
 
         article_list.writerow([
