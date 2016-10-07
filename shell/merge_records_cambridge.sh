@@ -7,8 +7,8 @@ COUNTER=0
 #TARGET_DIRECTORY=/home/lionel/Documents/swissbib/testdata/testdata_nationallizenzen/springer-three-journals/merged/
 
 #prod
-SOURCE_DIRECTORY=/media/lionel/Data/swissbib-data/cambridge/extracted/app/cjo/sgml-in-xml-converted/
-TARGET_DIRECTORY=/home/lionel/Documents/data-swissbib-no-backup/cambridge/cambridge-sgml/
+SOURCE_DIRECTORY=/media/lionel/Data/swissbib-data/nationallizenzen/cambridge/swissbib-jats/
+TARGET_DIRECTORY=/home/lionel/Documents/data-swissbib-no-backup/cambridge/swissbib-jats/
 
 function merge_records ()
 {   # merge all the xml files of a subdirectory like 1213/. 
