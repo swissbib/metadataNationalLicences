@@ -263,14 +263,14 @@ oxford_urlkey={
 
 baseJournalUrl = {
     "gruyter":"http://www.degruyter.com/view/j/",
-    "cambridge":"http://journals.cambridge.org/action/displayJournal?jid=",
+    "cambridge":"http://www.cambridge.org/core/product/identifier/",
     "oxford":"http://",
     "oxford2":"http://"
 }
 
 postJournalUrl= {
     "gruyter":"",
-    "cambridge":"",
+    "cambridge":"/type/JOURNAL",
     "oxford":".oxfordjournals.org",
     "oxford2":".oxfordjournals.org"
 }
@@ -281,7 +281,7 @@ postJournalUrl= {
 
 
 #for publisher in ["gruyter", "oxford", "cambridge","oxford2"]:
-for publisher in ["gruyter"]:
+for publisher in ["cambridge"]:
 
     index_to_query=publisher
 
