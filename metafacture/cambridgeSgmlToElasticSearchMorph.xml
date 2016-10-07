@@ -111,6 +111,14 @@
             <data source="*ARTCON.GENHDR.AUG.AFF.*" name="aff"/>
         </combine>
 
+        <!-- Better Affiliations -->
+        <concat name="better-aff1" flushWith="*ARTCON.GENHDR.AUG.AFF" reset="true">
+            <data source="*ARTCON.GENHDR.AUG.AFF.value"/>
+            <data source="*ARTCON.GENHDR.AUG.AFF.OID.value"/>
+            <data source="*ARTCON.GENHDR.AUG.AFF.OID.ONM.value"/>
+            <data source="*ARTCON.GENHDR.AUG.AFF.OID.CNY.value"/>
+        </concat>
+
 
         <data name="source-format" source="_id">
             <constant value="sgml"/>

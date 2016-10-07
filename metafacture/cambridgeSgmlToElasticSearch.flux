@@ -25,6 +25,6 @@ generic-xml-handle-dtd ("HEADER") |
 morph(FLUX_DIR + "cambridgeSgmlToElasticSearchMorph.xml")|
 change-id("id")|
 catch-stream-exception |
-encode-esbulk(escapeChars="true", header="true", index="cambridge-v5", type="article")|
+encode-esbulk(escapeChars="true", header="true", index="cambridge-v7", type="article")|
 index-esbulk(esNodes="localhost:9300", esClustername="elasticsearch", recordsPerUpload="1000");
 //write(out);
