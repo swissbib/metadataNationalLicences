@@ -102,6 +102,19 @@
     <!-- does nothing by default, but this can be overriden in templates that import this stylesheet -->
     <xsl:template name="article-custom-meta"></xsl:template>
 
+    <xsl:template match="/article/front/article-meta/article-id[@pub-id-type='doi']">
+        <xsl:copy>
+            <xsl:copy-of select="@*"></xsl:copy-of>
+            <xsl:choose>
+                <xsl:when test="starts-with(., 'doi:')">
+                    <xsl:value-of select="substring-after(., 'doi:')" />
+                </xsl:when>
+                <xsl:otherwise>
+                    <xsl:value-of select="." />
+                </xsl:otherwise>
+            </xsl:choose>
+        </xsl:copy>
+    </xsl:template>
 
 
 
