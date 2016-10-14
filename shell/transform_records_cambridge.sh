@@ -16,7 +16,7 @@ fi
 #xml only, no sgml
 
 cd $SOURCE_DIRECTORY
-find . -name *.xml -exec  xsltproc -o $TARGET_DIRECTORY{} $DTD_DIRECTORY/cambridge.xsl {} \;
+find . -name *.xml -exec  xsltproc -o $TARGET_DIRECTORY{} --stringparam filename {} $XSLT_DIRECTORY/cambridge.xsl {} \;
 
 #test the validity and write a small report
 

@@ -9,9 +9,9 @@ REPORTS=/home/lionel/Documents/mycloud/swissbib/git_repo/metadataNationalLicence
 PUBLISHER=gruyter
 
 SRC_DIR=$DATA_BASE_DIR/$PUBLISHER/source/delivery_2016_08_29/
-EXTRACTED_DIR=$DATA_BASE_DIR/$PUBLISHER/extracted/
+EXTRACTED_DIR=$DATA_BASE_DIR/$PUBLISHER/extracted/j/abitech.2001.21.3/
 REPORT_DIR=$REPORTS/gruyter2/
-SWISSBIB_JATS_DIR=$DATA_BASE_DIR/$PUBLISHER/swissbib-jats/
+SWISSBIB_JATS_DIR=$DATA_BASE_DIR/$PUBLISHER/swissbib-jats-test/
 XSLT_DIRECTORY=$CODE_BASE_DIR/xslt/
 DTD_DIRECTORY=/home/lionel/Documents/mycloud/swissbib/dtd/
 

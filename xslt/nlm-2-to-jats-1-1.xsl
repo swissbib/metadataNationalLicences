@@ -2,6 +2,9 @@
 
     <xsl:output method="xml" doctype-public="-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with OASIS Tables with MathML3 v1.1 20151215//EN" doctype-system="JATS-archive-oasis-article1-mathml3.dtd" indent="yes" />
 
+    <!-- to store the original path/filename -->
+    <xsl:param name="filename"></xsl:param>
+
 
     <!-- keys and variable to wrap all permissions in the new JATS permissions tag -->
     <xsl:key name="permissions"
@@ -69,7 +72,11 @@
                     </xsl:otherwise>
                 </xsl:choose>
             </xsl:for-each>
-            <xsl:call-template name="article-custom-meta"></xsl:call-template>
+            <xsl:if test="not(/article/front/article-meta/custom-meta-group) and not(/article/front/article-meta/custom-meta-wrap)">
+                <xsl:element name="custom-meta-group">
+                    <xsl:call-template name="add-local-article-custom-meta"></xsl:call-template>
+                </xsl:element>
+            </xsl:if>
         </xsl:copy>
 
 
@@ -96,11 +103,39 @@
     <xsl:template match="custom-meta-wrap">
         <xsl:element name="custom-meta-group">
             <xsl:apply-templates/>
+            <xsl:call-template name="add-local-article-custom-meta"></xsl:call-template>
         </xsl:element>
     </xsl:template>
 
+    <xsl:template match="custom-meta-group">
+        <xsl:copy>
+            <xsl:apply-templates/>
+            <xsl:call-template name="add-local-article-custom-meta"></xsl:call-template>
+        </xsl:copy>
+    </xsl:template>
+
     <!-- does nothing by default, but this can be overriden in templates that import this stylesheet -->
-    <xsl:template name="article-custom-meta"></xsl:template>
+    <xsl:template name="add-local-article-custom-meta">
+        <xsl:call-template name="metadata-filename"></xsl:call-template>
+        <xsl:call-template name="pdf-filename"></xsl:call-template>
+    </xsl:template>
+
+    <xsl:template name="metadata-filename">
+        <xsl:if test="$filename">
+            <xsl:element name="custom-meta">
+                <xsl:element name="meta-name">(swissbib)metadata-filename</xsl:element>
+                <xsl:element name="meta-value"><xsl:value-of select="$filename"></xsl:value-of></xsl:element>
+            </xsl:element>
+        </xsl:if>
+    </xsl:template>
+
+    <!-- overriden in templates which import that -->
+    <xsl:template name="pdf-filename"></xsl:template>
+
+
+
+
+
 
     <xsl:template match="/article/front/article-meta/article-id[@pub-id-type='doi']">
         <xsl:copy>
