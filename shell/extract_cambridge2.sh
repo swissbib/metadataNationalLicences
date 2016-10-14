@@ -37,7 +37,7 @@ while read fullname; do
 	#the tar gz files don't have an issue directory, there is only an abstracts directory
 	CHILD_DIRECTORY="$(echo $FILENAME | sed 's/\.zip//g')"
 	mkdir -p "$TARGET_DIRECTORY""$PARENT_DIRECTORY"/"$CHILD_DIRECTORY"
-	unzip -o -d "$TARGET_DIRECTORY""$PARENT_DIRECTORY"/"$CHILD_DIRECTORY" "$fullname"
+	unzip -oq -d "$TARGET_DIRECTORY""$PARENT_DIRECTORY"/"$CHILD_DIRECTORY" "$fullname"
 done;
 }
 
