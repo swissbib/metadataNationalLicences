@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+   <article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="book-review" dtd-version="0.4" xml:lang="en">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">AQY</journal-id>
+         <journal-title-group>
+            <journal-title xml:lang="en">Antiquity</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">Antiquity</abbrev-journal-title>
+         </journal-title-group>
+         <issn pub-type="ppub">0003-598X</issn>
+         <issn pub-type="epub">1745-1744</issn>
+         <publisher>
+            <publisher-name>Cambridge University Press</publisher-name>
+            <publisher-loc>Cambridge, UK</publisher-loc>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">doi:10.1017/S0003598X00058385</article-id>
+         <article-id pub-id-type="pii">S0003598X00058385</article-id>
+         <article-id pub-id-type="publisher-id">05838</article-id>
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>Reviews</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title/>
+         </title-group>
+         <contrib-group content-type="authors">
+            <contrib>
+               <name name-style="western">
+                  <surname>Fleming</surname>
+                  <given-names>Andrew</given-names>
+               </name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <month>12</month>
+            <year>1974</year>
+         </pub-date>
+         <volume>48</volume>
+         <issue>192</issue>
+         <fpage seq="14">322</fpage>
+         <lpage>323</lpage>
+         <product product-type="book">
+            <name name-style="western">
+               <surname>Daniel</surname>
+               <given-names>Glyn</given-names>
+            </name> and <name name-style="western">
+               <surname>Kjærum</surname>
+               <given-names>Poul</given-names>
+            </name> (eds.): <source>Megalithic graves and ritual. Papers presented at the III Atlantic Colloquium, Moesgård 1969</source>. <publisher-loc>Copenhagen</publisher-loc>: <publisher-name>Jutland Archaeological Society Publications XI</publisher-name>, <year>1973</year>. <fpage>229 pp.</fpage>, 131 illustrations (pls., figs. and maps). DKr.115.</product>
+         <permissions>
+            <copyright-statement>Copyright © Antiquity Publications Ltd 1974</copyright-statement>
+            <copyright-year>1974</copyright-year>
+            <copyright-holder>Antiquity Publications Ltd</copyright-holder>
+         </permissions>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>pdf</meta-name>
+               <meta-value>S0003598X00058385aaaaa.pdf</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>
