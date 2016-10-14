@@ -118,6 +118,7 @@
     <xsl:template name="add-local-article-custom-meta">
         <xsl:call-template name="metadata-filename"></xsl:call-template>
         <xsl:call-template name="pdf-filename"></xsl:call-template>
+        <xsl:call-template name="source"></xsl:call-template>
     </xsl:template>
 
     <xsl:template name="metadata-filename">
@@ -131,6 +132,7 @@
 
     <!-- overriden in templates which import that -->
     <xsl:template name="pdf-filename"></xsl:template>
+    <xsl:template name="source"></xsl:template>
 
 
 

@@ -68,6 +68,13 @@
         </xsl:for-each>
     </xsl:template>
 
+    <xsl:template name="source">
+        <xsl:element name="custom-meta">
+            <xsl:element name="meta-name">(swissbib)source</xsl:element>
+            <xsl:element name="meta-value">gruyter</xsl:element>
+        </xsl:element>
+    </xsl:template>
+
 
 
 

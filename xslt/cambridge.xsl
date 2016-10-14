@@ -19,13 +19,14 @@
         </xsl:element>
     </xsl:template>
 
-
-    <!--xsl:template match="/article/front/article-meta/custom-meta-wrap[custom-meta/meta-value[preceding-sibling::meta-name='pdf']]">
-        <xsl:element name="self-uri">
-            <xsl:attribute name="content-type">pdf</xsl:attribute>
-            <xsl:attribute name="xlink:href"><xsl:value-of select="custom-meta/meta-value"/></xsl:attribute>
+    <xsl:template name="source">
+        <xsl:element name="custom-meta">
+            <xsl:element name="meta-name">(swissbib)source</xsl:element>
+            <xsl:element name="meta-value">cambridge</xsl:element>
         </xsl:element>
-    </xsl:template -->
+    </xsl:template>
+
+
 
 
     <!-- deal with the following problem (invalid xml from cambridge)
