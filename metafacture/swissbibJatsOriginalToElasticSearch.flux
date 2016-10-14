@@ -3,11 +3,15 @@
 //-------------------------------------
 
 indir = "/home/lionel/Documents/data-swissbib-no-backup/merged-swissbib-jats/gruyter";
+default out = "stdout";
 
 
 
 indir|
 read-dir(recursive="true")|
+
+//filter-strings(".*gruyter-test.*")|
+
 catch-object-exception |
 open-file| 
 decode-xml | 
@@ -18,3 +22,4 @@ change-id("front.article-meta.article-id.value")|
 catch-stream-exception |
 encode-esbulk(escapeChars="true", header="true", index="gruyter-original", type="article")|
 index-esbulk(esNodes="localhost:9300", esClustername="elasticsearch", recordsPerUpload="10000");
+//write(out);

@@ -1,5 +1,4 @@
 {
-  "gruyter-original" : {
     "mappings" : {
       "article" : {
         "properties" : {
@@ -6772,7 +6771,8 @@
                             }
                           },
                           "value" : {
-                            "type" : "string"
+                            "type" : "string",
+                            "index" : "not_analyzed"
                           },
                           "xref" : {
                             "properties" : {
@@ -8893,8 +8893,7 @@
                         "type" : "string"
                       },
                       "value" : {
-                        "type" : "date",
-                        "format" : "strict_date_optional_time||epoch_millis"
+                        "type" : "string"
                       }
                     }
                   },
@@ -8984,5 +8983,5 @@
         }
       }
     }
-  }
+
 }
