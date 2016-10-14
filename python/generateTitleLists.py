@@ -461,8 +461,10 @@ for publisher in ["cambridge"]:
             keyforurl=keyforurl[0:keyforurl.find(".")]
 
         if publisher== "gruyter" and keyforurl=="flih":
-            #this will replace text.1 by text and bchm2 by bchm
             keyforurl="flin"
+
+        if publisher== "gruyter" and keyforurl=="mdr":
+            keyforurl="mfir"
 
         #corrections for Oxford
         if (publisher == "oxford" or publisher=="oxford2") and oxford_urlkey.has_key(keyforurl):
