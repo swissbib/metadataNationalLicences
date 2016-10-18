@@ -64,8 +64,7 @@
     <xsl:template match="/article/front/article-meta/title-group/article-title[normalize-space()='']" priority="1.0">
         <xsl:if test="/article[@article-type='book-review']">
             <xsl:element name="article-title">
-                <xsl:text>Book Review : </xsl:text>
-                <xsl:value-of select="normalize-space(concat(/article/front/article-meta/product))"></xsl:value-of>
+                <xsl:value-of select="normalize-space(concat('Book Review : ',/article/front/article-meta/product))"></xsl:value-of>
             </xsl:element>
         </xsl:if>
     </xsl:template>
