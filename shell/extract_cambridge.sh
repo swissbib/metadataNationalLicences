@@ -31,6 +31,9 @@ fi
 cd $SOURCE_DIRECTORY
 #don't extract table of contents for issues
 find . -name "*.zip" | while read filename; do unzip -oq -d $TARGET_DIRECTORY "$filename"; done;
+cd $TARGET_DIRECTORY
+mv app/cjo/content/* .
+rmdir app/cjo/content
 
 
 
