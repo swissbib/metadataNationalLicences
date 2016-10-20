@@ -21,9 +21,9 @@ XSLT_DIRECTORY=$CODE_BASE_DIR/xslt/
 DTD_DIRECTORY=$CODE_BASE_DIR/dtd/
 
 
-./extract_cambridge.sh $SRC_DIR/delivery_2016_02_26/ $EXTRACTED_DIR
-./extract_cambridge2.sh $SRC_DIR/delivery_2016_09_07/ $EXTRACTED_DIR
-./extract_cambridge2.sh $SRC_DIR/delivery_2016_09_13/ $EXTRACTED_DIR
+#./extract_cambridge.sh $SRC_DIR/delivery_2016_02_26/ $EXTRACTED_DIR
+#./extract_cambridge2.sh $SRC_DIR/delivery_2016_09_07/ $EXTRACTED_DIR
+#./extract_cambridge2.sh $SRC_DIR/delivery_2016_09_13/ $EXTRACTED_DIR
 
-./rename_cambridge.sh $EXTRACTED_DIR
+#./rename_cambridge.sh $EXTRACTED_DIR
 ./transform_records_cambridge.sh $EXTRACTED_DIR $SWISSBIB_JATS_DIR $XSLT_DIRECTORY $DTD_DIRECTORY

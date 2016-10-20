@@ -23,9 +23,9 @@ XSLT_DIRECTORY=$CODE_BASE_DIR/xslt/
 DTD_DIRECTORY=$CODE_BASE_DIR/dtd/
 
 
-./extract_gruyter.sh $SRC_DIR/delivery_2015_12_18/ $EXTRACTED_DIR
-./extract_gruyter.sh $SRC_DIR/delivery_2016_08_29/ $EXTRACTED_DIR
-./extract_gruyter.sh $SRC_DIR/delivery_2016_09_23/ $EXTRACTED_DIR
+#./extract_gruyter.sh $SRC_DIR/delivery_2015_12_18/ $EXTRACTED_DIR
+#./extract_gruyter.sh $SRC_DIR/delivery_2016_08_29/ $EXTRACTED_DIR
+#./extract_gruyter.sh $SRC_DIR/delivery_2016_09_23/ $EXTRACTED_DIR
 
 #./analysis_gruyter.sh $EXTRACTED_DIR $REPORT_DIR
 ./transform_records_gruyter.sh $EXTRACTED_DIR $SWISSBIB_JATS_DIR $XSLT_DIRECTORY $DTD_DIRECTORY

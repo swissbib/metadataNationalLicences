@@ -7,16 +7,17 @@
 
     <!-- store the pdf filename in self-uri -->
     <xsl:template name="pdf-filename">
-        <xsl:element name="custom-meta">
-            <!-- with custom-meta-group -->
-            <xsl:if test="
+        <xsl:if test="
             /article/front/article-meta/custom-meta-group[custom-meta/meta-value[preceding-sibling::meta-name='pdf']] or
             /article/front/article-meta/custom-meta-wrap[custom-meta/meta-value[preceding-sibling::meta-name='pdf']]
             ">
-                <xsl:element name="meta-name">(swissbib)pdf-filename</xsl:element>
-                <xsl:element name="meta-value"><xsl:value-of select="custom-meta/meta-value"></xsl:value-of></xsl:element>
-            </xsl:if>
-        </xsl:element>
+            <xsl:element name="custom-meta">
+                <!-- with custom-meta-group -->
+
+                    <xsl:element name="meta-name">(swissbib)pdf-filename</xsl:element>
+                    <xsl:element name="meta-value"><xsl:value-of select="custom-meta/meta-value"></xsl:value-of></xsl:element>
+            </xsl:element>
+        </xsl:if>
     </xsl:template>
 
     <xsl:template name="source">
