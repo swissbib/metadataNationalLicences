@@ -1,86 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with OASIS Tables with MathML3 v1.1 20151215//EN" "JATS-archive-oasis-article1-mathml3.dtd">
-<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         article-type="research-article" dtd-version="1.1" xml:lang="en">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="book-review" dtd-version="1.1" xml:lang="en">
     <front>
         <journal-meta>
-            <journal-id journal-id-type="publisher-id">acn</journal-id>
-            <journal-id journal-id-type="hwp">acn</journal-id>
+            <journal-id journal-id-type="publisher-id">AQY</journal-id>
             <journal-title-group>
-                <journal-title>Archives of Clinical Neuropsychology</journal-title>
+                <journal-title xml:lang="en">Antiquity</journal-title>
+                <abbrev-journal-title abbrev-type="publisher">Antiquity</abbrev-journal-title>
             </journal-title-group>
-            <issn pub-type="ppub">0887-6177</issn>
-            <issn pub-type="epub">1873-5843</issn>
+            <issn pub-type="ppub">0003-598X</issn>
+            <issn pub-type="epub">1745-1744</issn>
             <publisher>
-                <publisher-name>Oxford University Press</publisher-name>
+                <publisher-name>Cambridge University Press</publisher-name>
+                <publisher-loc>Cambridge, UK</publisher-loc>
             </publisher>
         </journal-meta>
         <article-meta>
-            <article-id pub-id-type="doi">10.1093/arclin/acv038</article-id>
-            <article-id pub-id-type="publisher-id">acv038</article-id>
+            <article-id pub-id-type="doi">10.1017/S0003598X00058385</article-id>
+            <article-id pub-id-type="pii">SSS0003598X00058385</article-id>
+            <article-id pub-id-type="publisher-id">05838</article-id>
             <article-categories>
                 <subj-group subj-group-type="heading">
-                    <subject>Original Empirical Articles</subject>
+                    <subject>Reviews</subject>
                 </subj-group>
             </article-categories>
             <title-group>
-                <article-title>Impact of Education on Memory Deficits in Subclinical Depression</article-title>
+                <article-title>Book Review : Daniel Glyn and Kjærum Poul (eds.): Megalithic graves and ritual. Papers presented at the III Atlantic Colloquium, Moesgård 1969. Copenhagen: Jutland Archaeological Society Publications XI, 1973. 229 pp., 131 illustrations (pls., figs. and maps). DKr.115.</article-title>
             </title-group>
-            <contrib-group>
-                <contrib contrib-type="author">
-                    <name name-style="western"><surname>McLaren</surname><given-names>Molly E.</given-names></name>
-                    <xref ref-type="aff" rid="af1">1</xref>
+            <contrib-group content-type="authors">
+                <contrib>
+                    <name>
+                        <surname>Fleming</surname>
+                        <given-names>Andrew</given-names>
+                    </name>
                 </contrib>
-                <contrib contrib-type="author">
-                    <name name-style="western"><surname>Szymkowicz</surname><given-names>Sarah M.</given-names></name>
-                    <xref ref-type="aff" rid="af1">1</xref>
-                </contrib>
-                <contrib contrib-type="author">
-                    <name name-style="western"><surname>Kirton</surname><given-names>Joshua W.</given-names></name>
-                    <xref ref-type="aff" rid="af1">1</xref>
-                </contrib>
-                <contrib contrib-type="author">
-                    <name name-style="western"><surname>Dotson</surname><given-names>Vonetta M.</given-names></name>
-                    <xref ref-type="aff" rid="af1">1</xref>
-                    <xref ref-type="aff" rid="af2">2</xref>
-                    <xref ref-type="corresp" rid="cor1">*</xref>
-                </contrib>
-                <aff id="af1"><label>1</label><addr-line>Department of Clinical &amp; Health Psychology</addr-line>, <institution>University of Florida</institution>, <addr-line>Gainesville</addr-line>, <addr-line>FL</addr-line>, <country>USA</country></aff>
-                <aff id="af2"><label>2</label><addr-line>Department of Neuroscience</addr-line>, <institution>University of Florida</institution>, <addr-line>Gainesville, FL</addr-line>, <country>USA</country></aff>
             </contrib-group>
-            <author-notes>
-                <corresp id="cor1"><label>*</label>Corresponding author at: Department of Clinical &amp; Health Psychology, University of Florida, PO Box 100165, Gainesville, FL 32610-0165, USA. Tel.: +1-352-273-6041; fax: +1-352-273-6156. <italic toggle="yes">E-mail address:</italic> <email>vonetta@phhp.ufl.edu</email> (V.M. Dotson).</corresp>
-            </author-notes>
-            <pub-date pub-type="ppub"><month>08</month><year>2015</year></pub-date>
-            <pub-date pub-type="epub"><day>23</day><month>06</month><year>2015</year></pub-date>
-            <volume>30</volume>
-            <issue>5</issue>
-            <fpage>387</fpage>
-            <lpage>393</lpage>
-            <history>
-                <date date-type="accepted"><day>29</day><month>5</month><year>2015</year></date>
-            </history>
+            <pub-date pub-type="ppub">
+                <month>12</month>
+                <year>1974</year>
+            </pub-date>
+            <volume>48</volume>
+            <issue>192</issue>
+            <fpage seq="14">322</fpage>
+            <lpage>323</lpage>
+            <product product-type="book">
+                <name>
+                    <surname>Daniel</surname>
+                    <given-names>Glyn</given-names>
+                </name> and <name>
+                <surname>Kjærum</surname>
+                <given-names>Poul</given-names>
+            </name> (eds.): <source>Megalithic graves and ritual. Papers presented at the III Atlantic Colloquium, Moesgård 1969</source>. <publisher-loc>Copenhagen</publisher-loc>: <publisher-name>Jutland Archaeological Society Publications XI</publisher-name>, <year>1973</year>. <fpage>229 pp.</fpage>, 131 illustrations (pls., figs. and maps). DKr.115.</product>
             <permissions>
-                <copyright-statement>© The Author 2015. Published by Oxford University Press. All rights reserved. For permissions, please e-mail: journals.permissions@oup.com.</copyright-statement>
-                <copyright-year>2015</copyright-year>
+                <copyright-statement>Copyright © Antiquity Publications Ltd 1974</copyright-statement>
+                <copyright-year>1974</copyright-year>
+                <copyright-holder>Antiquity Publications Ltd</copyright-holder>
             </permissions>
-            <self-uri content-type="pdf" xlink:href="acv038.pdf"/>
-            <abstract>
-                <p>Elevated depressive symptoms are associated with cognitive deficits, while higher education protects against cognitive decline. This study was conducted to test if education level moderates the relationship between depressive symptoms and cognitive function. Seventy-three healthy, dementia-free adults aged 18–81 completed neuropsychological tests, as well as depression and anxiety questionnaires. Controlling for age, sex, and state anxiety, we found a significant interaction of depressive symptoms and education for immediate and delayed verbal memory, such that those with a higher education level performed well regardless of depressive symptomatology, whereas those with lower education and high depressive symptoms had worse performance. No effects were found for executive functioning or processing speed. Results suggest that education protects against verbal memory deficits in individuals with elevated depressive symptoms. Further research on cognitive reserve in depression-related cognitive deficits and decline is needed to understand the mechanisms behind this phenomenon.</p>
-            </abstract>
-            <kwd-group>
-                <kwd>Depressive symptoms</kwd>
-                <kwd>Cognition</kwd>
-                <kwd>Memory</kwd>
-                <kwd>Cognitive reserve</kwd>
-                <kwd>Educational achievement</kwd>
-            </kwd-group>
-            <funding-group>
-                <award-group id="funding-1"><funding-source>McKnight Brain Research Foundation</funding-source></award-group>
-                <award-group id="funding-2"><funding-source>University of Florida Claude D. Pepper Center</funding-source></award-group>
-                <award-group id="funding-3"><funding-source>National Institute on Aging <named-content content-type="funder-id">http://dx.doi.org/10.13039/100000049</named-content></funding-source><award-id>P30 AG028740-01</award-id></award-group>
-                <award-group id="funding-4"><funding-source>SMS</funding-source></award-group>
-                <award-group id="funding-5"><funding-source>National Institute of Aging</funding-source><award-id>T32AG020499-11</award-id></award-group>
-            </funding-group></article-meta>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>pdf</meta-name>
+                    <meta-value>S0003598X00058385.pdf</meta-value>
+                </custom-meta>
+                <custom-meta>
+                    <meta-name>(swissbib)pdf-filename</meta-name>
+                    <meta-value>S0003598X00058385.pdf</meta-value>
+                </custom-meta>
+                <custom-meta>
+                    <meta-name>(swissbib)source</meta-name>
+                    <meta-value>cambridge</meta-value>
+                </custom-meta>
+                <custom-meta>
+                    <meta-name>(swissbib)identifier</meta-name>
+                    <meta-value>10.1017/S0003598X00058385</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </article-meta>
     </front>
 </article>
