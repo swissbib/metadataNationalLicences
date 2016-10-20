@@ -119,6 +119,7 @@
         <xsl:call-template name="metadata-filename"></xsl:call-template>
         <xsl:call-template name="pdf-filename"></xsl:call-template>
         <xsl:call-template name="source"></xsl:call-template>
+        <xsl:call-template name="identifier"></xsl:call-template>
     </xsl:template>
 
     <xsl:template name="metadata-filename">
@@ -133,6 +134,28 @@
     <!-- overriden in templates which import that -->
     <xsl:template name="pdf-filename"></xsl:template>
     <xsl:template name="source"></xsl:template>
+
+    <xsl:template name="identifier">
+        <xsl:element name="custom-meta">
+            <xsl:element name="meta-name">(swissbib)identifier</xsl:element>
+            <xsl:element name="meta-value">
+                <xsl:choose>
+                    <xsl:when test="/article/front/article-meta/article-id[@pub-id-type='doi'][string-length() &gt; 0]">
+                        <xsl:variable name="doi">
+                            <xsl:apply-templates select="/article/front/article-meta/article-id[@pub-id-type='doi']"/>
+                        </xsl:variable>
+                        <xsl:value-of select="$doi"/>
+                    </xsl:when>
+                    <xsl:when test="/article/front/article-meta/article-id[@pub-id-type='pii'][string-length() &gt; 0]">
+                        <xsl:value-of select="/article/front/article-meta/article-id[@pub-id-type='pii']"></xsl:value-of>
+                    </xsl:when>
+                    <xsl:when test="/article/front/article-meta/article-id[@pub-id-type='publisher-id'][string-length() &gt; 0]">
+                        <xsl:value-of select="/article/front/article-meta/article-id[@pub-id-type='publisher-id']"></xsl:value-of>
+                    </xsl:when>
+                </xsl:choose>
+            </xsl:element>
+        </xsl:element>
+    </xsl:template>
 
 
 
