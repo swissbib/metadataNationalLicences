@@ -1,15 +1,29 @@
 #!/bin/bash
 #extract oxford tar files in one directory per journal with subfolder per issues (standard would be one directory per issue)
-#2nd delivery : all tar files in the same directory
+#2nd delivery : all tar files in the same directory, mixed with tar.gz
 
-#test
-#SOURCE_DIRECTORY=/home/lionel/Documents/data-swissbib-no-backup/testdata/testdata_nationallizenzen/oxford3/
-#TARGET_DIRECTORY=/home/lionel/Documents/data-swissbib-no-backup/testdata/testdata_nationallizenzen/oxford3/extracted/
+#Input
+#    source
+#    ├── socpol.tar.gz
+#    ├── socpro.tar
+#    ├── socrel77-1.tar
+#    ├── socrel.tar.gz
+#    ├── spp.tar.gz
+#    ├── ssjapj19-1.tar
+#    ├── stalaw.tar.gz
+#    ├── swra.tar.gz
+#    ├── swr.tar.gz
 
-SOURCE_DIRECTORY=/media/lionel/Data/swissbib-data/oxford/3rd_delivery_original_zips/
-TARGET_DIRECTORY=/media/lionel/Data/swissbib-data/oxford/3rd_delivery_extracted/
 
 
+if [ $# -ne 2 ]
+then
+   echo "Usage: $0 SOURCE_DIRECTORY TARGET_DIRECTORY"
+   exit 1
+else
+   SOURCE_DIRECTORY=$1
+   TARGET_DIRECTORY=$2
+fi
 
 function extract ()
 {   
@@ -38,7 +52,6 @@ done;
 
 cd $SOURCE_DIRECTORY
 find . -name "*.tar" | extract
-
 find . -name "*.tar.gz" | extract-gz
 
 

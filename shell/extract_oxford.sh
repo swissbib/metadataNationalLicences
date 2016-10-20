@@ -1,11 +1,27 @@
 #!/bin/bash
 #extract oxford tar files in one directory per journal with subfolder per issues (standard would be one directory per issue)
 
-#test
-#SOURCE_DIRECTORY=/home/lionel/Documents/swissbib/testdata/testdata_nationallizenzen/oxford2/
+#Input
+#    source
+#    ├── ACN
+#    │   ├── acn12-1.tar (one issue per archive)
+#    │   ├── acn12-2.tar
+#    │   ├── ...
+#    ├── CARDIOVASRES
+#    │   ├── cardiovascres31-1.tar
+#    │   ├── cardiovascres31-2.tar
+#    │   ├── ...
 
-SOURCE_DIRECTORY=/media/lionel/Data/swissbib-data/oxford/2nd_sending/
-TARGET_DIRECTORY=/media/lionel/Data/swissbib-data/oxford/2nd_extracted/
+
+
+if [ $# -ne 2 ]
+then
+   echo "Usage: $0 SOURCE_DIRECTORY TARGET_DIRECTORY"
+   exit 1
+else
+   SOURCE_DIRECTORY=$1
+   TARGET_DIRECTORY=$2
+fi
 
 
 
@@ -22,7 +38,6 @@ done;
 
 cd $SOURCE_DIRECTORY
 find . -name "*.tar" | extract
-cd /home/lionel/Documents/swissbib/git_repo/analysis/shell
 
 
 
