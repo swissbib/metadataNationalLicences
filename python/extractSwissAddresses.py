@@ -37,17 +37,66 @@ es = Elasticsearch()
 targetDirectoryCSV = "."
 
 query_term="switzerland"
-index_to_search="cambridge-v7"
+index_to_search="oxford-v7"
+max_year="2012"
 
 # elasticsearch request
+# TODO index source and filter on source rather than on publisher-name
+# request = {
+#     "query" : {
+#         "filtered" : {
+#             "query": {
+#                 "bool": {
+#                     "must": [
+#                         { "match": { "affiliations": "switzerland"   }},
+#                         { "bool" : {
+#                             "must": [
+#                                 { "bool" : {
+#                                     "should" : [
+#                                         {"bool": {
+#                                             "must" : [
+#                                                 { "wildcard" : { "publisher-name": "*Gruyter*"}},
+#                                                 { "range" : { "pyear" : {"lte" : 2015}}}
+#                                             ]
+#                                         }},
+#                                         {"bool": {
+#                                             "must" : [
+#                                                 { "match" : { "publisher-name": "Oxford University Press"}},
+#                                                 { "range" : { "pyear" : {"lte" : 2012}}}
+#                                             ]
+#                                         }},
+#                                         {"bool": {
+#                                             "must" : [
+#                                                 { "match" : { "publisher-name": "Cambridge University Press"}},
+#                                                 { "range" : { "pyear" : {"lte" : 2010}}}
+#                                             ]
+#                                         }}
+#                                     ]
+#                                 }}
+#                             ]
+#                         }}
+#
+#                     ],
+#                     "must_not": [
+#                         { "match" : { "source-format": "sgml"}}
+#                     ]
+#                 }
+#             }
+#         }
+#     }
+# }
+
 request = {
     "query" : {
         "filtered" : {
             "query": {
                 "bool": {
-                    "should": [
-                        { "match": { "affiliations": query_term   }}
-
+                    "must": [
+                        { "match": { "affiliations": query_term   }},
+                        { "range" : { "pyear" : {"lte" : max_year}}}
+                    ],
+                    "must_not": [
+                        { "match" : { "source-format": "sgml"}}
                     ]
                 }
             }
@@ -60,11 +109,11 @@ result = es.search(body=request, index=index_to_search, doc_type="article", scro
 
 
 #--- Extended Title List for analysis ---
-filename=query_term+"_"+index_to_search+"_Adresses.csv"
+filename=query_term+"_"+index_to_search+"_"+max_year+"_Adresses.csv"
 article_list = csv.writer(open(filename, "wb+"), dialect="excel")
 #csv header
 article_list.writerow([
-    "First "+query_term+" Address",
+    "Matching Affiliation",
     "Institution Guess",
     "doi",
     "url",
