@@ -82,6 +82,17 @@
           },
           "issue-number": {
             "type": "integer"
+          },
+          "path_filename": {
+            "type": "string"
+          },
+          "source": {
+            "type": "string",
+            "index": "not_analyzed"
+          },
+          "pdf": {
+            "type": "string",
+            "index": "not_analyzed"
           }
         }
       }

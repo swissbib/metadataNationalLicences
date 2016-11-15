@@ -5063,7 +5063,8 @@
                                   "subject" : {
                                     "properties" : {
                                       "value" : {
-                                        "type" : "string"
+                                        "type" : "string",
+                                        "index" : "not_analyzed"
                                       }
                                     }
                                   }
@@ -5167,7 +5168,8 @@
                   "article-id" : {
                     "properties" : {
                       "pub-id-type" : {
-                        "type" : "string"
+                        "type" : "string",
+                        "index" : "not_analyzed"
                       },
                       "value" : {
                         "type" : "string"

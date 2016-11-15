@@ -13,7 +13,7 @@ default out = "stdout";
 
 //indir=".";
 
-indir="/media/lionel/Data/swissbib-data/nationallizenzen/cambridge/extracted-delivery-2016-09";
+indir="/home/lionel/Documents/data-swissbib-no-backup/merged-swissbib-jats";
 
 //indir="/home/lionel/Documents/data-swissbib-no-backup/gruyter/";
 
@@ -23,6 +23,7 @@ indir="/media/lionel/Data/swissbib-data/nationallizenzen/cambridge/extracted-del
 indir|
 read-dir(recursive="true")|
 
+//filter-strings(".*oxford-imaiai*")|
 
 
 catch-object-exception |
@@ -35,6 +36,6 @@ generic-xml-handle-dtd ("article") |
 morph(FLUX_DIR + "jatsToElasticSearchMorph.xml")|
 change-id("id")|
 catch-stream-exception |
-encode-esbulk(escapeChars="true", header="true", index="cambridge-v7", type="article")|
-index-esbulk(esNodes="localhost:9300", esClustername="elasticsearch", recordsPerUpload="1000");
+encode-esbulk(escapeChars="true", header="true", index="all-sb-jats-v1", type="article")|
+index-esbulk(esNodes="localhost:9300", esClustername="elasticsearch", recordsPerUpload="10000");
 //write(out);

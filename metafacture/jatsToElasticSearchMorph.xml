@@ -356,6 +356,42 @@
 
 
 
+
+
+
+        <!-- Source -->
+        <combine name="source" value="${source}" flushWith="front.article-meta.custom-meta-group.custom-meta" reset="true">
+            <if>
+                <data source="front.article-meta.custom-meta-group.custom-meta.meta-name.value" name="meta-name">
+                    <equals string="(swissbib)source"/>
+                </data>
+            </if>
+            <data source="front.article-meta.custom-meta-group.custom-meta.meta-value.value" name="source"/>
+        </combine>
+
+
+        <!-- Path+filename -->
+        <combine name="path_filename" value="${path_filename}" flushWith="front.article-meta.custom-meta-group.custom-meta" reset="true">
+            <if>
+                <data source="front.article-meta.custom-meta-group.custom-meta.meta-name.value" name="meta-name">
+                    <equals string="(swissbib)metadata-filename"/>
+                </data>
+            </if>
+            <data source="front.article-meta.custom-meta-group.custom-meta.meta-value.value" name="path_filename"/>
+        </combine>
+
+        <!-- Pdf -->
+        <combine name="pdf" value="${pdf}" flushWith="front.article-meta.custom-meta-group.custom-meta" reset="true">
+            <if>
+                <data source="front.article-meta.custom-meta-group.custom-meta.meta-name.value" name="meta-name">
+                    <equals string="(swissbib)pdf-filename"/>
+                </data>
+            </if>
+            <data source="front.article-meta.custom-meta-group.custom-meta.meta-value.value" name="pdf"/>
+        </combine>
+
+
+
     </rules>
 
 </metamorph>
