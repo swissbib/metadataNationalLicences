@@ -19,13 +19,13 @@ function merge_records ()
 {   # merge all the xml files of all directories starting with the same letters (like pjs)
 	while read journal_abbrev; do
 		
-		GREP_EXPRESSION=^.\/"$journal_abbrev"*
+		GREP_EXPRESSION="^\./$journal_abbrev"
 
 		filename="$TARGET_DIRECTORY"gruyter-"$journal_abbrev".xml
 
 		echo $COUNTER merge journal "$journal_abbrev"	
 
-		cat $(grep "$GREP_EXPRESSION" "$LIST_FILES")  > $filename
+		cat $(grep $GREP_EXPRESSION $LIST_FILES)  > $filename
 
 
 		#remove xml declaration
