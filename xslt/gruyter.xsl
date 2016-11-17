@@ -86,6 +86,13 @@
         </xsl:element>
     </xsl:template>
 
+    <xsl:template name="metadata-license">
+        <xsl:element name="custom-meta">
+            <xsl:element name="meta-name">(swissbib)metadata-license</xsl:element>
+            <xsl:element name="meta-value"><uri>http://creativecommons.org/publicdomain/zero/1.0/</uri></xsl:element>
+        </xsl:element>
+    </xsl:template>
+
 
 
 

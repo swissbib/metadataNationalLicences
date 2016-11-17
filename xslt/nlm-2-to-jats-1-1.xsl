@@ -119,6 +119,7 @@
         <xsl:call-template name="metadata-filename"></xsl:call-template>
         <xsl:call-template name="pdf-filename"></xsl:call-template>
         <xsl:call-template name="source"></xsl:call-template>
+        <xsl:call-template name="metadata-license"></xsl:call-template>
         <xsl:call-template name="identifier"></xsl:call-template>
     </xsl:template>
 

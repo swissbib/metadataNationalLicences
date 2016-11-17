@@ -30,7 +30,11 @@
         </xsl:element>
     </xsl:template>
 
-
-
-
+    <xsl:template name="metadata-license">
+    <!-- this is clear for content <=2015, for content >=2016, the license is not really clear in the contract -->
+        <xsl:element name="custom-meta">
+            <xsl:element name="meta-name">(swissbib)metadata-license</xsl:element>
+            <xsl:element name="meta-value"><uri>http://creativecommons.org/licenses/by-nc/4.0</uri></xsl:element>
+        </xsl:element>
+    </xsl:template>
 </xsl:stylesheet>
