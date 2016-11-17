@@ -70,6 +70,12 @@
                     <meta-value>cambridge</meta-value>
                 </custom-meta>
                 <custom-meta>
+                    <meta-name>(swissbib)metadata-license</meta-name>
+                    <meta-value>
+                        <uri>http://creativecommons.org/licenses/by-nc/4.0</uri>
+                    </meta-value>
+                </custom-meta>
+                <custom-meta>
                     <meta-name>(swissbib)identifier</meta-name>
                     <meta-value>cambridge-10.1017/S0003598X00058385</meta-value>
                 </custom-meta>
