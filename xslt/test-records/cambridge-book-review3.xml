@@ -1,0 +1,118 @@
+<article
+        xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="2.2" article-type="book-review">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">PDJ</journal-id>
+            <journal-title>Powder Diffraction</journal-title>
+            <abbrev-journal-title>Powder Diffr.</abbrev-journal-title>
+            <issn pub-type="ppub">0885-7156</issn>
+            <issn pub-type="epub">1945-7413</issn>
+            <publisher>
+                <publisher-name>Cambridge University Press</publisher-name>
+                <publisher-loc>Cambridge, UK</publisher-loc>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.1017/S0885715600017218</article-id>
+            <article-id pub-id-type="pii">S0885715600017218</article-id>
+            <article-id pub-id-type="publisher-id">01721</article-id>
+            <title-group>
+                <article-title>Book Review</article-title>
+                <subtitle>mon subtitle</subtitle>
+            </title-group>
+            <contrib-group>
+                <contrib>
+                    <name>
+                        <surname>Smith</surname>
+                        <given-names>Deane K.</given-names>
+                    </name>
+                </contrib>
+                <contrib>
+                    <name>
+                        <surname>Fiala</surname>
+                        <given-names>Jaroslav</given-names>
+                    </name>
+                </contrib>
+            </contrib-group>
+            <pub-date pub-type="ppub">
+                <month>06</month>
+                <year>1991</year>
+            </pub-date>
+            <volume>6</volume>
+            <issue>2</issue>
+            <fpage seq="24">119</fpage>
+            <lpage>120</lpage>
+            <product product-type="book">
+                <target id="ref001" target-type="product"/>
+                <source>Mineral Reference Manual</source>,
+                <name>
+                    <surname>Nickel</surname>
+                    <given-names>E.H.</given-names>
+                </name> and
+                <name>
+                    <surname>Nichols</surname>
+                    <given-names>M.C.</given-names>
+                </name>,
+                <publisher-name>Van Nostrand Reinhold</publisher-name>,
+                <publisher-loc>New York</publisher-loc>,
+                <year>1991</year>. $21.95
+            </product>
+            <product product-type="book">
+                <target id="ref002" target-type="product"/>
+                <source>Rentgenografie mehomogenn&#237;ch nap&#283;tovych pol&#237; (X-Ray Diffraction Analysis of Inhomogeneous Stress Fields)</source>
+                <name>
+                    <surname>Kraus</surname>
+                    <given-names>Ivo</given-names>
+                </name>,
+                <publisher-loc>Academia Prague</publisher-loc>,
+                <publisher-name>Czechoslovakia</publisher-name>,
+                <year>1990</year>,
+                <fpage>157</fpage> pp. ISBN
+                <isbn>80-200-0254-5</isbn>
+            </product>
+            <product product-type="book">
+                <target id="ref003" target-type="product"/>
+                <source>Multivariate Calibration</source>,
+                <name>
+                    <surname>Martens</surname>
+                    <given-names>Harald</given-names>
+                </name> and
+                <name>
+                    <surname>Naes</surname>
+                    <given-names>Tormod</given-names>
+                </name>,
+                <name>
+                    <surname>Wiley</surname>
+                    <given-names>John</given-names>
+                </name> and
+                <name>
+                    <surname>Sons</surname>
+                </name>,
+                <name>
+                    <surname>Chichester</surname>
+                </name>
+                <year>1989</year>,
+                <fpage>419</fpage>pp. ISBN
+                <isbn>0 471 90979 3</isbn>, Hard cover &#163; 75.00/$138.00 or paperback &#163; 29.50/$67.85
+            </product>
+            <permissions>
+                <copyright-statement>Copyright &#169; Cambridge University Press 1991</copyright-statement>
+                <copyright-year>1991</copyright-year>
+                <copyright-holder>Cambridge University Press</copyright-holder>
+            </permissions>
+            <counts>
+                <page-count count="2"/>
+            </counts>
+            <custom-meta-wrap>
+                <custom-meta>
+                    <meta-name>pdf</meta-name>
+                    <meta-value>S0885715600017218a.pdf</meta-value>
+                </custom-meta>
+                <custom-meta>
+                    <meta-name>dispart</meta-name>
+                    <meta-value>International Report</meta-value>
+                </custom-meta>
+            </custom-meta-wrap>
+        </article-meta>
+    </front>
+</article>
