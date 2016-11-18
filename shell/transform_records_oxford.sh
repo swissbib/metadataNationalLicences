@@ -14,7 +14,7 @@ fi
 
 
 cd $SOURCE_DIRECTORY
-find . -name *.xml -exec  xsltproc -o $TARGET_DIRECTORY{} --stringparam filename {} $XSLT_DIRECTORY/oxford.xsl {} \;
+find . -name *.xml -exec  xsltproc --novalid -o $TARGET_DIRECTORY{} --stringparam filename {} $XSLT_DIRECTORY/oxford.xsl {} \;
 
 #test the validity and write a small report
 

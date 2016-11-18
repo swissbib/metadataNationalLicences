@@ -2,13 +2,15 @@
 
 COUNTER=0
 
-#test
-#SOURCE_DIRECTORY=/home/lionel/Documents/swissbib/testdata/testdata_nationallizenzen/springer-three-journals/journals/
-#TARGET_DIRECTORY=/home/lionel/Documents/swissbib/testdata/testdata_nationallizenzen/springer-three-journals/merged/
+if [ $# -ne 2 ]
+then
+   echo "Usage: $0 SOURCE_DIRECTORY TARGET_DIRECTORY"
+   exit 1
+else
+   SOURCE_DIRECTORY=$1
+   TARGET_DIRECTORY=$2
+fi
 
-#prod
-SOURCE_DIRECTORY=/media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/
-TARGET_DIRECTORY=/home/lionel/Documents/data-swissbib-no-backup/oxford2/
 
 function merge_records ()
 {   # merge all the xml files of a subdirectory like 1213/. 

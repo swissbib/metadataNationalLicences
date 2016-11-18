@@ -14,7 +14,7 @@ fi
 
 cd $SOURCE_DIRECTORY
 
-find . -name *.xml -not -path "*issue-files/*" -exec  xsltproc -o $TARGET_DIRECTORY{} --stringparam filename {} $XSLT_DIRECTORY/gruyter.xsl {} \;
+find . -name *.xml -not -path "*issue-files/*" -exec  xsltproc --novalid -o $TARGET_DIRECTORY{} --stringparam filename {} $XSLT_DIRECTORY/gruyter.xsl {} \;
 
 #test the validity and write a small report
 
