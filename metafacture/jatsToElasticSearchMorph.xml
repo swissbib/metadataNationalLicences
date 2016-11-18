@@ -137,6 +137,7 @@
         </choose>
 
         <data source="front.article-meta.title-group.article-title.value" name="article-title"/>
+        <data source="front.article-meta.title-group.article-title.value" name="article-title-not-analyzed"/>
 
         <data source="article-type" name="article-type"/>
 

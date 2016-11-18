@@ -19,7 +19,7 @@ handle-generic-xml ("article") | //the record delimiter
 
 //change-id("front.article-meta.custom-meta-group.custom-meta.meta-value.value")|
 //change-id("front.article-meta.article-id.value")|
-change-id("front.article-meta.title-group.article-title.value")|
+change-id("front.article-meta.custom-meta-group.custom-meta.meta-value.value")|
 catch-stream-exception |
 encode-esbulk(escapeChars="true", header="true", index="cambridge-original", type="article")|
 index-esbulk(esNodes="localhost:9300", esClustername="elasticsearch", recordsPerUpload="10000");
