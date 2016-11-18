@@ -13,7 +13,7 @@ COUNTER=0
 
 
 
-if [ $# -ne 3 ]
+if [ $# -ne 2 ]
 then
    echo "Usage: $0 SOURCE_DIRECTORY TARGET_DIRECTORY"
    exit 1
@@ -63,7 +63,6 @@ function merge_records ()
 cd $SOURCE_DIRECTORY
 cd j/
 find . -name "*.xml" -not -path "*issue-files/*" > $LIST_FILES
-cd ..
 
 # de gruyter : one directory per issue
 # get a list of journal abbreviation (the beginning of each folder name)
