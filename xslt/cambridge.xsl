@@ -95,7 +95,7 @@
                 <xsl:value-of select="normalize-space(concat('Book Review: ',/article/front/article-meta/product/source))"></xsl:value-of>
             </xsl:element>
             <xsl:element name="subtitle">
-                <xsl:value-of select="normalize-space(concat(/article/front/article-meta/product))"></xsl:value-of>
+                <xsl:value-of select="normalize-space(concat('',/article/front/article-meta/product))"></xsl:value-of>
             </xsl:element>
         </xsl:if>
     </xsl:template>
