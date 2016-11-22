@@ -10,16 +10,17 @@ import lxml.etree as ET
 path = '/swissbib/harvesting/nationalLicencesData/'
 
 steps=['gruyter1', 'gruyter2', 'gruyter3', 'gruyter4','oxford1', 'oxford2', 'oxford3', 'oxford4','cambridge1', 'cambridge2', 'cambridge3', 'cambridge4']
+#steps=['gruyter1']
 
 
-xslt= ET.parse("nlm-dtd_archivearticle.xsl")
+xslt= ET.parse("swissbib-jats-to-mods.xsl")
 
 transform= ET.XSLT(xslt)
 
 for step in steps:
 
-    files_list = open (step+'.txt', 'r')
-    myfile = open(step+'-mods.xml','w')
+    files_list = open ('../filenames/'+step+'.txt', 'r')
+    myfile = open('../mods/'+step+'-mods.xml','w')
     myfile.write("<collection>")
 
 
