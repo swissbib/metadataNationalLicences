@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metamorph xmlns="http://www.culturegraph.org/metamorph"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:schemaLocation="http://www.culturegraph.org/metamorph metamorph.xsd"
+           version="1" entityMarker=".">
+
+
+    <rules>
+        <data source="Journal.JournalInfo.JournalElectronicISSN.value" name="eissn"/>
+        <data source="Journal.JournalInfo.JournalPrintISSN.value" name="pissn"/>
+
+        <data source="Journal.Volume.Issue.IssueInfo.IssueHistory.CoverDate.Year.value" name="pyear">
+            <!-- year in range 1750 - 2029 -->
+            <regexp match="(17[5-9]\d|18\d\d|19\d\d|20[0-2]\d)" format="${1}" />
+        </data>
+
+
+        <data source="PublisherInfo.PublisherName.value" name="publisher-name"/>
+
+        <data source="Journal.Volume.VolumeInfo.VolumeIDStart.value" name="volume"/>
+
+        <data source="Journal.Volume.VolumeInfo.VolumeIDStart.value" name="volume-number">
+            <regexp match="(\d*)" format="${1}"/>
+        </data>
+
+        <data source="Journal.JournalInfo.JournalTitle.value" name="journal-title"/>
+
+        <data source="Journal.Volume.Issue.Article.ArticleInfo.ArticleTitle.value" name="article-title"/>
+
+        <data source="Journal.Volume.Issue.Article.ArticleInfo.ArticleTitle.value" name="article-title-not-analyzed"/>
+
+        <data source="Journal.JournalInfo.JournalID.value" name="journal-id"/>
+
+
+        <data name="@doi" source="Journal.Volume.Issue.Article.ArticleInfo.ArticleDOI.value"/>
+
+        <data name="doi-prefix" source="@doi">
+                <regexp match="^([^/]*)/"  format="${1}"/>
+        </data>
+
+
+
+        <data name="id" source="@doi"/>
+
+
+        <!-- Affiliations -->
+        <combine name="affiliations" value="${aff}">
+            <data source="Journal.Volume.Issue.Article.ArticleHeader.AuthorGroup.Affiliation.*" name="aff"/>
+        </combine>
+
+
+
+
+
+
+
+
+    </rules>
+
+</metamorph>
+
+

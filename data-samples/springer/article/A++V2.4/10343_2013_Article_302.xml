@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN" "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+   <PublisherInfo>
+      <PublisherName>Springer Berlin Heidelberg</PublisherName>
+      <PublisherLocation>Berlin/Heidelberg</PublisherLocation>
+      <PublisherImprintName>Springer</PublisherImprintName>
+   </PublisherInfo>
+   <Journal OutputMedium="All">
+      <JournalInfo JournalProductType="ArchiveJournal" NumberingStyle="Unnumbered">
+         <JournalID>10343</JournalID>
+         <JournalPrintISSN>0367-4223</JournalPrintISSN>
+         <JournalElectronicISSN>1439-0345</JournalElectronicISSN>
+         <JournalTitle>Gesunde Pflanzen</JournalTitle>
+         <JournalSubTitle>Pflanzenschutz - Verbraucherschutz - Umweltschutz</JournalSubTitle>
+         <JournalAbbreviatedTitle>Gesunde Pflanzen</JournalAbbreviatedTitle>
+         <JournalSubjectGroup>
+            <JournalSubject Code="SCL" Type="Primary">Life Sciences</JournalSubject>
+            <JournalSubject Code="SCL24035" Priority="1" Type="Secondary">Plant Pathology</JournalSubject>
+            <JournalSubject Code="SCL11006" Priority="2" Type="Secondary">Agriculture</JournalSubject>
+            <SubjectCollection Code="SC3">Biomedical and Life Sciences</SubjectCollection>
+         </JournalSubjectGroup>
+      </JournalInfo>
+      <Volume OutputMedium="All">
+         <VolumeInfo TocLevels="0" VolumeType="Regular">
+            <VolumeIDStart>65</VolumeIDStart>
+            <VolumeIDEnd>65</VolumeIDEnd>
+            <VolumeIssueCount>4</VolumeIssueCount>
+         </VolumeInfo>
+         <Issue IssueType="Regular" OutputMedium="All">
+            <IssueInfo IssueType="Regular" TocLevels="0">
+               <IssueIDStart>3</IssueIDStart>
+               <IssueIDEnd>3</IssueIDEnd>
+               <IssueArticleCount>5</IssueArticleCount>
+               <IssueHistory>
+                  <OnlineDate>
+                     <Year>2013</Year>
+                     <Month>9</Month>
+                     <Day>17</Day>
+                  </OnlineDate>
+                  <PrintDate>
+                     <Year>2013</Year>
+                     <Month>9</Month>
+                     <Day>16</Day>
+                  </PrintDate>
+                  <CoverDate>
+                     <Year>2013</Year>
+                     <Month>9</Month>
+                  </CoverDate>
+                  <PricelistYear>2013</PricelistYear>
+               </IssueHistory>
+               <IssueCopyright>
+                  <CopyrightHolderName>Springer-Verlag Berlin Heidelberg</CopyrightHolderName>
+                  <CopyrightYear>2013</CopyrightYear>
+               </IssueCopyright>
+            </IssueInfo>
+            <Article ID="s10343-013-0302-9" OutputMedium="All">
+               <ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+                  <ArticleID>302</ArticleID>
+                  <ArticleDOI>10.1007/s10343-013-0302-9</ArticleDOI>
+                  <ArticleSequenceNumber>2</ArticleSequenceNumber>
+                  <ArticleTitle Language="En">Interaction Between Entomopathogenic Fungi and Some Aphid Species in Thailand</ArticleTitle>
+                  <ArticleTitle Language="De">Die Interaktion zwischen entomopathogenen Pilzen und einigen Blattlausarten in Thailand</ArticleTitle>
+                  <ArticleCategory>Original Article</ArticleCategory>
+                  <ArticleFirstPage>93</ArticleFirstPage>
+                  <ArticleLastPage>105</ArticleLastPage>
+                  <ArticleHistory>
+                     <RegistrationDate>
+                        <Year>2013</Year>
+                        <Month>7</Month>
+                        <Day>3</Day>
+                     </RegistrationDate>
+                     <Received>
+                        <Year>2013</Year>
+                        <Month>4</Month>
+                        <Day>1</Day>
+                     </Received>
+                     <Accepted>
+                        <Year>2013</Year>
+                        <Month>6</Month>
+                        <Day>20</Day>
+                     </Accepted>
+                     <OnlineDate>
+                        <Year>2013</Year>
+                        <Month>7</Month>
+                        <Day>19</Day>
+                     </OnlineDate>
+                  </ArticleHistory>
+                  <ArticleCopyright>
+                     <CopyrightHolderName>Springer-Verlag Berlin Heidelberg</CopyrightHolderName>
+                     <CopyrightYear>2013</CopyrightYear>
+                  </ArticleCopyright>
+                  <ArticleGrants Type="Regular">
+                     <MetadataGrant Grant="OpenAccess"/>
+                     <AbstractGrant Grant="OpenAccess"/>
+                     <BodyPDFGrant Grant="Restricted"/>
+                     <BodyHTMLGrant Grant="Restricted"/>
+                     <BibliographyGrant Grant="Restricted"/>
+                     <ESMGrant Grant="Restricted"/>
+                  </ArticleGrants>
+               </ArticleInfo>
+               <ArticleHeader>
+                  <AuthorGroup>
+                     <Author AffiliationIDS="Aff1" CorrespondingAffiliationID="Aff1">
+                        <AuthorName DisplayOrder="Western">
+                           <GivenName>M.</GivenName>
+                           <FamilyName>Maketon</FamilyName>
+                        </AuthorName>
+                        <Contact>
+                           <Email>fscimcm@hotmail.com</Email>
+                        </Contact>
+                        <Biography>
+                           <FormalPara OutputMedium="All" RenderingStyle="Style1">
+                              <Heading>Prof. Dr. Monchan Maketon</Heading>
+                              <Para>
+                                 <Emphasis Type="BoldItalic">Education:</Emphasis> B.Sc. (Agriculture) Kasetsart University, Thailand, 1977,</Para>
+                              <Para> M.S. (Biology/Ecology), University of North Texas, USA. 1983,</Para>
+                              <Para> Ph.D. (Biology/Ecology), The University of North Texas, USA, 1986.</Para>
+                              <Para>
+                                 <Emphasis Type="BoldItalic">General areas of interest:</Emphasis> Biological control, Biodegradation of organic waste, Medicinal fungi.</Para>
+                              <Para>
+                                 <Emphasis Type="BoldItalic">Symposium:</Emphasis> Chairperson, 2nd International Symposium of Biopesticide and Ecotoxicological Network 2012, September 24th–26th 2012, Bangkok, Thailand.</Para>
+                              <Para>
+                                 <Emphasis Type="BoldItalic">Honor:</Emphasis> National Science Foundation (USA) Scholarship 1983–1986 for graduate work.</Para>
+                              <Para>The University of North Texas Alumni Ambassador Honor 2013–2014.</Para>
+                              <Para>
+                                 <Emphasis Type="BoldItalic">Award:</Emphasis> Rolling Stonefly News Award in August 1992 for Excellence in Plecoptera Research.</Para>
+                              <Para>
+                                 <Figure Category="Standard" Float="No" ID="Figa">
+                                    <MediaObject ID="MO1">
+                                       <ImageObject Color="Color" FileRef="MediaObjects/10343_2013_302_Figa_HTML.jpg" Format="JPEG" Rendition="HTML" Type="Halftone"/>
+                                    </MediaObject>
+                                 </Figure>
+                              </Para>
+                           </FormalPara>
+                        </Biography>
+                     </Author>
+                     <Author AffiliationIDS="Aff1">
+                        <AuthorName DisplayOrder="Western">
+                           <GivenName>N.</GivenName>
+                           <FamilyName>Chakanya</FamilyName>
+                        </AuthorName>
+                     </Author>
+                     <Author AffiliationIDS="Aff1">
+                        <AuthorName DisplayOrder="Western">
+                           <GivenName>K.</GivenName>
+                           <FamilyName>Prem-udomkit</FamilyName>
+                        </AuthorName>
+                     </Author>
+                     <Author AffiliationIDS="Aff2">
+                        <AuthorName DisplayOrder="Western">
+                           <GivenName>C.</GivenName>
+                           <FamilyName>Maketon</FamilyName>
+                        </AuthorName>
+                     </Author>
+                     <Affiliation ID="Aff1">
+                        <OrgDivision>Zoology Department, Faculty of Science</OrgDivision>
+                        <OrgName>Kasetsart University</OrgName>
+                        <OrgAddress>
+                           <Postcode>10900</Postcode>
+                           <City>Bangkok</City>
+                           <Country Code="TH">Thailand</Country>
+                        </OrgAddress>
+                     </Affiliation>
+                     <Affiliation ID="Aff2">
+                        <OrgDivision>Department of Environmental Science, Faculty of Environment</OrgDivision>
+                        <OrgName>Kasetsart University</OrgName>
+                        <OrgAddress>
+                           <Postcode>10900</Postcode>
+                           <City>Bangkok</City>
+                           <Country Code="TH">Thailand</Country>
+                        </OrgAddress>
+                     </Affiliation>
+                  </AuthorGroup>
+                  <Abstract ID="Abs1" Language="En" OutputMedium="All">
+                     <Heading>Abstract</Heading>
+                     <Para>Seven aphid species were screened with twelve entomopathogenic fungi for the selection of the most effective fungus. <Emphasis Type="Italic">Beauveria bassiana</Emphasis> CKB-048 caused the highest mortalities for all aphid species tested in their nymphal stage. The cowpea aphid (<Emphasis Type="Italic">Aphis craccivora</Emphasis> Koch) was chosen for further studies in its adult stage using <Emphasis Type="Italic">B. bassiana</Emphasis> CKB-048 as a biocontrol agent, and carbosulfan was used for a comparison in greenhouse testing. The mode of action of the fungal killing was studied by scanning electron microscopy. The endophytic colonization of the cowpea plant by <Emphasis Type="Italic">B. bassiana</Emphasis> CKB-048 was studied and confirmed using both stereo microscopy and transmission electron microscopy. The chitinase enzyme activity of cowpea plants after they were sprayed with the fungus or carbosulfan was found to fluctuate throughout five days. The lethal concentrations of <Emphasis Type="Italic">B. bassiana</Emphasis> CKB-048 suspensions that killed 50 % (LC<Subscript>50</Subscript>) of<Emphasis Type="Italic"> A. craccivora</Emphasis> was 6.69 × 10<Superscript>7</Superscript> conidia/ml for the nymphs and 8.25 × 10<Superscript>7</Superscript> conidia/ml for the adults. The time for lethality (LT<Subscript>50</Subscript>) with a concentration of 2 × 10<Superscript>8</Superscript> conidia/ml was 3.25 days for nymphs and 4 days for adults.</Para>
+                  </Abstract>
+                  <Abstract ID="Abs2" Language="De" OutputMedium="All">
+                     <Heading>Zusammenfassung</Heading>
+                     <Para>Sieben Blattlausarten wurden mit zwölf entomopathogenen Pilzen behandelt, um den effektivsten Pilz zu selektieren. <Emphasis Type="Italic">Beauveria bassiana</Emphasis> CKB-048 verursachte die höchste Mortalitätsrate bei allen getesteten Blattlausarten im Nymphenstadium. Die Cowpea-Blattlaus (<Emphasis Type="Italic">Aphis craccivora</Emphasis> Koch) wurde für weitere Untersuchungen im adulten Stadium verwendet und mit <Emphasis Type="Italic">B. bassiana</Emphasis> CKB-048 (als Biokontrollmittel) behandelt und Carbosulfan wurde als Vergleich für die Gewächshaustests verwendet. Die Wirkungsweise der pilzlichen Erreger wurde mittels der Rasterelektronenmikroskopie untersucht. Die endophytische Besiedlung der Pflanze durch <Emphasis Type="Italic">B. bassiana</Emphasis> CKB-048 wurde untersucht und mit der Stereomikroskopie und Transmissions-Elektronenmikroskopie bestätigt. Die Konzentrationen der <Emphasis Type="Italic">B. bassiana</Emphasis> CKB-048 Suspension, die 50 % (LC<Subscript>50</Subscript>) von <Emphasis Type="Italic">A. craccivora</Emphasis> sterben ließ, betrug 6.69 × 10<Superscript>7</Superscript> Konidien/ml für die Nymphen und 8.25 × 10<Superscript>7</Superscript> Konidien/ml für die Adulten. Bei einer Konzentration von 2 × 10<Superscript>8</Superscript> Konidien/ml betrug die Letalitätszeit (LT<Subscript>50</Subscript>) 3,25 Tage für die Nymphen und 4 Tage für die Adulten.</Para>
+                  </Abstract>
+                  <KeywordGroup Language="En">
+                     <Heading>Keywords</Heading>
+                     <Keyword>Aphids</Keyword>
+                     <Keyword>
+                        <Emphasis Type="Italic">Beauveria bassiana</Emphasis>
+                     </Keyword>
+                     <Keyword>Chitinase</Keyword>
+                     <Keyword>Endophytic colonization</Keyword>
+                     <Keyword>Entomopathogenic fungi</Keyword>
+                  </KeywordGroup>
+                  <KeywordGroup Language="De">
+                     <Heading>Schlüsselwörter</Heading>
+                     <Keyword>Blattläuse</Keyword>
+                     <Keyword>
+                        <Emphasis Type="Italic">Beauveria bassiana</Emphasis>
+                     </Keyword>
+                     <Keyword>Chitinase</Keyword>
+                     <Keyword>endophytische Kolonisation</Keyword>
+                     <Keyword>entomopathogene Pilze</Keyword>
+                  </KeywordGroup>
+               </ArticleHeader>
+               <NoBody/>
+            </Article>
+         </Issue>
+      </Volume>
+   </Journal>
+</Publisher>
