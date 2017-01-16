@@ -198,6 +198,7 @@ oxford_urlkey={
     "geron" : "biomedgerontology",
     "gerona" : "biomedgerontology",
     "geronb" : "psychsocgerontology",
+    "jahist" : "jah",
     "juecol" : "jue",
     "lawprj" : "lpr",
     "lbaeck" : "leobaeck",
