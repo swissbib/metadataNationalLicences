@@ -40,7 +40,7 @@ Journal of Orofacial Orthopedics / Fortschritte der Kieferorthopädie	1434-5293	
 Heilberufe	0017-9604		2008			2011			http://link.springer.com/journal/58		58		fulltext		Springer	serial								
 Herz	0340-9937	1615-6692	2005			2011			http://link.springer.com/journal/59		59		fulltext		Springer	serial								
 HNO Nachrichten	0177-1000		2009			2011			http://link.springer.com/journal/60		60		fulltext		Springer	serial								
-Clinical Neuroradiology (formerly Klinische Neuroradiologie)	0939-7116	1869-1447	2005			2011			http://link.springer.com/journal/62		62		fulltext		Springer	serial								
+Clinical Neuroradiology (formerly: Klinische Neuroradiologie)	0939-7116	1869-1447	2005			2011			http://link.springer.com/journal/62		62		fulltext		Springer	serial								
 Medizinische Klinik - Intensivmedizin und Notfallmedizin (= Medizinische Klinik)	2193-6218	2193-6226	2005			2011			http://link.springer.com/journal/63		63		fulltext		Springer	serial								
 Operative Orthopädie und Traumatologie	0934-6694	1439-0981	1989			2011			http://link.springer.com/journal/64		64		fulltext		Springer	serial								
 Orthopedics Traumatology	0941-2530	1617-3538	1992			1995			http://link.springer.com/journal/65		65		fulltext		Springer	serial								
@@ -70,7 +70,7 @@ Der Orthopäde	0085-4530	1433-0431	2005			2011			http://link.springer.com/journa
 Intensive Care Medicine	0342-4642	1432-1238	1975			2011			http://link.springer.com/journal/134		134		fulltext		Springer	serial								
 Journal Materials Engineering	0931-7058		1987			1991			http://link.springer.com/journal/135		135		fulltext		Springer	serial								
 Journal Heat Treating	0190-9177		1979			1991			http://link.springer.com/journal/136		136		fulltext		Springer	serial								
-Machine Vision and Applications	0932-8092		1988			2011			http://link.springer.com/journal/138		138		fulltext		Springer	serial								
+Machine Vision and Applications	0932-8092	1432-1769	1988			2011			http://link.springer.com/journal/138		138		fulltext		Springer	serial								
 Arthroskopie	0933-7946	1434-3924	2005			2011			http://link.springer.com/journal/142		142		fulltext		Springer	serial								
 Journal of Cryptology	0933-2790	1432-1378	1988			2011			http://link.springer.com/journal/145		145		fulltext		Springer	serial								
 AI & SOCIETY	0951-5666	1435-5655	1987			2011			http://link.springer.com/journal/146		146		fulltext		Springer	serial								
@@ -112,7 +112,7 @@ Theoretical Chemistry Accounts	1432-881X	1432-2234	1962			2011			http://link.spr
 Analytical and Bioanalytical Chemistry (formerly: Fresenius' Journal of Analytical Chemistry)	1618-2642	1618-2650	1862			2011			http://link.springer.com/journal/216		216		fulltext		Springer	serial								
 European Food Research and Technology	1438-2377	1438-2385	1898			2011			http://link.springer.com/journal/217		217		fulltext		Springer	serial								
 Zeitschrift Physik A Hadrons nuclei	0939-7922		1920			1996			http://link.springer.com/journal/218		218		fulltext		Springer	serial								
-Communications in Mathematical Physics	0010-3616		1965			2011			http://link.springer.com/journal/220		220		fulltext		Springer	serial								
+Communications in Mathematical Physics	0010-3616	1432-0916	1965			2011			http://link.springer.com/journal/220		220		fulltext		Springer	serial								
 Experimental Brain Research	0014-4819	1432-1106	1966			2011			http://link.springer.com/journal/221		221		fulltext		Springer	serial								
 Inventiones mathematicae	0020-9910	1432-1297	1966			2011			http://link.springer.com/journal/222		222		fulltext		Springer	serial								
 Calcified Tissue International	0171-967X	1432-0827	1967			2011			http://link.springer.com/journal/223		223		fulltext		Springer	serial								
@@ -140,7 +140,7 @@ Applied Microbiology and Biotechnology	0175-7598	1432-0614	1975			2011			http://
 Environmental Geology	0943-0105	1432-0495	1975			1996			http://link.springer.com/journal/254		254		fulltext		Springer	serial								
 Skeletal Radiology	0364-2348	1432-2161	1976			2011			http://link.springer.com/journal/256		256		fulltext		Springer	serial								
 Zeitschrift Physik B Condensed Matter	0722-3277		1962			1996			http://link.springer.com/journal/257		257		fulltext		Springer	serial								
-European Journal of Nuclear Medicine and Molecular Imaging	1619-7070		1976			2011			http://link.springer.com/journal/259		259		fulltext		Springer	serial								
+European Journal of Nuclear Medicine and Molecular Imaging	1619-7070	1619-7089	1976			2011			http://link.springer.com/journal/259		259		fulltext		Springer	serial								
 Abdominal Radiology (formerly: “Abdominal Imaging”)	0942-8925	1432-0509	1976			2011			http://link.springer.com/journal/261		261		fulltext		Springer	serial								
 Cancer Immunology, Immunotherapy	0340-7004	1432-0851	1976			2011			http://link.springer.com/journal/262		262		fulltext		Springer	serial								
 International Orthopaedics	0341-2695	1432-5195	1977			2011			http://link.springer.com/journal/264		264		fulltext		Springer	serial								
@@ -163,7 +163,7 @@ Informatik-Spektrum	0170-6012	1432-122X	2005			2011			http://link.springer.com/j
 Zeitschrift Physik C Particles Fields	0170-9739	1431-5858	1979			1996			http://link.springer.com/journal/288		288		fulltext		Springer	serial								
 Polymer Bulletin	0170-0839	1436-2449	1978			2011			http://link.springer.com/journal/289		289		fulltext		Springer	serial								
 Urologic Radiology	0171-1091		1980			1992			http://link.springer.com/journal/290		290		fulltext		Springer	serial								
-OR Spectrum	0171-6468		1979			2011			http://link.springer.com/journal/291		291		fulltext		Springer	serial								
+OR Spectrum	0171-6468	1436-6304	1979			2011			http://link.springer.com/journal/291		291		fulltext		Springer	serial								
 Der Pathologe	0172-8113	1432-1963	2005			2011			http://link.springer.com/journal/292		292		fulltext		Springer	serial								
 Current Genetics	0172-8083	1432-0983	1979			2011			http://link.springer.com/journal/294		294		fulltext		Springer	serial								
 Rheumatology International	0172-8172	1437-160X	1981			2011			http://link.springer.com/journal/296		296		fulltext		Springer	serial								
@@ -247,7 +247,7 @@ Probability Theory and Related Fields	0178-8051	1432-2064	1962			2011			http://l
 Cell and Tissue Research	0302-766X	1432-0878	1924			2011			http://link.springer.com/journal/441		441		fulltext		Springer	serial								
 Oecologia	0029-8549	1432-1939	1968			2011			http://link.springer.com/journal/442		442		fulltext		Springer	serial								
 Virchows Archiv B Cell Pathology	0340-6075		1968			1993			http://link.springer.com/journal/443		443		fulltext		Springer	serial								
-Bulletin of Volcanology	0258-8900		1937			2011			http://link.springer.com/journal/445		445		fulltext		Springer	serial								
+Bulletin of Volcanology	0258-8900	1432-0819	1937			2011			http://link.springer.com/journal/445		445		fulltext		Springer	serial								
 Distributed Computing	0178-2770	1432-0452	1986			2011			http://link.springer.com/journal/446		446		fulltext		Springer	serial								
 Bioprocess and Biosystems Engineering	1615-7591	1615-7605	1986			2011			http://link.springer.com/journal/449		449		fulltext		Springer	serial								
 Computer Science - Research and Development (= Informatik - Forschung und Entwicklung)	1865-2034	1865-2042	2005			2011			http://link.springer.com/journal/450		450		fulltext		Springer	serial								
@@ -256,7 +256,7 @@ Algorithmica	0178-4617	1432-0541	1986			2011			http://link.springer.com/journal/
 Discrete & Computational Geometry	0179-5376	1432-0444	1986			2011			http://link.springer.com/journal/454		454		fulltext		Springer	serial								
 Dysphagia	0179-051X	1432-0460	1986			2011			http://link.springer.com/journal/455		455		fulltext		Springer	serial								
 Zeitschrift Physik D Atoms Molecules Clusters	0178-7683		1986			1996			http://link.springer.com/journal/460		460		fulltext		Springer	serial								
-Surgical Endoscopy	0930-2794		1987			2011			http://link.springer.com/journal/464		464		fulltext		Springer	serial								
+Surgical Endoscopy	0930-2794	1432-2218	1987			2011			http://link.springer.com/journal/464		464		fulltext		Springer	serial								
 Computational Mechanics	0178-7675	1432-0924	1986			2011			http://link.springer.com/journal/466		466		fulltext		Springer	serial								
 Pediatric Nephrology	0931-041X	1432-198X	1987			2011			http://link.springer.com/journal/467		467		fulltext		Springer	serial								
 Trees	0931-1890	1432-2285	1986			2011			http://link.springer.com/journal/468		468		fulltext		Springer	serial								
@@ -268,7 +268,7 @@ Combinatorica	0209-9683	1439-6912	1981			2011			http://link.springer.com/journal
 Plant Reproduction (formerly: Sexual Plant Reproduction)	2194-7953	2194-7961	1988			2011			http://link.springer.com/journal/497		497		fulltext		Springer	serial								
 MCSS Mathematics of Control, Signals and Systems	0932-4194	1435-568X	1988			2011			http://link.springer.com/journal/498		498		fulltext		Springer	serial								
 Journal Materials Shaping Technology	0931-704X		1987			1991			http://link.springer.com/journal/499		499		fulltext		Springer	serial								
-Soft Computing	1432-7643		2005			2011			http://link.springer.com/journal/500		500		fulltext		Springer	serial								
+Soft Computing	1432-7643	1433-7479	2005			2011			http://link.springer.com/journal/500		500		fulltext		Springer	serial								
 BHM Berg- und Hüttenmännische Monatshefte	0005-8912	1613-7531	2005			2011			http://link.springer.com/journal/501		501		fulltext		Springer	serial								
 e & i Elektrotechnik und Informationstechnik	0932-383X	1613-7620	2005			2011			http://link.springer.com/journal/502		502		fulltext		Springer	serial								
 Österreichische Wasser- und Abfallwirtschaft	0945-358X	1613-7566	2005			2011			http://link.springer.com/journal/506		506		fulltext		Springer	serial								
@@ -311,7 +311,7 @@ Mineralogy and Petrology	0930-0708	1438-1168	1948			2011			http://link.springer.
 Journal of Economics	0931-8658	1617-7134	1930			2011			http://link.springer.com/journal/712		712		fulltext		Springer	serial								
 Spektrum der Augenheilkunde	0930-4282	1613-7523	2005			2011			http://link.springer.com/journal/717		717		fulltext		Springer	serial								
 Journal Neural Transmission Parkinson's Disease Dementia Section	0936-3076		1989			1995			http://link.springer.com/journal/722		722		fulltext		Springer	serial								
-Applied Magnetic Resonance	0937-9347		1990			2011			http://link.springer.com/journal/723		723		fulltext		Springer	serial								
+Applied Magnetic Resonance	0937-9347	1613-7507	1990			2011			http://link.springer.com/journal/723		723		fulltext		Springer	serial								
 Amino Acids	0939-4451	1438-2199	1991			2011			http://link.springer.com/journal/726		726		fulltext		Springer	serial								
 ProCare	0949-7323	1613-7574	2008			2011			http://link.springer.com/journal/735		735		fulltext		Springer	serial								
 Archives of Women's Mental Health	1434-1816	1435-1102	2005			2011			http://link.springer.com/journal/737		737		fulltext		Springer	serial								
@@ -360,7 +360,7 @@ Review of Economic Design	1434-4742	1434-4750	1994			2011			http://link.springer
 Bulletin of Engineering Geology and the Environment	1435-9529	1435-9537	1970			2011			http://link.springer.com/journal/10064		10064		fulltext		Springer	serial								
 Clinical Rheumatology	0770-3198	1434-9949	1982			2011			http://link.springer.com/journal/10067		10067		fulltext		Springer	serial								
 Food Science and Biotechnology	1226-7708		2010			2011			http://link.springer.com/journal/10068		10068		fulltext		Springer	serial								
-Animal Cognition	1435-9448		2005			2011			http://link.springer.com/journal/10071		10071		fulltext		Springer	serial								
+Animal Cognition	1435-9448	1435-9456	2005			2011			http://link.springer.com/journal/10071		10071		fulltext		Springer	serial								
 Neurological Sciences	1590-1874	1590-3478	1979			2011			http://link.springer.com/journal/10072		10072		fulltext		Springer	serial								
 Journal of Wood Science	1435-0211	1611-4663	2005			2011			http://link.springer.com/journal/10086		10086		fulltext		Springer	serial								
 Calcolo	0008-0624	1126-5434	1964			2011			http://link.springer.com/journal/10092		10092		fulltext		Springer	serial								
@@ -944,7 +944,7 @@ Powder Metallurgy and Metal Ceramics	1068-1302	1573-9066	1962			2011			http://li
 Photonic Network Communications	1387-974X	1572-8188	2005			2011			http://link.springer.com/journal/11107		11107		fulltext		Springer	serial								
 Political Behavior	0190-9320	1573-6687	1979			2011			http://link.springer.com/journal/11109		11109		fulltext		Springer	serial								
 Physical Oceanography		0928-5105	1987			1996			http://link.springer.com/journal/11110		11110		fulltext		Springer	serial								
-Population and Environment		1573-7810	1978			2011			http://link.springer.com/journal/11111		11111		fulltext		Springer	serial								
+Population and Environment	0199-0039	1573-7810	1978			2011			http://link.springer.com/journal/11111		11111		fulltext		Springer	serial								
 Population Research and Policy Review	0167-5923	1573-7829	1982			2011			http://link.springer.com/journal/11113		11113		fulltext		Springer	serial								
 Public Organization Review	1566-7170	1573-7098	2005			2011			http://link.springer.com/journal/11115		11115		fulltext		Springer	serial								
 Transportation	0049-4488	1572-9435	1972			2011			http://link.springer.com/journal/11116		11116		fulltext		Springer	serial								
@@ -1088,7 +1088,7 @@ The International Journal of Life Cycle Assessment	0948-3349	1614-7502	1996			20
 Journal of Soils and Sediments	1439-0108	1614-7480	2005			2011			http://link.springer.com/journal/11368		11368		fulltext		Springer	serial								
 Intelligent Service Robotics	1861-2776	1861-2784	2008			2011			http://link.springer.com/journal/11370		11370		fulltext		Springer	serial								
 Journal Biomedical Science	1021-7770		1994			1996			http://link.springer.com/journal/11373		11373		fulltext		Springer	serial								
-Der Gastroenterologe	1861-9681		2006			2011			http://link.springer.com/journal/11377		11377		fulltext		Springer	serial								
+Der Gastroenterologe	1861-9681	1861-969X	2006			2011			http://link.springer.com/journal/11377		11377		fulltext		Springer	serial								
 Journal of Computer Science and Technology	1000-9000	1860-4749	1986			2011			http://link.springer.com/journal/11390		11390		fulltext		Springer	serial								
 Chinese Annals of Mathematics, Series B	0252-9599	1860-6261	2005			2011			http://link.springer.com/journal/11401		11401		fulltext		Springer	serial								
 Journal of Economic Interaction and Coordination	1860-711X	1860-7128	2006			2011			http://link.springer.com/journal/11403		11403		fulltext		Springer	serial								
@@ -1207,7 +1207,7 @@ Ionics	0947-7047	1862-0760	1995			2011			http://link.springer.com/journal/11581	
 Journal of Zhejiang University - Science A	1009-3095	1862-1775	2005			2011			http://link.springer.com/journal/11582		11582		fulltext		Springer	serial								
 Il Nuovo cimento	0029-6341	1827-6121	1856			1965			http://link.springer.com/journal/11583		11583		fulltext		Springer	serial								
 Cimento		1827-5672	1843			1847			http://link.springer.com/journal/11584		11584		fulltext		Springer	serial								
-Journal of Zhejiang University - Science B		1862-1783	2005			2011			http://link.springer.com/journal/11585		11585		fulltext		Springer	serial								
+Journal of Zhejiang University - Science B	1673-1581	1862-1783	2005			2011			http://link.springer.com/journal/11585		11585		fulltext		Springer	serial								
 Ricerche di Matematica	0035-5038	1827-3491	2006			2011			http://link.springer.com/journal/11587		11587		fulltext		Springer	serial								
 Journal Huazhong University Science Technology [Medical Sciences]	1672-0733	1993-1352	1981			2004			http://link.springer.com/journal/11596		11596		fulltext		Springer	serial								
 Japanese Journal of Radiology (=Radiation Medicine)	0288-2043	1867-108X	2006			2011			http://link.springer.com/journal/11604		11604		fulltext		Springer	serial								
@@ -1379,7 +1379,7 @@ Journal on Multimodal User Interfaces	1783-7677	1783-8738	2007			2011			http://l
 Cellular and Molecular Bioengineering	1865-5025	1865-5033	2008			2011			http://link.springer.com/journal/12195		12195		fulltext		Springer	serial								
 Environmental Health and Preventive Medicine	1342-078X	1347-4715	2005			2011			http://link.springer.com/journal/12199		12199		fulltext		Springer	serial								
 Frontiers of Optoelectronics in China		1866-1270	2008			2011			http://link.springer.com/journal/12200		12200		fulltext		Springer	serial								
-Journal Mechanical Science Technology		1976-3824	1987			2004			http://link.springer.com/journal/12206		12206		fulltext		Springer	serial								
+Journal Mechanical Science Technology	1738-494X	1976-3824	1987			2004			http://link.springer.com/journal/12206		12206		fulltext		Springer	serial								
 Rendiconti Lincei	1120-6349	1720-0776	1990			2011			http://link.springer.com/journal/12210		12210		fulltext		Springer	serial								
 Inland Water Biology	1995-0829	1995-0837	2008			2011			http://link.springer.com/journal/12212		12212		fulltext		Springer	serial								
 Rendiconti del Circolo Matematico di Palermo	0009-725X	1973-4409	1887			2011			http://link.springer.com/journal/12215		12215		fulltext		Springer	serial								
@@ -1395,11 +1395,11 @@ Economic Botany	0013-0001	1874-9364	1947			2011			http://link.springer.com/journ
 International Review of Economics	1865-1704	1863-4613	2006			2011			http://link.springer.com/journal/12232		12232		fulltext		Springer	serial								
 Estuaries Coasts	1559-2723	1559-2731	1978			2004			http://link.springer.com/journal/12237		12237		fulltext		Springer	serial								
 Acta Physica Hungarica	0231-4428		1983			1994			http://link.springer.com/journal/12242		12242		fulltext		Springer	serial								
-annals of telecommunications - annales des télécommunications	0003-4347		1946			2011			http://link.springer.com/journal/12243		12243		fulltext		Springer	serial								
+annals of telecommunications - annales des télécommunications	0003-4347	1958-9395	1946			2011			http://link.springer.com/journal/12243		12243		fulltext		Springer	serial								
 Journal of Pharmaceutical Innovation	1872-5120	1939-8042	2006			2011			http://link.springer.com/journal/12247		12247		fulltext		Springer	serial								
 The AAPS Journal		1550-7416	2005			2011			http://link.springer.com/journal/12248		12248		fulltext		Springer	serial								
 AAPS PharmSciTech		1530-9932	2005			2011			http://link.springer.com/journal/12249		12249		fulltext		Springer	serial								
-Biotechnology Bioprocess Engineering		1976-3816	1996			2004			http://link.springer.com/journal/12257		12257		fulltext		Springer	serial								
+Biotechnology Bioprocess Engineering	1226-8372	1976-3816	1996			2004			http://link.springer.com/journal/12257		12257		fulltext		Springer	serial								
 Indian Journal of Surgery	0972-2068	0973-9793	2007			2011			http://link.springer.com/journal/12262		12262		fulltext		Springer	serial								
 BIOspektrum	0947-0867	1868-6249	2011			2011			http://link.springer.com/journal/12268		12268		fulltext		Springer	serial								
 Archives Pharmacal Research	0253-6269	1976-3786	1978			2004			http://link.springer.com/journal/12272		12272		fulltext		Springer	serial								
@@ -1408,7 +1408,7 @@ Nano Research	1998-0124	1998-0000	2008			2011			http://link.springer.com/journal
 Journal of Microbiology	1225-8873	1976-3794	2008			2011			http://link.springer.com/journal/12275		12275		fulltext		Springer	serial								
 Fortschrittsberichte über Kolloide Polymere	0071-8017		1910			1971			http://link.springer.com/journal/12277		12277		fulltext		Springer	serial								
 Chemists' Section Cotton Oil Press	0095-9774		1920			1924			http://link.springer.com/journal/12279		12279		fulltext		Springer	serial								
-Breast Cancer	1340-6868		1994			2011			http://link.springer.com/journal/12282		12282		fulltext		Springer	serial								
+Breast Cancer	1340-6868	1880-4233	1994			2011			http://link.springer.com/journal/12282		12282		fulltext		Springer	serial								
 Zeitschrift für Vergleichende Politikwissenschaft	1865-2646	1865-2654	2007			2011			http://link.springer.com/journal/12286		12286		fulltext		Springer	serial								
 Indian Journal of Hematology and Blood Transfusion	0971-4502	0974-0449	2007			2011			http://link.springer.com/journal/12288		12288		fulltext		Springer	serial								
 International Journal of Material Forming	1960-6206	1960-6214	2008			2011			http://link.springer.com/journal/12289		12289		fulltext		Springer	serial								
@@ -1429,11 +1429,11 @@ Bulletin Volcanologique	0366-483X		1924			1931			http://link.springer.com/journa
 Mikrochemie	0369-0261		1923			1938			http://link.springer.com/journal/12363		12363		fulltext		Springer	serial								
 American Journal Digestive Diseases	0002-9211		1934			1955			http://link.springer.com/journal/12364		12364		fulltext		Springer	serial								
 European Demographic Information Bulletin	0046-2756		1970			1983			http://link.springer.com/journal/12365		12365		fulltext		Springer	serial								
-Bulletin General Relativity Gravitation			1962			1969			http://link.springer.com/journal/12366		12366		fulltext		Springer	serial								
-International Journal of Social Robotics		1875-4805	2008			2011			http://link.springer.com/journal/12369		12369		fulltext		Springer	serial								
+Bulletin General Relativity Gravitation		1662-5390	1962			1969			http://link.springer.com/journal/12366		12366		fulltext		Springer	serial								
+International Journal of Social Robotics	1875-4791	1875-4805	2008			2011			http://link.springer.com/journal/12369		12369		fulltext		Springer	serial								
 Geoheritage	1867-2477	1867-2485	2009			2011			http://link.springer.com/journal/12371		12371		fulltext		Springer	serial								
 Molecular chemical neuropathology	1044-7393		1983			1996			http://link.springer.com/journal/12373		12373		fulltext		Springer	serial								
-Journal of Plant Biology	1226-9239		2005			2011			http://link.springer.com/journal/12374		12374		fulltext		Springer	serial								
+Journal of Plant Biology	1226-9239	1867-0725	2005			2011			http://link.springer.com/journal/12374		12374		fulltext		Springer	serial								
 Annalen Philosophie philosophischen Kritik	1866-6175		1924			1929			http://link.springer.com/journal/12375		12375		fulltext		Springer	serial								
 Annalen Philosophie	1866-6167		1919			1921			http://link.springer.com/journal/12377		12377		fulltext		Springer	serial								
 Zeitschrift Kristallographie Mineralogie Petrographie	0373-4218		1878			1945			http://link.springer.com/journal/12379		12379		fulltext		Springer	serial								
@@ -1442,17 +1442,17 @@ Zeitschrift experimentelle Pathologie	0372-8552		1905			1921			http://link.sprin
 Journal instructional development	0162-2641		1977			1988			http://link.springer.com/journal/12384		12384		fulltext		Springer	serial								
 Journal Materials Energy Systems	0162-9719		1979			1986			http://link.springer.com/journal/12386		12386		fulltext		Springer	serial								
 Journal Applied Metalworking	0162-9700		1978			1985			http://link.springer.com/journal/12387		12387		fulltext		Springer	serial								
-Proceedings Plant Sciences			1934			1996			http://link.springer.com/journal/12388		12388		fulltext		Springer	serial								
-Current Psychological Reviews			1981			1982			http://link.springer.com/journal/12391		12391		fulltext		Springer	serial								
-Food Engineering Reviews	1866-7910		2009			2011			http://link.springer.com/journal/12393		12393		fulltext		Springer	serial								
+Proceedings Plant Sciences		0370-0097	1934			1996			http://link.springer.com/journal/12388		12388		fulltext		Springer	serial								
+Current Psychological Reviews	0144-3895		1981			1982			http://link.springer.com/journal/12391		12391		fulltext		Springer	serial								
+Food Engineering Reviews	1866-7910	1866-7929	2009			2011			http://link.springer.com/journal/12393		12393		fulltext		Springer	serial								
 Chesapeake Science	0009-3262		1960			1977			http://link.springer.com/journal/12395		12395		fulltext		Springer	serial								
-Contemporary Jewry	0147-1694		1974			2004			http://link.springer.com/journal/12397		12397		fulltext		Springer	serial								
+Contemporary Jewry	0147-1694	1876-5165	1974			2004			http://link.springer.com/journal/12397		12397		fulltext		Springer	serial								
 Zeitschrift für Energiewirtschaft	0343-5377	1866-2765	2008			2011			http://link.springer.com/journal/12398		12398		fulltext		Springer	serial								
 ADHD Attention Deficit and Hyperactivity Disorders	1866-6116	1866-6647	2009			2011			http://link.springer.com/journal/12402		12402		fulltext		Springer	serial								
 Water Quality, Exposure and Health	1876-1658	1876-1666	2009			2011			http://link.springer.com/journal/12403		12403		fulltext		Springer	serial								
 World Journal of Pediatrics	1708-8569	1867-0687	2008			2011			http://link.springer.com/journal/12519		12519		fulltext		Springer	serial								
 International journal clinical monitoring computing	0167-9945		1984			1996			http://link.springer.com/journal/12521		12521		fulltext		Springer	serial								
-Reproductive Medicine and Biology	1445-5781		2005			2011			http://link.springer.com/journal/12522		12522		fulltext		Springer	serial								
+Reproductive Medicine and Biology	1445-5781	1447-0578	2005			2011			http://link.springer.com/journal/12522		12522		fulltext		Springer	serial								
 Journal Indian Society Remote Sensing	0255-660X	0974-3006	1973			2004			http://link.springer.com/journal/12524		12524		fulltext		Springer	serial								
 Electronic Markets	1019-6781	1422-8890	2009			2011			http://link.springer.com/journal/12525		12525		fulltext		Springer	serial								
 Journal Computing Higher Education	1042-1726	1867-1233	1989			2004			http://link.springer.com/journal/12528		12528		fulltext		Springer	serial								
@@ -1461,7 +1461,7 @@ Mathematical Programming Computation	1867-2949	1867-2957	2009			2011			http://li
 Trabajos estadística	0213-8190		1986			1991			http://link.springer.com/journal/12535		12535		fulltext		Springer	serial								
 Trabajos estadística investigación operativa	0041-0241		1950			1985			http://link.springer.com/journal/12536		12536		fulltext		Springer	serial								
 Trabajos investigación operativa	0213-8204		1986			1992			http://link.springer.com/journal/12537		12537		fulltext		Springer	serial								
-Metals Materials International	1598-9623		1995			2004			http://link.springer.com/journal/12540		12540		fulltext		Springer	serial								
+Metals Materials International	1598-9623	2005-4149	1995			2004			http://link.springer.com/journal/12540		12540		fulltext		Springer	serial								
 International Journal of Precision Engineering and Manufacturing	2234-7593	2005-4602	2009			2011			http://link.springer.com/journal/12541		12541		fulltext		Springer	serial								
 Paläontologische Zeitschrift	0031-0220	1867-6812	1914			2011			http://link.springer.com/journal/12542		12542		fulltext		Springer	serial								
 Journal Population Research	1443-2447	1835-9469	1984			2004			http://link.springer.com/journal/12546		12546		fulltext		Springer	serial								
@@ -1480,46 +1480,46 @@ Soziale Passagen	1867-0180	1867-0199	2009			2011			http://link.springer.com/jour
 Journal of the Geological Society of India	0016-7622	0974-6889	2009			2011			http://link.springer.com/journal/12594		12594		fulltext		Springer	serial								
 Journal of Optics	0972-8821	0974-6900	2005			2011			http://link.springer.com/journal/12596		12596		fulltext		Springer	serial								
 Business & Information Systems Engineering		1867-0202	2008			2011			http://link.springer.com/journal/12599		12599		fulltext		Springer	serial								
-Phytoparasitica		1876-7184	1973			2011			http://link.springer.com/journal/12600		12600		fulltext		Springer	serial								
+Phytoparasitica	0334-2123	1876-7184	1973			2011			http://link.springer.com/journal/12600		12600		fulltext		Springer	serial								
 Probiotics and Antimicrobial Proteins	1867-1306	1867-1314	2009			2011			http://link.springer.com/journal/12602		12602		fulltext		Springer	serial								
 The journal of nutrition, health & aging	1279-7707	1760-4788	2008			2011			http://link.springer.com/journal/12603		12603		fulltext		Springer	serial								
 International Journal of Minerals, Metallurgy, and Materials	1674-4799	1869-103X	2010			2011			http://link.springer.com/journal/12613		12613		fulltext		Springer	serial								
 Dublin Journal Medical Science	0790-231X		1836			1922			http://link.springer.com/journal/12627		12627		fulltext		Springer	serial								
 Dublin Quarterly Journal Medical Science	0790-2328		1846			1871			http://link.springer.com/journal/12628		12628		fulltext		Springer	serial								
 Dublin Journal Medical Chemical Science	0332-1029		1832			1835			http://link.springer.com/journal/12629		12629		fulltext		Springer	serial								
-Canadian Journal of Anesthesia/Journal canadien d'anesthésie	0832-610X		2005			2011			http://link.springer.com/journal/12630		12630		fulltext		Springer	serial								
+Canadian Journal of Anesthesia/Journal canadien d'anesthésie	0832-610X	1496-8975	2005			2011			http://link.springer.com/journal/12630		12630		fulltext		Springer	serial								
 Silicon	1876-990X	1876-9918	2009			2011			http://link.springer.com/journal/12633		12633		fulltext		Springer	serial								
 Journal of Visualization	1343-8875	1875-8975	2005			2011			http://link.springer.com/journal/12650		12650		fulltext		Springer	serial								
 Acta Physica Hungarica A Heavy Ion Physics	1219-7580		1995			1996			http://link.springer.com/journal/12656		12656		fulltext		Springer	serial								
 Acta physica Academiae Scientiarum Hungaricae	0001-6705		1951			1982			http://link.springer.com/journal/12658		12658		fulltext		Springer	serial								
 Hungarica Acta Physica	0367-6382		1947			1949			http://link.springer.com/journal/12659		12659		fulltext		Springer	serial								
-Sportwissenschaft	0342-2380		2005			2011			http://link.springer.com/journal/12662		12662		fulltext		Springer	serial								
+Sportwissenschaft	0342-2380	1868-1069	2005			2011			http://link.springer.com/journal/12662		12662		fulltext		Springer	serial								
 Environmental Earth Sciences	1866-6280	1866-6299	2009			2011			http://link.springer.com/journal/12665		12665		fulltext		Springer	serial								
 Transactions of the Indian Institute of Metals	0972-2815	0975-1645	2008			2011			http://link.springer.com/journal/12666		12666		fulltext		Springer	serial								
 Mindfulness	1868-8527	1868-8535	2010			2011			http://link.springer.com/journal/12671		12671		fulltext		Springer	serial								
 Transactions Royal Academy Medicine Ireland	0790-2352		1883			1919			http://link.springer.com/journal/12680		12680		fulltext		Springer	serial								
-Conservation Genetics Resources	1877-7252		2009			2011			http://link.springer.com/journal/12686		12686		fulltext		Springer	serial								
+Conservation Genetics Resources	1877-7252	1877-7260	2009			2011			http://link.springer.com/journal/12686		12686		fulltext		Springer	serial								
 China-EU Law Journal	1868-5153	1868-5161	2011			2011			http://link.springer.com/journal/12689		12689		fulltext		Springer	serial								
 Journal of Service Science Research	2093-0720	2093-0739	2009			2011			http://link.springer.com/journal/12927		12927		fulltext		Springer	serial								
 Cardiovascular Intervention and Therapeutics	1868-4300	1868-4297	2010			2011			http://link.springer.com/journal/12928		12928		fulltext		Springer	serial								
 Translational Stroke Research	1868-4483	1868-601X	2010			2011			http://link.springer.com/journal/12975		12975		fulltext		Springer	serial								
 Iconographia mycologica	0073-4411		1959			1983			http://link.springer.com/journal/13093		13093		fulltext		Springer	serial								
-Journal of Physiology and Biochemistry	1138-7548		2005			2011			http://link.springer.com/journal/13105		13105		fulltext		Springer	serial								
+Journal of Physiology and Biochemistry	1138-7548	1877-8755	2005			2011			http://link.springer.com/journal/13105		13105		fulltext		Springer	serial								
 Hellenic Journal of Surgery	0018-0092		2010			2011			http://link.springer.com/journal/13126		13126		fulltext		Springer	serial								
-Organisms Diversity & Evolution	1439-6092		2010			2011			http://link.springer.com/journal/13127		13127		fulltext		Springer	serial								
+Organisms Diversity & Evolution	1439-6092	1618-1077	2010			2011			http://link.springer.com/journal/13127		13127		fulltext		Springer	serial								
 The European Physical Journal H	2102-6459	2102-6467	2010			2011			http://link.springer.com/journal/13129		13129		fulltext		Springer	serial								
 Acta Oceanologica Sinica	0253-505X		2010			2011			http://link.springer.com/journal/13131		13131		fulltext		Springer	serial								
-Journal für Mathematik-Didaktik	0173-5322		2005			2011			http://link.springer.com/journal/13138		13138		fulltext		Springer	serial								
+Journal für Mathematik-Didaktik	0173-5322	1869-2699	2005			2011			http://link.springer.com/journal/13138		13138		fulltext		Springer	serial								
 Asia-Pacific Journal of Atmospheric Sciences	1976-7633	1976-7951	2010			2011			http://link.springer.com/journal/13143		13143		fulltext		Springer	serial								
 Carbonates and Evaporites	0891-2556	1878-5212	1986			2011			http://link.springer.com/journal/13146		13146		fulltext		Springer	serial								
 Raumforschung und Raumordnung	0034-0111	1869-4179	2005			2011			http://link.springer.com/journal/13147		13147		fulltext		Springer	serial								
 Wetlands	0277-5212		1981			2011			http://link.springer.com/journal/13157		13157		fulltext		Springer	serial								
 International Journal of Early Childhood	0020-7187		1969			2011			http://link.springer.com/journal/13158		13158		fulltext		Springer	serial								
-Japan Journal of Industrial and Applied Mathematics	0916-7005		1984			2011			http://link.springer.com/journal/13160		13160		fulltext		Springer	serial								
+Japan Journal of Industrial and Applied Mathematics	0916-7005	1868-937X	1984			2011			http://link.springer.com/journal/13160		13160		fulltext		Springer	serial								
 Revista Matemática Complutense	1139-1138	1988-2807	2009			2011			http://link.springer.com/journal/13163		13163		fulltext		Springer	serial								
 Review of Philosophy and Psychology	1878-5158	1878-5166	2010			2011			http://link.springer.com/journal/13164		13164		fulltext		Springer	serial								
 International Journal of Intelligent Transportation Systems Research		1868-8659	2010			2011			http://link.springer.com/journal/13177		13177		fulltext		Springer	serial								
-Journal of Medical Toxicology		1937-6995	2005			2011			http://link.springer.com/journal/13181		13181		fulltext		Springer	serial								
+Journal of Medical Toxicology	1556-9039	1937-6995	2005			2011			http://link.springer.com/journal/13181		13181		fulltext		Springer	serial								
 Journal of Cancer Education	0885-8195	1543-0154	2007			2011			http://link.springer.com/journal/13187		13187		fulltext		Springer	serial								
 European Journal for Philosophy of Science	1879-4912	1879-4920	2011			2011			http://link.springer.com/journal/13194		13194		fulltext		Springer	serial								
 Journal of Food Science and Technology	0022-1155	0975-8402	2010			2011			http://link.springer.com/journal/13197		13197		fulltext		Springer	serial								
@@ -1535,18 +1535,18 @@ Australasian Physical & Engineering Sciences in Medicine	0158-9938	1879-5447	200
 Journal of Agricultural, Biological, and Environmental Statistics	1085-7117	1537-2693	2005			2011			http://link.springer.com/journal/13253		13253		fulltext		Springer	serial								
 Journal Elementary Science Education	1090-185X		1989			1996			http://link.springer.com/journal/13270		13270		fulltext		Springer	serial								
 Proceedings Animal Sciences	0253-4118		1978			1990			http://link.springer.com/journal/13271		13271		fulltext		Springer	serial								
-der junge zahnarzt	1869-5744		2010			2011			http://link.springer.com/journal/13279		13279		fulltext		Springer	serial								
+der junge zahnarzt	1869-5744	1869-5752	2010			2011			http://link.springer.com/journal/13279		13279		fulltext		Springer	serial								
 AMBIO	0044-7447	1654-7209	2010			2011			http://link.springer.com/journal/13280		13280		fulltext		Springer	serial								
 Jahresbericht der Deutschen Mathematiker-Vereinigung	0012-0456	1869-7135	2010			2011			http://link.springer.com/journal/13291		13291		fulltext		Springer	serial								
 e-Neuroforum		1868-856X	2010			2011			http://link.springer.com/journal/13295		13295		fulltext		Springer	serial								
-Australasian Plant Pathology		1448-6032	1972			2004			http://link.springer.com/journal/13313		13313		fulltext		Springer	serial								
+Australasian Plant Pathology	0815-3191	1448-6032	1972			2004			http://link.springer.com/journal/13313		13313		fulltext		Springer	serial								
 European Journal of Drug Metabolism and Pharmacokinetics	0378-7966	2107-0180	1976			2011			http://link.springer.com/journal/13318		13318		fulltext		Springer	serial								
 Drug Delivery and Translational Research	2190-393X	2190-3948	2011			2011			http://link.springer.com/journal/13346		13346		fulltext		Springer	serial								
 Philosophy & Technology	2210-5433	2210-5441	2011			2011			http://link.springer.com/journal/13347		13347		fulltext		Springer	serial								
 Applied Entomology and Zoology	0003-6862	1347-605X	2011			2011			http://link.springer.com/journal/13355		13355		fulltext		Springer	serial								
 Swiss Journal of Palaeontology	1664-2376	1664-2384	2011			2011			http://link.springer.com/journal/13358		13358		fulltext		Springer	serial								
 The European Physical Journal Plus		2190-5444	2011			2011			http://link.springer.com/journal/13360		13360		fulltext		Springer	serial								
-Journal of The American Society for Mass Spectrometry		1879-1123	2005			2011			http://link.springer.com/journal/13361		13361		fulltext		Springer	serial								
+Journal of The American Society for Mass Spectrometry	1044-0305	1879-1123	2005			2011			http://link.springer.com/journal/13361		13361		fulltext		Springer	serial								
 Mammal Research	2199-2401	2199-241X	2005			2011			http://link.springer.com/journal/13364		13364		fulltext		Springer	serial								
 Journal of NeuroVirology	1355-0284	1538-2443	2005			2011			http://link.springer.com/journal/13365		13365		fulltext		Springer	serial								
 Beiträge zur Algebra und Geometrie / Contributions to Algebra and Geometry	0138-4821	2191-0383	2011			2011			http://link.springer.com/journal/13366		13366		fulltext		Springer	serial								
@@ -1562,7 +1562,7 @@ Psychonomic Bulletin & Review	1069-9384	1531-5320	2005			2011			http://link.spri
 Behavior Research Methods	1554-351X	1554-3528	2005			2011			http://link.springer.com/journal/13428		13428		fulltext		Springer	serial								
 Demography	0070-3370	1533-7790	1964			2011			http://link.springer.com/journal/13524		13524		fulltext		Springer	serial								
 Sankhya A	0972-836X	0976-8378	2010			2011			http://link.springer.com/journal/13171		13171		fulltext		Springer	serial								
-Sankhya B	0976-8386		2010			2011			http://link.springer.com/journal/13571		13571		fulltext		Springer	serial								
+Sankhya B	0976-8386	0976-8394	2010			2011			http://link.springer.com/journal/13571		13571		fulltext		Springer	serial								
 Human Cell		1749-0774	2005			2011			http://link.springer.com/journal/13577		13577		fulltext		Springer	serial								
 Apidologie	0044-8435	1297-9678	2007			2011			http://link.springer.com/journal/13592		13592		fulltext		Springer	serial								
 Agronomy for Sustainable Development	1774-0746	1773-0155	2007			2011			http://link.springer.com/journal/13593		13593		fulltext		Springer	serial								
@@ -1587,5 +1587,5 @@ Zentralblatt für Arbeitsmedizin, Arbeitsschutz und Ergonomie	0944-2502	2198-071
 Contemporary School Psychology	2159-2020	2161-1505	1996			2011			http://link.springer.com/journal/40688		40688		fulltext		Springer	serial								
 HMD Praxis der Wirtschaftsinformatik	1436-3011	2198-2775	2007			2011			http://link.springer.com/journal/40702		40702		fulltext		Springer	serial								
 Glycosylation Disease	0969-3653		1994			1994			http://link.springer.com/journal/40752		40752		fulltext		Springer	serial								
-Netherlands International Law Review		1741-6191	2005			2011			http://link.springer.com/journal/40802		40802		fulltext		Springer	serial								
-European Business Organization Law Review		1741-6205	2005			2011			http://link.springer.com/journal/40804		40804		fulltext		Springer	serial								
+Netherlands International Law Review	0165-070X	1741-6191	2005			2011			http://link.springer.com/journal/40802		40802		fulltext		Springer	serial								
+European Business Organization Law Review	1566-7529	1741-6205	2005			2011			http://link.springer.com/journal/40804		40804		fulltext		Springer	serial								
