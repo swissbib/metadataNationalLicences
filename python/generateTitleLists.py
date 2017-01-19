@@ -29,11 +29,13 @@ targetDirectoryCSV = "../title-lists/"
 
 
 
+
+
 # elasticsearch request
 request = {
     "query" : {
         "bool": {
-            "must" : {"range" : { "pyear" : {"lte" : 2015}}},
+            "must" : {"range" : { "pyear" : {"lte" : 2011}}},
             "must_not" : {"match" : { "article-title" : "frontmatter"}},
             "must_not" : {"match" : { "article-title" : "titelei"}}
         }
@@ -88,172 +90,7 @@ request = {
 
 
 
-# for oxford, to link to a journal, you need a special key, the linking cannot be done with the journal-id
-# the dictonary below gives the url key for a given journal id. This is taken from an excel list on Oxford Website
-# below are only the case where the url key is different from the journal id
-# http://www.oxfordjournals.org/en/help/tech-info/linking.html
-oxford_urlkey={
-    "asjour" : "asj",
-    "afrafj" : "afraf",
-    "aibsbu" : "aibsbulletin",
-    "ahrrev" : "ahr",
-    "alecon" : "aler",
-    "alhist" : "alh",
-    "analys" : "analysis",
-    "annbot" : "aob",
-    "amtest" : "amt",
-    "biosci" : "bioscience",
-    "biosts" : "biostatistics",
-    "bjaint" : "bja",
-    "bjarev" : "bjaed",
-    "brainj" : "brain",
-    "phisci" : "bjps",
-    "aesthj" : "bjaesthetics",
-    "crimin" : "bjc",
-    "social" : "bjsw",
-    "brimed" : "bmb",
-    "cameco" : "cje",
-    "camquj" : "camqtly",
-    "cs" : "cs",
-    "cjilaw" : "chinesejil",
-    "computer_journal" : "comjnl",
-    "conpec" : "cpe",
-    "czoolo" : "cz",
-    "databa" : "database",
-    "litlin" : "dsh",
-    "dnares" : "dnaresearch",
-    "earlyj" : "em",
-    "enghis" : "ehr",
-    "entsoc" : "es",
-    "eepige" : "eep",
-    "humsup" : "eshremonographs",
-    "escrit" : "eic",
-    "ehjsupp" : "eurheartjsupp",
-    "ehjqcc" : "ehjqcco",
-    "seujhf" : "eurjhfsupp",
-    "ejilaw" : "ejil",
-    "eortho" : "ejo",
-    "eursoj" : "esr",
-    "famprj" : "fampra",
-    "foresj" : "forestry",
-    "formod" : "fmls",
-    "french" : "fh",
-    "frestu" : "fs",
-    "frebul" : "fsb",
-    "gjiarc" : "gsmnras",
-    "geront" : "gerontologist",
-    "global" : "globalsummitry",
-    "hswork" : "hsw",
-    "healed" : "her",
-    "hiwork" : "hwj",
-    "holgen" : "hgs",
-    "icsidr" : "icsidreview",
-    "imanum" : "imajna",
-    "indcor" : "icc",
-    "indlaw" : "ilj",
-    "innovait" : "rcgp-innovait",
-    "ijclaw" : "icon",
-    "inttec" : "ijlit",
-    "lexico" : "ijl",
-    "intpor" : "ijpor",
-    "reflaw" : "ijrl",
-    "irasia" : "irap",
-    "combul" : "itnow",
-    "jrlstu" : "jrls",
-    "jncmon" : "jncimono",
-    "jafeco" : "jae",
-    "japres" : "japr",
-    "jbchem" : "jb",
-    "jconsl" : "jcsl",
-    "eccojcc" : "ecco-jcc",
-    "eccojs" : "ecco-jccs",
-    "cybers" : "cybersecurity",
-    "deafed" : "jdsde",
-    "design" : "jdh",
-    "jnlecg" : "joeg",
-    "envlaw" : "jel",
-    "exbotj" : "jxb",
-    "jfinec" : "jfec",
-    "jhuman" : "jhrp",
-    "jis" : "jinsectscience",
-    "jicjus" : "jicj",
-    "jielaw" : "jiel",
-    "islamj" : "jis",
-    "jlbios" : "jlb",
-    "jleorg" : "jleo",
-    "jmvmyc" : "jmvm",
-    "jmedent" : "jme",
-    "jmther" : "jmt",
-    "petroj" : "petrology",
-    "jporga" : "jpo",
-    "jopart" : "jpart",
-    "pubmed" : "jpubhealth",
-    "refuge" : "jrs",
-    "semant" : "jos",
-    "semitj" : "jss",
-    "jaarel" : "jaar",
-    "hiscol" : "jhc",
-    "jalsci" : "jhmas",
-    "theolj" : "jts",
-    "geron" : "biomedgerontology",
-    "gerona" : "biomedgerontology",
-    "geronb" : "psychsocgerontology",
-    "jahist" : "jah",
-    "juecol" : "jue",
-    "lawprj" : "lpr",
-    "lbaeck" : "leobaeck",
-    "libraj" : "library",
-    "igpl" : "jigpal",
-    "mmycol" : "mmy",
-    "modjud" : "mj",
-    "molbev" : "mbe",
-    "mmmcts" : "mmcts",
-    "musicj" : "ml",
-    "mtspec" : "mts",
-    "musict" : "musictherapy",
-    "mtpers" : "mtp",
-    "musqtl" : "mq",
-    "neuonc" : "neuro-oncology",
-    "noprac" : "nop",
-    "nconsc" : "nc",
-    "nictob" : "ntr",
-    "notesj" : "nq",
-    "narsym" : "nass",
-    "ofidis" : "ofid",
-    "operaq" : "oq",
-    "oxartj" : "oaj",
-    "oxjlsj" : "ojls",
-    "omcrep" : "omcr",
-    "ecopol" : "oxrep",
-    "parlij" : "pa",
-    "philoq" : "pq",
-    "polana" : "pan",
-    "pscien" : "ps",
-    "ptpsupp" : "ptps",
-    "proeng" : "peds",
-    "pparep" : "ppar",
-    "pasjap" : "pasj",
-    "pubjof" : "publius",
-    "qjmedj" : "qjmed",
-    "qmathj" : "qjmath",
-    "qjmamj" : "qjmam",
-    "refqtl" : "rsq",
-    "regbio" : "rb",
-    "revesj" : "res",
-    "revfin" : "rfs",
-    "brheum" : "rheumatology",
-    "sabour" : "sabouraudia",
-    "schbul" : "schizophreniabulletin",
-    "sochis" : "shm",
-    "socpol" : "sp",
-    "ssjapj" : "ssjj",
-    "sworkj" : "sw",
-    "soceco" : "ser",
-    "stalaw" : "slr",
-    "tlmsoc" : "tlms",
-    "tweceb" : "tcbh",
-    "vevolu" : "ve",
-}
+
 
 
 
@@ -266,14 +103,16 @@ baseJournalUrl = {
     "gruyter":"http://www.degruyter.com/view/j/",
     "cambridge":"http://www.cambridge.org/core/product/identifier/",
     "oxford":"http://",
-    "oxford2":"http://"
+    "oxford2":"http://",
+    "springer":"http://link.springer.com/journal/"
 }
 
 postJournalUrl= {
     "gruyter":"",
     "cambridge":"/type/JOURNAL",
     "oxford":".oxfordjournals.org",
-    "oxford2":".oxfordjournals.org"
+    "oxford2":".oxfordjournals.org",
+    "springer":""
 }
 
 
@@ -282,7 +121,7 @@ postJournalUrl= {
 
 
 #for publisher in ["gruyter", "oxford", "cambridge","oxford2"]:
-for publisher in ["cambridge"]:
+for publisher in ["springer"]:
 
     index_to_query=publisher
 
@@ -385,11 +224,14 @@ for publisher in ["cambridge"]:
 
 
 
-        if publisher== "cambridge" and x["key"]== "tia":
+        if publisher == "cambridge" and x["key"]== "tia":
             #this journal has a problem, we skip it
             continue
-        if publisher== "gruyter" and (x["key"] in metadataCorrections.gruyter_journals_to_skip):
+        if publisher == "gruyter" and (x["key"] in metadataCorrections.gruyter_journals_to_skip):
             #these journals shouldn't be included, we skip them
+            continue
+        if publisher == "springer" and (x["key"] not in metadataCorrections.springer_included_journals):
+            #we skip springer journals which are not part of the contract
             continue
 
 
@@ -468,9 +310,9 @@ for publisher in ["cambridge"]:
             keyforurl="mfir"
 
         #corrections for Oxford
-        if (publisher == "oxford" or publisher=="oxford2") and oxford_urlkey.has_key(keyforurl):
+        if (publisher == "oxford" or publisher=="oxford2") and metadataCorrections.oxford_urlkey.has_key(keyforurl):
             #replace journal code by url code
-            keyforurl=oxford_urlkey[keyforurl]
+            keyforurl=metadataCorrections.oxford_urlkey[keyforurl]
 
         ## This is meant to correct oxford missing content as of 20.5.2016
         if publisher== "oxford":
@@ -561,9 +403,9 @@ for publisher in ["cambridge"]:
             #compute journal url
             keyforurl=journal["title_id"]
             #corrections for Oxford
-            if publisher== "oxford" and oxford_urlkey.has_key(keyforurl):
+            if publisher== "oxford" and metadataCorrections.oxford_urlkey.has_key(keyforurl):
             #replace journal code by url code
-                keyforurl=oxford_urlkey[keyforurl]
+                keyforurl=metadataCorrections.oxford_urlkey[keyforurl]
 
 
 
