@@ -102,7 +102,7 @@ request = {
 baseJournalUrl = {
     "gruyter":"http://www.degruyter.com/view/j/",
     "cambridge":"http://www.cambridge.org/core/product/identifier/",
-    "oxford":"http://",
+    "oxford":"https://academic.oup.com/",
     "oxford2":"http://",
     "springer":"http://link.springer.com/journal/"
 }
@@ -110,8 +110,8 @@ baseJournalUrl = {
 postJournalUrl= {
     "gruyter":"",
     "cambridge":"/type/JOURNAL",
-    "oxford":".oxfordjournals.org",
-    "oxford2":".oxfordjournals.org",
+    "oxford":"",
+    "oxford2":" ",
     "springer":""
 }
 
@@ -222,8 +222,6 @@ for publisher in ["oxford"]:
     for x in result["aggregations"]["journal_agg"]["buckets"]:
 
 
-
-
         if publisher == "cambridge" and x["key"]== "tia":
             #this journal has a problem, we skip it
             continue
@@ -232,6 +230,9 @@ for publisher in ["oxford"]:
             continue
         if publisher == "springer" and (x["key"] not in metadataCorrections.springer_included_journals):
             #we skip springer journals which are not part of the contract
+            continue
+        if publisher == "oxford" and x["key"][0:4]== "6.3.":
+            #these journals have a problem, we skip them
             continue
 
 
@@ -326,9 +327,6 @@ for publisher in ["oxford"]:
                 min_volume=metadataCorrections.oxford_correct_start_volume[topresult["eissn_agg"]]
 
         number_of_articles=x["doc_count"]
-        ##As oxford didn't deliver metadata for pre-1996 content, the number of articles count is useless
-        if publisher== "oxford":
-            number_of_articles=""
 
 
         title_list.writerow([x["key"],

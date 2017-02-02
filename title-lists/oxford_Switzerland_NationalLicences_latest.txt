@@ -1,309 +1,299 @@
 publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	notes	publisher_name	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id	access_type
-	0954-2892	1471-6909	1989	1		1994	6		http://6.3.225.oxfordjournals.org		6.3.225		fulltext		Oxford University Press	serial								
-	0954-2892	1471-6909	1989	1		1994	6		http://6.3.241.oxfordjournals.org		6.3.241		fulltext		Oxford University Press	serial								
-	0954-2892	1471-6909	1989	1		1994	6		http://6.3.264.oxfordjournals.org		6.3.264		fulltext		Oxford University Press	serial								
-	0954-2892	1471-6909	1989	1		1994	6		http://6.3.289.oxfordjournals.org		6.3.289		fulltext		Oxford University Press	serial								
-	0954-2892	1471-6909	1989	1		1994	6		http://6.3.298.oxfordjournals.org		6.3.298		fulltext		Oxford University Press	serial								
-	0954-2892	1471-6909	1989	1		1994	6		http://6.3.307.oxfordjournals.org		6.3.307		fulltext		Oxford University Press	serial								
-	0954-2892	1471-6909	1989	1		1994	6		http://6.3.311.oxfordjournals.org		6.3.311		fulltext		Oxford University Press	serial								
-	0954-2892	1471-6909	1989	1		1994	6		http://6.3.315.oxfordjournals.org		6.3.315		fulltext		Oxford University Press	serial								
-	0954-2892	1471-6909	1989	1		1994	6		http://6.3.320.oxfordjournals.org		6.3.320		fulltext		Oxford University Press	serial								
-	0954-2892	1471-6909	1989	1		1994	6		http://6.3.321.oxfordjournals.org		6.3.321		fulltext		Oxford University Press	serial								
-Acta Biochimica et Biophysica Sinica	1672-9145	1745-7270	2004	36		2015	47		http://abbs.oxfordjournals.org		abbs		fulltext		Oxford University Press	serial								
-Archives of Clinical Neuropsychology	0887-6177	1873-5843	1986	1		2015	30		http://acn.oxfordjournals.org		acn		fulltext		Oxford University Press	serial								
-Adaptation	1755-0637	1755-0645	2008	1		2015	8		http://adaptation.oxfordjournals.org		adaptation		fulltext		Oxford University Press	serial								
-American Entomologist	1046-2821	2155-9902	1990	36		2015	61		http://ae.oxfordjournals.org		ae		fulltext		Oxford University Press	serial								
-Review of Agricultural Economics	1058-7195	1467-9353	1996	18		2015	37		http://aepp.oxfordjournals.org		aepp		fulltext		Oxford University Press	serial								
-Annals of the Entomological Society of America	0013-8746	1938-2901	1908	1		2015	108		http://aesa.oxfordjournals.org		aesa		fulltext		Oxford University Press	serial								
-The British Journal of Aesthetics	0007-0904	1468-2842	1960	1		2015	55		http://bjaesthetics.oxfordjournals.org		aesthj		fulltext		Oxford University Press	serial								
-African Affairs	0001-9909	1468-2621	1901	1		2015	114		http://afraf.oxfordjournals.org		afrafj		fulltext		Oxford University Press	serial								
-Age and Ageing	0002-0729	1468-2834	1972	1		2015	44		http://ageing.oxfordjournals.org		ageing		fulltext		Oxford University Press	serial								
-The American Historical Review	0002-8762	1937-5239	1895	1		2015	120		http://ahr.oxfordjournals.org		ahr		fulltext		Oxford University Press	serial								
-AIBS Bulletin	0096-7645		1951	1		1963	13		http://aibsbulletin.oxfordjournals.org		aibsbulletin		fulltext		Oxford University Press	serial								
-Journal of Farm Economics	0002-9092	1467-8276	1919	1		2014	96		http://ajae.oxfordjournals.org		ajae		fulltext		Oxford University Press	serial								
-American Journal of Epidemiology	0002-9262	1476-6256	1952	55		2015	182		http://aje.oxfordjournals.org		aje		fulltext		Oxford University Press	serial								
-American Journal of Hypertension	0895-7061	1941-7225	1988	1		2015	28		http://ajh.oxfordjournals.org		ajh		fulltext		Oxford University Press	serial								
-The American Journal of Jurisprudence	0065-8995	2049-6494	1956	1		2015	60		http://ajj.oxfordjournals.org		ajj		fulltext		Oxford University Press	serial								
-Alcohol and Alcoholism	0735-0414	1464-3502	1963	1		2015	50		http://alcalc.oxfordjournals.org		alcalc		fulltext		Oxford University Press	serial								
-American Law and Economics Review	1465-7252	1465-7260	2015	17		2015	17		http://aler.oxfordjournals.org		alecon		fulltext		Oxford University Press	serial								
-American Literary History	0896-7148	1468-4365	1989	1		2015	27		http://alh.oxfordjournals.org		alhist		fulltext		Oxford University Press	serial								
-Applied Mathematics Research eXpress	1687-1200	1687-1197	2015			2015			http://amrx.oxfordjournals.org		amrx		fulltext		Oxford University Press	serial								
-Analysis	0003-2638	1467-8284	1933	1		2015	75		http://analysis.oxfordjournals.org		analys		fulltext		Oxford University Press	serial								
-Annals of Botany	0305-7364	1095-8290	1887	1		2015	116		http://aob.oxfordjournals.org		annbot		fulltext		Oxford University Press	serial								
-Annals of Occupational Hygiene	0003-4878	1475-3162	1972	15		2015	59		http://annhyg.oxfordjournals.org		annhyg		fulltext		Oxford University Press	serial								
-Annals of Oncology	0923-7534	1569-8041	1990	1		2015	26		http://annonc.oxfordjournals.org		annonc		fulltext		Oxford University Press	serial								
-Applied Linguistics	0142-6001	1477-450X	1980	1		2015	36		http://applij.oxfordjournals.org		applij		fulltext		Oxford University Press	serial								
-Arbitration International	0957-0411	1875-8398	1985	1		2015	31		http://arbitration.oxfordjournals.org		arbitration		fulltext		Oxford University Press	serial								
-Aesthetic Surgery Journal	1090-820X	1527-330X	1995	15		2015	35		http://asj.oxfordjournals.org		asj		fulltext		Oxford University Press	serial								
-Astronomy & Geophysics	1366-8781	1468-4004	2015	56		2015	56		http://astrogeo.oxfordjournals.org		astrogeo		fulltext		Oxford University Press	serial								
-Behavioral Ecology	1045-2249	1465-7279	1990	1		2015	26		http://beheco.oxfordjournals.org		beheco		fulltext		Oxford University Press	serial								
-Briefings in Functional Genomics	2041-2649	2041-2647	2015	14		2015	14		http://bfgp.oxfordjournals.org		bfgp		fulltext		Oxford University Press	serial								
-Bioinformatics	1367-4803	1460-2059	1985	1		2015	31		http://bioinformatics.oxfordjournals.org		bioinformatics		fulltext		Oxford University Press	serial								
-Biometrika	0006-3444	1464-3510	1901	1		2015	102		http://biomet.oxfordjournals.org		biomet		fulltext		Oxford University Press	serial								
-BioScience	0006-3568	1525-3244	1964	14		2015	65		http://bioscience.oxfordjournals.org		bioscience		fulltext		Oxford University Press	serial								
-Biostatistics	1465-4644	1468-4357	2015	16		2015	16		http://biostatistics.oxfordjournals.org		biosts		fulltext		Oxford University Press	serial								
-BJA: British Journal of Anaesthesia	0007-0912	1471-6771	1923	1		2015	115		http://bja.oxfordjournals.org		bjaint		fulltext		Oxford University Press	serial								
-Continuing Education in Anaesthesia, Critical Care & Pain	1743-1816	1743-1824	2015	15		2015	15		http://bjaed.oxfordjournals.org		bjarev		fulltext		Oxford University Press	serial								
-Bulletin of the London Mathematical Society	0024-6093	1469-2120	1969	1		2015	47		http://blms.oxfordjournals.org		blms		fulltext		Oxford University Press	serial								
-Brain	0006-8950	1460-2156	1878	1		2015	138		http://brain.oxfordjournals.org		brainj		fulltext		Oxford University Press	serial								
-Rheumatology	1462-0324	1462-0332	1952	1		2015	54		http://rheumatology.oxfordjournals.org		brheum		fulltext		Oxford University Press	serial								
-British Medical Bulletin	0007-1420	1471-8391	1943	1		2015	116		http://bmb.oxfordjournals.org		brimed		fulltext		Oxford University Press	serial								
-Cambridge Journal of Economics	0309-166X	1464-3545	1977	1		2015	39		http://cje.oxfordjournals.org		cameco		fulltext		Oxford University Press	serial								
-The Cambridge Quarterly	0008-199X	1471-6836	1965	1		2015	44		http://camqtly.oxfordjournals.org		camquj		fulltext		Oxford University Press	serial								
-Carcinogenesis	0143-3334	1460-2180	1980	1		2015	36		http://carcin.oxfordjournals.org		carcin		fulltext		Oxford University Press	serial								
-Cardiovascular Research	0008-6363	1755-3245	1967	1		2015	108		http://cardiovascres.oxfordjournals.org		cardiovascres		fulltext		Oxford University Press	serial								
-Christian Bioethics	1380-3603	1744-4195	1995	1		2015	21		http://cb.oxfordjournals.org		cb		fulltext		Oxford University Press	serial								
-Community Development Journal	0010-3802	1468-2656	1966	1		2015	50		http://cdj.oxfordjournals.org		cdj		fulltext		Oxford University Press	serial								
-Cerebral Cortex	1047-3211	1460-2199	1991	1		2015	25		http://cercor.oxfordjournals.org		cercor		fulltext		Oxford University Press	serial								
-CESifo Economic Studies	1610-241X	1612-7501	2015	61		2015	61		http://cesifo.oxfordjournals.org		cesifo		fulltext		Oxford University Press	serial								
-Chemical Senses	0379-864X	1464-3553	1974	1		2015	40		http://chemse.oxfordjournals.org		chemse		fulltext		Oxford University Press	serial								
-Journal of Chromatographic Science	0021-9665	1945-239X	1963	1		2015	53		http://chromsci.oxfordjournals.org		chromsci		fulltext		Oxford University Press	serial								
-Clinical Infectious Diseases	1058-4838	1537-6591	1979	1		2015	61		http://cid.oxfordjournals.org		cid		fulltext		Oxford University Press	serial								
-Chinese Journal of International Law	1540-1650	1746-9937	2015	14		2015	14		http://chinesejil.oxfordjournals.org		cjilaw		fulltext		Oxford University Press	serial								
-The Chinese Journal of International Politics	1750-8916	1750-8924	2015	8		2015	8		http://cjip.oxfordjournals.org		cjip		fulltext		Oxford University Press	serial								
-Cambridge Journal Of Regions, Economy And Society	1752-1378	1752-1386	2015	8		2015	8		http://cjres.oxfordjournals.org		cjres		fulltext		Oxford University Press	serial								
-Current Legal Problems	2044-8422		1948	1		2015	68		http://clp.oxfordjournals.org		clp		fulltext		Oxford University Press	serial								
-Capital Markets Law Journal	1750-7219	1750-7227	2015	10		2015	10		http://cmlj.oxfordjournals.org		cmlj		fulltext		Oxford University Press	serial								
-ITNOW	1746-5702	1746-5710	1995	37		2015	57		http://itnow.oxfordjournals.org		combul		fulltext		Oxford University Press	serial								
-The Computer Journal	0010-4620	1460-2067	1958	1		2015	58		http://comjnl.oxfordjournals.org		computer_journal		fulltext		Oxford University Press	serial								
-Contributions to Political Economy	0277-5921	1464-3588	1982	1		2015	34		http://cpe.oxfordjournals.org		conpec		fulltext		Oxford University Press	serial								
-The British Journal of Criminology	0007-0955	1464-3529	1960	1		2015	55		http://bjc.oxfordjournals.org		crimin		fulltext		Oxford University Press	serial								
-Classical Receptions Journal	1759-5134	1759-5142	2015	7		2015	7		http://crj.oxfordjournals.org		crj		fulltext		Oxford University Press	serial								
-Children & Schools	1532-8759	1545-682X	1978	1		2015	37		http://cs.oxfordjournals.org		cs		fulltext		Oxford University Press	serial								
-Contemporary Women's Writing	1754-1476	1754-1484	2015	9		2015	9		http://cww.oxfordjournals.org		cww		fulltext		Oxford University Press	serial								
-Journal Of Deaf Studies And Deaf Education	1081-4159	1465-7325	2015	20		2015	20		http://jdsde.oxfordjournals.org		deafed		fulltext		Oxford University Press	serial								
-Journal of Design History	0952-4649	1741-7279	1988	1		2015	28		http://jdh.oxfordjournals.org		design		fulltext		Oxford University Press	serial								
-Diplomatic History	0145-2096	1467-7709	1977	1		2015	39		http://dh.oxfordjournals.org		dh		fulltext		Oxford University Press	serial								
-Digital Scholarship in the Humanities	2055-7671	2055-768X	2015	30		2015	30		http://dsh.oxfordjournals.org		dsh		fulltext		Oxford University Press	serial								
-Early Music	0306-1078	1741-7260	1973	1		2015	43		http://em.oxfordjournals.org		earlyj		fulltext		Oxford University Press	serial								
-Journal of Crohn’s and Colitis	1873-9946	1876-4479	2015	9		2015	9		http://eccojc.oxfordjournals.org		eccojc		fulltext		Oxford University Press	serial								
-Economic Policy	0266-4658	1468-0327	1985	1		2015	30		http://economicpolicy.oxfordjournals.org		economicpolicy		fulltext		Oxford University Press	serial								
-Oxford Review of Economic Policy	0266-903X	1460-2121	1985	1		2015	31		http://oxrep.oxfordjournals.org		ecopol		fulltext		Oxford University Press	serial								
-Environmental Entomology	0046-225X	1938-2936	1972	1		2015	44		http://ee.oxfordjournals.org		ee		fulltext		Oxford University Press	serial								
-European Heart Journal - Cardiovascular Imaging	2047-2404	2047-2412	2015	16		2015	16		http://ehjcimaging.oxfordjournals.org		ehjcimaging		fulltext		Oxford University Press	serial								
-European Journal of Cardio-Thoracic Surgery	1010-7940	1873-734X	1981	1		2015	48		http://ejcts.oxfordjournals.org		ejcts		fulltext		Oxford University Press	serial								
-European Journal Of International Law	0938-5428	1464-3596	2015	26		2015	26		http://ejil.oxfordjournals.org		ejilaw		fulltext		Oxford University Press	serial								
-ELT Journal	0951-0893	1477-4526	1946	1		2015	69		http://eltj.oxfordjournals.org		eltj		fulltext		Oxford University Press	serial								
-The English Historical Review	0013-8266	1477-4534	1886	1		2015	130		http://ehr.oxfordjournals.org		enghis		fulltext		Oxford University Press	serial								
-English	0013-8215	1756-1124	1936	1		2015	64		http://english.oxfordjournals.org		english		fulltext		Oxford University Press	serial								
-Environmental History	1084-5453	1930-8892	2015	20		2015	20		http://envhis.oxfordjournals.org		envhis		fulltext		Oxford University Press	serial								
-Journal of Environmental Law	0952-8873	1464-374X	1989	1		2015	27		http://jel.oxfordjournals.org		envlaw		fulltext		Oxford University Press	serial								
-The European Journal of Orthodontics	0141-5387	1460-2210	1979	1		2015	37		http://ejo.oxfordjournals.org		eortho		fulltext		Oxford University Press	serial								
-Epidemiologic Reviews	0193-936X	1478-6729	1979	1		2015	37		http://epirev.oxfordjournals.org		epirev		fulltext		Oxford University Press	serial								
-European Review of Agricultural Economics	0165-1587	1464-3618	1973	1		2015	42		http://erae.oxfordjournals.org		erae		fulltext		Oxford University Press	serial								
-European Review of Economic History	1361-4916	1474-0044	2015	19		2015	19		http://ereh.oxfordjournals.org		ereh		fulltext		Oxford University Press	serial								
-Essays in Criticism	0014-0856	1471-6852	1951	1		2015	65		http://eic.oxfordjournals.org		escrit		fulltext		Oxford University Press	serial								
-European Heart Journal	0195-668X	1522-9645	1980	1		2015	36		http://eurheartj.oxfordjournals.org		eurheartj		fulltext		Oxford University Press	serial								
-EP Europace	1099-5129	1532-2092	2015	17		2015	17		http://europace.oxfordjournals.org		europace		fulltext		Oxford University Press	serial								
-The European Journal of Public Health	1101-1262	1464-360X	1991	1		2015	25		http://eurpub.oxfordjournals.org		eurpub		fulltext		Oxford University Press	serial								
-European Sociological Review	0266-7215	1468-2672	1985	1		2015	31		http://esr.oxfordjournals.org		eursoj		fulltext		Oxford University Press	serial								
-Journal of Experimental Botany	0022-0957	1460-2431	1950	1		2015	66		http://jxb.oxfordjournals.org		exbotj		fulltext		Oxford University Press	serial								
-Family Practice	0263-2136	1460-2229	1984	1		2015	32		http://fampra.oxfordjournals.org		famprj		fulltext		Oxford University Press	serial								
-FEMS Microbiology Ecology		1574-6941	1985	1		2015	91		http://femsec.oxfordjournals.org		femsec		fulltext		Oxford University Press	serial								
-FEMS Microbiology Letters	0378-1097	1574-6968	1977	1		2015	362		http://femsle.oxfordjournals.org		femsle		fulltext		Oxford University Press	serial								
-Pathogens and Disease	2049-632X		2013	67		2015	73		http://femspd.oxfordjournals.org		femspd		fulltext		Oxford University Press	serial								
-FEMS Microbiology Reviews		1574-6976	1985	1		2015	39		http://femsre.oxfordjournals.org		femsre		fulltext		Oxford University Press	serial								
-FEMS Yeast Research	1567-1364		2015	15		2015	15		http://femsyr.oxfordjournals.org		femsyr		fulltext		Oxford University Press	serial								
-Forestry	0015-752X	1464-3626	1940	14		2015	88		http://forestry.oxfordjournals.org		foresj		fulltext		Oxford University Press	serial								
-Forum for Modern Language Studies	0015-8518	1471-6860	1965	1		2015	51		http://fmls.oxfordjournals.org		formod		fulltext		Oxford University Press	serial								
-Foreign Policy Analysis	1743-8586	1743-8594	2015	11		2015	11		http://fpa.oxfordjournals.org		fpa		fulltext		Oxford University Press	serial								
-French Studies Bulletin	0262-2750	1748-9180	1981	1		2015	36		http://fsb.oxfordjournals.org		frebul		fulltext		Oxford University Press	serial								
-French History	0269-1191	1477-4542	1987	1		2015	29		http://fh.oxfordjournals.org		french		fulltext		Oxford University Press	serial								
-French Studies	0016-1128	1468-2931	1947	1		2015	69		http://fs.oxfordjournals.org		frestu		fulltext		Oxford University Press	serial								
-The Journals of Gerontology Series A: Biological Sciences and Medical Sciences	1079-5006	1758-535X	1995	50		2015	70		http://biomedgerontology.oxfordjournals.org		gerona		fulltext		Oxford University Press	serial								
-The Journals of Gerontology Series B: Psychological Sciences and Social Sciences	1079-5014	1758-5368	1995	50		2015	70		http://psychsocgerontology.oxfordjournals.org		geronb		fulltext		Oxford University Press	serial								
-Journal of Gerontology	0022-1422		1946	1		1994	49		http://geron.oxfordjournals.org		geronj		fulltext		Oxford University Press	serial								
-The Gerontologist	0016-9013	1758-5341	1961	1		2015	55		http://gerontologist.oxfordjournals.org		geront		fulltext		Oxford University Press	serial								
-German History	0266-3554	1477-089X	1984	1		2015	33		http://gh.oxfordjournals.org		gh		fulltext		Oxford University Press	serial								
-Geophysical Journal International	0956-540X	1365-246X	1958	1		2015	203		http://gji.oxfordjournals.org		gji		fulltext		Oxford University Press	serial								
-Glycobiology	0959-6658	1460-2423	1990	1		2015	25		http://glycob.oxfordjournals.org		glycob		fulltext		Oxford University Press	serial								
-Health Education Research	0268-1153	1465-3648	1986	1		2015	30		http://her.oxfordjournals.org		healed		fulltext		Oxford University Press	serial								
-Health Policy and Planning	0268-1080	1460-2237	1986	1		2015	30		http://heapol.oxfordjournals.org		heapol		fulltext		Oxford University Press	serial								
-Health Promotion International	0957-4824	1460-2245	1986	1		2015	30		http://heapro.oxfordjournals.org		heapro		fulltext		Oxford University Press	serial								
-Journal of the History of Collections	0954-6650	1477-8564	1989	11		2015	27		http://jhc.oxfordjournals.org		hiscol		fulltext		Oxford University Press	serial								
-History Workshop Journal	1363-3554	1477-4569	1976	1		2015			http://hwj.oxfordjournals.org		hiwork		fulltext		Oxford University Press	serial								
-Human Molecular Genetics	0964-6906	1460-2083	1992	1		2015	24		http://hmg.oxfordjournals.org		hmg		fulltext		Oxford University Press	serial								
-Holocaust and Genocide Studies	8756-6583	1476-7937	1986	1		2015	29		http://hgs.oxfordjournals.org		holgen		fulltext		Oxford University Press	serial								
-Human Rights Law Review	1461-7781	1744-1021	2015	15		2015	15		http://hrlr.oxfordjournals.org		hrlr		fulltext		Oxford University Press	serial								
-Health & Social Work	0360-7283	1545-6854	1976	1		2015	40		http://hsw.oxfordjournals.org		hsw		fulltext		Oxford University Press	serial								
-Human Reproduction	0268-1161	1460-2350	1986	1		2015	30		http://humrep.oxfordjournals.org		humrep		fulltext		Oxford University Press	serial								
-Human Reproduction Update	1355-4786	1460-2369	1995	1		2015	21		http://humupd.oxfordjournals.org		humupd		fulltext		Oxford University Press	serial								
-Integrative and Comparative Biology	1540-7063	1557-7023	1961	1		2015	55		http://icb.oxfordjournals.org		icb		fulltext		Oxford University Press	serial								
-ICES Journal of Marine Science	1054-3139	1095-9289	1903	1		2015	72		http://icesjms.oxfordjournals.org		icesjms		fulltext		Oxford University Press	serial								
-ICSID Review	0258-3690	2049-1999	1986	1		2015	30		http://icsidreview.oxfordjournals.org		icsidreview		fulltext		Oxford University Press	serial								
-International Data Privacy Law	2044-3994	2044-4001	2015	5		2015	5		http://idpl.oxfordjournals.org		idpl		fulltext		Oxford University Press	serial								
-Logic Journal of IGPL	1367-0751	1368-9894	1993	1		2015	23		http://jigpal.oxfordjournals.org		igpl		fulltext		Oxford University Press	serial								
-International Journal Of Constitutional Law	1474-2640	1474-2659	2015	13		2015	13		http://icon.oxfordjournals.org		ijclaw		fulltext		Oxford University Press	serial								
-International Journal of Epidemiology	0300-5771	1464-3685	1972	1		2015	44		http://ije.oxfordjournals.org		ije		fulltext		Oxford University Press	serial								
-International Journal of Transitional Justice	1752-7716	1752-7724	2015	9		2015	9		http://ijtj.oxfordjournals.org		ijtj		fulltext		Oxford University Press	serial								
-ILAR Journal	1084-2020	1930-6180	2015	56		2015	56		http://ilarjournal.oxfordjournals.org		ilarjournal		fulltext		Oxford University Press	serial								
-IMA Journal of Management Mathematics	1471-678X	1471-6798	1986	1		2015	26		http://imaman.oxfordjournals.org		imaman		fulltext		Oxford University Press	serial								
-IMA Journal of Applied Mathematics	0272-4960	1464-3634	1965	1		2015	80		http://imamat.oxfordjournals.org		imamat		fulltext		Oxford University Press	serial								
-IMA Journal of Mathematical Control and Information	0265-0754	1471-6887	1984	1		2015	32		http://imamci.oxfordjournals.org		imamci		fulltext		Oxford University Press	serial								
-Mathematical Medicine and Biology: A Journal of the IMA	1477-8599	1477-8602	1984	1		2015	32		http://imammb.oxfordjournals.org		imammb		fulltext		Oxford University Press	serial								
-IMA Journal of Numerical Analysis	0272-4979	1464-3642	1981	1		2015	35		http://imajna.oxfordjournals.org		imanum		fulltext		Oxford University Press	serial								
-International Mathematics Research Notices	1073-7928	1687-0247	1991	1		2015			http://imrn.oxfordjournals.org		imrn		fulltext		Oxford University Press	serial								
-Industrial and Corporate Change	0960-6491	1464-3650	1992	1		2015	24		http://icc.oxfordjournals.org		indcor		fulltext		Oxford University Press	serial								
-Industrial Law Journal	0305-9332	1464-3669	1972	1		2015	44		http://ilj.oxfordjournals.org		indlaw		fulltext		Oxford University Press	serial								
-International Health	1876-3413	1876-3405	2015	7		2015	7		http://inthealth.oxfordjournals.org		inthealth		fulltext		Oxford University Press	serial								
-International Immunology	0953-8178	1460-2377	1989	1		2015	27		http://intimm.oxfordjournals.org		intimm		fulltext		Oxford University Press	serial								
-International Journal of Public Opinion Research	0954-2892	1471-6909	1989	1		2015	27		http://ijpor.oxfordjournals.org		intpor		fulltext		Oxford University Press	serial								
-International Journal for Quality in Health Care	1353-4505	1464-3677	1989	1		2015	27		http://intqhc.oxfordjournals.org		intqhc		fulltext		Oxford University Press	serial								
-International Journal of Law and Information Technology	0967-0769	1464-3693	1993	1		2015	23		http://ijlit.oxfordjournals.org		inttec		fulltext		Oxford University Press	serial								
-International Political Sociology	1749-5679	1749-5687	2015	9		2015	9		http://ips.oxfordjournals.org		ips		fulltext		Oxford University Press	serial								
-International Relations of the Asia-Pacific	1470-482X	1470-4838	2015	15		2015	15		http://irap.oxfordjournals.org		irasia		fulltext		Oxford University Press	serial								
-Journal of Islamic Studies	0955-2340	1471-6917	1990	1		2015	26		http://jis.oxfordjournals.org		islamj		fulltext		Oxford University Press	serial								
-Interdisciplinary Studies in Literature and Environment	1076-0962	1759-1090	1993	1		2015	22		http://isle.oxfordjournals.org		isle		fulltext		Oxford University Press	serial								
-International Studies Perspectives	1528-3577	1528-3585	2015	16		2015	16		http://isp.oxfordjournals.org		isp		fulltext		Oxford University Press	serial								
-International Studies Quarterly	0020-8833	1468-2478	2015	59		2015	59		http://isq.oxfordjournals.org		isq		fulltext		Oxford University Press	serial								
-International Studies Review	1521-9488	1468-2486	2015	17		2015	17		http://isr.oxfordjournals.org		isr		fulltext		Oxford University Press	serial								
-Interacting with Computers	0953-5438	1873-7951	1989	1		2015	27		http://iwc.oxfordjournals.org		iwc		fulltext		Oxford University Press	serial								
-Journal of the American Academy of Religion	0002-7189	1477-4585	1933	1		2015	83		http://jaar.oxfordjournals.org		jaarel		fulltext		Oxford University Press	serial								
-Journal of Antimicrobial Chemotherapy	0305-7453	1460-2091	1975	1		2015	70		http://jac.oxfordjournals.org		jac		fulltext		Oxford University Press	serial								
-Journal of African Economies	0963-8024	1464-3723	1992	1		2015	24		http://jae.oxfordjournals.org		jafeco		fulltext		Oxford University Press	serial								
-The Journal of American History	0021-8723	1945-2314	1914	1		2015	102		http://jah.oxfordjournals.org		jahist		fulltext		Oxford University Press	serial								
-Journal of the History of Medicine and Allied Sciences	0022-5045	1468-4373	1946	1		2015	70		http://jhmas.oxfordjournals.org		jalsci		fulltext		Oxford University Press	serial								
-Journal of the American Medical Informatics Association	1067-5027	1527-974X	1994	1		2015	22		http://jamia.oxfordjournals.org		jamia		fulltext		Oxford University Press	serial								
-Journal of Applied Poultry Research	1056-6171	1537-0437	1992	1		2015	24		http://japr.oxfordjournals.org		japr		fulltext		Oxford University Press	serial								
-Journal of Analytical Toxicology	0146-4760	1945-2403	1977	1		2015	39		http://jat.oxfordjournals.org		jat		fulltext		Oxford University Press	serial								
-The Journal of Biochemistry	0021-924X	-	1922	1		2015	158		http://jb.oxfordjournals.org		jbchem		fulltext		Oxford University Press	serial								
-Journal of Competition Law & Economics	1744-6414	1744-6422	2015	11		2015	11		http://jcle.oxfordjournals.org		jcle		fulltext		Oxford University Press	serial								
-Journal of Conflict and Security Law	1467-7954	1467-7962	2015	20		2015	20		http://jcsl.oxfordjournals.org		jconsl		fulltext		Oxford University Press	serial								
-Journal of Church and State	0021-969X	2040-4867	1959	1		2015	57		http://jcs.oxfordjournals.org		jcs		fulltext		Oxford University Press	serial								
-Journal of European Competition Law & Practice	2041-7764	2041-7772	2015	6		2015	6		http://jeclap.oxfordjournals.org		jeclap		fulltext		Oxford University Press	serial								
-Journal of Economic Entomology	0022-0493	1938-291X	1908	1		2015	108		http://jee.oxfordjournals.org		jee		fulltext		Oxford University Press	serial								
-Journal of Financial Econometrics	1479-8409	1479-8417	2015	13		2015	13		http://jfec.oxfordjournals.org		jfinec		fulltext		Oxford University Press	serial								
-Journal of Heredity	0022-1503	1465-7333	1910	1		2015	106		http://jhered.oxfordjournals.org		jhered		fulltext		Oxford University Press	serial								
-The Journal of Hindu Studies	1756-4255	1756-4263	2015	8		2015	8		http://jhs.oxfordjournals.org		jhs		fulltext		Oxford University Press	serial								
-Journal of Human Rights Practice	1757-9619	1757-9627	2015	7		2015	7		http://jhrp.oxfordjournals.org		jhuman		fulltext		Oxford University Press	serial								
-Journal of International Criminal Justice	1478-1387	1478-1395	2015	13		2015	13		http://jicj.oxfordjournals.org		jicjus		fulltext		Oxford University Press	serial								
-Journal of Infectious Diseases	0022-1899	1537-6613	1904	1		2015	212		http://jid.oxfordjournals.org		jid		fulltext		Oxford University Press	serial								
-Journal of International Dispute Settlement	2040-3585	2040-3593	2015	6		2015	6		http://jids.oxfordjournals.org		jids		fulltext		Oxford University Press	serial								
-Journal of International Economic Law	1369-3034	1464-3758	2015	18		2015	18		http://jiel.oxfordjournals.org		jielaw		fulltext		Oxford University Press	serial								
-Journal of Intellectual Property Law & Practice	1747-1532	1747-1540	2015	10		2015	10		http://jiplp.oxfordjournals.org		jiplp		fulltext		Oxford University Press	serial								
-Japanese Journal of Clinical Oncology	0368-2811	1465-3621	1975	5		2015	45		http://jjco.oxfordjournals.org		jjco		fulltext		Oxford University Press	serial								
-The Journal of Law, Economics, and Organization	8756-6222	1465-7341	1985	1		2015	31		http://jleo.oxfordjournals.org		jleorg		fulltext		Oxford University Press	serial								
-Journal of the London Mathematical Society	0024-6107	1469-7750	1926	1		2015	92		http://jlms.oxfordjournals.org		jlms		fulltext		Oxford University Press	serial								
-Journal of Mammalogy	0022-2372	1545-1542	1919	1		2015	96		http://jmammal.oxfordjournals.org		jmammal		fulltext		Oxford University Press	serial								
-Journal of Molecular Cell Biology	1674-2788	1759-4685	2015	7		2015	7		http://jmcb.oxfordjournals.org		jmcb		fulltext		Oxford University Press	serial								
-Journal of Medical Entomology	0022-2585	1938-2928	1964	1		2015	52		http://jme.oxfordjournals.org		jme		fulltext		Oxford University Press	serial								
-Microscopy	0022-0744	1477-9986	1953	1		2015	64		http://jmicro.oxfordjournals.org		jmicro		fulltext		Oxford University Press	serial								
-The Journal of Medicine and Philosophy	0360-5310	1744-5019	1976	1		2015	40		http://jmp.oxfordjournals.org		jmp		fulltext		Oxford University Press	serial								
-Journal of Music Therapy	0022-2917	2053-7395	1964	1		2015	52		http://jmt.oxfordjournals.org		jmt		fulltext		Oxford University Press	serial								
-Journal of the National Cancer Institute	0027-8874	1460-2105	1988	80		2015	107		http://jnci.oxfordjournals.org		jnci		fulltext		Oxford University Press	serial								
-Journal of Economic Geography	1468-2702	1468-2710	2015	15		2015	15		http://joeg.oxfordjournals.org		jnlecg		fulltext		Oxford University Press	serial								
-Journal of Public Administration Research and Theory	1053-1858	1477-9803	1991	1		2015	25		http://jpart.oxfordjournals.org		jopart		fulltext		Oxford University Press	serial								
-Journal Of Plant Ecology	1752-9921	1752-993X	2015	8		2015	8		http://jpe.oxfordjournals.org		jpe		fulltext		Oxford University Press	serial								
-Journal of Pediatric Psychology	0146-8693	1465-735X	1976	1		2015	40		http://jpepsy.oxfordjournals.org		jpepsy		fulltext		Oxford University Press	serial								
-Journal of the Pediatric Infectious Diseases Society	2048-7193	2048-7207	2015	4		2015	4		http://jpids.oxfordjournals.org		jpids		fulltext		Oxford University Press	serial								
-Journal of Social History	0022-4529	1527-1897	1967	1		2015	49		http://jsh.oxfordjournals.org		jsh		fulltext		Oxford University Press	serial								
-The Journal of World Energy Law & Business	1754-9957	1754-9965	2015	8		2015	8		http://jwelb.oxfordjournals.org		jwelb		fulltext		Oxford University Press	serial								
-International Journal of Law, Policy and the Family	1360-9939	1464-3707	1987	1		2015	29		http://lawfam.oxfordjournals.org		lawfam		fulltext		Oxford University Press	serial								
-Law, Probability and Risk	1470-8396	1470-840X	2015	14		2015	14		http://lpr.oxfordjournals.org		lawprj		fulltext		Oxford University Press	serial								
-The Leo Baeck Institute Yearbook	0075-8744	1758-437X	1956	1		2015	60		http://leobaeck.oxfordjournals.org		lbaeck		fulltext		Oxford University Press	serial								
-International Journal of Lexicography	0950-3846	1477-4577	1988	1		2015	28		http://ijl.oxfordjournals.org		lexico		fulltext		Oxford University Press	serial								
-The Library	0024-2160	-	1889	1		2015	21		http://library.oxfordjournals.org		libraj		fulltext		Oxford University Press	serial								
-Literary Imagination	1523-9012	1752-6566	2015	17		2015	17		http://litimag.oxfordjournals.org		litimag		fulltext		Oxford University Press	serial								
-Literature and Theology	0269-1205	1477-4623	1987	1		2015	29		http://litthe.oxfordjournals.org		litthe		fulltext		Oxford University Press	serial								
-Journal of Logic and Computation	0955-792X	1465-363X	1990	1		2015	25		http://logcom.oxfordjournals.org		logcom		fulltext		Oxford University Press	serial								
-OAH Magazine of History	0882-228X	1938-2340	1985	1		2013	27		http://maghis.oxfordjournals.org		maghis		fulltext		Oxford University Press	serial								
-Medical Law Review	0967-0742	1464-3790	1993	1		2015	23		http://medlaw.oxfordjournals.org		medlaw		fulltext		Oxford University Press	serial								
-MELUS	0163-755X	1946-3170	1974	1		2015	40		http://melus.oxfordjournals.org		melus		fulltext		Oxford University Press	serial								
-Mind	0026-4423	1460-2113	1876	1		2015	124		http://mind.oxfordjournals.org		mind		fulltext		Oxford University Press	serial								
-Medical Mycology	1369-3786	1460-2709	1998	36		2015	53		http://mmy.oxfordjournals.org		mmy		fulltext		Oxford University Press	serial								
-Monthly Notices of the Royal Astronomical Society	0035-8711	1365-2966	1827	1		2015	454		http://mnras.oxfordjournals.org		mnras		fulltext		Oxford University Press	serial								
-Modern Judaism - A Journal of Jewish Ideas and Experience	0276-1114	1086-3273	1981	1		2015	35		http://mj.oxfordjournals.org		modjud		fulltext		Oxford University Press	serial								
-Molecular Biology and Evolution	0737-4038	1537-1719	2015	32		2015	32		http://mbe.oxfordjournals.org		molbev		fulltext		Oxford University Press	serial								
-Molecular Human Reproduction	1360-9947	1460-2407	1995	1		2015	21		http://molehr.oxfordjournals.org		molehr		fulltext		Oxford University Press	serial								
-Journal of Molluscan Studies	0260-1230	1464-3766	1986	52		2015	81		http://mollus.oxfordjournals.org		mollus		fulltext		Oxford University Press	serial								
-The Monist	0026-9662	2153-3601	1890	1		2015	98		http://monist.oxfordjournals.org		monist		fulltext		Oxford University Press	serial								
-Mammalian Species		1545-1410	1969	1		2015	47		http://mspecies.oxfordjournals.org		mspecies		fulltext		Oxford University Press	serial								
-Music Therapy Perspectives	0734-6875	2053-7387	1982	1		2015	33		http://mtp.oxfordjournals.org		mtp		fulltext		Oxford University Press	serial								
-Music Theory Spectrum	0195-6167	1533-8339	1979	1		2015	37		http://mts.oxfordjournals.org		mts		fulltext		Oxford University Press	serial								
-Music and Letters	0027-4224	1477-4631	1920	1		2015	96		http://ml.oxfordjournals.org		musicj		fulltext		Oxford University Press	serial								
-The Musical Quarterly	0027-4631	1741-8399	1915	1		2015	98		http://mq.oxfordjournals.org		musqtl		fulltext		Oxford University Press	serial								
-Mutagenesis	0267-8357	1464-3804	1986	1		2015	30		http://mutage.oxfordjournals.org		mutage		fulltext		Oxford University Press	serial								
-Nucleic Acids Research	0305-1048	1362-4962	1974	1		2015	93		http://nar.oxfordjournals.org		nar		fulltext		Oxford University Press	serial								
-Nephrology Dialysis Transplantation	0931-0509	1460-2385	1986	1		2015	30		http://ndt.oxfordjournals.org		ndt		fulltext		Oxford University Press	serial								
-Neuro-Oncology	1522-8517	1523-5866	2015	17		2015	17		http://neuro-oncology.oxfordjournals.org		neuonc		fulltext		Oxford University Press	serial								
-Nicotine & Tobacco Research	1462-2203	1469-994X	2015	17		2015	17		http://ntr.oxfordjournals.org		nictob		fulltext		Oxford University Press	serial								
-Notes and Queries	0029-3970	1471-6941	1849	1		2015	62		http://nq.oxfordjournals.org		notesj		fulltext		Oxford University Press	serial								
-Nutrition Reviews	0029-6643	1753-4887	1942	1		2015	73		http://nutritionreviews.oxfordjournals.org		nutritionreviews		fulltext		Oxford University Press	serial								
-Occupational Medicine	0962-7480	1471-8405	1948	1		2015	65		http://occmed.oxfordjournals.org		occmed		fulltext		Oxford University Press	serial								
-Oxford Economic Papers	0030-7653	1464-3812	1938	1		2015	67		http://oep.oxfordjournals.org		oep		fulltext		Oxford University Press	serial								
-Open Forum Infectious Diseases		2328-8957	2015	3		2015	3		http://ofid.oxfordjournals.org		ofid		fulltext		Oxford University Press	serial								
-The Oral History Review	0094-0798	1533-8592	1973	1		2015	42		http://ohr.oxfordjournals.org		ohr		fulltext		Oxford University Press	serial								
-The Opera Quarterly	0736-0053	1476-2870	1983	1		2015	31		http://oq.oxfordjournals.org		operaq		fulltext		Oxford University Press	serial								
-Oxford Art Journal	0142-6540	1741-7287	1978	1		2015	38		http://oaj.oxfordjournals.org		oxartj		fulltext		Oxford University Press	serial								
-Oxford Journal of Legal Studies	0143-6503	1464-3820	1981	1		2015	35		http://ojls.oxfordjournals.org		oxjlsj		fulltext		Oxford University Press	serial								
-Parliamentary Affairs	0031-2290	1460-2482	1947	1		2015	68		http://pa.oxfordjournals.org		parlij		fulltext		Oxford University Press	serial								
-Past & Present	0031-2746	1477-464X	1952	1		2015	229		http://past.oxfordjournals.org		past		fulltext		Oxford University Press	serial								
-Plant and Cell Physiology	0032-0781	1471-9053	1959	1		2015	56		http://pcp.oxfordjournals.org		pcp		fulltext		Oxford University Press	serial								
-Journal of Petrology	0022-3530	1460-2415	1960	1		2015	56		http://petrology.oxfordjournals.org		petroj		fulltext		Oxford University Press	serial								
-Public Health Ethics	1754-9973	1754-9981	2015	8		2015	8		http://phe.oxfordjournals.org		phe		fulltext		Oxford University Press	serial								
-Philosophia Mathematica	0031-8019	1744-6406	1964	1		2015	23		http://philmat.oxfordjournals.org		philmat		fulltext		Oxford University Press	serial								
-The British Journal for the Philosophy of Science	0007-0882	1464-3537	1950	1		2015	66		http://bjps.oxfordjournals.org		phisci		fulltext		Oxford University Press	serial								
-Journal of Plankton Research	0142-7873	1464-3774	1979	1		2015	37		http://plankt.oxfordjournals.org		plankt		fulltext		Oxford University Press	serial								
-Proceedings of the London Mathematical Society	0024-6115	1460-244X	1865	1		2015	111		http://plms.oxfordjournals.org		plms		fulltext		Oxford University Press	serial								
-Political Analysis	1047-1987	1476-4989	1989	1		2015	23		http://pan.oxfordjournals.org		polana		fulltext		Oxford University Press	serial								
-Policing: A Journal of Policy and Practice	1752-4512	1752-4520	2015	9		2015	9		http://policing.oxfordjournals.org		policing		fulltext		Oxford University Press	serial								
-Public Opinion Quarterly	0033-362X	1537-5331	1937	1		2015	79		http://poq.oxfordjournals.org		poq		fulltext		Oxford University Press	serial								
-Public Policy & Aging Report	1055-3037	2053-4892	2015	25		2015	25		http://ppar.oxfordjournals.org		ppar		fulltext		Oxford University Press	serial								
-The Philosophical Quarterly	0031-8094	1467-9213	1950	1		2015	65		http://pq.oxfordjournals.org		pq		fulltext		Oxford University Press	serial								
-Protein Engineering, Design and Selection	1741-0126	1741-0134	1986	1		2015	28		http://peds.oxfordjournals.org		proeng		fulltext		Oxford University Press	serial								
-Poultry Science	0032-5791	1525-3171	1908	1		2015	94		http://ps.oxfordjournals.org		ps		fulltext		Oxford University Press	serial								
-Publius: The Journal of Federalism	0048-5950	1747-7107	1971	1		2015	45		http://publius.oxfordjournals.org		pubjof		fulltext		Oxford University Press	serial								
-Journal of Public Health	1741-3842	1741-3850	1990	12		2015	37		http://jpubhealth.oxfordjournals.org		pubmed		fulltext		Oxford University Press	serial								
-The Quarterly Journal of Economics	0033-5533	1531-4650	1933	48		2015	130		http://qje.oxfordjournals.org		qje		fulltext		Oxford University Press	serial								
-The Quarterly Journal of Mechanics and Applied Mathematics	0033-5614	1464-3855	1948	1		2015	68		http://qjmam.oxfordjournals.org		qjmamj		fulltext		Oxford University Press	serial								
-QJM: An International Journal of Medicine	1460-2725	1460-2393	1907	1		2015	108		http://qjmed.oxfordjournals.org		qjmedj		fulltext		Oxford University Press	serial								
-The Quarterly Journal of Mathematics	0033-5606	1464-3847	1932	1		2015	66		http://qjmath.oxfordjournals.org		qmathj		fulltext		Oxford University Press	serial								
-The Review of Asset Pricing Studies	2045-9920	2045-9939	2011	1		2015	5		http://raps.oxfordjournals.org		raps		fulltext		Oxford University Press	serial								
-The Review of Corporate Finance Studies	2046-9128	2046-9136	2012	1		2015	4		http://rcfs.oxfordjournals.org		rcfs		fulltext		Oxford University Press	serial								
-Review of Environmental Economics and Policy	1750-6816	1750-6824	2015	9		2015	9		http://reep.oxfordjournals.org		reep		fulltext		Oxford University Press	serial								
-International Journal of Refugee Law	0953-8186	1464-3715	1989	1		2015	27		http://ijrl.oxfordjournals.org		reflaw		fulltext		Oxford University Press	serial								
-Refugee Survey Quarterly	1020-4067	1471-695X	1982	1		2015	34		http://rsq.oxfordjournals.org		refqtl		fulltext		Oxford University Press	serial								
-Journal of Refugee Studies	0951-6328	1471-6925	1988	1		2015	28		http://jrs.oxfordjournals.org		refuge		fulltext		Oxford University Press	serial								
-The Review of Economic Studies	0034-6527	1467-937X	1934	1		2015	82		http://restud.oxfordjournals.org		restud		fulltext		Oxford University Press	serial								
-Research Evaluation	0958-2029	1471-5449	1991	1		2015	24		http://rev.oxfordjournals.org		rev		fulltext		Oxford University Press	serial								
-The Review of English Studies	0034-6551	1471-6968	1925	1		2015	66		http://res.oxfordjournals.org		revesj		fulltext		Oxford University Press	serial								
-The Review of Financial Studies	0893-9454	1465-7368	2015	28		2015	28		http://rfs.oxfordjournals.org		revfin		fulltext		Oxford University Press	serial								
-Review of Finance	1572-3097	1573-692X	2015	19		2015	19		http://rof.oxfordjournals.org		rof		fulltext		Oxford University Press	serial								
-Reports of Patent, Design and Trade Mark Cases	0080-1364	1756-1000	2015	132		2015	132		http://rpc.oxfordjournals.org		rpc		fulltext		Oxford University Press	serial								
-Radiation Protection Dosimetry	0144-8420	1742-3406	1981	1		2015	167		http://rpd.oxfordjournals.org		rpd		fulltext		Oxford University Press	serial								
-Social Cognitive and Affective Neuroscience	1749-5016	1749-5024	2015	10		2015	10		http://scan.oxfordjournals.org		scan		fulltext		Oxford University Press	serial								
-Schizophrenia Bulletin	0586-7614	1745-1701	2015	41		2015	41		http://schizophreniabulletin.oxfordjournals.org		schbul		fulltext		Oxford University Press	serial								
-Screen	0036-9546	1460-2474	1969	10		2015	56		http://screen.oxfordjournals.org		screen		fulltext		Oxford University Press	serial								
-Journal of Semantics	0167-5133	1477-4593	1982	1		2015	32		http://jos.oxfordjournals.org		semant		fulltext		Oxford University Press	serial								
-Journal of Semitic Studies	0022-4480	1477-8556	1956	1		2015	60		http://jss.oxfordjournals.org		semitj		fulltext		Oxford University Press	serial								
-Social Forces	0037-7732	1534-7605	1922	1		2015	94		http://sf.oxfordjournals.org		sf		fulltext		Oxford University Press	serial								
-Socio-Economic Review	1475-1461	1475-147X	2015	13		2015	13		http://ser.oxfordjournals.org		soceco		fulltext		Oxford University Press	serial								
-Social History of Medicine	0951-631X	1477-4666	1988	1		2015	28		http://shm.oxfordjournals.org		sochis		fulltext		Oxford University Press	serial								
-The British Journal of Social Work	0045-3102	1468-263X	1971	1		2015	45		http://bjsw.oxfordjournals.org		social		fulltext		Oxford University Press	serial								
-Social Politics: International Studies in Gender, State & Society	1072-4745	1468-2893	1994	1		2015	22		http://sp.oxfordjournals.org		socpol		fulltext		Oxford University Press	serial								
-Social Problems	0037-7791	1533-8533	2001	48		2015	62		http://socpro.oxfordjournals.org		socpro		fulltext		Oxford University Press	serial								
-Sociological Analysis	1069-4404	1759-8818	1964	25		2015	76		http://socrel.oxfordjournals.org		socrel		fulltext		Oxford University Press	serial								
-Science and Public Policy	0302-3427	1471-5430	1974	1		2015	42		http://spp.oxfordjournals.org		spp		fulltext		Oxford University Press	serial								
-Social Science Japan Journal	1369-1465	1468-2680	2015	18		2015	18		http://ssjj.oxfordjournals.org		ssjapj		fulltext		Oxford University Press	serial								
-Statute Law Review	0144-3593	1464-3863	1980	1		2015	36		http://slr.oxfordjournals.org		stalaw		fulltext		Oxford University Press	serial								
-Social Work	0037-8046	1545-6846	1981	1		2015	60		http://sw.oxfordjournals.org		sw		fulltext		Oxford University Press	serial								
-Social Work Research	1070-5309	1545-6838	1981	1		2015	39		http://swr.oxfordjournals.org		swr		fulltext		Oxford University Press	serial								
-Social Work Research and Abstracts	0148-0847	1001-3412	1977	13		1992	28		http://swra.oxfordjournals.org		swra		fulltext		Oxford University Press	serial								
-Systematic Biology	1063-5157	1076-836X	1952	1		2015	64		http://sysbio.oxfordjournals.org		sysbio		fulltext		Oxford University Press	serial								
-Trusts & Trustees	1752-2110	1363-1780	1994	1		2015	21		http://tandt.oxfordjournals.org		tandt		fulltext		Oxford University Press	serial								
-Teaching Mathematics and its Applications: An International Journal of the IMA	0268-3679	1471-6976	1982	1		2015	34		http://teamat.oxfordjournals.org		teamat		fulltext		Oxford University Press	serial								
-The Journal of Theological Studies	0022-5185	1477-4607	1899	1		2015	66		http://jts.oxfordjournals.org		theolj		fulltext		Oxford University Press	serial								
-Toxicological Sciences	1096-6080	1096-0929	1981	1		2015	148		http://toxsci.oxfordjournals.org		toxsci		fulltext		Oxford University Press	serial								
-Journal of Tropical Pediatrics	0142-6338	1465-3664	1968	14		2015	61		http://tropej.oxfordjournals.org		tropej		fulltext		Oxford University Press	serial								
-Transactions of The Royal Society of Tropical Medicine and Hygiene	0035-9203	1878-3503	1908	2		2015	109		http://trstmh.oxfordjournals.org		trstmh		fulltext		Oxford University Press	serial								
-Twentieth Century British History	0955-2359	1477-4674	1990	1		2015	26		http://tcbh.oxfordjournals.org		tweceb		fulltext		Oxford University Press	serial								
-Uniform Law Review - Revue de droit uniforme	1124-3694	2050-9065	1973	1		2015	22		http://ulr.oxfordjournals.org		ulr		fulltext		Oxford University Press	serial								
-The World Bank Economic Review	0258-6770	1564-698X	1986	1		2015	29		http://wber.oxfordjournals.org		wber		fulltext		Oxford University Press	serial								
-The World Bank Research Observer	0257-3032	1564-6971	1986	1		2015	30		http://wbro.oxfordjournals.org		wbro		fulltext		Oxford University Press	serial								
-Yearbook of European Law	0263-3264	2045-0044	1981	1		2015	34		http://yel.oxfordjournals.org		yel		fulltext		Oxford University Press	serial								
-Yearbook of International Environmental Law	0965-1721	2045-0052	1991	1		2014	25		http://yielaw.oxfordjournals.org		yielaw		fulltext		Oxford University Press	serial								
-The Year's Work in Critical and Cultural Theory	1077-4254	1471-681X	1991	1		2015	23		http://ywcct.oxfordjournals.org		ywcct		fulltext		Oxford University Press	serial								
-The Year's Work in English Studies	0084-4144	1471-6801	1919	1		2015	94		http://ywes.oxfordjournals.org		ywes		fulltext		Oxford University Press	serial								
-FEMS Immunology & Medical Microbiology	0928-8244		1993	6		2012	66		http://femsim.oxfordjournals.org		femsim		fulltext		Oxford University Press	serial								
-FEMS Microbiology Immunology	0920-8534		1988	1		1992	5		http://femsmi.oxfordjournals.org		femsmi		fulltext		Oxford University Press	serial								
-Journal of the Royal African Society	0368-4016		1901	1		1944	43		http://afraf.oxfordjournals.org		afrafj		fulltext		Oxford University Press	serial								
+Acta Biochimica et Biophysica Sinica	1672-9145	1745-7270	2004	36		2015	47		https://academic.oup.com/abbs		abbs		fulltext		Oxford University Press	serial								
+Archives of Clinical Neuropsychology	0887-6177	1873-5843	1986	1		2015	30		https://academic.oup.com/acn		acn		fulltext		Oxford University Press	serial								
+Adaptation	1755-0637	1755-0645	2008	1		2015	8		https://academic.oup.com/adaptation		adaptation		fulltext		Oxford University Press	serial								
+American Entomologist	1046-2821	2155-9902	1990	36		2015	61		https://academic.oup.com/ae		ae		fulltext		Oxford University Press	serial								
+Review of Agricultural Economics	1058-7195	1467-9353	1996	18		2015	37		https://academic.oup.com/aepp		aepp		fulltext		Oxford University Press	serial								
+Annals of the Entomological Society of America	0013-8746	1938-2901	1908	1		2015	108		https://academic.oup.com/aesa		aesa		fulltext		Oxford University Press	serial								
+The British Journal of Aesthetics	0007-0904	1468-2842	1960	1		2015	55		https://academic.oup.com/bjaesthetics		aesthj		fulltext		Oxford University Press	serial								
+African Affairs	0001-9909	1468-2621	1901	1		2015	114		https://academic.oup.com/afraf		afrafj		fulltext		Oxford University Press	serial								
+Age and Ageing	0002-0729	1468-2834	1972	1		2015	44		https://academic.oup.com/ageing		ageing		fulltext		Oxford University Press	serial								
+The American Historical Review	0002-8762	1937-5239	1895	1		2015	120		https://academic.oup.com/ahr		ahr		fulltext		Oxford University Press	serial								
+AIBS Bulletin	0096-7645		1951	1		1963	13		https://academic.oup.com/aibsbulletin		aibsbulletin		fulltext		Oxford University Press	serial								
+Journal of Farm Economics	0002-9092	1467-8276	1919	1		2014	96		https://academic.oup.com/ajae		ajae		fulltext		Oxford University Press	serial								
+American Journal of Epidemiology	0002-9262	1476-6256	1952	55		2015	182		https://academic.oup.com/aje		aje		fulltext		Oxford University Press	serial								
+American Journal of Hypertension	0895-7061	1941-7225	1988	1		2015	28		https://academic.oup.com/ajh		ajh		fulltext		Oxford University Press	serial								
+The American Journal of Jurisprudence	0065-8995	2049-6494	1956	1		2015	60		https://academic.oup.com/ajj		ajj		fulltext		Oxford University Press	serial								
+Alcohol and Alcoholism	0735-0414	1464-3502	1963	1		2015	50		https://academic.oup.com/alcalc		alcalc		fulltext		Oxford University Press	serial								
+American Law and Economics Review	1465-7252	1465-7260	2015	17		2015	17		https://academic.oup.com/aler		alecon		fulltext		Oxford University Press	serial								
+American Literary History	0896-7148	1468-4365	1989	1		2015	27		https://academic.oup.com/alh		alhist		fulltext		Oxford University Press	serial								
+Applied Mathematics Research eXpress	1687-1200	1687-1197	2015			2015			https://academic.oup.com/amrx		amrx		fulltext		Oxford University Press	serial								
+Analysis	0003-2638	1467-8284	1933	1		2015	75		https://academic.oup.com/analysis		analys		fulltext		Oxford University Press	serial								
+Annals of Botany	0305-7364	1095-8290	1887	1		2015	116		https://academic.oup.com/aob		annbot		fulltext		Oxford University Press	serial								
+Annals of Occupational Hygiene	0003-4878	1475-3162	1972	15		2015	59		https://academic.oup.com/annhyg		annhyg		fulltext		Oxford University Press	serial								
+Annals of Oncology	0923-7534	1569-8041	1990	1		2015	26		https://academic.oup.com/annonc		annonc		fulltext		Oxford University Press	serial								
+Applied Linguistics	0142-6001	1477-450X	1980	1		2015	36		https://academic.oup.com/applij		applij		fulltext		Oxford University Press	serial								
+Arbitration International	0957-0411	1875-8398	1985	1		2015	31		https://academic.oup.com/arbitration		arbitration		fulltext		Oxford University Press	serial								
+Aesthetic Surgery Journal	1090-820X	1527-330X	1995	15		2015	35		https://academic.oup.com/asj		asj		fulltext		Oxford University Press	serial								
+Astronomy & Geophysics	1366-8781	1468-4004	2015	56		2015	56		https://academic.oup.com/astrogeo		astrogeo		fulltext		Oxford University Press	serial								
+Behavioral Ecology	1045-2249	1465-7279	1990	1		2015	26		https://academic.oup.com/beheco		beheco		fulltext		Oxford University Press	serial								
+Briefings in Functional Genomics	2041-2649	2041-2647	2015	14		2015	14		https://academic.oup.com/bfgp		bfgp		fulltext		Oxford University Press	serial								
+Bioinformatics	1367-4803	1460-2059	1985	1		2015	31		https://academic.oup.com/bioinformatics		bioinformatics		fulltext		Oxford University Press	serial								
+Biometrika	0006-3444	1464-3510	1901	1		2015	102		https://academic.oup.com/biomet		biomet		fulltext		Oxford University Press	serial								
+BioScience	0006-3568	1525-3244	1964	14		2015	65		https://academic.oup.com/bioscience		bioscience		fulltext		Oxford University Press	serial								
+Biostatistics	1465-4644	1468-4357	2015	16		2015	16		https://academic.oup.com/biostatistics		biosts		fulltext		Oxford University Press	serial								
+BJA: British Journal of Anaesthesia	0007-0912	1471-6771	1923	1		2015	115		https://academic.oup.com/bja		bjaint		fulltext		Oxford University Press	serial								
+Continuing Education in Anaesthesia, Critical Care & Pain	1743-1816	1743-1824	2015	15		2015	15		https://academic.oup.com/bjaed		bjarev		fulltext		Oxford University Press	serial								
+Bulletin of the London Mathematical Society	0024-6093	1469-2120	1969	1		2015	47		https://academic.oup.com/blms		blms		fulltext		Oxford University Press	serial								
+Brain	0006-8950	1460-2156	1878	1		2015	138		https://academic.oup.com/brain		brainj		fulltext		Oxford University Press	serial								
+Rheumatology	1462-0324	1462-0332	1952	1		2015	54		https://academic.oup.com/rheumatology		brheum		fulltext		Oxford University Press	serial								
+British Medical Bulletin	0007-1420	1471-8391	1943	1		2015	116		https://academic.oup.com/bmb		brimed		fulltext		Oxford University Press	serial								
+Cambridge Journal of Economics	0309-166X	1464-3545	1977	1		2015	39		https://academic.oup.com/cje		cameco		fulltext		Oxford University Press	serial								
+The Cambridge Quarterly	0008-199X	1471-6836	1965	1		2015	44		https://academic.oup.com/camqtly		camquj		fulltext		Oxford University Press	serial								
+Carcinogenesis	0143-3334	1460-2180	1980	1		2015	36		https://academic.oup.com/carcin		carcin		fulltext		Oxford University Press	serial								
+Cardiovascular Research	0008-6363	1755-3245	1967	1		2015	108		https://academic.oup.com/cardiovascres		cardiovascres		fulltext		Oxford University Press	serial								
+Christian Bioethics	1380-3603	1744-4195	1995	1		2015	21		https://academic.oup.com/cb		cb		fulltext		Oxford University Press	serial								
+Community Development Journal	0010-3802	1468-2656	1966	1		2015	50		https://academic.oup.com/cdj		cdj		fulltext		Oxford University Press	serial								
+Cerebral Cortex	1047-3211	1460-2199	1991	1		2015	25		https://academic.oup.com/cercor		cercor		fulltext		Oxford University Press	serial								
+CESifo Economic Studies	1610-241X	1612-7501	2015	61		2015	61		https://academic.oup.com/cesifo		cesifo		fulltext		Oxford University Press	serial								
+Chemical Senses	0379-864X	1464-3553	1974	1		2015	40		https://academic.oup.com/chemse		chemse		fulltext		Oxford University Press	serial								
+Journal of Chromatographic Science	0021-9665	1945-239X	1963	1		2015	53		https://academic.oup.com/chromsci		chromsci		fulltext		Oxford University Press	serial								
+Clinical Infectious Diseases	1058-4838	1537-6591	1979	1		2015	61		https://academic.oup.com/cid		cid		fulltext		Oxford University Press	serial								
+Chinese Journal of International Law	1540-1650	1746-9937	2015	14		2015	14		https://academic.oup.com/chinesejil		cjilaw		fulltext		Oxford University Press	serial								
+The Chinese Journal of International Politics	1750-8916	1750-8924	2015	8		2015	8		https://academic.oup.com/cjip		cjip		fulltext		Oxford University Press	serial								
+Cambridge Journal Of Regions, Economy And Society	1752-1378	1752-1386	2015	8		2015	8		https://academic.oup.com/cjres		cjres		fulltext		Oxford University Press	serial								
+Current Legal Problems	2044-8422		1948	1		2015	68		https://academic.oup.com/clp		clp		fulltext		Oxford University Press	serial								
+Capital Markets Law Journal	1750-7219	1750-7227	2015	10		2015	10		https://academic.oup.com/cmlj		cmlj		fulltext		Oxford University Press	serial								
+ITNOW	1746-5702	1746-5710	1995	37		2015	57		https://academic.oup.com/itnow		combul		fulltext		Oxford University Press	serial								
+The Computer Journal	0010-4620	1460-2067	1958	1		2015	58		https://academic.oup.com/comjnl		computer_journal		fulltext		Oxford University Press	serial								
+Contributions to Political Economy	0277-5921	1464-3588	1982	1		2015	34		https://academic.oup.com/cpe		conpec		fulltext		Oxford University Press	serial								
+The British Journal of Criminology	0007-0955	1464-3529	1960	1		2015	55		https://academic.oup.com/bjc		crimin		fulltext		Oxford University Press	serial								
+Classical Receptions Journal	1759-5134	1759-5142	2015	7		2015	7		https://academic.oup.com/crj		crj		fulltext		Oxford University Press	serial								
+Children & Schools	1532-8759	1545-682X	1978	1		2015	37		https://academic.oup.com/cs		cs		fulltext		Oxford University Press	serial								
+Contemporary Women's Writing	1754-1476	1754-1484	2015	9		2015	9		https://academic.oup.com/cww		cww		fulltext		Oxford University Press	serial								
+Journal Of Deaf Studies And Deaf Education	1081-4159	1465-7325	2015	20		2015	20		https://academic.oup.com/jdsde		deafed		fulltext		Oxford University Press	serial								
+Journal of Design History	0952-4649	1741-7279	1988	1		2015	28		https://academic.oup.com/jdh		design		fulltext		Oxford University Press	serial								
+Diplomatic History	0145-2096	1467-7709	1977	1		2015	39		https://academic.oup.com/dh		dh		fulltext		Oxford University Press	serial								
+Digital Scholarship in the Humanities	2055-7671	2055-768X	2015	30		2015	30		https://academic.oup.com/dsh		dsh		fulltext		Oxford University Press	serial								
+Early Music	0306-1078	1741-7260	1973	1		2015	43		https://academic.oup.com/em		earlyj		fulltext		Oxford University Press	serial								
+Journal of Crohn’s and Colitis	1873-9946	1876-4479	2015	9		2015	9		https://academic.oup.com/eccojc		eccojc		fulltext		Oxford University Press	serial								
+Economic Policy	0266-4658	1468-0327	1985	1		2015	30		https://academic.oup.com/economicpolicy		economicpolicy		fulltext		Oxford University Press	serial								
+Oxford Review of Economic Policy	0266-903X	1460-2121	1985	1		2015	31		https://academic.oup.com/oxrep		ecopol		fulltext		Oxford University Press	serial								
+Environmental Entomology	0046-225X	1938-2936	1972	1		2015	44		https://academic.oup.com/ee		ee		fulltext		Oxford University Press	serial								
+European Heart Journal - Cardiovascular Imaging	2047-2404	2047-2412	2015	16		2015	16		https://academic.oup.com/ehjcimaging		ehjcimaging		fulltext		Oxford University Press	serial								
+European Journal of Cardio-Thoracic Surgery	1010-7940	1873-734X	1981	1		2015	48		https://academic.oup.com/ejcts		ejcts		fulltext		Oxford University Press	serial								
+European Journal Of International Law	0938-5428	1464-3596	2015	26		2015	26		https://academic.oup.com/ejil		ejilaw		fulltext		Oxford University Press	serial								
+ELT Journal	0951-0893	1477-4526	1946	1		2015	69		https://academic.oup.com/eltj		eltj		fulltext		Oxford University Press	serial								
+The English Historical Review	0013-8266	1477-4534	1886	1		2015	130		https://academic.oup.com/ehr		enghis		fulltext		Oxford University Press	serial								
+English	0013-8215	1756-1124	1936	1		2015	64		https://academic.oup.com/english		english		fulltext		Oxford University Press	serial								
+Environmental History	1084-5453	1930-8892	2015	20		2015	20		https://academic.oup.com/envhis		envhis		fulltext		Oxford University Press	serial								
+Journal of Environmental Law	0952-8873	1464-374X	1989	1		2015	27		https://academic.oup.com/jel		envlaw		fulltext		Oxford University Press	serial								
+The European Journal of Orthodontics	0141-5387	1460-2210	1979	1		2015	37		https://academic.oup.com/ejo		eortho		fulltext		Oxford University Press	serial								
+Epidemiologic Reviews	0193-936X	1478-6729	1979	1		2015	37		https://academic.oup.com/epirev		epirev		fulltext		Oxford University Press	serial								
+European Review of Agricultural Economics	0165-1587	1464-3618	1973	1		2015	42		https://academic.oup.com/erae		erae		fulltext		Oxford University Press	serial								
+European Review of Economic History	1361-4916	1474-0044	2015	19		2015	19		https://academic.oup.com/ereh		ereh		fulltext		Oxford University Press	serial								
+Essays in Criticism	0014-0856	1471-6852	1951	1		2015	65		https://academic.oup.com/eic		escrit		fulltext		Oxford University Press	serial								
+European Heart Journal	0195-668X	1522-9645	1980	1		2015	36		https://academic.oup.com/eurheartj		eurheartj		fulltext		Oxford University Press	serial								
+EP Europace	1099-5129	1532-2092	2015	17		2015	17		https://academic.oup.com/europace		europace		fulltext		Oxford University Press	serial								
+The European Journal of Public Health	1101-1262	1464-360X	1991	1		2015	25		https://academic.oup.com/eurpub		eurpub		fulltext		Oxford University Press	serial								
+European Sociological Review	0266-7215	1468-2672	1985	1		2015	31		https://academic.oup.com/esr		eursoj		fulltext		Oxford University Press	serial								
+Journal of Experimental Botany	0022-0957	1460-2431	1950	1		2015	66		https://academic.oup.com/jxb		exbotj		fulltext		Oxford University Press	serial								
+Family Practice	0263-2136	1460-2229	1984	1		2015	32		https://academic.oup.com/fampra		famprj		fulltext		Oxford University Press	serial								
+FEMS Microbiology Ecology		1574-6941	1985	1		2015	91		https://academic.oup.com/femsec		femsec		fulltext		Oxford University Press	serial								
+FEMS Microbiology Letters	0378-1097	1574-6968	1977	1		2015	362		https://academic.oup.com/femsle		femsle		fulltext		Oxford University Press	serial								
+Pathogens and Disease	2049-632X		2013	67		2015	73		https://academic.oup.com/femspd		femspd		fulltext		Oxford University Press	serial								
+FEMS Microbiology Reviews		1574-6976	1985	1		2015	39		https://academic.oup.com/femsre		femsre		fulltext		Oxford University Press	serial								
+FEMS Yeast Research	1567-1364		2015	15		2015	15		https://academic.oup.com/femsyr		femsyr		fulltext		Oxford University Press	serial								
+Forestry	0015-752X	1464-3626	1940	14		2015	88		https://academic.oup.com/forestry		foresj		fulltext		Oxford University Press	serial								
+Forum for Modern Language Studies	0015-8518	1471-6860	1965	1		2015	51		https://academic.oup.com/fmls		formod		fulltext		Oxford University Press	serial								
+Foreign Policy Analysis	1743-8586	1743-8594	2015	11		2015	11		https://academic.oup.com/fpa		fpa		fulltext		Oxford University Press	serial								
+French Studies Bulletin	0262-2750	1748-9180	1981	1		2015	36		https://academic.oup.com/fsb		frebul		fulltext		Oxford University Press	serial								
+French History	0269-1191	1477-4542	1987	1		2015	29		https://academic.oup.com/fh		french		fulltext		Oxford University Press	serial								
+French Studies	0016-1128	1468-2931	1947	1		2015	69		https://academic.oup.com/fs		frestu		fulltext		Oxford University Press	serial								
+The Journals of Gerontology Series A: Biological Sciences and Medical Sciences	1079-5006	1758-535X	1995	50		2015	70		https://academic.oup.com/biomedgerontology		gerona		fulltext		Oxford University Press	serial								
+The Journals of Gerontology Series B: Psychological Sciences and Social Sciences	1079-5014	1758-5368	1995	50		2015	70		https://academic.oup.com/psychsocgerontology		geronb		fulltext		Oxford University Press	serial								
+Journal of Gerontology	0022-1422		1946	1		1994	49		https://academic.oup.com/geron		geronj		fulltext		Oxford University Press	serial								
+The Gerontologist	0016-9013	1758-5341	1961	1		2015	55		https://academic.oup.com/gerontologist		geront		fulltext		Oxford University Press	serial								
+German History	0266-3554	1477-089X	1984	1		2015	33		https://academic.oup.com/gh		gh		fulltext		Oxford University Press	serial								
+Geophysical Journal International	0956-540X	1365-246X	1958	1		2015	203		https://academic.oup.com/gji		gji		fulltext		Oxford University Press	serial								
+Glycobiology	0959-6658	1460-2423	1990	1		2015	25		https://academic.oup.com/glycob		glycob		fulltext		Oxford University Press	serial								
+Health Education Research	0268-1153	1465-3648	1986	1		2015	30		https://academic.oup.com/her		healed		fulltext		Oxford University Press	serial								
+Health Policy and Planning	0268-1080	1460-2237	1986	1		2015	30		https://academic.oup.com/heapol		heapol		fulltext		Oxford University Press	serial								
+Health Promotion International	0957-4824	1460-2245	1986	1		2015	30		https://academic.oup.com/heapro		heapro		fulltext		Oxford University Press	serial								
+Journal of the History of Collections	0954-6650	1477-8564	1989	11		2015	27		https://academic.oup.com/jhc		hiscol		fulltext		Oxford University Press	serial								
+History Workshop Journal	1363-3554	1477-4569	1976	1		2015			https://academic.oup.com/hwj		hiwork		fulltext		Oxford University Press	serial								
+Human Molecular Genetics	0964-6906	1460-2083	1992	1		2015	24		https://academic.oup.com/hmg		hmg		fulltext		Oxford University Press	serial								
+Holocaust and Genocide Studies	8756-6583	1476-7937	1986	1		2015	29		https://academic.oup.com/hgs		holgen		fulltext		Oxford University Press	serial								
+Human Rights Law Review	1461-7781	1744-1021	2015	15		2015	15		https://academic.oup.com/hrlr		hrlr		fulltext		Oxford University Press	serial								
+Health & Social Work	0360-7283	1545-6854	1976	1		2015	40		https://academic.oup.com/hsw		hsw		fulltext		Oxford University Press	serial								
+Human Reproduction	0268-1161	1460-2350	1986	1		2015	30		https://academic.oup.com/humrep		humrep		fulltext		Oxford University Press	serial								
+Human Reproduction Update	1355-4786	1460-2369	1995	1		2015	21		https://academic.oup.com/humupd		humupd		fulltext		Oxford University Press	serial								
+Integrative and Comparative Biology	1540-7063	1557-7023	1961	1		2015	55		https://academic.oup.com/icb		icb		fulltext		Oxford University Press	serial								
+ICES Journal of Marine Science	1054-3139	1095-9289	1903	1		2015	72		https://academic.oup.com/icesjms		icesjms		fulltext		Oxford University Press	serial								
+ICSID Review	0258-3690	2049-1999	1986	1		2015	30		https://academic.oup.com/icsidreview		icsidreview		fulltext		Oxford University Press	serial								
+International Data Privacy Law	2044-3994	2044-4001	2015	5		2015	5		https://academic.oup.com/idpl		idpl		fulltext		Oxford University Press	serial								
+Logic Journal of IGPL	1367-0751	1368-9894	1993	1		2015	23		https://academic.oup.com/jigpal		igpl		fulltext		Oxford University Press	serial								
+International Journal Of Constitutional Law	1474-2640	1474-2659	2015	13		2015	13		https://academic.oup.com/icon		ijclaw		fulltext		Oxford University Press	serial								
+International Journal of Epidemiology	0300-5771	1464-3685	1972	1		2015	44		https://academic.oup.com/ije		ije		fulltext		Oxford University Press	serial								
+International Journal of Transitional Justice	1752-7716	1752-7724	2015	9		2015	9		https://academic.oup.com/ijtj		ijtj		fulltext		Oxford University Press	serial								
+ILAR Journal	1084-2020	1930-6180	2015	56		2015	56		https://academic.oup.com/ilarjournal		ilarjournal		fulltext		Oxford University Press	serial								
+IMA Journal of Management Mathematics	1471-678X	1471-6798	1986	1		2015	26		https://academic.oup.com/imaman		imaman		fulltext		Oxford University Press	serial								
+IMA Journal of Applied Mathematics	0272-4960	1464-3634	1965	1		2015	80		https://academic.oup.com/imamat		imamat		fulltext		Oxford University Press	serial								
+IMA Journal of Mathematical Control and Information	0265-0754	1471-6887	1984	1		2015	32		https://academic.oup.com/imamci		imamci		fulltext		Oxford University Press	serial								
+Mathematical Medicine and Biology: A Journal of the IMA	1477-8599	1477-8602	1984	1		2015	32		https://academic.oup.com/imammb		imammb		fulltext		Oxford University Press	serial								
+IMA Journal of Numerical Analysis	0272-4979	1464-3642	1981	1		2015	35		https://academic.oup.com/imajna		imanum		fulltext		Oxford University Press	serial								
+International Mathematics Research Notices	1073-7928	1687-0247	1991	1		2015			https://academic.oup.com/imrn		imrn		fulltext		Oxford University Press	serial								
+Industrial and Corporate Change	0960-6491	1464-3650	1992	1		2015	24		https://academic.oup.com/icc		indcor		fulltext		Oxford University Press	serial								
+Industrial Law Journal	0305-9332	1464-3669	1972	1		2015	44		https://academic.oup.com/ilj		indlaw		fulltext		Oxford University Press	serial								
+International Health	1876-3413	1876-3405	2015	7		2015	7		https://academic.oup.com/inthealth		inthealth		fulltext		Oxford University Press	serial								
+International Immunology	0953-8178	1460-2377	1989	1		2015	27		https://academic.oup.com/intimm		intimm		fulltext		Oxford University Press	serial								
+International Journal of Public Opinion Research	0954-2892	1471-6909	1989	1		2015	27		https://academic.oup.com/ijpor		intpor		fulltext		Oxford University Press	serial								
+International Journal for Quality in Health Care	1353-4505	1464-3677	1989	1		2015	27		https://academic.oup.com/intqhc		intqhc		fulltext		Oxford University Press	serial								
+International Journal of Law and Information Technology	0967-0769	1464-3693	1993	1		2015	23		https://academic.oup.com/ijlit		inttec		fulltext		Oxford University Press	serial								
+International Political Sociology	1749-5679	1749-5687	2015	9		2015	9		https://academic.oup.com/ips		ips		fulltext		Oxford University Press	serial								
+International Relations of the Asia-Pacific	1470-482X	1470-4838	2015	15		2015	15		https://academic.oup.com/irap		irasia		fulltext		Oxford University Press	serial								
+Journal of Islamic Studies	0955-2340	1471-6917	1990	1		2015	26		https://academic.oup.com/jis		islamj		fulltext		Oxford University Press	serial								
+Interdisciplinary Studies in Literature and Environment	1076-0962	1759-1090	1993	1		2015	22		https://academic.oup.com/isle		isle		fulltext		Oxford University Press	serial								
+International Studies Perspectives	1528-3577	1528-3585	2015	16		2015	16		https://academic.oup.com/isp		isp		fulltext		Oxford University Press	serial								
+International Studies Quarterly	0020-8833	1468-2478	2015	59		2015	59		https://academic.oup.com/isq		isq		fulltext		Oxford University Press	serial								
+International Studies Review	1521-9488	1468-2486	2015	17		2015	17		https://academic.oup.com/isr		isr		fulltext		Oxford University Press	serial								
+Interacting with Computers	0953-5438	1873-7951	1989	1		2015	27		https://academic.oup.com/iwc		iwc		fulltext		Oxford University Press	serial								
+Journal of the American Academy of Religion	0002-7189	1477-4585	1933	1		2015	83		https://academic.oup.com/jaar		jaarel		fulltext		Oxford University Press	serial								
+Journal of Antimicrobial Chemotherapy	0305-7453	1460-2091	1975	1		2015	70		https://academic.oup.com/jac		jac		fulltext		Oxford University Press	serial								
+Journal of African Economies	0963-8024	1464-3723	1992	1		2015	24		https://academic.oup.com/jae		jafeco		fulltext		Oxford University Press	serial								
+The Journal of American History	0021-8723	1945-2314	1914	1		2015	102		https://academic.oup.com/jah		jahist		fulltext		Oxford University Press	serial								
+Journal of the History of Medicine and Allied Sciences	0022-5045	1468-4373	1946	1		2015	70		https://academic.oup.com/jhmas		jalsci		fulltext		Oxford University Press	serial								
+Journal of the American Medical Informatics Association	1067-5027	1527-974X	1994	1		2015	22		https://academic.oup.com/jamia		jamia		fulltext		Oxford University Press	serial								
+Journal of Applied Poultry Research	1056-6171	1537-0437	1992	1		2015	24		https://academic.oup.com/japr		japr		fulltext		Oxford University Press	serial								
+Journal of Analytical Toxicology	0146-4760	1945-2403	1977	1		2015	39		https://academic.oup.com/jat		jat		fulltext		Oxford University Press	serial								
+The Journal of Biochemistry	0021-924X	-	1922	1		2015	158		https://academic.oup.com/jb		jbchem		fulltext		Oxford University Press	serial								
+Journal of Competition Law & Economics	1744-6414	1744-6422	2015	11		2015	11		https://academic.oup.com/jcle		jcle		fulltext		Oxford University Press	serial								
+Journal of Conflict and Security Law	1467-7954	1467-7962	2015	20		2015	20		https://academic.oup.com/jcsl		jconsl		fulltext		Oxford University Press	serial								
+Journal of Church and State	0021-969X	2040-4867	1959	1		2015	57		https://academic.oup.com/jcs		jcs		fulltext		Oxford University Press	serial								
+Journal of European Competition Law & Practice	2041-7764	2041-7772	2015	6		2015	6		https://academic.oup.com/jeclap		jeclap		fulltext		Oxford University Press	serial								
+Journal of Economic Entomology	0022-0493	1938-291X	1908	1		2015	108		https://academic.oup.com/jee		jee		fulltext		Oxford University Press	serial								
+Journal of Financial Econometrics	1479-8409	1479-8417	2015	13		2015	13		https://academic.oup.com/jfec		jfinec		fulltext		Oxford University Press	serial								
+Journal of Heredity	0022-1503	1465-7333	1910	1		2015	106		https://academic.oup.com/jhered		jhered		fulltext		Oxford University Press	serial								
+The Journal of Hindu Studies	1756-4255	1756-4263	2015	8		2015	8		https://academic.oup.com/jhs		jhs		fulltext		Oxford University Press	serial								
+Journal of Human Rights Practice	1757-9619	1757-9627	2015	7		2015	7		https://academic.oup.com/jhrp		jhuman		fulltext		Oxford University Press	serial								
+Journal of International Criminal Justice	1478-1387	1478-1395	2015	13		2015	13		https://academic.oup.com/jicj		jicjus		fulltext		Oxford University Press	serial								
+Journal of Infectious Diseases	0022-1899	1537-6613	1904	1		2015	212		https://academic.oup.com/jid		jid		fulltext		Oxford University Press	serial								
+Journal of International Dispute Settlement	2040-3585	2040-3593	2015	6		2015	6		https://academic.oup.com/jids		jids		fulltext		Oxford University Press	serial								
+Journal of International Economic Law	1369-3034	1464-3758	2015	18		2015	18		https://academic.oup.com/jiel		jielaw		fulltext		Oxford University Press	serial								
+Journal of Intellectual Property Law & Practice	1747-1532	1747-1540	2015	10		2015	10		https://academic.oup.com/jiplp		jiplp		fulltext		Oxford University Press	serial								
+Japanese Journal of Clinical Oncology	0368-2811	1465-3621	1975	5		2015	45		https://academic.oup.com/jjco		jjco		fulltext		Oxford University Press	serial								
+The Journal of Law, Economics, and Organization	8756-6222	1465-7341	1985	1		2015	31		https://academic.oup.com/jleo		jleorg		fulltext		Oxford University Press	serial								
+Journal of the London Mathematical Society	0024-6107	1469-7750	1926	1		2015	92		https://academic.oup.com/jlms		jlms		fulltext		Oxford University Press	serial								
+Journal of Mammalogy	0022-2372	1545-1542	1919	1		2015	96		https://academic.oup.com/jmammal		jmammal		fulltext		Oxford University Press	serial								
+Journal of Molecular Cell Biology	1674-2788	1759-4685	2015	7		2015	7		https://academic.oup.com/jmcb		jmcb		fulltext		Oxford University Press	serial								
+Journal of Medical Entomology	0022-2585	1938-2928	1964	1		2015	52		https://academic.oup.com/jme		jme		fulltext		Oxford University Press	serial								
+Microscopy	0022-0744	1477-9986	1953	1		2015	64		https://academic.oup.com/jmicro		jmicro		fulltext		Oxford University Press	serial								
+The Journal of Medicine and Philosophy	0360-5310	1744-5019	1976	1		2015	40		https://academic.oup.com/jmp		jmp		fulltext		Oxford University Press	serial								
+Journal of Music Therapy	0022-2917	2053-7395	1964	1		2015	52		https://academic.oup.com/jmt		jmt		fulltext		Oxford University Press	serial								
+Journal of the National Cancer Institute	0027-8874	1460-2105	1988	80		2015	107		https://academic.oup.com/jnci		jnci		fulltext		Oxford University Press	serial								
+Journal of Economic Geography	1468-2702	1468-2710	2015	15		2015	15		https://academic.oup.com/joeg		jnlecg		fulltext		Oxford University Press	serial								
+Journal of Public Administration Research and Theory	1053-1858	1477-9803	1991	1		2015	25		https://academic.oup.com/jpart		jopart		fulltext		Oxford University Press	serial								
+Journal Of Plant Ecology	1752-9921	1752-993X	2015	8		2015	8		https://academic.oup.com/jpe		jpe		fulltext		Oxford University Press	serial								
+Journal of Pediatric Psychology	0146-8693	1465-735X	1976	1		2015	40		https://academic.oup.com/jpepsy		jpepsy		fulltext		Oxford University Press	serial								
+Journal of the Pediatric Infectious Diseases Society	2048-7193	2048-7207	2015	4		2015	4		https://academic.oup.com/jpids		jpids		fulltext		Oxford University Press	serial								
+Journal of Social History	0022-4529	1527-1897	1967	1		2015	49		https://academic.oup.com/jsh		jsh		fulltext		Oxford University Press	serial								
+The Journal of World Energy Law & Business	1754-9957	1754-9965	2015	8		2015	8		https://academic.oup.com/jwelb		jwelb		fulltext		Oxford University Press	serial								
+International Journal of Law, Policy and the Family	1360-9939	1464-3707	1987	1		2015	29		https://academic.oup.com/lawfam		lawfam		fulltext		Oxford University Press	serial								
+Law, Probability and Risk	1470-8396	1470-840X	2015	14		2015	14		https://academic.oup.com/lpr		lawprj		fulltext		Oxford University Press	serial								
+The Leo Baeck Institute Yearbook	0075-8744	1758-437X	1956	1		2015	60		https://academic.oup.com/leobaeck		lbaeck		fulltext		Oxford University Press	serial								
+International Journal of Lexicography	0950-3846	1477-4577	1988	1		2015	28		https://academic.oup.com/ijl		lexico		fulltext		Oxford University Press	serial								
+The Library	0024-2160	-	1889	1		2015	21		https://academic.oup.com/library		libraj		fulltext		Oxford University Press	serial								
+Literary Imagination	1523-9012	1752-6566	2015	17		2015	17		https://academic.oup.com/litimag		litimag		fulltext		Oxford University Press	serial								
+Literature and Theology	0269-1205	1477-4623	1987	1		2015	29		https://academic.oup.com/litthe		litthe		fulltext		Oxford University Press	serial								
+Journal of Logic and Computation	0955-792X	1465-363X	1990	1		2015	25		https://academic.oup.com/logcom		logcom		fulltext		Oxford University Press	serial								
+OAH Magazine of History	0882-228X	1938-2340	1985	1		2013	27		https://academic.oup.com/maghis		maghis		fulltext		Oxford University Press	serial								
+Medical Law Review	0967-0742	1464-3790	1993	1		2015	23		https://academic.oup.com/medlaw		medlaw		fulltext		Oxford University Press	serial								
+MELUS	0163-755X	1946-3170	1974	1		2015	40		https://academic.oup.com/melus		melus		fulltext		Oxford University Press	serial								
+Mind	0026-4423	1460-2113	1876	1		2015	124		https://academic.oup.com/mind		mind		fulltext		Oxford University Press	serial								
+Medical Mycology	1369-3786	1460-2709	1998	36		2015	53		https://academic.oup.com/mmy		mmy		fulltext		Oxford University Press	serial								
+Monthly Notices of the Royal Astronomical Society	0035-8711	1365-2966	1827	1		2015	454		https://academic.oup.com/mnras		mnras		fulltext		Oxford University Press	serial								
+Modern Judaism - A Journal of Jewish Ideas and Experience	0276-1114	1086-3273	1981	1		2015	35		https://academic.oup.com/mj		modjud		fulltext		Oxford University Press	serial								
+Molecular Biology and Evolution	0737-4038	1537-1719	2015	32		2015	32		https://academic.oup.com/mbe		molbev		fulltext		Oxford University Press	serial								
+Molecular Human Reproduction	1360-9947	1460-2407	1995	1		2015	21		https://academic.oup.com/molehr		molehr		fulltext		Oxford University Press	serial								
+Journal of Molluscan Studies	0260-1230	1464-3766	1986	52		2015	81		https://academic.oup.com/mollus		mollus		fulltext		Oxford University Press	serial								
+The Monist	0026-9662	2153-3601	1890	1		2015	98		https://academic.oup.com/monist		monist		fulltext		Oxford University Press	serial								
+Mammalian Species		1545-1410	1969	1		2015	47		https://academic.oup.com/mspecies		mspecies		fulltext		Oxford University Press	serial								
+Music Therapy Perspectives	0734-6875	2053-7387	1982	1		2015	33		https://academic.oup.com/mtp		mtp		fulltext		Oxford University Press	serial								
+Music Theory Spectrum	0195-6167	1533-8339	1979	1		2015	37		https://academic.oup.com/mts		mts		fulltext		Oxford University Press	serial								
+Music and Letters	0027-4224	1477-4631	1920	1		2015	96		https://academic.oup.com/ml		musicj		fulltext		Oxford University Press	serial								
+The Musical Quarterly	0027-4631	1741-8399	1915	1		2015	98		https://academic.oup.com/mq		musqtl		fulltext		Oxford University Press	serial								
+Mutagenesis	0267-8357	1464-3804	1986	1		2015	30		https://academic.oup.com/mutage		mutage		fulltext		Oxford University Press	serial								
+Nucleic Acids Research	0305-1048	1362-4962	1974	1		2015	93		https://academic.oup.com/nar		nar		fulltext		Oxford University Press	serial								
+Nephrology Dialysis Transplantation	0931-0509	1460-2385	1986	1		2015	30		https://academic.oup.com/ndt		ndt		fulltext		Oxford University Press	serial								
+Neuro-Oncology	1522-8517	1523-5866	2015	17		2015	17		https://academic.oup.com/neuro-oncology		neuonc		fulltext		Oxford University Press	serial								
+Nicotine & Tobacco Research	1462-2203	1469-994X	2015	17		2015	17		https://academic.oup.com/ntr		nictob		fulltext		Oxford University Press	serial								
+Notes and Queries	0029-3970	1471-6941	1849	1		2015	62		https://academic.oup.com/nq		notesj		fulltext		Oxford University Press	serial								
+Nutrition Reviews	0029-6643	1753-4887	1942	1		2015	73		https://academic.oup.com/nutritionreviews		nutritionreviews		fulltext		Oxford University Press	serial								
+Occupational Medicine	0962-7480	1471-8405	1948	1		2015	65		https://academic.oup.com/occmed		occmed		fulltext		Oxford University Press	serial								
+Oxford Economic Papers	0030-7653	1464-3812	1938	1		2015	67		https://academic.oup.com/oep		oep		fulltext		Oxford University Press	serial								
+Open Forum Infectious Diseases		2328-8957	2015	3		2015	3		https://academic.oup.com/ofid		ofid		fulltext		Oxford University Press	serial								
+The Oral History Review	0094-0798	1533-8592	1973	1		2015	42		https://academic.oup.com/ohr		ohr		fulltext		Oxford University Press	serial								
+The Opera Quarterly	0736-0053	1476-2870	1983	1		2015	31		https://academic.oup.com/oq		operaq		fulltext		Oxford University Press	serial								
+Oxford Art Journal	0142-6540	1741-7287	1978	1		2015	38		https://academic.oup.com/oaj		oxartj		fulltext		Oxford University Press	serial								
+Oxford Journal of Legal Studies	0143-6503	1464-3820	1981	1		2015	35		https://academic.oup.com/ojls		oxjlsj		fulltext		Oxford University Press	serial								
+Parliamentary Affairs	0031-2290	1460-2482	1947	1		2015	68		https://academic.oup.com/pa		parlij		fulltext		Oxford University Press	serial								
+Past & Present	0031-2746	1477-464X	1952	1		2015	229		https://academic.oup.com/past		past		fulltext		Oxford University Press	serial								
+Plant and Cell Physiology	0032-0781	1471-9053	1959	1		2015	56		https://academic.oup.com/pcp		pcp		fulltext		Oxford University Press	serial								
+Journal of Petrology	0022-3530	1460-2415	1960	1		2015	56		https://academic.oup.com/petrology		petroj		fulltext		Oxford University Press	serial								
+Public Health Ethics	1754-9973	1754-9981	2015	8		2015	8		https://academic.oup.com/phe		phe		fulltext		Oxford University Press	serial								
+Philosophia Mathematica	0031-8019	1744-6406	1964	1		2015	23		https://academic.oup.com/philmat		philmat		fulltext		Oxford University Press	serial								
+The British Journal for the Philosophy of Science	0007-0882	1464-3537	1950	1		2015	66		https://academic.oup.com/bjps		phisci		fulltext		Oxford University Press	serial								
+Journal of Plankton Research	0142-7873	1464-3774	1979	1		2015	37		https://academic.oup.com/plankt		plankt		fulltext		Oxford University Press	serial								
+Proceedings of the London Mathematical Society	0024-6115	1460-244X	1865	1		2015	111		https://academic.oup.com/plms		plms		fulltext		Oxford University Press	serial								
+Political Analysis	1047-1987	1476-4989	1989	1		2015	23		https://academic.oup.com/pan		polana		fulltext		Oxford University Press	serial								
+Policing: A Journal of Policy and Practice	1752-4512	1752-4520	2015	9		2015	9		https://academic.oup.com/policing		policing		fulltext		Oxford University Press	serial								
+Public Opinion Quarterly	0033-362X	1537-5331	1937	1		2015	79		https://academic.oup.com/poq		poq		fulltext		Oxford University Press	serial								
+Public Policy & Aging Report	1055-3037	2053-4892	2015	25		2015	25		https://academic.oup.com/ppar		ppar		fulltext		Oxford University Press	serial								
+The Philosophical Quarterly	0031-8094	1467-9213	1950	1		2015	65		https://academic.oup.com/pq		pq		fulltext		Oxford University Press	serial								
+Protein Engineering, Design and Selection	1741-0126	1741-0134	1986	1		2015	28		https://academic.oup.com/peds		proeng		fulltext		Oxford University Press	serial								
+Poultry Science	0032-5791	1525-3171	1908	1		2015	94		https://academic.oup.com/ps		ps		fulltext		Oxford University Press	serial								
+Publius: The Journal of Federalism	0048-5950	1747-7107	1971	1		2015	45		https://academic.oup.com/publius		pubjof		fulltext		Oxford University Press	serial								
+Journal of Public Health	1741-3842	1741-3850	1990	12		2015	37		https://academic.oup.com/jpubhealth		pubmed		fulltext		Oxford University Press	serial								
+The Quarterly Journal of Economics	0033-5533	1531-4650	1933	48		2015	130		https://academic.oup.com/qje		qje		fulltext		Oxford University Press	serial								
+The Quarterly Journal of Mechanics and Applied Mathematics	0033-5614	1464-3855	1948	1		2015	68		https://academic.oup.com/qjmam		qjmamj		fulltext		Oxford University Press	serial								
+QJM: An International Journal of Medicine	1460-2725	1460-2393	1907	1		2015	108		https://academic.oup.com/qjmed		qjmedj		fulltext		Oxford University Press	serial								
+The Quarterly Journal of Mathematics	0033-5606	1464-3847	1932	1		2015	66		https://academic.oup.com/qjmath		qmathj		fulltext		Oxford University Press	serial								
+The Review of Asset Pricing Studies	2045-9920	2045-9939	2011	1		2015	5		https://academic.oup.com/raps		raps		fulltext		Oxford University Press	serial								
+The Review of Corporate Finance Studies	2046-9128	2046-9136	2012	1		2015	4		https://academic.oup.com/rcfs		rcfs		fulltext		Oxford University Press	serial								
+Review of Environmental Economics and Policy	1750-6816	1750-6824	2015	9		2015	9		https://academic.oup.com/reep		reep		fulltext		Oxford University Press	serial								
+International Journal of Refugee Law	0953-8186	1464-3715	1989	1		2015	27		https://academic.oup.com/ijrl		reflaw		fulltext		Oxford University Press	serial								
+Refugee Survey Quarterly	1020-4067	1471-695X	1982	1		2015	34		https://academic.oup.com/rsq		refqtl		fulltext		Oxford University Press	serial								
+Journal of Refugee Studies	0951-6328	1471-6925	1988	1		2015	28		https://academic.oup.com/jrs		refuge		fulltext		Oxford University Press	serial								
+The Review of Economic Studies	0034-6527	1467-937X	1934	1		2015	82		https://academic.oup.com/restud		restud		fulltext		Oxford University Press	serial								
+Research Evaluation	0958-2029	1471-5449	1991	1		2015	24		https://academic.oup.com/rev		rev		fulltext		Oxford University Press	serial								
+The Review of English Studies	0034-6551	1471-6968	1925	1		2015	66		https://academic.oup.com/res		revesj		fulltext		Oxford University Press	serial								
+The Review of Financial Studies	0893-9454	1465-7368	2015	28		2015	28		https://academic.oup.com/rfs		revfin		fulltext		Oxford University Press	serial								
+Review of Finance	1572-3097	1573-692X	2015	19		2015	19		https://academic.oup.com/rof		rof		fulltext		Oxford University Press	serial								
+Reports of Patent, Design and Trade Mark Cases	0080-1364	1756-1000	2015	132		2015	132		https://academic.oup.com/rpc		rpc		fulltext		Oxford University Press	serial								
+Radiation Protection Dosimetry	0144-8420	1742-3406	1981	1		2015	167		https://academic.oup.com/rpd		rpd		fulltext		Oxford University Press	serial								
+Social Cognitive and Affective Neuroscience	1749-5016	1749-5024	2015	10		2015	10		https://academic.oup.com/scan		scan		fulltext		Oxford University Press	serial								
+Schizophrenia Bulletin	0586-7614	1745-1701	2015	41		2015	41		https://academic.oup.com/schizophreniabulletin		schbul		fulltext		Oxford University Press	serial								
+Screen	0036-9546	1460-2474	1969	10		2015	56		https://academic.oup.com/screen		screen		fulltext		Oxford University Press	serial								
+Journal of Semantics	0167-5133	1477-4593	1982	1		2015	32		https://academic.oup.com/jos		semant		fulltext		Oxford University Press	serial								
+Journal of Semitic Studies	0022-4480	1477-8556	1956	1		2015	60		https://academic.oup.com/jss		semitj		fulltext		Oxford University Press	serial								
+Social Forces	0037-7732	1534-7605	1922	1		2015	94		https://academic.oup.com/sf		sf		fulltext		Oxford University Press	serial								
+Socio-Economic Review	1475-1461	1475-147X	2015	13		2015	13		https://academic.oup.com/ser		soceco		fulltext		Oxford University Press	serial								
+Social History of Medicine	0951-631X	1477-4666	1988	1		2015	28		https://academic.oup.com/shm		sochis		fulltext		Oxford University Press	serial								
+The British Journal of Social Work	0045-3102	1468-263X	1971	1		2015	45		https://academic.oup.com/bjsw		social		fulltext		Oxford University Press	serial								
+Social Politics: International Studies in Gender, State & Society	1072-4745	1468-2893	1994	1		2015	22		https://academic.oup.com/sp		socpol		fulltext		Oxford University Press	serial								
+Social Problems	0037-7791	1533-8533	2001	48		2015	62		https://academic.oup.com/socpro		socpro		fulltext		Oxford University Press	serial								
+Sociological Analysis	1069-4404	1759-8818	1964	25		2015	76		https://academic.oup.com/socrel		socrel		fulltext		Oxford University Press	serial								
+Science and Public Policy	0302-3427	1471-5430	1974	1		2015	42		https://academic.oup.com/spp		spp		fulltext		Oxford University Press	serial								
+Social Science Japan Journal	1369-1465	1468-2680	2015	18		2015	18		https://academic.oup.com/ssjj		ssjapj		fulltext		Oxford University Press	serial								
+Statute Law Review	0144-3593	1464-3863	1980	1		2015	36		https://academic.oup.com/slr		stalaw		fulltext		Oxford University Press	serial								
+Social Work	0037-8046	1545-6846	1981	1		2015	60		https://academic.oup.com/sw		sw		fulltext		Oxford University Press	serial								
+Social Work Research	1070-5309	1545-6838	1981	1		2015	39		https://academic.oup.com/swr		swr		fulltext		Oxford University Press	serial								
+Social Work Research and Abstracts	0148-0847	1001-3412	1977	13		1992	28		https://academic.oup.com/swra		swra		fulltext		Oxford University Press	serial								
+Systematic Biology	1063-5157	1076-836X	1952	1		2015	64		https://academic.oup.com/sysbio		sysbio		fulltext		Oxford University Press	serial								
+Trusts & Trustees	1752-2110	1363-1780	1994	1		2015	21		https://academic.oup.com/tandt		tandt		fulltext		Oxford University Press	serial								
+Teaching Mathematics and its Applications: An International Journal of the IMA	0268-3679	1471-6976	1982	1		2015	34		https://academic.oup.com/teamat		teamat		fulltext		Oxford University Press	serial								
+The Journal of Theological Studies	0022-5185	1477-4607	1899	1		2015	66		https://academic.oup.com/jts		theolj		fulltext		Oxford University Press	serial								
+Toxicological Sciences	1096-6080	1096-0929	1981	1		2015	148		https://academic.oup.com/toxsci		toxsci		fulltext		Oxford University Press	serial								
+Journal of Tropical Pediatrics	0142-6338	1465-3664	1968	14		2015	61		https://academic.oup.com/tropej		tropej		fulltext		Oxford University Press	serial								
+Transactions of The Royal Society of Tropical Medicine and Hygiene	0035-9203	1878-3503	1908	2		2015	109		https://academic.oup.com/trstmh		trstmh		fulltext		Oxford University Press	serial								
+Twentieth Century British History	0955-2359	1477-4674	1990	1		2015	26		https://academic.oup.com/tcbh		tweceb		fulltext		Oxford University Press	serial								
+Uniform Law Review - Revue de droit uniforme	1124-3694	2050-9065	1973	1		2015	22		https://academic.oup.com/ulr		ulr		fulltext		Oxford University Press	serial								
+The World Bank Economic Review	0258-6770	1564-698X	1986	1		2015	29		https://academic.oup.com/wber		wber		fulltext		Oxford University Press	serial								
+The World Bank Research Observer	0257-3032	1564-6971	1986	1		2015	30		https://academic.oup.com/wbro		wbro		fulltext		Oxford University Press	serial								
+Yearbook of European Law	0263-3264	2045-0044	1981	1		2015	34		https://academic.oup.com/yel		yel		fulltext		Oxford University Press	serial								
+Yearbook of International Environmental Law	0965-1721	2045-0052	1991	1		2014	25		https://academic.oup.com/yielaw		yielaw		fulltext		Oxford University Press	serial								
+The Year's Work in Critical and Cultural Theory	1077-4254	1471-681X	1991	1		2015	23		https://academic.oup.com/ywcct		ywcct		fulltext		Oxford University Press	serial								
+The Year's Work in English Studies	0084-4144	1471-6801	1919	1		2015	94		https://academic.oup.com/ywes		ywes		fulltext		Oxford University Press	serial								
+FEMS Immunology & Medical Microbiology	0928-8244		1993	6		2012	66		https://academic.oup.com/femsim		femsim		fulltext		Oxford University Press	serial								
+FEMS Microbiology Immunology	0920-8534		1988	1		1992	5		https://academic.oup.com/femsmi		femsmi		fulltext		Oxford University Press	serial								
+Journal of the Royal African Society	0368-4016		1901	1		1944	43		https://academic.oup.com/afraf		afrafj		fulltext		Oxford University Press	serial								
