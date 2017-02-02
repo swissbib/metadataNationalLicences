@@ -35,7 +35,7 @@ targetDirectoryCSV = "../title-lists/"
 request = {
     "query" : {
         "bool": {
-            "must" : {"range" : { "pyear" : {"lte" : 2011}}},
+            "must" : {"range" : { "pyear" : {"lte" : 2015}}},
             "must_not" : {"match" : { "article-title" : "frontmatter"}},
             "must_not" : {"match" : { "article-title" : "titelei"}}
         }
@@ -121,7 +121,7 @@ postJournalUrl= {
 
 
 #for publisher in ["gruyter", "oxford", "cambridge","oxford2"]:
-for publisher in ["springer"]:
+for publisher in ["oxford"]:
 
     index_to_query=publisher
 
