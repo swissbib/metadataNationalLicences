@@ -130,7 +130,7 @@ oxford_correct_start_year={
     "1756-2651" : 1959,
     "1746-5710" : 1995,
     "1759-8818" : 1964,
-    "1468-263X" : 1972,
+    "1468-263X" : 1971,
     "1878-3503" : 1908,
     "1687-0247" : 1991,
     "1475-3162" : 1972,
@@ -184,7 +184,7 @@ oxford_correct_start_year={
     "1477-4542" : 1987,
     "1468-2931" : 1947,
     "1460-2423" : 1990,
-    "1545-6854" : 1981,
+    "1545-6854" : 1976,
     "1465-3648" : 1986,
     "1460-2237" : 1986,
     "1460-2245" : 1986,
@@ -332,7 +332,7 @@ oxford_correct_start_year={
     "1467-937X" : 1934,
     "1471-5430" : 1974,
     "1534-7605" : 1922,
-    "1533-8533" : 2001,
+    "1533-8533" : 2001
 }
 
 oxford_correct_start_volume={
@@ -358,7 +358,7 @@ oxford_correct_start_volume={
     "1756-2651" : 46,
     "1746-5710" : 37,
     "1759-8818" : 25,
-    "1468-263X" : 2,
+    "1468-263X" : 1,
     "1878-3503" : 2,
     "1475-3162" : 15,
     "1525-3244" : 14,
@@ -549,7 +549,6 @@ oxford_correct_start_volume={
     "1938-2928" : 1,
     "1527-1897" : 1,
     "1527-974X" : 1,
-    "1545-1410" : 1,
     "1460-2709" : 36,
     "1753-4887" : 1,
     "1938-2340" : 1,
@@ -561,6 +560,7 @@ oxford_correct_start_volume={
     "1534-7605" : 1,
     "1533-8533" : 48,
     "2049-632X" : 67,
+    "1545-1410" : 1
 }
 
 
@@ -578,29 +578,8 @@ oxford_missing_journals=[]
 # Teaching Mathematics and its Applications: An International Journal of the IMA
 # This part should be removed ASAP
 
-oxford_missing_journals.append({
-    "title" :"Journal of Gerontology",
-    "pissn" :"0022-1422",
-    "eissn" :"",
-    "publisher" :"Oxford University Press",
-    "min_year" :"1946",
-    "max_year" :"1994",
-    "min_volume" :"1",
-    "max_volume" :"49",
-    "title_id" : "geron",
-})
 
-oxford_missing_journals.append({
-    "title" :"AIBS Bulletin",
-    "pissn" :"0096-7645",
-    "eissn" :"2326-1331",
-    "publisher" :"Oxford University Press",
-    "min_year" :"1951",
-    "max_year" :"1963",
-    "min_volume" :"1",
-    "max_volume" :"13",
-    "title_id" : "aibsbu",
-})
+
 
 oxford_missing_journals.append({
     "title" :"FEMS Immunology & Medical Microbiology",
@@ -627,52 +606,19 @@ oxford_missing_journals.append({
 })
 
 oxford_missing_journals.append({
-    "title" :"Social Work Research and Abstracts",
-    "pissn" :"0148-0847",
-    "eissn" :"0148-0847",
+    "title" :"Journal of the Royal African Society",
+    "pissn" :"0368-4016",
+    "eissn" :"",
     "publisher" :"Oxford University Press",
-    "min_year" :"1977",
-    "max_year" :"1993",
-    "min_volume" :"13",
-    "max_volume" :"29",
-    "title_id" : "swra",
-})
-
-oxford_missing_journals.append({
-    "title" :"American Journal of Agricultural Economics",
-    "pissn" :"0002-9092",
-    "eissn" :"1467-8276",
-    "publisher" :"Oxford University Press",
-    "min_year" :"1968",
-    "max_year" :"2015",
-    "min_volume" :"50",
-    "max_volume" :"97",
-    "title_id" : "ajae",
-})
-
-oxford_missing_journals.append({
-    "title" :"Mammalian Species",
-    "pissn" :"0076-3519",
-    "eissn" :"1545-1410",
-    "publisher" :"Oxford University Press",
-    "min_year" :"1969",
-    "max_year" :"2015",
+    "min_year" :"1901",
+    "max_year" :"1944",
     "min_volume" :"1",
-    "max_volume" :"47",
-    "title_id" : "mspecies",
+    "max_volume" :"43",
+    "title_id" : "afrafj",
 })
 
-oxford_missing_journals.append({
-    "title" :"Teaching Mathematics and its Applications",
-    "pissn" :"0268-3679",
-    "eissn" :"1471-6976",
-    "publisher" :"Oxford University Press",
-    "min_year" :"1982",
-    "max_year" :"2015",
-    "min_volume" :"1",
-    "max_volume" :"34",
-    "title_id" : "teamat",
-})
+
+
 
 
 # for oxford, to link to a journal, you need a special key, the linking cannot be done with the journal-id
@@ -682,7 +628,6 @@ oxford_missing_journals.append({
 oxford_urlkey={
     "asjour" : "asj",
     "afrafj" : "afraf",
-    "aibsbu" : "aibsbulletin",
     "ahrrev" : "ahr",
     "alecon" : "aler",
     "alhist" : "alh",
@@ -729,6 +674,7 @@ oxford_urlkey={
     "frebul" : "fsb",
     "gjiarc" : "gsmnras",
     "geront" : "gerontologist",
+    "geronj" : "geron",
     "global" : "globalsummitry",
     "hswork" : "hsw",
     "healed" : "her",
@@ -2466,10 +2412,3 @@ springer_included_journals=[
     "40664", #Zentralblatt für Arbeitsmedizin, Arbeitsschutz und Ergonomie
     "435", #Zoomorphology
 ]
-
-springer_correct_start_year = {
-
-}
-
-
-springer_correct_end_year =
