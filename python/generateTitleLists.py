@@ -103,7 +103,6 @@ baseJournalUrl = {
     "gruyter":"http://www.degruyter.com/view/j/",
     "cambridge":"http://www.cambridge.org/core/product/identifier/",
     "oxford":"https://academic.oup.com/",
-    "oxford2":"http://",
     "springer":"http://link.springer.com/journal/"
 }
 
@@ -111,7 +110,6 @@ postJournalUrl= {
     "gruyter":"",
     "cambridge":"/type/JOURNAL",
     "oxford":"",
-    "oxford2":" ",
     "springer":""
 }
 
@@ -120,7 +118,7 @@ postJournalUrl= {
 
 
 
-#for publisher in ["gruyter", "oxford", "cambridge","oxford2"]:
+#for publisher in ["gruyter", "oxford", "cambridge"]:
 for publisher in ["oxford"]:
 
     index_to_query=publisher
@@ -314,7 +312,7 @@ for publisher in ["oxford"]:
             keyforurl="mfir"
 
         #corrections for Oxford
-        if (publisher == "oxford" or publisher=="oxford2") and metadataCorrections.oxford_urlkey.has_key(keyforurl):
+        if publisher == "oxford" and metadataCorrections.oxford_urlkey.has_key(keyforurl):
             #replace journal code by url code
             keyforurl=metadataCorrections.oxford_urlkey[keyforurl]
 
