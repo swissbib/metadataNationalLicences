@@ -234,6 +234,9 @@ for publisher in ["oxford"]:
         if publisher == "oxford" and x["key"][0:4]== "6.3.":
             #these journals have a problem, we skip them
             continue
+        if publisher == "oxford" and (x["key"] in metadataCorrections.oxford_journals_to_skip):
+            #these journals shouldn't be included, we skip them
+            continue
 
 
         for agg in ["title_agg", "pissn_agg", "eissn_agg", "publisher_name_agg"]:
@@ -315,16 +318,14 @@ for publisher in ["oxford"]:
             #replace journal code by url code
             keyforurl=metadataCorrections.oxford_urlkey[keyforurl]
 
-        ## This is meant to correct oxford missing content as of 20.5.2016
+        ## This is meant to correct oxford missing content as of 20.2.2017
         if publisher== "oxford":
-            if metadataCorrections.oxford_correct_start_year.has_key(topresult["pissn_agg"]):
-                min_year=metadataCorrections.oxford_correct_start_year[topresult["pissn_agg"]]
-            if metadataCorrections.oxford_correct_start_year.has_key(topresult["eissn_agg"]):
-                min_year=metadataCorrections.oxford_correct_start_year[topresult["eissn_agg"]]
-            if metadataCorrections.oxford_correct_start_volume.has_key(topresult["pissn_agg"]):
-                min_volume=metadataCorrections.oxford_correct_start_volume[topresult["pissn_agg"]]
-            if metadataCorrections.oxford_correct_start_volume.has_key(topresult["eissn_agg"]):
-                min_volume=metadataCorrections.oxford_correct_start_volume[topresult["eissn_agg"]]
+            if metadataCorrections.oxford_correct_start_year.has_key(x["key"]):
+                min_year=metadataCorrections.oxford_correct_start_year[x["key"]]
+            if metadataCorrections.oxford_correct_start_volume.has_key(x["key"]):
+                min_volume=metadataCorrections.oxford_correct_start_volume[x["key"]]
+            if metadataCorrections.oxford_correct_end_volume.has_key(x["key"]):
+                max_volume=metadataCorrections.oxford_correct_end_volume[x["key"]]
 
         number_of_articles=x["doc_count"]
 
