@@ -1,28 +1,28 @@
 journal_id,title,% of articles with this title,eissn,%of articles with this eissn,pissn,%of articles with this pissn,publisher,%of articles with this publisher,url,number of articles,minYear,maxYear,cardinality,missing years,min_volume,max_volume,cardinality-volumes,number of missing volumes
-abbs,Acta Biochimica et Biophysica Sinica,50.4,1745-7270,100.0,1672-9145,100.0,Oxford University Press,80.3,https://academic.oup.com/abbs,407,2004,2015,12,0,36,47,12,0
-acn,Archives of Clinical Neuropsychology,100.0,1873-5843,100.0,0887-6177,100.0,Oxford University Press,65.7,https://academic.oup.com/acn,3922,1986,2015,19,0,1,30,19,11
-adaptation,Adaptation,100.0,1755-0645,100.0,1755-0637,100.0,Oxford University Press,100.0,https://academic.oup.com/adaptation,64,2008,2015,4,4,1,8,4,4
+abbs,Acta Biochimica et Biophysica Sinica,50.4,1745-7270,100.0,1672-9145,100.0,Oxford University Press,80.3,https://academic.oup.com/abbs,407,2015,2015,12,0,,,12,-11
+acn,Archives of Clinical Neuropsychology,100.0,1873-5843,100.0,0887-6177,100.0,Oxford University Press,65.7,https://academic.oup.com/acn,3922,1986,2015,19,0,,,19,-18
+adaptation,Adaptation,100.0,1755-0645,100.0,1755-0637,100.0,Oxford University Press,100.0,https://academic.oup.com/adaptation,64,2015,2015,4,4,,,4,-3
 ae,American Entomologist,100.0,2155-9902,100.0,1046-2821,100.0,Oxford University Press,100.0,https://academic.oup.com/ae,716,1990,2015,13,13,36,61,13,13
-aepp,Review of Agricultural Economics,71.0,1467-9353,71.0,1058-7195,71.0,Oxford University Press,100.0,https://academic.oup.com/aepp,952,1996,2015,20,0,18,37,20,0
-aesa,Annals of the Entomological Society of America,100.0,1938-2901,100.0,0013-8746,100.0,Oxford University Press,100.0,https://academic.oup.com/aesa,2277,1908,2015,20,0,1,108,20,88
+aepp,Review of Agricultural Economics,71.0,1467-9353,71.0,1058-7195,71.0,Oxford University Press,100.0,https://academic.oup.com/aepp,952,1988,2015,20,0,,,20,-19
+aesa,Annals of the Entomological Society of America,100.0,1938-2901,100.0,0013-8746,100.0,Oxford University Press,100.0,https://academic.oup.com/aesa,2277,1908,2015,20,0,,,20,-19
 aesthj,The British Journal of Aesthetics,93.7,1468-2842,100.0,0007-0904,100.0,Oxford University Press,99.7,https://academic.oup.com/bjaesthetics,4136,1960,2015,56,0,1,55,55,0
-afrafj,African Affairs,100.0,1468-2621,100.0,0001-9909,100.0,Oxford University Press,100.0,https://academic.oup.com/afraf,1667,1901,2015,20,0,1,114,20,94
+afrafj,African Affairs,100.0,1468-2621,100.0,0001-9909,100.0,Oxford University Press,100.0,https://academic.oup.com/afraf,1667,1901,2015,20,0,95,114,20,0
 ageing,Age and Ageing,96.7,1468-2834,100.0,0002-0729,100.0,Oxford University Press,100.0,https://academic.oup.com/ageing,8396,1972,2015,44,0,1,44,44,0
 ahr,The American Historical Review,100.0,1937-5239,100.0,0002-8762,100.0,Oxford University Press,89.4,https://academic.oup.com/ahr,68971,1895,2015,119,2,1,120,123,-3
 aibsbulletin,AIBS Bulletin,100.0,,nan,0096-7645,100.0,Oxford University Press,100.0,https://academic.oup.com/aibsbulletin,1727,1951,1963,13,0,1,13,13,0
 ajae,Journal of Farm Economics,50.0,1467-8276,100.0,0002-9092,100.0,Oxford University Press,100.0,https://academic.oup.com/ajae,14871,1919,2014,90,6,1,96,90,6
-aje,American Journal of Epidemiology,100.0,1476-6256,99.9,0002-9262,100.0,Oxford University Press,99.8,https://academic.oup.com/aje,8910,1952,2015,20,0,55,182,40,88
+aje,American Journal of Epidemiology,100.0,1476-6256,99.9,0002-9262,100.0,Oxford University Press,99.8,https://academic.oup.com/aje,8910,1921,2015,20,0,,,40,-39
 ajh,American Journal of Hypertension,100.0,1941-7225,100.0,0895-7061,100.0,Oxford University Press,100.0,https://academic.oup.com/ajh,15017,1988,2015,28,0,1,28,28,0
 ajj,The American Journal of Jurisprudence,73.9,2049-6494,100.0,0065-8995,100.0,Oxford University Press,100.0,https://academic.oup.com/ajj,805,1956,2015,59,1,1,60,59,1
 alcalc,Alcohol and Alcoholism,91.4,1464-3502,99.2,0735-0414,99.2,Oxford University Press,100.0,https://academic.oup.com/alcalc,5285,1963,2015,53,0,1,50,50,0
 alecon,American Law and Economics Review,100.0,1465-7260,70.8,1465-7252,70.8,Oxford University Press,100.0,https://academic.oup.com/aler,24,2015,2015,1,0,17,17,1,0
-alhist,American Literary History,100.0,1468-4365,100.0,0896-7148,100.0,Oxford University Press,99.0,https://academic.oup.com/alh,1009,1989,2015,19,0,1,27,19,8
+alhist,American Literary History,100.0,1468-4365,100.0,0896-7148,100.0,Oxford University Press,99.0,https://academic.oup.com/alh,1009,1989,2015,19,0,,,19,-18
 amrx,Applied Mathematics Research eXpress,100.0,1687-1197,100.0,1687-1200,100.0,Oxford University Press,100.0,https://academic.oup.com/amrx,12,2015,2015,1,0,,,1,0
-analys,Analysis,100.0,1467-8284,100.0,0003-2638,100.0,Oxford University Press,59.7,https://academic.oup.com/analysis,1584,1933,2015,19,1,1,75,19,56
-annbot,Annals of Botany,100.0,1095-8290,100.0,0305-7364,100.0,Oxford University Press,99.6,https://academic.oup.com/aob,4912,1887,2015,20,0,1,116,40,76
-annhyg,Annals of Occupational Hygiene,61.8,1475-3162,100.0,0003-4878,100.0,Oxford University Press,90.9,https://academic.oup.com/annhyg,2029,1972,2015,20,0,15,59,20,25
-annonc,Annals of Oncology,99.7,1569-8041,99.8,0923-7534,99.8,Oxford University Press,100.0,https://academic.oup.com/annonc,14506,1990,2015,20,0,1,26,20,6
-applij,Applied Linguistics,100.0,1477-450X,100.0,0142-6001,100.0,Oxford University Press,100.0,https://academic.oup.com/applij,942,1980,2015,20,0,1,36,20,16
+analys,Analysis,100.0,1467-8284,100.0,0003-2638,100.0,Oxford University Press,59.7,https://academic.oup.com/analysis,1584,1933,2015,19,1,,,19,-18
+annbot,Annals of Botany,100.0,1095-8290,100.0,0305-7364,100.0,Oxford University Press,99.6,https://academic.oup.com/aob,4912,1887,2015,20,0,,,40,-39
+annhyg,Annals of Occupational Hygiene,61.8,1475-3162,100.0,0003-4878,100.0,Oxford University Press,90.9,https://academic.oup.com/annhyg,2029,1958,2015,20,0,,,20,-19
+annonc,Annals of Oncology,99.7,1569-8041,99.8,0923-7534,99.8,Oxford University Press,100.0,https://academic.oup.com/annonc,14506,1990,2015,20,0,,,20,-19
+applij,Applied Linguistics,100.0,1477-450X,100.0,0142-6001,100.0,Oxford University Press,100.0,https://academic.oup.com/applij,942,1980,2015,20,0,,,20,-19
 arbitration,Arbitration International,100.0,1875-8398,100.0,0957-0411,100.0,Oxford University Press,100.0,https://academic.oup.com/arbitration,1220,1985,2015,31,0,1,31,31,0
 asj,Aesthetic Surgery Journal,100.0,1527-330X,100.0,1090-820X,100.0,Oxford University Press,86.8,https://academic.oup.com/asj,2509,1995,2015,21,0,15,35,21,0
 astrogeo,Astronomy & Geophysics,100.0,1468-4004,100.0,1366-8781,100.0,Oxford University Press,100.0,https://academic.oup.com/astrogeo,198,2015,2015,1,0,56,56,1,0
@@ -30,16 +30,16 @@ beheco,Behavioral Ecology,100.0,1465-7279,99.9,1045-2249,100.0,Oxford University
 bfgp,Briefings in Functional Genomics,100.0,2041-2647,81.8,2041-2649,100.0,Oxford University Press,100.0,https://academic.oup.com/bfgp,44,2015,2015,1,0,14,14,1,0
 bioinformatics,Bioinformatics,97.9,1460-2059,100.0,1367-4803,100.0,Oxford University Press,100.0,https://academic.oup.com/bioinformatics,11538,1985,2015,31,0,1,31,31,0
 biomet,Biometrika,100.0,1464-3510,100.0,0006-3444,100.0,Oxford University Press,100.0,https://academic.oup.com/biomet,7091,1901,2015,111,4,1,102,101,1
-bioscience,BioScience,100.0,1525-3244,99.8,0006-3568,100.0,Oxford University Press,97.0,https://academic.oup.com/bioscience,14334,1964,2015,52,0,14,65,52,0
+bioscience,BioScience,100.0,1525-3244,99.8,0006-3568,100.0,Oxford University Press,97.0,https://academic.oup.com/bioscience,14334,1951,2015,52,0,,,52,-51
 biosts,Biostatistics,100.0,1468-4357,100.0,1465-4644,100.0,Oxford University Press,100.0,https://academic.oup.com/biostatistics,62,2015,2015,1,0,16,16,1,0
 bjaint,BJA: British Journal of Anaesthesia,62.1,1471-6771,99.5,0007-0912,99.6,Oxford University Press,100.0,https://academic.oup.com/bja,22176,1923,2015,93,0,1,115,116,-1
 bjarev,"Continuing Education in Anaesthesia, Critical Care & Pain",52.5,1743-1824,52.5,1743-1816,52.5,Oxford University Press,100.0,https://academic.oup.com/bjaed,40,2015,2015,1,0,15,15,1,0
 blms,Bulletin of the London Mathematical Society,100.0,1469-2120,100.0,0024-6093,100.0,Oxford University Press,100.0,https://academic.oup.com/blms,5934,1969,2015,47,0,1,47,47,0
-brainj,Brain,94.1,1460-2156,100.0,0006-8950,100.0,Oxford University Press,100.0,https://academic.oup.com/brain,6080,1878,2015,20,0,1,138,20,118
+brainj,Brain,94.1,1460-2156,100.0,0006-8950,100.0,Oxford University Press,100.0,https://academic.oup.com/brain,6080,1878,2015,20,0,,,20,-19
 brheum,Rheumatology,94.5,1462-0332,100.0,1462-0324,95.6,Oxford University Press,100.0,https://academic.oup.com/rheumatology,15068,1952,2015,64,0,1,54,54,0
 brimed,British Medical Bulletin,100.0,1471-8391,100.0,0007-1420,99.9,Oxford University Press,100.0,https://academic.oup.com/bmb,6073,1943,2015,73,0,1,116,118,-2
 cameco,Cambridge Journal of Economics,86.6,1464-3545,100.0,0309-166X,100.0,Oxford University Press,99.7,https://academic.oup.com/cje,1797,1977,2015,39,0,1,39,39,0
-camquj,The Cambridge Quarterly,100.0,1471-6836,100.0,0008-199X,100.0,Oxford University Press,100.0,https://academic.oup.com/camqtly,1539,1965,2015,51,0,1,44,15,29
+camquj,The Cambridge Quarterly,100.0,1471-6836,100.0,0008-199X,100.0,Oxford University Press,100.0,https://academic.oup.com/camqtly,1539,1965,2015,51,0,30,44,15,0
 carcin,Carcinogenesis,100.0,1460-2180,100.0,0143-3334,100.0,Oxford University Press,100.0,https://academic.oup.com/carcin,12422,1980,2015,36,0,1,36,36,0
 cardiovascres,Cardiovascular Research,100.0,1755-3245,100.0,0008-6363,100.0,Oxford University Press,60.2,https://academic.oup.com/cardiovascres,11865,1967,2015,49,0,1,108,108,0
 cb,Christian Bioethics,100.0,1744-4195,100.0,1380-3603,96.1,Oxford University Press,45.0,https://academic.oup.com/cb,533,1995,2015,21,0,1,21,21,0
@@ -64,17 +64,17 @@ cww,Contemporary Women's Writing,97.6,1754-1484,100.0,1754-1476,100.0,Oxford Uni
 deafed,Journal Of Deaf Studies And Deaf Education,100.0,1465-7325,100.0,1081-4159,100.0,Oxford University Press,100.0,https://academic.oup.com/jdsde,54,2015,2015,1,0,20,20,1,0
 design,Journal of Design History,87.5,1741-7279,100.0,0952-4649,100.0,Oxford University Press,100.0,https://academic.oup.com/jdh,1405,1988,2015,28,0,1,28,28,0
 dh,Diplomatic History,100.0,1467-7709,100.0,0145-2096,100.0,Oxford University Press,83.2,https://academic.oup.com/dh,1997,1977,2015,39,0,1,39,39,0
-dsh,Digital Scholarship in the Humanities,100.0,2055-768X,100.0,2055-7671,100.0,Oxford University Press,100.0,https://academic.oup.com/dsh,64,2015,2015,1,0,30,30,1,0
+dsh,Digital Scholarship in the Humanities,100.0,2055-768X,100.0,2055-7671,100.0,Oxford University Press,100.0,https://academic.oup.com/dsh,64,1986,2015,1,0,,,1,0
 earlyj,Early Music,100.0,1741-7260,100.0,0306-1078,100.0,Oxford University Press,99.8,https://academic.oup.com/em,5806,1973,2015,43,0,1,43,26,17
 eccojc,Journal of Crohn’s and Colitis,83.3,1876-4479,100.0,1873-9946,100.0,Oxford University Press,100.0,https://academic.oup.com/eccojc,1027,2015,2015,1,0,9,9,1,0
 economicpolicy,Economic Policy,100.0,1468-0327,100.0,0266-4658,100.0,Oxford University Press,100.0,https://academic.oup.com/economicpolicy,514,1985,2015,31,0,1,30,30,0
 ecopol,Oxford Review of Economic Policy,84.9,1460-2121,100.0,0266-903X,100.0,Oxford University Press,100.0,https://academic.oup.com/oxrep,979,1985,2015,31,0,1,31,31,0
 ee,Environmental Entomology,100.0,1938-2936,100.0,0046-225X,100.0,Oxford University Press,100.0,https://academic.oup.com/ee,9498,1972,2015,44,0,1,44,44,0
 ehjcimaging,European Heart Journal - Cardiovascular Imaging,85.6,2047-2412,100.0,2047-2404,100.0,Oxford University Press,100.0,https://academic.oup.com/ehjcimaging,278,2015,2015,1,0,16,16,1,0
-ejcts,European Journal of Cardio-Thoracic Surgery,100.0,1873-734X,100.0,1010-7940,100.0,Oxford University Press,77.6,https://academic.oup.com/ejcts,11295,1981,2015,29,0,1,48,48,0
+ejcts,European Journal of Cardio-Thoracic Surgery,100.0,1873-734X,100.0,1010-7940,100.0,Oxford University Press,77.6,https://academic.oup.com/ejcts,11295,1987,2015,29,0,1,48,48,0
 ejilaw,European Journal Of International Law,100.0,1464-3596,100.0,0938-5428,100.0,Oxford University Press,100.0,https://academic.oup.com/ejil,72,2015,2015,1,0,26,26,1,0
 eltj,ELT Journal,94.6,1477-4526,100.0,0951-0893,99.3,Oxford University Press,100.0,https://academic.oup.com/eltj,4921,1946,2015,68,2,1,69,35,34
-enghis,The English Historical Review,100.0,1477-4534,100.0,0013-8266,100.0,Oxford University Press,99.7,https://academic.oup.com/ehr,45835,1886,2015,128,2,1,130,12,118
+enghis,The English Historical Review,100.0,1477-4534,100.0,0013-8266,100.0,Oxford University Press,99.7,https://academic.oup.com/ehr,45835,1886,2015,128,2,113,130,12,6
 english,English,99.2,1756-1124,99.3,0013-8215,100.0,Oxford University Press,91.1,https://academic.oup.com/english,4994,1936,2015,80,0,1,64,64,0
 envhis,Environmental History,100.0,1930-8892,100.0,1084-5453,100.0,Oxford University Press,100.0,https://academic.oup.com/envhis,145,2015,2015,1,0,20,20,1,0
 envlaw,Journal of Environmental Law,100.0,1464-374X,100.0,0952-8873,100.0,Oxford University Press,100.0,https://academic.oup.com/jel,975,1989,2015,27,0,1,27,27,0
@@ -82,7 +82,7 @@ eortho,The European Journal of Orthodontics,82.1,1460-2210,100.0,0141-5387,100.0
 epirev,Epidemiologic Reviews,100.0,1478-6729,100.0,0193-936X,100.0,Oxford University Press,100.0,https://academic.oup.com/epirev,673,1979,2015,37,0,1,37,37,0
 erae,European Review of Agricultural Economics,100.0,1464-3618,100.0,0165-1587,100.0,Oxford University Press,100.0,https://academic.oup.com/erae,1788,1973,2015,42,1,1,42,42,0
 ereh,European Review of Economic History,100.0,1474-0044,100.0,1361-4916,100.0,Oxford University Press,100.0,https://academic.oup.com/ereh,22,2015,2015,1,0,19,19,1,0
-escrit,Essays in Criticism,100.0,1471-6852,100.0,0014-0856,100.0,Oxford University Press,100.0,https://academic.oup.com/eic,2628,1951,2015,65,0,1,65,16,49
+escrit,Essays in Criticism,100.0,1471-6852,100.0,0014-0856,100.0,Oxford University Press,100.0,https://academic.oup.com/eic,2628,1951,2015,65,0,50,65,16,0
 eurheartj,European Heart Journal,100.0,1522-9645,99.8,0195-668X,99.8,Oxford University Press,100.0,https://academic.oup.com/eurheartj,15497,1980,2015,36,0,1,36,36,0
 europace,EP Europace,98.9,1532-2092,100.0,1099-5129,100.0,Oxford University Press,100.0,https://academic.oup.com/europace,349,2015,2015,1,0,17,17,1,0
 eurpub,The European Journal of Public Health,89.6,1464-360X,100.0,1101-1262,100.0,Oxford University Press,100.0,https://academic.oup.com/eurpub,5108,1991,2015,25,0,1,25,25,0
@@ -90,13 +90,12 @@ eursoj,European Sociological Review,100.0,1468-2672,100.0,0266-7215,100.0,Oxford
 exbotj,Journal of Experimental Botany,86.0,1460-2431,99.9,0022-0957,99.9,Oxford University Press,99.9,https://academic.oup.com/jxb,12842,1950,2015,66,0,1,66,66,0
 famprj,Family Practice,95.8,1460-2229,100.0,0263-2136,100.0,Oxford University Press,100.0,https://academic.oup.com/fampra,4112,1984,2015,32,0,1,32,32,0
 femsec,FEMS Microbiology Ecology,100.0,1574-6941,98.3,,nan,Oxford University Press,95.5,https://academic.oup.com/femsec,3929,1985,2015,31,0,1,91,90,1
-femsle,FEMS Microbiology Letters,99.2,1574-6968,100.0,0378-1097,100.0,Oxford University Press,98.1,https://academic.oup.com/femsle,8910,1977,2015,20,0,1,362,231,131
-femspd,Pathogens and Disease,93.0,,100.0,2049-632X,100.0,Oxford University Press,54.6,https://academic.oup.com/femspd,313,2013,2015,3,0,67,73,7,0
-femsre,FEMS Microbiology Reviews,100.0,1574-6976,100.0,,nan,Oxford University Press,95.2,https://academic.oup.com/femsre,682,1985,2015,18,2,1,39,20,19
+femsle,FEMS Microbiology Letters,99.2,1574-6968,100.0,0378-1097,100.0,Oxford University Press,98.1,https://academic.oup.com/femsle,8910,1977,2015,20,0,,,231,-230
+femspd,Pathogens and Disease,93.0,,100.0,2049-632X,100.0,Oxford University Press,54.6,https://academic.oup.com/femspd,313,1988,2015,3,0,,,7,-6
+femsre,FEMS Microbiology Reviews,100.0,1574-6976,100.0,,nan,Oxford University Press,95.2,https://academic.oup.com/femsre,682,1985,2015,18,2,,,20,-19
 femsyr,FEMS Yeast Research,100.0,,100.0,1567-1364,100.0,Oxford University Press,100.0,https://academic.oup.com/femsyr,123,2015,2015,1,0,15,15,1,0
-foresj,Forestry,80.5,1464-3626,99.9,0015-752X,99.9,Oxford University Press,98.8,https://academic.oup.com/forestry,976,1940,2015,19,0,14,88,19,56
-formod,Forum for Modern Language Studies,100.0,1471-6860,100.0,0015-8518,100.0,Oxford University Press,100.0,https://academic.oup.com/fmls,2306,1965,2015,20,0,1,51,15,36
-fpa,Foreign Policy Analysis,100.0,1743-8594,100.0,1743-8586,100.0,Oxford University Press,100.0,https://academic.oup.com/fpa,26,2015,2015,1,0,11,11,1,0
+foresj,Forestry,80.5,1464-3626,99.9,0015-752X,99.9,Oxford University Press,98.8,https://academic.oup.com/forestry,976,1927,2015,19,0,,,19,-18
+formod,Forum for Modern Language Studies,100.0,1471-6860,100.0,0015-8518,100.0,Oxford University Press,100.0,https://academic.oup.com/fmls,2306,1965,2015,20,0,,,15,-14
 frebul,French Studies Bulletin,100.0,1748-9180,100.0,0262-2750,100.0,Oxford University Press,100.0,https://academic.oup.com/fsb,1426,1981,2015,35,0,1,36,35,1
 french,French History,100.0,1477-4542,98.7,0269-1191,98.7,Oxford University Press,100.0,https://academic.oup.com/fh,2373,1987,2015,29,0,1,29,29,0
 frestu,French Studies,100.0,1468-2931,99.7,0016-1128,99.7,Oxford University Press,97.2,https://academic.oup.com/fs,16962,1947,2015,69,0,1,69,15,54
@@ -105,20 +104,20 @@ geronb,The Journals of Gerontology Series B: Psychological Sciences and Social S
 geronj,Journal of Gerontology,100.0,,nan,0022-1422,100.0,Oxford University Press,100.0,https://academic.oup.com/geron,5950,1946,1994,49,0,1,49,49,0
 geront,The Gerontologist,100.0,1758-5341,100.0,0016-9013,100.0,Oxford University Press,52.4,https://academic.oup.com/gerontologist,11542,1961,2015,55,0,1,55,55,0
 gh,German History,100.0,1477-089X,100.0,0266-3554,95.4,Oxford University Press,65.0,https://academic.oup.com/gh,3337,1984,2015,32,0,1,33,33,0
-gji,Geophysical Journal International,100.0,1365-246X,100.0,0956-540X,100.0,Oxford University Press,74.1,https://academic.oup.com/gji,7361,1958,2015,20,0,1,203,80,123
+gji,Geophysical Journal International,100.0,1365-246X,100.0,0956-540X,100.0,Oxford University Press,74.1,https://academic.oup.com/gji,7361,1958,2015,20,0,,,80,-79
 glycob,Glycobiology,100.0,1460-2423,99.7,0959-6658,99.7,Oxford University Press,100.0,https://academic.oup.com/glycob,3583,1990,2015,26,0,1,25,25,0
 healed,Health Education Research,100.0,1465-3648,100.0,0268-1153,100.0,Oxford University Press,100.0,https://academic.oup.com/her,2450,1986,2015,30,0,1,30,30,0
 heapol,Health Policy and Planning,99.9,1460-2237,100.0,0268-1080,100.0,Oxford University Press,100.0,https://academic.oup.com/heapol,2059,1986,2015,30,0,1,30,30,0
 heapro,Health Promotion International,100.0,1460-2245,99.3,0957-4824,99.3,Oxford University Press,100.0,https://academic.oup.com/heapro,1631,1986,2015,30,0,1,30,30,0
-hiscol,Journal of the History of Collections,86.1,1477-8564,100.0,0954-6650,100.0,Oxford University Press,99.9,https://academic.oup.com/jhc,932,1989,2015,27,0,11,27,27,-10
-hiwork,History Workshop Journal,100.0,1477-4569,95.3,1363-3554,95.4,Oxford University Press,100.0,https://academic.oup.com/hwj,2486,1976,2015,40,0,1,,74,-74
+hiscol,Journal of the History of Collections,86.1,1477-8564,100.0,0954-6650,100.0,Oxford University Press,99.9,https://academic.oup.com/jhc,932,1989,2015,27,0,1,27,27,0
+hiwork,History Workshop Journal,100.0,1477-4569,95.3,1363-3554,95.4,Oxford University Press,100.0,https://academic.oup.com/hwj,2486,1976,2015,40,0,,,74,-73
 hmg,Human Molecular Genetics,100.0,1460-2083,100.0,0964-6906,100.0,Oxford University Press,100.0,https://academic.oup.com/hmg,10464,1992,2015,24,0,1,24,24,0
 holgen,Holocaust and Genocide Studies,100.0,1476-7937,100.0,8756-6583,100.0,Oxford University Press,100.0,https://academic.oup.com/hgs,1775,1986,2015,30,0,1,29,29,0
 hrlr,Human Rights Law Review,100.0,1744-1021,100.0,1461-7781,100.0,Oxford University Press,100.0,https://academic.oup.com/hrlr,47,2015,2015,1,0,15,15,1,0
 hsw,Health & Social Work,100.0,1545-6854,100.0,0360-7283,100.0,Oxford University Press,100.0,https://academic.oup.com/hsw,2114,1976,2015,40,0,1,40,40,0
 humrep,Human Reproduction,93.2,1460-2350,100.0,0268-1161,100.0,Oxford University Press,100.0,https://academic.oup.com/humrep,17875,1986,2015,30,0,1,30,30,0
 humupd,Human Reproduction Update,100.0,1460-2369,100.0,1355-4786,100.0,Oxford University Press,100.0,https://academic.oup.com/humupd,1268,1995,2015,21,0,1,21,21,0
-icb,Integrative and Comparative Biology,100.0,1557-7023,100.0,1540-7063,100.0,Oxford University Press,100.0,https://academic.oup.com/icb,2220,1961,2015,20,0,1,55,20,35
+icb,Integrative and Comparative Biology,100.0,1557-7023,100.0,1540-7063,100.0,Oxford University Press,100.0,https://academic.oup.com/icb,2220,1961,2015,20,0,,,20,-19
 icesjms,ICES Journal of Marine Science,97.8,1095-9289,100.0,1054-3139,100.0,Oxford University Press,100.0,https://academic.oup.com/icesjms,7296,1903,2015,100,13,1,72,72,0
 icsidreview,ICSID Review,92.2,2049-1999,100.0,0258-3690,100.0,Oxford University Press,100.0,https://academic.oup.com/icsidreview,874,1986,2015,30,0,1,30,30,0
 idpl,International Data Privacy Law,100.0,2044-4001,100.0,2044-3994,100.0,Oxford University Press,100.0,https://academic.oup.com/idpl,33,2015,2015,1,0,5,5,1,0
@@ -132,7 +131,7 @@ imamat,IMA Journal of Applied Mathematics,92.5,1464-3634,98.7,0272-4960,98.7,Oxf
 imamci,IMA Journal of Mathematical Control and Information,87.9,1471-6887,100.0,0265-0754,100.0,Oxford University Press,100.0,https://academic.oup.com/imamci,979,1984,2015,32,0,1,32,32,0
 imammb,Mathematical Medicine and Biology: A Journal of the IMA,65.5,1477-8602,100.0,1477-8599,100.0,Oxford University Press,100.0,https://academic.oup.com/imammb,679,1984,2015,32,0,1,32,32,0
 imanum,IMA Journal of Numerical Analysis,85.9,1464-3642,100.0,0272-4979,100.0,Oxford University Press,100.0,https://academic.oup.com/imajna,1441,1981,2015,35,0,1,35,35,0
-imrn,International Mathematics Research Notices,100.0,1687-0247,64.2,1073-7928,100.0,Oxford University Press,64.2,https://academic.oup.com/imrn,3473,1991,2015,25,0,1,,25,-25
+imrn,International Mathematics Research Notices,100.0,1687-0247,64.2,1073-7928,100.0,Oxford University Press,64.2,https://academic.oup.com/imrn,3473,1991,2015,25,0,,,25,-24
 indcor,Industrial and Corporate Change,100.0,1464-3650,99.2,0960-6491,99.2,Oxford University Press,100.0,https://academic.oup.com/icc,1023,1992,2015,24,0,1,24,24,0
 indlaw,Industrial Law Journal,100.0,1464-3669,100.0,0305-9332,100.0,Oxford University Press,100.0,https://academic.oup.com/ilj,2203,1972,2015,44,0,1,44,44,0
 inthealth,International Health,100.0,1876-3405,100.0,1876-3413,100.0,Oxford University Press,100.0,https://academic.oup.com/inthealth,74,2015,2015,1,0,7,7,1,0
@@ -140,13 +139,9 @@ intimm,International Immunology,90.5,1460-2377,99.9,0953-8178,100.0,Oxford Unive
 intpor,International Journal of Public Opinion Research,99.8,1471-6909,100.0,0954-2892,100.0,Oxford University Press,100.0,https://academic.oup.com/ijpor,1234,1989,2015,27,0,1,27,27,0
 intqhc,International Journal for Quality in Health Care,100.0,1464-3677,100.0,1353-4505,100.0,Oxford University Press,100.0,https://academic.oup.com/intqhc,2220,1989,2015,27,0,1,27,27,0
 inttec,International Journal of Law and Information Technology,100.0,1464-3693,100.0,0967-0769,100.0,Oxford University Press,100.0,https://academic.oup.com/ijlit,391,1993,2015,23,0,1,23,23,0
-ips,International Political Sociology,100.0,1749-5687,100.0,1749-5679,100.0,Oxford University Press,52.0,https://academic.oup.com/ips,32,2015,2015,1,0,9,9,1,0
 irasia,International Relations of the Asia-Pacific,100.0,1470-4838,100.0,1470-482X,100.0,Oxford University Press,100.0,https://academic.oup.com/irap,23,2015,2015,1,0,15,15,1,0
 islamj,Journal of Islamic Studies,100.0,1471-6917,100.0,0955-2340,100.0,Oxford University Press,100.0,https://academic.oup.com/jis,1947,1990,2015,26,0,1,26,26,0
 isle,Interdisciplinary Studies in Literature and Environment,100.0,1759-1090,100.0,1076-0962,100.0,Oxford University Press,61.0,https://academic.oup.com/isle,2442,1993,2015,22,1,1,22,22,0
-isp,International Studies Perspectives,100.0,1528-3585,100.0,1528-3577,100.0,Oxford University Press,100.0,https://academic.oup.com/isp,31,2015,2015,1,0,16,16,1,0
-isq,International Studies Quarterly,100.0,1468-2478,100.0,0020-8833,100.0,Oxford University Press,100.0,https://academic.oup.com/isq,63,2015,2015,1,0,59,59,1,0
-isr,International Studies Review,100.0,1468-2486,100.0,1521-9488,100.0,Oxford University Press,53.8,https://academic.oup.com/isr,80,2015,2015,1,0,17,17,1,0
 iwc,Interacting with Computers,100.0,1873-7951,100.0,0953-5438,99.8,Oxford University Press,100.0,https://academic.oup.com/iwc,1149,1989,2015,27,0,1,27,27,0
 jaarel,Journal of the American Academy of Religion,100.0,1477-4585,100.0,0002-7189,100.0,Oxford University Press,100.0,https://academic.oup.com/jaar,11589,1933,2015,83,0,1,83,25,58
 jac,Journal of Antimicrobial Chemotherapy,95.7,1460-2091,100.0,0305-7453,100.0,Oxford University Press,100.0,https://academic.oup.com/jac,16492,1975,2015,41,0,1,70,70,0
@@ -161,9 +156,9 @@ jcle,Journal of Competition Law & Economics,78.9,1744-6422,100.0,1744-6414,100.0
 jconsl,Journal of Conflict and Security Law,100.0,1467-7962,100.0,1467-7954,100.0,Oxford University Press,100.0,https://academic.oup.com/jcsl,24,2015,2015,1,0,20,20,1,0
 jcs,Journal of Church and State,100.0,2040-4867,100.0,0021-969X,100.0,Oxford University Press,100.0,https://academic.oup.com/jcs,6776,1959,2015,57,0,1,57,57,0
 jeclap,Journal of European Competition Law & Practice,100.0,2041-7772,100.0,2041-7764,100.0,Oxford University Press,100.0,https://academic.oup.com/jeclap,108,2015,2015,1,0,6,6,1,0
-jee,Journal of Economic Entomology,100.0,1938-291X,100.0,0022-0493,100.0,Oxford University Press,100.0,https://academic.oup.com/jee,2052,1908,2015,16,4,1,108,16,92
+jee,Journal of Economic Entomology,100.0,1938-291X,100.0,0022-0493,100.0,Oxford University Press,100.0,https://academic.oup.com/jee,2052,1908,2015,16,4,,,16,-15
 jfinec,Journal of Financial Econometrics,100.0,1479-8417,100.0,1479-8409,100.0,Oxford University Press,100.0,https://academic.oup.com/jfec,28,2015,2015,1,0,13,13,1,0
-jhered,Journal of Heredity,96.8,1465-7333,99.8,0022-1503,99.8,Oxford University Press,98.6,https://academic.oup.com/jhered,13231,1910,2015,108,3,1,106,106,0
+jhered,Journal of Heredity,96.8,1465-7333,99.8,0022-1503,99.8,Oxford University Press,98.6,https://academic.oup.com/jhered,13231,1905,2015,108,3,1,106,106,0
 jhs,The Journal of Hindu Studies,100.0,1756-4263,100.0,1756-4255,100.0,Oxford University Press,100.0,https://academic.oup.com/jhs,34,2015,2015,1,0,8,8,1,0
 jhuman,Journal of Human Rights Practice,100.0,1757-9627,100.0,1757-9619,100.0,Oxford University Press,100.0,https://academic.oup.com/jhrp,23,2015,2015,1,0,7,7,1,0
 jicjus,Journal of International Criminal Justice,100.0,1478-1395,100.0,1478-1387,100.0,Oxford University Press,100.0,https://academic.oup.com/jicj,83,2015,2015,1,0,13,13,1,0
@@ -171,16 +166,16 @@ jid,Journal of Infectious Diseases,66.1,1537-6613,99.1,0022-1899,100.0,Oxford Un
 jids,Journal of International Dispute Settlement,100.0,2040-3593,100.0,2040-3585,100.0,Oxford University Press,100.0,https://academic.oup.com/jids,29,2015,2015,1,0,6,6,1,0
 jielaw,Journal of International Economic Law,100.0,1464-3758,100.0,1369-3034,100.0,Oxford University Press,100.0,https://academic.oup.com/jiel,45,2015,2015,1,0,18,18,1,0
 jiplp,Journal of Intellectual Property Law & Practice,100.0,1747-1540,100.0,1747-1532,100.0,Oxford University Press,100.0,https://academic.oup.com/jiplp,248,2015,2015,1,0,10,10,1,0
-jjco,Japanese Journal of Clinical Oncology,100.0,1465-3621,100.0,0368-2811,70.4,Oxford University Press,92.4,https://academic.oup.com/jjco,4783,1975,2015,45,0,5,45,45,-4
+jjco,Japanese Journal of Clinical Oncology,100.0,1465-3621,100.0,0368-2811,70.4,Oxford University Press,92.4,https://academic.oup.com/jjco,4783,1971,2015,45,0,1,45,45,0
 jleorg,"The Journal of Law, Economics, and Organization",41.8,1465-7341,100.0,8756-6222,100.0,Oxford University Press,100.0,https://academic.oup.com/jleo,782,1985,2015,31,0,1,31,31,0
 jlms,Journal of the London Mathematical Society,99.5,1469-7750,99.8,0024-6107,99.8,Oxford University Press,100.0,https://academic.oup.com/jlms,9098,1926,2015,90,0,1,92,92,0
-jmammal,Journal of Mammalogy,100.0,1545-1542,87.1,0022-2372,87.1,Oxford University Press,93.9,https://academic.oup.com/jmammal,2947,1919,2015,20,0,1,96,20,76
+jmammal,Journal of Mammalogy,100.0,1545-1542,87.1,0022-2372,87.1,Oxford University Press,93.9,https://academic.oup.com/jmammal,2947,1919,2015,20,0,,,20,-19
 jmcb,Journal of Molecular Cell Biology,100.0,1759-4685,100.0,1674-2788,100.0,Oxford University Press,100.0,https://academic.oup.com/jmcb,59,2015,2015,1,0,7,7,1,0
 jme,Journal of Medical Entomology,100.0,1938-2928,99.6,0022-2585,100.0,Oxford University Press,100.0,https://academic.oup.com/jme,7217,1964,2015,52,0,1,52,52,0
 jmicro,Microscopy,79.5,1477-9986,92.3,0022-0744,92.3,Oxford University Press,100.0,https://academic.oup.com/jmicro,4003,1953,2015,63,0,1,64,64,0
 jmp,The Journal of Medicine and Philosophy,73.5,1744-5019,100.0,0360-5310,100.0,Oxford University Press,49.3,https://academic.oup.com/jmp,1792,1976,2015,40,0,1,40,40,0
 jmt,Journal of Music Therapy,98.0,2053-7395,100.0,0022-2917,100.0,Oxford University Press,94.8,https://academic.oup.com/jmt,1433,1964,2015,52,0,1,52,52,0
-jnci,Journal of the National Cancer Institute,72.8,1460-2105,100.0,0027-8874,100.0,Oxford University Press,100.0,https://academic.oup.com/jnci,29147,1988,2015,76,0,80,107,106,-78
+jnci,Journal of the National Cancer Institute,72.8,1460-2105,100.0,0027-8874,100.0,Oxford University Press,100.0,https://academic.oup.com/jnci,29147,1940,2015,76,0,1,107,106,1
 jnlecg,Journal of Economic Geography,100.0,1468-2710,100.0,1468-2702,100.0,Oxford University Press,100.0,https://academic.oup.com/joeg,52,2015,2015,1,0,15,15,1,0
 jopart,Journal of Public Administration Research and Theory,81.8,1477-9803,100.0,1053-1858,100.0,Oxford University Press,99.9,https://academic.oup.com/jpart,1142,1991,2015,25,0,1,25,25,0
 jpe,Journal Of Plant Ecology,100.0,1752-993X,100.0,1752-9921,100.0,Oxford University Press,100.0,https://academic.oup.com/jpe,70,2015,2015,1,0,8,8,1,0
@@ -201,38 +196,37 @@ medlaw,Medical Law Review,100.0,1464-3790,99.2,0967-0742,99.2,Oxford University 
 melus,MELUS,89.1,1946-3170,100.0,0163-755X,100.0,Oxford University Press,89.1,https://academic.oup.com/melus,2396,1974,2015,40,2,1,40,40,0
 mind,Mind,100.0,1460-2113,100.0,0026-4423,100.0,Oxford University Press,100.0,https://academic.oup.com/mind,15131,1876,2015,138,2,1,124,31,93
 mmy,Medical Mycology,100.0,1460-2709,98.7,1369-3786,100.0,Oxford University Press,89.4,https://academic.oup.com/mmy,2016,1998,2015,18,0,36,53,18,0
-mnras,Monthly Notices of the Royal Astronomical Society,99.8,1365-2966,99.8,0035-8711,99.8,Oxford University Press,45.6,https://academic.oup.com/mnras,24830,1827,2015,20,0,1,454,164,290
+mnras,Monthly Notices of the Royal Astronomical Society,99.8,1365-2966,99.8,0035-8711,99.8,Oxford University Press,45.6,https://academic.oup.com/mnras,24830,1827,2015,20,0,,,164,-163
 modjud,Modern Judaism - A Journal of Jewish Ideas and Experience,65.7,1086-3273,100.0,0276-1114,98.4,Oxford University Press,100.0,https://academic.oup.com/mj,953,1981,2015,35,0,1,35,35,0
 molbev,Molecular Biology and Evolution,100.0,1537-1719,100.0,0737-4038,100.0,Oxford University Press,100.0,https://academic.oup.com/mbe,285,2015,2015,1,0,32,32,1,0
 molehr,Molecular Human Reproduction,74.7,1460-2407,100.0,1360-9947,100.0,Oxford University Press,100.0,https://academic.oup.com/molehr,2451,1995,2015,21,0,1,21,21,0
-mollus,Journal of Molluscan Studies,100.0,1464-3766,100.0,0260-1230,100.0,Oxford University Press,100.0,https://academic.oup.com/mollus,4623,1986,2015,121,2,52,81,81,-51
+mollus,Journal of Molluscan Studies,100.0,1464-3766,100.0,0260-1230,100.0,Oxford University Press,100.0,https://academic.oup.com/mollus,4623,1893,2015,121,2,1,81,81,0
 monist,The Monist,100.0,2153-3601,99.5,0026-9662,99.5,Oxford University Press,100.0,https://academic.oup.com/monist,5456,1890,2015,103,23,1,98,98,0
-mspecies,Mammalian Species,100.0,1545-1410,100.0,,nan,Oxford University Press,100.0,https://academic.oup.com/mspecies,12,1969,2015,1,0,1,47,1,46
-mtp,Music Therapy Perspectives,100.0,2053-7387,100.0,0734-6875,100.0,Oxford University Press,90.0,https://academic.oup.com/mtp,823,1982,2015,32,1,1,33,33,0
+mspecies,Mammalian Species,100.0,1545-1410,100.0,,nan,Oxford University Press,100.0,https://academic.oup.com/mspecies,12,1969,2015,1,0,,,1,0
+mtp,Music Therapy Perspectives,100.0,2053-7387,100.0,0734-6875,100.0,Oxford University Press,90.0,https://academic.oup.com/mtp,823,1982,2015,32,1,,,33,-32
 mts,Music Theory Spectrum,100.0,1533-8339,100.0,0195-6167,100.0,Oxford University Press,92.7,https://academic.oup.com/mts,730,1979,2015,37,0,1,37,37,0
-musicj,Music and Letters,99.9,1477-4631,100.0,0027-4224,99.7,Oxford University Press,100.0,https://academic.oup.com/ml,14391,1920,2015,96,0,1,96,48,48
-musqtl,The Musical Quarterly,100.0,1741-8399,98.7,0027-4631,98.7,Oxford University Press,100.0,https://academic.oup.com/mq,5201,1915,2015,95,6,1,98,26,72
+musicj,Music and Letters,99.9,1477-4631,100.0,0027-4224,99.7,Oxford University Press,100.0,https://academic.oup.com/ml,14391,1920,2015,96,0,24,96,48,25
+musqtl,The Musical Quarterly,100.0,1741-8399,98.7,0027-4631,98.7,Oxford University Press,100.0,https://academic.oup.com/mq,5201,1915,2015,95,6,73,98,26,0
 mutage,Mutagenesis,100.0,1464-3804,100.0,0267-8357,100.0,Oxford University Press,100.0,https://academic.oup.com/mutage,2606,1986,2015,30,0,1,30,30,0
-nar,Nucleic Acids Research,100.0,1362-4962,100.0,0305-1048,100.0,Oxford University Press,100.0,https://academic.oup.com/nar,19198,1974,2015,20,0,1,93,21,72
+nar,Nucleic Acids Research,100.0,1362-4962,100.0,0305-1048,100.0,Oxford University Press,100.0,https://academic.oup.com/nar,19198,1974,2015,20,0,,,21,-20
 ndt,Nephrology Dialysis Transplantation,79.8,1460-2385,100.0,0931-0509,100.0,Oxford University Press,100.0,https://academic.oup.com/ndt,20255,1986,2015,30,0,1,30,30,0
 neuonc,Neuro-Oncology,100.0,1523-5866,100.0,1522-8517,100.0,Oxford University Press,100.0,https://academic.oup.com/neuro-oncology,1453,2015,2015,1,0,17,17,1,0
 nictob,Nicotine & Tobacco Research,100.0,1469-994X,100.0,1462-2203,100.0,Oxford University Press,100.0,https://academic.oup.com/ntr,267,2015,2015,1,0,17,17,1,0
-notesj,Notes and Queries,100.0,1471-6941,100.0,0029-3970,100.0,Oxford University Press,100.0,https://academic.oup.com/nq,685,1849,2015,4,0,1,62,4,58
-nutritionreviews,Nutrition Reviews,100.0,1753-4887,100.0,0029-6643,100.0,Oxford University Press,100.0,https://academic.oup.com/nutritionreviews,2159,1942,2015,20,0,1,73,20,53
+notesj,Notes and Queries,100.0,1471-6941,100.0,0029-3970,100.0,Oxford University Press,100.0,https://academic.oup.com/nq,685,1849,2015,4,0,,,4,-3
+nutritionreviews,Nutrition Reviews,100.0,1753-4887,100.0,0029-6643,100.0,Oxford University Press,100.0,https://academic.oup.com/nutritionreviews,2159,1942,2015,20,0,,,20,-19
 occmed,Occupational Medicine,99.9,1471-8405,100.0,0962-7480,100.0,Oxford University Press,99.2,https://academic.oup.com/occmed,6099,1948,2015,67,1,1,65,65,0
 oep,Oxford Economic Papers,100.0,1464-3812,100.0,0030-7653,100.0,Oxford University Press,100.0,https://academic.oup.com/oep,2418,1938,2015,74,4,1,67,67,0
-ofid,Open Forum Infectious Diseases,100.0,2328-8957,100.0,,nan,Oxford University Press,100.0,https://academic.oup.com/ofid,2,2015,2015,1,0,3,3,1,0
 ohr,The Oral History Review,83.6,1533-8592,88.4,0094-0798,91.8,Oxford University Press,47.8,https://academic.oup.com/ohr,1917,1973,2015,42,1,1,42,42,0
 operaq,The Opera Quarterly,100.0,1476-2870,100.0,0736-0053,100.0,Oxford University Press,100.0,https://academic.oup.com/oq,3718,1983,2015,33,0,1,31,31,0
 oxartj,Oxford Art Journal,100.0,1741-7287,96.3,0142-6540,96.3,Oxford University Press,100.0,https://academic.oup.com/oaj,1264,1978,2015,38,0,1,38,38,0
 oxjlsj,Oxford Journal of Legal Studies,99.9,1464-3820,100.0,0143-6503,100.0,Oxford University Press,100.0,https://academic.oup.com/ojls,1135,1981,2015,35,0,1,35,35,0
-parlij,Parliamentary Affairs,100.0,1460-2482,100.0,0031-2290,100.0,Oxford University Press,100.0,https://academic.oup.com/pa,4474,1947,2015,69,0,1,68,45,23
+parlij,Parliamentary Affairs,100.0,1460-2482,100.0,0031-2290,100.0,Oxford University Press,100.0,https://academic.oup.com/pa,4474,1947,2015,69,0,19,68,45,5
 past,Past & Present,88.1,1477-464X,100.0,0031-2746,100.0,Oxford University Press,99.5,https://academic.oup.com/past,1890,1952,2015,64,0,1,229,239,-10
 pcp,Plant and Cell Physiology,100.0,1471-9053,98.1,0032-0781,98.1,Oxford University Press,98.6,https://academic.oup.com/pcp,8703,1959,2015,57,0,1,56,56,0
 petroj,Journal of Petrology,99.9,1460-2415,99.7,0022-3530,99.7,Oxford University Press,100.0,https://academic.oup.com/petrology,3053,1960,2015,56,0,1,56,56,0
 phe,Public Health Ethics,100.0,1754-9981,100.0,1754-9973,100.0,Oxford University Press,100.0,https://academic.oup.com/phe,36,2015,2015,1,0,8,8,1,0
 philmat,Philosophia Mathematica,100.0,1744-6406,96.7,0031-8019,96.7,Oxford University Press,100.0,https://academic.oup.com/philmat,988,1964,2015,43,9,1,23,23,0
-phisci,The British Journal for the Philosophy of Science,99.6,1464-3537,99.7,0007-0882,99.6,Oxford University Press,100.0,https://academic.oup.com/bjps,3643,1950,2015,66,0,1,66,50,16
+phisci,The British Journal for the Philosophy of Science,99.6,1464-3537,99.7,0007-0882,99.6,Oxford University Press,100.0,https://academic.oup.com/bjps,3643,1950,2015,66,0,17,66,50,0
 plankt,Journal of Plankton Research,100.0,1464-3774,99.6,0142-7873,99.6,Oxford University Press,100.0,https://academic.oup.com/plankt,4075,1979,2015,37,0,1,37,37,0
 plms,Proceedings of the London Mathematical Society,99.4,1460-244X,100.0,0024-6115,100.0,Oxford University Press,100.0,https://academic.oup.com/plms,6076,1865,2015,139,12,1,111,111,0
 polana,Political Analysis,100.0,1476-4989,99.2,1047-1987,99.2,Oxford University Press,100.0,https://academic.oup.com/pan,634,1989,2015,24,3,1,23,23,0
@@ -243,20 +237,20 @@ pq,The Philosophical Quarterly,100.0,1467-9213,100.0,0031-8094,100.0,Oxford Univ
 proeng,"Protein Engineering, Design and Selection",36.6,1741-0134,77.6,1741-0126,69.8,Oxford University Press,100.0,https://academic.oup.com/peds,3353,1986,2015,30,0,1,28,28,0
 ps,Poultry Science,100.0,1525-3171,100.0,0032-5791,100.0,Oxford University Press,97.2,https://academic.oup.com/ps,25313,1908,2015,99,9,1,94,94,0
 pubjof,Publius: The Journal of Federalism,100.0,1747-7107,100.0,0048-5950,100.0,Oxford University Press,100.0,https://academic.oup.com/publius,2277,1971,2015,45,0,1,45,45,0
-pubmed,Journal of Public Health,100.0,1741-3850,100.0,1741-3842,100.0,Oxford University Press,100.0,https://academic.oup.com/jpubhealth,3680,1990,2015,37,0,12,37,37,-11
-qje,The Quarterly Journal of Economics,100.0,1531-4650,99.8,0033-5533,99.8,Oxford University Press,95.7,https://academic.oup.com/qje,5938,1933,2015,128,2,48,130,133,-50
+pubmed,Journal of Public Health,100.0,1741-3850,100.0,1741-3842,100.0,Oxford University Press,100.0,https://academic.oup.com/jpubhealth,3680,1979,2015,37,0,1,37,37,0
+qje,The Quarterly Journal of Economics,100.0,1531-4650,99.8,0033-5533,99.8,Oxford University Press,95.7,https://academic.oup.com/qje,5938,1886,2015,128,2,1,130,133,-3
 qjmamj,The Quarterly Journal of Mechanics and Applied Mathematics,93.2,1464-3855,100.0,0033-5614,100.0,Oxford University Press,100.0,https://academic.oup.com/qjmam,2399,1948,2015,68,0,1,68,68,0
 qjmedj,QJM: An International Journal of Medicine,72.7,1460-2393,97.5,1460-2725,97.6,Oxford University Press,100.0,https://academic.oup.com/qjmed,6955,1907,2015,106,3,1,108,108,0
-qmathj,The Quarterly Journal of Mathematics,100.0,1464-3847,99.6,0033-5606,98.8,Oxford University Press,100.0,https://academic.oup.com/qjmath,3293,1932,2015,86,0,1,66,66,0
-raps,The Review of Asset Pricing Studies,64.9,2045-9939,100.0,2045-9920,100.0,Oxford University Press,100.0,https://academic.oup.com/raps,74,2011,2015,5,0,1,5,5,0
+qmathj,The Quarterly Journal of Mathematics,100.0,1464-3847,99.6,0033-5606,98.8,Oxford University Press,100.0,https://academic.oup.com/qjmath,3293,1930,2015,86,0,1,66,66,0
+raps,The Review of Asset Pricing Studies,64.9,2045-9939,100.0,2045-9920,100.0,Oxford University Press,100.0,https://academic.oup.com/raps,74,1986,2015,5,0,,,5,-4
 rcfs,The Review of Corporate Finance Studies,89.5,2046-9136,100.0,2046-9128,100.0,Oxford University Press,100.0,https://academic.oup.com/rcfs,38,2012,2015,4,0,1,4,4,0
 reep,Review of Environmental Economics and Policy,100.0,1750-6824,100.0,1750-6816,100.0,Oxford University Press,100.0,https://academic.oup.com/reep,28,2015,2015,1,0,9,9,1,0
 reflaw,International Journal of Refugee Law,84.7,1464-3715,100.0,0953-8186,100.0,Oxford University Press,100.0,https://academic.oup.com/ijrl,1485,1989,2015,27,0,1,27,27,0
 refqtl,Refugee Survey Quarterly,100.0,1471-695X,100.0,1020-4067,100.0,Oxford University Press,100.0,https://academic.oup.com/rsq,2450,1982,2015,34,0,1,34,34,0
 refuge,Journal of Refugee Studies,100.0,1471-6925,100.0,0951-6328,100.0,Oxford University Press,100.0,https://academic.oup.com/jrs,1470,1988,2015,28,0,1,28,28,0
-restud,The Review of Economic Studies,96.7,1467-937X,100.0,0034-6527,100.0,Oxford University Press,92.1,https://academic.oup.com/restud,3210,1934,2015,83,0,1,82,82,0
+restud,The Review of Economic Studies,96.7,1467-937X,100.0,0034-6527,100.0,Oxford University Press,92.1,https://academic.oup.com/restud,3210,1933,2015,83,0,1,82,82,0
 rev,Research Evaluation,100.0,1471-5449,100.0,0958-2029,100.0,Oxford University Press,83.1,https://academic.oup.com/rev,675,1991,2015,24,1,1,24,24,0
-revesj,The Review of English Studies,97.9,1471-6968,100.0,0034-6551,100.0,Oxford University Press,99.7,https://academic.oup.com/res,13622,1925,2015,90,1,1,66,19,47
+revesj,The Review of English Studies,97.9,1471-6968,100.0,0034-6551,100.0,Oxford University Press,99.7,https://academic.oup.com/res,13622,1925,2015,90,1,14,66,19,34
 revfin,The Review of Financial Studies,100.0,1465-7368,100.0,0893-9454,100.0,Oxford University Press,100.0,https://academic.oup.com/rfs,137,2015,2015,1,0,28,28,1,0
 rof,Review of Finance,100.0,1573-692X,100.0,1572-3097,100.0,Oxford University Press,100.0,https://academic.oup.com/rof,59,2015,2015,1,0,19,19,1,0
 rpc,"Reports of Patent, Design and Trade Mark Cases",100.0,1756-1000,100.0,0080-1364,100.0,Oxford University Press,100.0,https://academic.oup.com/rpc,45,2015,2015,1,0,132,132,1,0
@@ -271,21 +265,21 @@ soceco,Socio-Economic Review,100.0,1475-147X,100.0,1475-1461,100.0,Oxford Univer
 sochis,Social History of Medicine,100.0,1477-4666,100.0,0951-631X,100.0,Oxford University Press,100.0,https://academic.oup.com/shm,2999,1988,2015,28,0,1,28,28,0
 social,The British Journal of Social Work,57.5,1468-263X,100.0,0045-3102,100.0,Oxford University Press,100.0,https://academic.oup.com/bjsw,5737,1971,2015,45,0,1,45,45,0
 socpol,"Social Politics: International Studies in Gender, State & Society",60.7,1468-2893,100.0,1072-4745,100.0,Oxford University Press,100.0,https://academic.oup.com/sp,529,1994,2015,22,0,1,22,22,0
-socpro,Social Problems,100.0,1533-8533,100.0,0037-7791,100.0,Oxford University Press,100.0,https://academic.oup.com/socpro,2301,2001,2015,63,0,48,62,61,-46
+socpro,Social Problems,100.0,1533-8533,100.0,0037-7791,100.0,Oxford University Press,100.0,https://academic.oup.com/socpro,2301,1953,2015,63,0,1,62,61,1
 socrel,Sociological Analysis,51.6,1759-8818,100.0,1069-4404,99.4,Oxford University Press,100.0,https://academic.oup.com/socrel,3221,1964,2015,51,1,25,76,51,1
 spp,Science and Public Policy,100.0,1471-5430,100.0,0302-3427,99.0,Oxford University Press,88.3,https://academic.oup.com/spp,3525,1974,2015,42,0,1,42,42,0
 ssjapj,Social Science Japan Journal,100.0,1468-2680,100.0,1369-1465,100.0,Oxford University Press,100.0,https://academic.oup.com/ssjj,49,2015,2015,1,0,18,18,1,0
 stalaw,Statute Law Review,100.0,1464-3863,100.0,0144-3593,100.0,Oxford University Press,100.0,https://academic.oup.com/slr,921,1980,2015,36,0,1,36,36,0
-sw,Social Work,100.0,1545-6846,100.0,0037-8046,100.0,Oxford University Press,100.0,https://academic.oup.com/sw,8411,1981,2015,60,0,1,60,60,0
-swr,Social Work Research,100.0,1545-6838,100.0,1070-5309,100.0,Oxford University Press,100.0,https://academic.oup.com/swr,653,1981,2015,22,0,1,39,22,17
+sw,Social Work,100.0,1545-6846,100.0,0037-8046,100.0,Oxford University Press,100.0,https://academic.oup.com/sw,8411,1956,2015,60,0,1,60,60,0
+swr,Social Work Research,100.0,1545-6838,100.0,1070-5309,100.0,Oxford University Press,100.0,https://academic.oup.com/swr,653,1994,2015,22,0,18,39,22,0
 swra,Social Work Research and Abstracts,100.0,1001-3412,100.0,0148-0847,100.0,Oxford University Press,100.0,https://academic.oup.com/swra,2567,1977,1992,16,0,13,28,16,0
-sysbio,Systematic Biology,100.0,1076-836X,100.0,1063-5157,100.0,Oxford University Press,43.1,https://academic.oup.com/sysbio,1560,1952,2015,20,0,1,64,20,44
+sysbio,Systematic Biology,100.0,1076-836X,100.0,1063-5157,100.0,Oxford University Press,43.1,https://academic.oup.com/sysbio,1560,1952,2015,20,0,,,20,-19
 tandt,Trusts & Trustees,100.0,1363-1780,64.7,1752-2110,51.5,Oxford University Press,100.0,https://academic.oup.com/tandt,3120,1994,2015,22,0,1,21,21,0
 teamat,Teaching Mathematics and its Applications: An International Journal of the IMA,80.1,1471-6976,100.0,0268-3679,100.0,Oxford University Press,100.0,https://academic.oup.com/teamat,1111,1982,2015,34,0,1,34,34,0
-theolj,The Journal of Theological Studies,96.7,1477-4607,100.0,0022-5185,100.0,Oxford University Press,100.0,https://academic.oup.com/jts,18357,1899,2015,113,4,1,66,34,32
+theolj,The Journal of Theological Studies,96.7,1477-4607,100.0,0022-5185,100.0,Oxford University Press,100.0,https://academic.oup.com/jts,18357,1899,2015,113,4,32,66,34,1
 toxsci,Toxicological Sciences,97.4,1096-0929,100.0,1096-6080,100.0,Oxford University Press,99.8,https://academic.oup.com/toxsci,8023,1981,2015,35,0,1,148,154,-6
-tropej,Journal of Tropical Pediatrics,100.0,1465-3664,100.0,0142-6338,100.0,Oxford University Press,100.0,https://academic.oup.com/tropej,4606,1968,2015,61,0,14,61,61,-13
-trstmh,Transactions of The Royal Society of Tropical Medicine and Hygiene,100.0,1878-3503,100.0,0035-9203,100.0,Oxford University Press,97.0,https://academic.oup.com/trstmh,17882,1908,2015,105,3,2,109,109,-1
+tropej,Journal of Tropical Pediatrics,100.0,1465-3664,100.0,0142-6338,100.0,Oxford University Press,100.0,https://academic.oup.com/tropej,4606,1955,2015,61,0,1,61,61,0
+trstmh,Transactions of The Royal Society of Tropical Medicine and Hygiene,100.0,1878-3503,100.0,0035-9203,100.0,Oxford University Press,97.0,https://academic.oup.com/trstmh,17882,1907,2015,105,3,,,109,-108
 tweceb,Twentieth Century British History,100.0,1477-4674,100.0,0955-2359,100.0,Oxford University Press,100.0,https://academic.oup.com/tcbh,846,1990,2015,26,0,1,26,26,0
 ulr,Uniform Law Review - Revue de droit uniforme,94.3,2050-9065,100.0,1124-3694,100.0,Oxford University Press,100.0,https://academic.oup.com/ulr,2471,1973,2015,42,1,1,22,22,0
 wber,The World Bank Economic Review,100.0,1564-698X,100.0,0258-6770,100.0,Oxford University Press,100.0,https://academic.oup.com/wber,998,1986,2015,30,0,1,29,29,0
@@ -293,4 +287,4 @@ wbro,The World Bank Research Observer,100.0,1564-6971,100.0,0257-3032,100.0,Oxfo
 yel,Yearbook of European Law,100.0,2045-0044,100.0,0263-3264,100.0,Oxford University Press,100.0,https://academic.oup.com/yel,774,1981,2015,33,2,1,34,34,0
 yielaw,Yearbook of International Environmental Law,84.0,2045-0052,100.0,0965-1721,100.0,Oxford University Press,100.0,https://academic.oup.com/yielaw,905,1991,2014,24,0,1,25,25,0
 ywcct,The Year's Work in Critical and Cultural Theory,89.4,1471-681X,95.9,1077-4254,96.2,Oxford University Press,100.0,https://academic.oup.com/ywcct,426,1991,2015,22,3,1,23,23,0
-ywes,The Year's Work in English Studies,72.9,1471-6801,86.0,0084-4144,86.1,Oxford University Press,100.0,https://academic.oup.com/ywes,348,1919,2015,16,3,1,94,16,78
+ywes,The Year's Work in English Studies,72.9,1471-6801,86.0,0084-4144,86.1,Oxford University Press,100.0,https://academic.oup.com/ywes,348,1919,2015,16,3,,,16,-15
