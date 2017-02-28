@@ -29,12 +29,36 @@
                 </journal-meta>
 
                 <article-meta>
+                    <article-id>
+                        <xsl:attribute name="pub-id-type">doi</xsl:attribute>
+                        <xsl:call-template name="compute-identifier"></xsl:call-template>
+                    </article-id>
                     <title-group>
                         <article-title>
                             <xsl:value-of select="//ArticleTitle"></xsl:value-of>
 
                         </article-title>
                     </title-group>
+                    <contrib-group>
+                        <xsl:for-each select="//ArticleHeader/AuthorGroup/Author">
+                            <contrib>
+                                <xsl:attribute name="contrib-type">author</xsl:attribute>
+                                <name>
+                                    <surname><xsl:value-of select="AuthorName/FamilyName"/></surname>
+                                    <given-names><xsl:value-of select="AuthorName/GivenName"/></given-names>
+                                </name>
+                            </contrib>
+                        </xsl:for-each>
+                    </contrib-group>
+
+                    <volume>
+                        <xsl:value-of select="//VolumeIDStart"></xsl:value-of>
+                    </volume>
+                    <issue>
+                        <xsl:value-of select="//IssueInfo/IssueIDStart"></xsl:value-of>
+                    </issue>
+                    <fpage><xsl:value-of select="//ArticleFirstPage"></xsl:value-of></fpage>
+                    <lpage><xsl:value-of select="//ArticleLastPage"></xsl:value-of></lpage>
 
                     <custom-meta-group>
                         <xsl:call-template name="add-local-article-custom-meta"></xsl:call-template>
