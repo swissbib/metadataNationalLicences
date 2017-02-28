@@ -58,8 +58,8 @@
             </permissions>
             <custom-meta-group>
                 <custom-meta>
-                    <meta-name>pdf</meta-name>
-                    <meta-value>S0003598X00058385.pdf</meta-value>
+                    <meta-name>(swissbib)metadata-filename</meta-name>
+                    <meta-value>./AQY/AQY48_192/S0003598X00058385.xml</meta-value>
                 </custom-meta>
                 <custom-meta>
                     <meta-name>(swissbib)pdf-filename</meta-name>

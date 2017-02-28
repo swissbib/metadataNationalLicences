@@ -6,7 +6,7 @@
     <!-- Cambridge specific transformations -->
 
 
-    <!-- store the pdf filename in self-uri -->
+    <!-- store the pdf filename -->
     <xsl:template name="pdf-filename">
         <xsl:if test="
             /article/front/article-meta/custom-meta-group[custom-meta/meta-value[preceding-sibling::meta-name='pdf']] or
