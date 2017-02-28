@@ -8,11 +8,33 @@
             <xsl:attribute name="dtd-version">1.1</xsl:attribute>
             <front>
                 <journal-meta>
+                    <journal-title-group>
+                        <journal-title>
+                            <xsl:value-of select="//JournalTitle"></xsl:value-of>
+                        </journal-title>
 
+                    </journal-title-group>
+                    <issn>
+                        <xsl:attribute name="pub-type">
+                            <xsl:text>ppub</xsl:text>
+                        </xsl:attribute>
+                        <xsl:value-of select="//JournalPrintISSN"></xsl:value-of>
+                    </issn>
+                    <issn>
+                        <xsl:attribute name="pub-type">
+                            <xsl:text>epub</xsl:text>
+                        </xsl:attribute>
+                        <xsl:value-of select="//JournalElectronicISSN"></xsl:value-of>
+                    </issn>
                 </journal-meta>
 
                 <article-meta>
+                    <title-group>
+                        <article-title>
+                            <xsl:value-of select="//ArticleTitle"></xsl:value-of>
 
+                        </article-title>
+                    </title-group>
 
                     <custom-meta-group>
                         <xsl:call-template name="add-local-article-custom-meta"></xsl:call-template>
