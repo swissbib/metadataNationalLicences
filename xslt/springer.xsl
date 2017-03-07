@@ -39,17 +39,19 @@
 
                         </article-title>
                     </title-group>
-                    <contrib-group>
-                        <xsl:for-each select="//ArticleHeader/AuthorGroup/Author">
-                            <contrib>
-                                <xsl:attribute name="contrib-type">author</xsl:attribute>
-                                <name>
-                                    <surname><xsl:value-of select="AuthorName/FamilyName"/></surname>
-                                    <given-names><xsl:value-of select="AuthorName/GivenName"/></given-names>
-                                </name>
-                            </contrib>
-                        </xsl:for-each>
-                    </contrib-group>
+                    <xsl:if test="//ArticleHeader/AuthorGroup/Author">
+                        <contrib-group>
+                            <xsl:for-each select="//ArticleHeader/AuthorGroup/Author">
+                                <contrib>
+                                    <xsl:attribute name="contrib-type">author</xsl:attribute>
+                                    <name>
+                                        <surname><xsl:value-of select="AuthorName/FamilyName"/></surname>
+                                        <given-names><xsl:value-of select="AuthorName/GivenName"/></given-names>
+                                    </name>
+                                </contrib>
+                            </xsl:for-each>
+                        </contrib-group>
+                    </xsl:if>
 
                     <volume>
                         <xsl:value-of select="//VolumeIDStart"></xsl:value-of>
