@@ -7,13 +7,13 @@ import sys
 import lxml.etree as ET
 
 
-path = '/swissbib/harvesting/nationalLicencesData/'
+path = '/media/lionel/Data/swissbib-data/nationallizenzen/'
 
-steps=['gruyter1', 'gruyter2', 'gruyter3', 'gruyter4','oxford1', 'oxford2', 'oxford3', 'oxford4','cambridge1', 'cambridge2', 'cambridge3', 'cambridge4']
-#steps=['gruyter1']
+#steps=['gruyter1', 'gruyter2', 'gruyter3', 'gruyter4','oxford1', 'oxford2', 'oxford3', 'oxford4','cambridge1', 'cambridge2', 'cambridge3', 'cambridge4']
+steps=['springer1']
 
 
-xslt= ET.parse("swissbib-jats-to-mods.xsl")
+xslt= ET.parse("/home/lionel/Documents/mycloud/swissbib/git_repo/metadataNationalLicences/xslt/istex-springer-A++V2.4.xsl")
 
 transform= ET.XSLT(xslt)
 
@@ -32,7 +32,7 @@ for step in steps:
 
     for file in list:
         publisher='/'+step[:-1]
-        current=os.path.join(path+publisher+'/swissbib-jats/',file)
+        current=os.path.join(path+publisher+'/extracted/',file)
         print file
         xml=ET.parse(current)
         transform= ET.XSLT(xslt)
