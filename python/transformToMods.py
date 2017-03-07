@@ -10,7 +10,7 @@ import lxml.etree as ET
 path = '/media/lionel/Data/swissbib-data/nationallizenzen/'
 
 #steps=['gruyter1', 'gruyter2', 'gruyter3', 'gruyter4','oxford1', 'oxford2', 'oxford3', 'oxford4','cambridge1', 'cambridge2', 'cambridge3', 'cambridge4']
-steps=['springer1']
+steps=['springer1', 'springer2', 'springer3', 'springer4']
 
 
 xslt= ET.parse("/home/lionel/Documents/mycloud/swissbib/git_repo/metadataNationalLicences/xslt/istex-springer-A++V2.4.xsl")
