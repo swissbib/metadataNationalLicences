@@ -1,8 +1,6 @@
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <xsl:output encoding="UTF-8" method="xml" indent="no" omit-xml-declaration="no"/>
-    <xsl:param name="idistex"/>
-    <xsl:param name="datecreation"/>
-    <!-- Feuille de style ISTEX Editeur Springer vers format mods v3.5
+    <!-- Feuille de style ISTEX Editeur Springer vers format mods v3.6
         =======================================================================================
         Auteur:  Stéphanie GREGORIO - INIST/CNRS
         =======================================================================================
@@ -48,6 +46,7 @@
                             20/06/2016 reprise des données en openAccess
                             04/07/2016 ajout relatedItem otherVersion pour signalement des erratums
                             04/08/2016 redressement langue erronée
+                            07/03/2017 adaptations pour les licences nationales suisses (Lionel Walter)
     -->
     <!-- reformatage des données Springer DTD A++2.4.dtd (Common.dtd, Journal.dtd et Book.dtd)  vers MODS XSD MODS.v.3.6  -->
     <!-- ASPECTS  FONCTIONNELS :-->
@@ -83,10 +82,6 @@
     <xsl:template match="ItemContent"><xsl:value-of select="concat('',.,'')"/></xsl:template>
     <xsl:template match="Para"><xsl:value-of select="concat(' ',.,' ')"/></xsl:template>
     <xsl:template match="/">
-        <xsl:comment>
-            <xsl:text>Version 0.11 générée le </xsl:text>
-            <xsl:value-of select="$datecreation"/>
-        </xsl:comment>
         <mods xmlns="http://www.loc.gov/mods/v3">
             <xsl:attribute name="version">
                 <xsl:text>3.6</xsl:text>
@@ -2133,7 +2128,7 @@
                     </xsl:if>
                     <xsl:if test="//JournalID[string-length() &gt; 0 ]">
                         <identifier xmlns="http://www.loc.gov/mods/v3">
-                            <xsl:attribute name="type">JournalID</xsl:attribute>
+                            <xsl:attribute name="type">PublisherID</xsl:attribute>
                             <xsl:value-of select="//JournalID"/>
                         </identifier>
                     </xsl:if>
@@ -3299,12 +3294,13 @@
             </xsl:choose>
             <!-- ******************************************* identifier niveau article *********************************-->
             <!-- Janvier 2014 - suite réunion J. Ducloy - identifiant utilisé par API web -->
-            <xsl:if test="string-length($idistex) &gt; 0 ">
-                <identifier xmlns="http://www.loc.gov/mods/v3">
-                    <xsl:attribute name="type">istex</xsl:attribute>
-                    <xsl:value-of select="$idistex"/>
-                </identifier>
-            </xsl:if>
+
+            <identifier xmlns="http://www.loc.gov/mods/v3">
+                <xsl:attribute name="type">swissbib</xsl:attribute>
+                <xsl:text>springer-</xsl:text>
+                <xsl:value-of select="//ArticleDOI | //ChapterDOI"/>
+            </identifier>
+
             <xsl:choose>
                 <xsl:when test="//ArticleDOI[string-length() &gt; 0 ] | //ChapterDOI[string-length() &gt; 0 ]">
                     <identifier xmlns="http://www.loc.gov/mods/v3">
@@ -3444,7 +3440,7 @@
             <!-- *************************************** RecordInfo niveau article *******************************************************-->
             <recordInfo xmlns="http://www.loc.gov/mods/v3">
                 <recordContentSource xmlns="http://www.loc.gov/mods/v3">
-                    <xsl:text>SPRINGER</xsl:text>
+                    <xsl:text>springer</xsl:text>
                 </recordContentSource>
                 <xsl:if test="//ArticleCopyright/CopyrightHolderName[string-length() &gt; 0 ] | //ChapterCopyright/CopyrightHolderName[string-length() &gt; 0 ] | //BookCopyright/CopyrightHolderName[string-length() &gt; 0 ]">
                     <xsl:if test="//ArticleCopyright/CopyrightHolderName[string-length() &gt; 0 ] | //ChapterCopyright/CopyrightHolderName[string-length() &gt; 0 ]">
@@ -3480,6 +3476,7 @@
                         </recordOrigin>
                     </xsl:if>
                 </xsl:if>
+                <recordInfoNote>Springer special CC-BY-NC licence</recordInfoNote>
             </recordInfo>
         </mods>
     </xsl:template>
