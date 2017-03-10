@@ -1,4 +1,4 @@
-<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <xsl:output encoding="UTF-8" method="xml" indent="no" omit-xml-declaration="no"/>
     <!-- Feuille de style ISTEX Editeur Springer vers format mods v3.6
         =======================================================================================
@@ -3510,42 +3510,6 @@
                                 <xsl:if test="//ArticleSubTitle[@Language=current()/@Language] [string-length() &gt; 0 ] | //ChapterSubTitle[@Language=current()/@Language] [string-length() &gt; 0 ]">
                                     <subTitle xmlns="http://www.loc.gov/mods/v3">
                                         <xsl:apply-templates select="//ArticleSubTitle[@Language=current()/@Language] | //ChapterSubTitle[@Language=current()/@Language]"/>
-                                    </subTitle>
-                                </xsl:if>
-                            </xsl:when>
-                        </xsl:choose>
-                        <!-- titre brut en cdata suite demande J. Ducloy janvier 2014-->
-                    </titleInfo>
-                    <titleInfo xmlns="http://www.loc.gov/mods/v3">
-                        <xsl:attribute name="type">alternative</xsl:attribute>
-                        <xsl:attribute name="contentType">
-                            <xsl:text>CDATA</xsl:text>
-                        </xsl:attribute>
-                        <xsl:choose>
-                            <xsl:when test="//ArticleTitle[string-length() &gt; 0 ] | //ChapterTitle[string-length() &gt; 0 ]">
-                                <xsl:if test="@Language">
-                                    <xsl:variable name="codeLang">
-                                        <xsl:value-of select="translate(@Language,'ABCDEFGHIJKLMNOPQRSTUVWXYZ','abcdefghijklmnopqrstuvwxyz')"/>
-                                    </xsl:variable>
-                                    <xsl:attribute name="lang">
-                                        <xsl:choose>
-                                            <xsl:when test="//ArticleDOI='10.1007/BF02584710'">pt</xsl:when>
-                                            <xsl:otherwise>
-                                                <xsl:value-of select="$codeLang"/>
-                                            </xsl:otherwise>
-                                        </xsl:choose>
-                                    </xsl:attribute>
-                                </xsl:if>
-                                <title xmlns="http://www.loc.gov/mods/v3">
-                                    <xsl:text disable-output-escaping="yes">&lt;![CDATA[</xsl:text>
-                                    <xsl:value-of select="normalize-space(.)"/>
-                                    <xsl:text disable-output-escaping="yes">]]&gt;</xsl:text>
-                                </title>
-                                <xsl:if test="//ArticleSubTitle[@Language=current()/@Language][string-length() &gt; 0 ] | //ChapterSubTitle[@Language=current()/@Language][string-length() &gt; 0 ]">
-                                    <subTitle xmlns="http://www.loc.gov/mods/v3">
-                                        <xsl:text disable-output-escaping="yes">&lt;![CDATA[</xsl:text>
-                                        <xsl:value-of select="//ArticleSubTitle[@Language=current()/@Language] | //ChapterSubTitle[@Language=current()/@Language]"  disable-output-escaping="yes" />
-                                        <xsl:text disable-output-escaping="yes">]]&gt;</xsl:text>
                                     </subTitle>
                                 </xsl:if>
                             </xsl:when>
