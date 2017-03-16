@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher
+        PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN" "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+   <PublisherInfo>
+      <PublisherName>Springer Berlin Heidelberg</PublisherName>
+      <PublisherLocation>Berlin/Heidelberg</PublisherLocation>
+      <PublisherImprintName>SpringerMedizin</PublisherImprintName>
+   </PublisherInfo>
+   <Journal OutputMedium="All">
+      <JournalInfo JournalProductType="NonStandardArchiveJournal" NumberingStyle="Unnumbered">
+         <JournalID>10309</JournalID>
+         <JournalDOI>10.1007/10309.1610-0646</JournalDOI>
+         <JournalPrintISSN>1617-6782</JournalPrintISSN>
+         <JournalElectronicISSN>1610-0646</JournalElectronicISSN>
+         <JournalTitle>Zeitschrift für Epileptologie</JournalTitle>
+         <JournalSubTitle>Organ der Deutschen Gesellschaft für Epileptologie e.V. Mitteilungsblatt der Stiftung Michael ((dot)) Mitteilungsblatt der AG Epilepsiechirurgie</JournalSubTitle>
+         <JournalAbbreviatedTitle>Z. Epileptol.</JournalAbbreviatedTitle>
+         <JournalSubjectGroup>
+            <JournalSubject Code="SCH" Type="Primary">Medicine &amp; Public Health</JournalSubject>
+            <JournalSubject Code="SCH36001" Priority="1" Type="Secondary">Neurology</JournalSubject>
+            <SubjectCollection Code="Medicine">SC11</SubjectCollection>
+         </JournalSubjectGroup>
+      </JournalInfo>
+      <Volume OutputMedium="All">
+         <VolumeInfo TocLevels="0" VolumeType="Regular">
+            <VolumeIDStart>29</VolumeIDStart>
+            <VolumeIDEnd>29</VolumeIDEnd>
+            <VolumeIssueCount>4</VolumeIssueCount>
+         </VolumeInfo>
+         <Issue IssueType="Regular" OutputMedium="All">
+            <IssueInfo IssueType="Regular" TocLevels="0">
+               <IssueIDStart>1</IssueIDStart>
+               <IssueIDEnd>1</IssueIDEnd>
+               <IssueArticleCount>10</IssueArticleCount>
+               <IssueHistory>
+                  <OnlineDate>
+                     <Year>2016</Year>
+                     <Month>2</Month>
+                     <Day>5</Day>
+                  </OnlineDate>
+                  <PrintDate>
+                     <Year>2016</Year>
+                     <Month>2</Month>
+                     <Day>5</Day>
+                  </PrintDate>
+                  <CoverDate>
+                     <Year>2016</Year>
+                     <Month>2</Month>
+                  </CoverDate>
+                  <PricelistYear>2016</PricelistYear>
+               </IssueHistory>
+               <IssueCopyright>
+                  <CopyrightHolderName>Springer-Verlag Berlin Heidelberg</CopyrightHolderName>
+                  <CopyrightYear>2016</CopyrightYear>
+               </IssueCopyright>
+            </IssueInfo>
+            <Article ID="s10309-015-0028-z" OutputMedium="All">
+               <ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="De"
+                            NumberingStyle="Unnumbered"
+                            TocLevels="0">
+                  <ArticleID>28</ArticleID>
+                  <ArticleDOI>10.1007/s10309-015-0028-z</ArticleDOI>
+                  <ArticleSequenceNumber>6</ArticleSequenceNumber>
+                  <ArticleTitle Language="De">Musik in Spielfilmen mit Epilepsie</ArticleTitle>
+                  <ArticleSubTitle Language="De">Thematisch betrachtet am Beispiel von „The exploding girl“ und „The exorcist“</ArticleSubTitle>
+                  <ArticleTitle Language="En">Music in movies with epilepsy</ArticleTitle>
+                  <ArticleSubTitle Language="En">Thematically viewed using the example of “The Exploding Girl” and “The Exorcist”</ArticleSubTitle>
+                  <ArticleCategory>Leitthema</ArticleCategory>
+                  <ArticleFirstPage>25</ArticleFirstPage>
+                  <ArticleLastPage>30</ArticleLastPage>
+                  <ArticleHistory>
+                     <RegistrationDate>
+                        <Year>2015</Year>
+                        <Month>9</Month>
+                        <Day>18</Day>
+                     </RegistrationDate>
+                     <OnlineDate>
+                        <Year>2015</Year>
+                        <Month>10</Month>
+                        <Day>19</Day>
+                     </OnlineDate>
+                  </ArticleHistory>
+                  <ArticleCopyright>
+                     <CopyrightHolderName>Springer-Verlag Berlin Heidelberg</CopyrightHolderName>
+                     <CopyrightYear>2015</CopyrightYear>
+                  </ArticleCopyright>
+                  <ArticleGrants Type="Regular">
+                     <MetadataGrant Grant="OpenAccess"/>
+                     <AbstractGrant Grant="OpenAccess"/>
+                     <BodyPDFGrant Grant="Restricted"/>
+                     <BodyHTMLGrant Grant="Restricted"/>
+                     <BibliographyGrant Grant="Restricted"/>
+                     <ESMGrant Grant="Restricted"/>
+                  </ArticleGrants>
+               </ArticleInfo>
+               <ArticleHeader>
+                  <AuthorGroup>
+                     <Author AffiliationIDS="Aff1" CorrespondingAffiliationID="Aff1">
+                        <AuthorName DisplayOrder="Western">
+                           <GivenName>Stefan</GivenName>
+                           <FamilyName>Heiner</FamilyName>
+                        </AuthorName>
+                        <Contact>
+                           <Email>heiner.stefan@gmail.com</Email>
+                        </Contact>
+                        <Figure Category="Standard" Float="No" ID="Figa">
+                           <MediaObject>
+                              <ImageObject Color="Color" FileRef="MediaObjects/10309_2015_28_Figa_HTML.jpg" Format="JPEG"
+                                           Rendition="HTML"
+                                           Type="Halftone"/>
+                           </MediaObject>
+                        </Figure>
+                     </Author>
+                     <Affiliation ID="Aff1">
+                        <OrgAddress>
+                           <Street>Valecchie 119</Street>
+                           <Postcode>52044</Postcode>
+                           <City>Cortona</City>
+                           <Country>Italien</Country>
+                        </OrgAddress>
+                     </Affiliation>
+                  </AuthorGroup>
+                  <Abstract ID="Abs1" Language="De" OutputMedium="All">
+                     <Heading>Zusammenfassung</Heading>
+                     <Para>Epilepsie spielt vergleichsweise häufig eine Rolle im internationalen Spielfilm. Anfälle werden oft zur Dramatisierung des Geschehens eingesetzt. Filmmusik im weitesten Sinne kann dabei mehr als nur „Begleitmusik“ sein. Mit der „Tonspur“ verfügt der Spielfilm über ein hervorragendes Mittel, Außen- und Innensicht epileptischen Geschehens wiederzugeben. Das lässt sich an den beiden Filmen „The exploding girl“ und „The exorcist“ zeigen, die ein extrem gegensätzliches Bild der Epilepsie zeichnen. Letzterer nutzt raffinierte Klangcollagen dazu, den Zuschauer in eine Welt anhaltenden Schreckens zu versetzen. „The exploding girl“ mischt effektvoll szenische und außerszenische Tonfolgen, um Sinneseindrücke der Betroffenen und Erfahrungen ihres miterlebenden Freundes dem Zuschauer nahezubringen. Die Botschaft der beiden Filme umfasst den weiten Erwartungshorizont – von Abscheu bis Empathie –, den noch heute die Begegnung mit Epilepsiekranken auszeichnet.</Para>
+                  </Abstract>
+                  <Abstract ID="Abs2" Language="En" OutputMedium="All">
+                     <Heading>Abstract</Heading>
+                     <Para>Epilepsy is more commonly present in feature films than one might expect, with seizures often shown in order to dramatise events. In such films the soundtrack may be more than just a musical accompaniment; it can also provide a powerful means to describe the inner workings and outer manifestations of a seizure. This may be illustrated with reference to “The Exorcist” and “The Exploding Girl”, which present contrasting pictures of epilepsy. The former exploits a complex collage of sounds and music to take the public into a world of horror, while the latter combines the ambient audio with a scored soundtrack to depict the feelings of the subject and her friend. The emotions induced in the audience by these two films thus range from revulsion to empathy, as two extremes that characterise contact with epileptic subjects.</Para>
+                  </Abstract>
+                  <KeywordGroup Language="De" OutputMedium="All">
+                     <Heading>Schlüsselwörter</Heading>
+                     <Keyword>Filmmusik</Keyword>
+                     <Keyword>Diegese</Keyword>
+                     <Keyword>Spielfilm</Keyword>
+                     <Keyword>Behindertenfilm</Keyword>
+                     <Keyword>Epilepsie im Spielfilm</Keyword>
+                  </KeywordGroup>
+                  <KeywordGroup Language="En" OutputMedium="All">
+                     <Heading>Keywords</Heading>
+                     <Keyword>Soundtrack</Keyword>
+                     <Keyword>Diegesis</Keyword>
+                     <Keyword>Feature film</Keyword>
+                     <Keyword>Disability film</Keyword>
+                     <Keyword>Epilepsy in movies</Keyword>
+                  </KeywordGroup>
+               </ArticleHeader>
+               <NoBody/>
+            </Article>
+         </Issue>
+      </Volume>
+   </Journal>
+</Publisher>

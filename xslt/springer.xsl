@@ -3501,6 +3501,11 @@
                                         </xsl:choose>
                                     </xsl:attribute>
                                 </xsl:if>
+                                <xsl:if test="../@Language[string-length()&gt; 0]">
+                                    <xsl:if test="not(@Language=../@Language)">
+                                        <xsl:attribute name="type">translated</xsl:attribute>
+                                    </xsl:if>
+                                </xsl:if>
                                 <xsl:variable name="ttl">
                                     <xsl:apply-templates select="."/>
                                 </xsl:variable>
