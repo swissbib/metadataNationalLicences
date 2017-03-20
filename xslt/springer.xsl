@@ -1383,7 +1383,7 @@
                                     </xsl:for-each>
                                 </xsl:when>
                                 <xsl:otherwise>
-                                    <!--<subject xmlns="http://www.loc.gov/mods/v3">
+                                    <subject xmlns="http://www.loc.gov/mods/v3">
                                           <xsl:choose>
                                               <xsl:when test="contains(@Language,'- -')"/>
                                               <xsl:otherwise>
@@ -1410,7 +1410,7 @@
                                                   <xsl:value-of select="normalize-space($kwd)"/>
                                               </topic>
                                           </xsl:for-each>
-                                          </subject>  -->
+                                      </subject>
                                 </xsl:otherwise>
                             </xsl:choose>
                         </xsl:for-each>
