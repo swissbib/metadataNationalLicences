@@ -3,6 +3,8 @@ import re
 import time
 
 def get_pdf_url(pii, hdr):
+    # return the url to the pdf by parsing the html of the landing page
+    # return False if unsuccessful
     url_html = "http://www.cambridge.org/core/product/identifier/" + pii + "/type/JOURNAL_ARTICLE"
     request = urllib2.Request(url_html, headers=hdr)
 
@@ -28,6 +30,7 @@ def get_pdf_url(pii, hdr):
             return False
 
 def download_and_save_pdf(url, pii, hdr):
+    #download and save the pdf locally using the name pii.pdf
     request = urllib2.Request(url, headers=hdr)
     try:
         response = urllib2.urlopen(request)
@@ -53,7 +56,7 @@ hdr = {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.11 (KHTML,
        'Accept-Language': 'en-US,en;q=0.8',
        'Connection': 'keep-alive'}
 
-#article identifiers
+#article identifiers, we will download all these pdf's
 piis = [
     "S0026749X14000602"
 ]
