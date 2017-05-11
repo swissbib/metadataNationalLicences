@@ -4902,6 +4902,14 @@
                     </recordInfoNote>
                 </xsl:if>
             </recordInfo>
+            <extension>
+                <metadata-filename>
+                    <xsl:value-of select="//article-meta/custom-meta-group/custom-meta/meta-name[.='(swissbib)metadata-filename']/following-sibling::*"></xsl:value-of>
+                </metadata-filename>
+                <pdf-filename>
+                    <xsl:value-of select="//article-meta/custom-meta-group/custom-meta/meta-name[.='(swissbib)pdf-filename']/following-sibling::*"></xsl:value-of>
+                </pdf-filename>
+            </extension>
         </mods>
     </xsl:template>
     <!--Fin  Traitement Principal -->

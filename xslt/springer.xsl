@@ -66,6 +66,10 @@
         Début des templates
         ========================================================================================================-->
 
+
+    <!-- to store the original path/filename -->
+    <xsl:param name="filename"></xsl:param>
+
     <xsl:template match="text()">
         <!--
             tabulation horizontale &#9; \t
@@ -3478,6 +3482,15 @@
                 </xsl:if>
                 <recordInfoNote>Springer special CC-BY-NC licence</recordInfoNote>
             </recordInfo>
+            <extension>
+                <metadata-filename>
+                    <xsl:value-of select="$filename"></xsl:value-of>
+                </metadata-filename>
+                <pdf-filename>
+                    <xsl:value-of select="//ArticleDOI | //ChapterDOI"/>
+                    <xsl:text>.pdf</xsl:text>
+                </pdf-filename>
+            </extension>
         </mods>
     </xsl:template>
     <xsl:template name="Titre">
