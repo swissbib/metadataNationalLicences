@@ -29,11 +29,11 @@ MERGED_DIR=$DATA_BASE_DIR/$PUBLISHER/merged/
 
 
 
-#./extract_oxford.sh $SRC_DIR/delivery_2016_03_03/ $EXTRACTED_DIR >> $LOG_FILE 2>> $ERR_FILE
-#./extract_oxford2.sh $SRC_DIR/delivery_2016_04_28/ $EXTRACTED_DIR >> $LOG_FILE 2>> $ERR_FILE
-#./extract_oxford2.sh $SRC_DIR/delivery_2016_09_07/ $EXTRACTED_DIR >> $LOG_FILE 2>> $ERR_FILE
+./extract_oxford.sh $SRC_DIR/delivery_2016_03_03/ $EXTRACTED_DIR >> $LOG_FILE 2>> $ERR_FILE
+./extract_oxford2.sh $SRC_DIR/delivery_2016_04_28/ $EXTRACTED_DIR >> $LOG_FILE 2>> $ERR_FILE
+./extract_oxford2.sh $SRC_DIR/delivery_2016_09_07/ $EXTRACTED_DIR >> $LOG_FILE 2>> $ERR_FILE
 
 
 ./transform_records_oxford.sh $EXTRACTED_DIR $SWISSBIB_JATS_DIR $XSLT_DIRECTORY $DTD_DIRECTORY $ERROR_VALIDATION_FILE >> $LOG_FILE 2>> $ERR_FILE
-./merge_records_oxford.sh $SWISSBIB_JATS_DIR $MERGED_DIR >> $LOG_FILE 2>> $ERR_FILE
+#./merge_records_oxford.sh $SWISSBIB_JATS_DIR $MERGED_DIR >> $LOG_FILE 2>> $ERR_FILE
 

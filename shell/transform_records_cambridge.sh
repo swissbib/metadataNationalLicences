@@ -20,7 +20,6 @@ cd $SOURCE_DIRECTORY
 find . -name *.xml -exec  xsltproc --novalid -o $TARGET_DIRECTORY{} --stringparam filename {} $XSLT_DIRECTORY/cambridge.xsl {} \;
 
 #test the validity and write a small report
-
 cd $TARGET_DIRECTORY
 find . -name "*.xml" -type f -exec xmllint --noout --dropdtd --dtdvalid $DTD_DIRECTORY/JATS-Archiving-1-1-OASIS-MathML3-DTD/JATS-archive-oasis-article1-mathml3.dtd --nowarning 2>>$ERROR_VALIDATION_FILE {} \;
 grep -ohr "^\..*xml" $ERROR_VALIDATION_FILE | sort | uniq | wc -l
