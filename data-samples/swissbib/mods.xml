@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.6">
+    <titleInfo lang="en">
+        <title>Amphiphilic polymers in photodynamic therapy</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">A.</namePart>
+        <namePart type="given">B.</namePart>
+        <namePart type="family">Solov&#8217;eva</namePart>
+        <affiliation>Semenov Institute of Chemical Physics, Russian Academy of Sciences, Moscow, Russia</affiliation>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal" displayLabel="corresp">
+        <namePart type="given">N.</namePart>
+        <namePart type="given">A.</namePart>
+        <namePart type="family">Aksenova</namePart>
+        <affiliation>Semenov Institute of Chemical Physics, Russian Academy of Sciences, Moscow, Russia</affiliation>
+        <affiliation>E-mail: naksenova@mail.ru</affiliation>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">N.</namePart>
+        <namePart type="given">N.</namePart>
+        <namePart type="family">Glagolev</namePart>
+        <affiliation>Semenov Institute of Chemical
+            Physics, Russian Academy of Sciences, Moscow, Russia
+        </affiliation>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">N.</namePart>
+        <namePart type="given">S.</namePart>
+        <namePart type="family">Melik-Nubarov</namePart>
+        <affiliation>Moscow State University, Moscow, Russia</affiliation>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">A.</namePart>
+        <namePart type="given">V.</namePart>
+        <namePart type="family">Ivanov</namePart>
+        <affiliation>
+            Blokhin Russian Cancer Research Center, Russian Academy of Medical Sciences, Moscow, Russia
+        </affiliation>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">V.</namePart>
+        <namePart type="given">I.</namePart>
+        <namePart type="family">Volkov</namePart>
+        <affiliation>
+            Institute of Problems of Chemical Physics, Russian Academy of Sciences, Chernogolovka, Moscow oblast, Russia
+        </affiliation>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">A.</namePart>
+        <namePart type="given">V.</namePart>
+        <namePart type="family">Chernyak</namePart>
+        <affiliation>
+            Institute of Problems of Chemical Physics, Russian Academy of Sciences, Chernogolovka, Moscow oblast, Russia
+        </affiliation>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre type="research-article" displayLabel="OriginalPaper"/>
+    <originInfo>
+        <publisher>SP MAIK Nauka/Interperiodica</publisher>
+        <place>
+            <placeTerm type="text">Dordrecht</placeTerm>
+        </place>
+        <dateCreated encoding="w3cdtf">2011-09-30</dateCreated>
+        <dateIssued encoding="w3cdtf">2012-05-01</dateIssued>
+        <copyrightDate encoding="w3cdtf">2012</copyrightDate>
+    </originInfo>
+    <language>
+        <languageTerm type="code" authority="rfc3066">en</languageTerm>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+    <physicalDescription>
+        <internetMediaType>text/html</internetMediaType>
+    </physicalDescription>
+    <abstract lang="en">Abstract: It is shown that some amphiphil
+        ic polymers (AP), including, polyvinylpyrrolidone (PVP), which exhibit no their own photochemical activity, can
+        increase the activity of porphyrin photosensitizers (PPS), the most effective and nontoxic typ
+        es of dyes for photodynamic action on tumor cells. It is also shown that, under the model conditions of
+        tryptophan photooxidation, addition of amphiphilic polymers increases the activity of carborane-substi
+        tuted tetra(fluorophenyl)porphyrins, Photoditazine, and dimegin. According to NMR and fluorescence spectroscopy
+        data, this phenomenon, known as polymer effect, is probably associated with the formation of A
+        P-PPS complexes, a factor that prevents the aggregation of PPS, normally occurring in aqueous solutions, thereby
+        enhancing the photosensitizing activity of PPS.
+    </abstract>
+    <note>Chemical Physics of Polymer Materials</note>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Russian Journal of Physical Chemistry B</title>
+            <subTitle>Focus on Physics</subTitle>
+        </titleInfo>
+        <titleInfo type="abbreviated">
+            <title>Russ. J. Phys. Chem. B</title>
+        </titleInfo>
+        <genre type="journal" displayLabel="Archive Journal"/>
+        <originInfo>
+            <dateIssued encoding="w3cdtf">2012-07-17</dateIssued>
+            <copyrightDate encoding="w3cdtf">2012</copyrightDate>
+        </originInfo>
+        <subject>
+            <genre>Chemistry</genre>
+            <topic>Physical Chemistry</topic>
+        </subject>
+        <identifier type="ISSN">1990-7931</identifier>
+        <identifier type="eISSN">1990-7923</identifier>
+        <identifier type="PublisherID">
+            11826
+        </identifier>
+        <identifier type="IssueArticleCount">17</identifier>
+        <identifier type="VolumeIssueCount">8</identifier>
+        <part>
+            <date>2012</date>
+            <detail type="volume">
+                <number>6</number>
+                <caption>vol.</caption>
+            </detail>
+            <detail type="issue">
+                <number>3</number>
+                <caption>no.</caption>
+            </detail>
+            <extent unit="pages">
+                <start>433</start>
+                <end>440</end>
+            </extent>
+        </part>
+        <recordInfo>
+            <recordOrigin>Pleiades Publishing, Ltd., 2012</recordOrigin>
+        </recordInfo>
+    </relatedItem>
+    <identifier type="swissbib">springer-10.1134/S1990793112060061</identifier>
+    <identifier type="DOI">10.1134/S1990793112060061</identifier>
+    <identifier type="ArticleID">S1990793112060061</identifier>
+    <accessCondition type="use and reproduction" contentType="copyright">
+        Pleiades Publishing, Ltd., 2012
+    </accessCondition>
+    <recordInfo>
+        <recordContentSource>springer</recordContentSource>
+        <recordOrigin>Pleiades Publishing, Ltd., 2012</recordOrigin>
+        <recordInfoNote>Springer special CC-BY-NC licence</recordInfoNote>
+    </recordInfo>
+</mods>
