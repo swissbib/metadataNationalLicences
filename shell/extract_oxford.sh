@@ -30,7 +30,7 @@ function extract ()
 while read filename; do 
 	#only get parent directory (which is journal name)
 	PARENT_DIRECTORY="$(basename "$(dirname "$filename")")"
-	mkdir "$TARGET_DIRECTORY""$PARENT_DIRECTORY"
+	mkdir -p "$TARGET_DIRECTORY""$PARENT_DIRECTORY"
 	tar -xf "$filename" -C "$TARGET_DIRECTORY""$PARENT_DIRECTORY"
 done;
 }
