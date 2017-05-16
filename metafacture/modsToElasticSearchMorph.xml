@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metamorph xmlns="http://www.culturegraph.org/metamorph"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:schemaLocation="http://www.culturegraph.org/metamorph metamorph.xsd"
+           version="1" entityMarker=".">
+
+
+    <rules>
+        <combine name="eissn" value="${issn}" flushWith="relatedItem.identifier" reset="true">
+            <if>
+                <all reset="true">
+                    <data source="relatedItem.identifier.type" name="issn-type">
+                        <equals string="eISSN"/>
+                    </data>
+                    <!-- don't take empty strings -->
+                    <data source="relatedItem.identifier.value" name="issn-value">
+                        <not-equals string=""/>
+                    </data>
+                </all>
+            </if>
+            <data source="relatedItem.identifier.value" name="issn"/>
+        </combine>
+
+
+        <combine name="pissn" value="${issn}" flushWith="relatedItem.identifier" reset="true">
+            <if>
+                <all reset="true">
+                    <data source="relatedItem.identifier.type" name="issn-type">
+                        <equals string="ISSN"/>
+                    </data>
+                    <!-- don't take empty strings -->
+                    <data source="relatedItem.identifier.value" name="issn-value">
+                        <not-equals string=""/>
+                    </data>
+                </all>
+            </if>
+            <data source="relatedItem.identifier.value" name="issn"/>
+        </combine>
+
+
+
+
+        <data name="@pyear" source="originInfo.dateIssued.value">
+            <substring  start="0"  end="4"/>
+
+        </data>
+
+        <data name="pyear" source="@pyear">
+            <!-- year in range 1750 - 2029 -->
+            <regexp match="(17[5-9]\d|18\d\d|19\d\d|20[0-2]\d)" format="${1}" />
+        </data>
+
+        <data source="originInfo.publisher.value" name="publisher-name"/>
+
+
+
+        <combine name="volume" value="${volume}" flushWith="relatedItem.part.detail" reset="true">
+            <if>
+                <data source="relatedItem.part.detail.type">
+                    <equals string="volume"/>
+                </data>
+            </if>
+            <data source="relatedItem.part.detail.number.value" name="volume"/>
+        </combine>
+
+        <combine name="issue" value="${issue}" flushWith="relatedItem.part.detail" reset="true">
+            <if>
+                <data source="relatedItem.part.detail.type">
+                    <equals string="issue"/>
+                </data>
+            </if>
+            <data source="relatedItem.part.detail.number.value" name="issue"/>
+        </combine>
+
+        <data source="relatedItem.part.extent.start.value" name="spage"/>
+        <data source="relatedItem.part.extent.end.value" name="lpage"/>
+
+
+        <!-- would be better to check if titleInfo type is missing than an occurence based collector-->
+        <data source="relatedItem.titleInfo.title.value" name="jtitle">
+            <occurrence only="1"/>
+        </data>
+
+
+
+        <data source="front.article-meta.title-group.article-title.value" name="article-title"/>
+        <data source="front.article-meta.title-group.article-title.value" name="article-title-not-analyzed"/>
+
+        <data source="article-type" name="article-type"/>
+
+        <combine name="journal-id" value="${journal-id}" flushWith="front.journal-meta.journal-id" reset="true">
+            <if>
+                <data source="front.journal-meta.journal-id.journal-id-type" name="pub-type">
+                    <equals string="publisher-id"/>
+                </data>
+            </if>
+            <data source="front.journal-meta.journal-id.value" name="journal-id"/>
+        </combine>
+
+
+
+        <combine name="journal-id" value="${journal-id}" flushWith="relatedItem.identifier" reset="true">
+            <if>
+                <data source="relatedItem.identifier.type">
+                    <equals string="PublisherID"/>
+                </data>
+            </if>
+            <data name="journal-id" source="relatedItem.identifier.value"/>
+        </combine>
+
+
+        <combine name="doi" value="${doi}" flushWith="identifier" reset="true">
+            <if>
+                <data source="identifier.type">
+                    <equals string="DOI"/>
+                </data>
+            </if>
+            <data source="identifier.value" name="doi"/>
+        </combine>
+
+        <combine name="id" value="${id}" flushWith="identifier" reset="true">
+            <if>
+                <data source="identifier.type">
+                    <equals string="swissbib"/>
+                </data>
+            </if>
+            <data source="identifier.value" name="id"/>
+        </combine>
+
+
+        <data source="accessCondition.value" name="license-paragraph"/>
+        <data source="accessCondition.contentType" name="license-type"/>
+
+
+        <!-- Authors -->
+        <concat name="authors" flushWith="name" reset="true" delimiter=" ">
+            <data source="name.namePart.value"/>
+        </concat>
+
+        <!-- Affiliations -->
+        <concat name="affiliations" flushWith="name" reset="true"  delimiter=" ">
+            <data source="name.affiliation.value"/>
+        </concat>
+
+        <!-- Author+affiliations -->
+        <concat name="author-aff" flushWith="name" reset="true" delimiter="/////">
+            <concat name="author" flushWith="name" reset="true"  delimiter=" ">
+                <data source="name.namePart.value"/>
+            </concat>
+
+            <concat name="affiliations" flushWith="name" reset="true"  delimiter=" ">
+                <data source="name.affiliation.value"/>
+            </concat>
+        </concat>
+
+        <!-- Source -->
+        <data source="recordInfo.recordContentSource.value" name="source"/>
+
+
+        <!-- Path+filename -->
+        <data source="extension.metadata-filename.value" name="path_filename"/>
+        <data source="extension.pdf-filename.value" name="pdf"/>
+
+
+    </rules>
+
+</metamorph>
+
+

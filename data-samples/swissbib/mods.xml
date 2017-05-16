@@ -16,8 +16,7 @@
         <namePart type="given">N.</namePart>
         <namePart type="given">A.</namePart>
         <namePart type="family">Aksenova</namePart>
-        <affiliation>Semenov Institute of Chemical Physics, Russian Academy of Sciences, Moscow, Russia</affiliation>
-        <affiliation>E-mail: naksenova@mail.ru</affiliation>
+
         <role>
             <roleTerm type="text">author</roleTerm>
         </role>
@@ -123,9 +122,7 @@
         </subject>
         <identifier type="ISSN">1990-7931</identifier>
         <identifier type="eISSN">1990-7923</identifier>
-        <identifier type="PublisherID">
-            11826
-        </identifier>
+        <identifier type="PublisherID">11826</identifier>
         <identifier type="IssueArticleCount">17</identifier>
         <identifier type="VolumeIssueCount">8</identifier>
         <part>
