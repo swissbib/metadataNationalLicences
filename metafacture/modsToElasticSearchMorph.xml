@@ -38,7 +38,10 @@
             <data source="relatedItem.identifier.value" name="issn"/>
         </combine>
 
+        <data source="titleInfo.title.value" name="article-title"/>
+        <data source="titleInfo.title.value" name="article-title-not-analyzed"/>
 
+        <data source="titleInfo.subTitle.value" name="article-subtitle"/>
 
 
         <data name="@pyear" source="originInfo.dateIssued.value">
@@ -143,7 +146,7 @@
             <data source="name.affiliation.value"/>
         </concat>
 
-        <!-- Author+affiliations -->
+        <!-- Author+affiliations+role -->
         <concat name="author-aff" flushWith="name" reset="true" delimiter="/////">
             <concat name="author" flushWith="name" reset="true"  delimiter=" ">
                 <data source="name.namePart.value"/>
@@ -151,6 +154,10 @@
 
             <concat name="affiliations" flushWith="name" reset="true"  delimiter=" ">
                 <data source="name.affiliation.value"/>
+            </concat>
+
+            <concat name="role" flushWith="name" reset="true"  delimiter=" ">
+                <data source="name.role.roleTerm.value"/>
             </concat>
         </concat>
 
