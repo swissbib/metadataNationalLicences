@@ -58,20 +58,26 @@ hdr = {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.11 (KHTML,
 
 #article identifiers, we will download all these pdf's
 piis = [
-    "S0026749X14000602"
+    "S0026749X14000602",
+    "S0075426900024563"
 ]
 
 url_pdf_regex = '^<meta name="citation_pdf_url" content="(.*pdf)\/'
 pattern=re.compile(url_pdf_regex)
 
+wait_time=20
+
 
 for pii in piis:
+    print pii
     pdf_url=get_pdf_url(pii,hdr)
     if(pdf_url):
         download_and_save_pdf(pdf_url, pii,hdr)
     else:
         print "impossible to download pdf for article " + pii
-    time.sleep(20) #wait 20 seconds
+
+    print "wait "+str(wait_time)+" s"
+    time.sleep(wait_time) #wait 20 seconds
 
 
 
