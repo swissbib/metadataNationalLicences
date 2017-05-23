@@ -13,16 +13,30 @@ import locale
 locale.setlocale(locale.LC_ALL, '')
 
 
-def match_institution(address, institution):
+def match_institution(authoraff, institution):
+    parts=authoraff.split("/////")
+    address=unicode("","utf-8")
+    if len(parts)>1:
+        address=parts[1]
 
     institutionGuess=None;
+
+
+
     if institution=="ethz":
         if (match(address,['eth','zurich']) or
-                match(address,['eidgenossische','technische','zurich']) or
-                match(address,['institute','technology', 'zurich']) or
-                match(address,['ethz'])
-            ):
+               match(address,['eidgenossische','technische','zurich']) or
+               match(address,['institute','technology', 'zurich']) or
+               match(address,['ethz'])
+           ):
             institutionGuess="ETH Zurich"
+
+    #max planck regex
+    # if institution=="ethz":
+    #     asciiText=unicodedata.normalize('NFD', address).encode('ascii','ignore').lower()
+    #     result=re.match("eth z(ue|ü|u|ú)rich|[: ]eth[z]*[:]|^eth[z]*|eth[z]*$|e\.t\.h\.z|'e\.t\.h|(eidg|eichg|e[li]dg|eigen).*techn.*hochsch.*z(ue|ü|u|ú)rich|fed.*inst.*technol.*z(ue|ü|u|ú)rich|(eidg|eichg|e[li]dg|eigen).*([: ]th[z]*[: ]|th[z]*$)",asciiText)
+    #     if result:
+    #         institutionGuess="ETH Zurich"
 
     if institution=="epfl":
         if (match(address,['epfl']) or
@@ -31,10 +45,20 @@ def match_institution(address, institution):
             ):
             institutionGuess="EPF Lausanne"
 
+    if institution=="lib4ri":
+        if (match(address,['paul', 'scherrer', 'villigen']) or
+                match(address,['empa', 'bendorf']) or
+                match(address,['eawag', 'bendorf']) or
+                match(address,['wsl', 'davos'])
+            ):
+            institutionGuess="LIB4RI"
+
 
     if institution=="unibas":
         if (match(address,['universit', 'basel']) or
-                match(address,['hospital', 'basel'])
+                match(address,['hospital', 'basel']) or
+                match(address,['friedrich', 'miescher', 'basel']) or
+                match(address,['tropical', 'institute', 'basel'])
             ):
             institutionGuess="University of Basel"
 
@@ -87,16 +111,24 @@ def match_institution(address, institution):
                 match(address,['usi', 'mendrisio']) or
                 match(address,['universit', 'lugano']) or
                 match(address,['accademia', 'architettura']) or
+                match(address,['accad', 'arch', 'mendrisio']) or
                 match(address,['istituto', 'molle', 'studi', 'intelligen', 'artificial']) or
                 match(address,['institute', 'molle', 'stud', 'intelligen', 'artificial']) or
-                match(address,['idsia']) or
-                match(address,['irb']) or
-                match(address,['istituto', 'ricerca', 'biomedicina']) or
-                match(address,['institute', 'research', 'biomedicine'])
+                match(address,['idsia', 'manno']) or
+                match(address,['irb', 'bellinzona']) or
+                match(address,['istituto', 'ricerca', 'biomedicina', 'bellinzona']) or
+                match(address,['institute', 'research', 'biomedicine', 'bellinzona'])
             ):
             institutionGuess="Università della Svizzera italiana"
 
+    if institution=="switzerland":
+        if (match(address,['switzerland'])):
+            institutionGuess="Switzerland"
+
     return institutionGuess
+
+
+
 
 
 
@@ -145,7 +177,7 @@ columns=[
     "First Matching Author",
     "Institution Guess",
     "doi",
-    "url to download pdf (protected)",
+    "Metadata path+filename",
     "Article Title",
     "Authors",
     "Year",
@@ -161,6 +193,7 @@ columns=[
     "ISSN (electronic)",
     "Copyright type",
     "Copyright / Licence",
+    "Link to Swissbib",
     "Metadata in MARC XML",
     "Metadata in Dublin Core",
     "Metadata in Json-Marc",
@@ -246,42 +279,62 @@ while len(result["hits"]["hits"])>0:
                     break
 
 
-
-
+        idForSru=re.sub(r'\W+', '', hit["_id"])
+        sruBegin="http://sru.swissbib.ch/sru/search/defaultdb?query=+dc.anywhere+exact+NATIONALLICENCE"
+        sruMiddle="&operation=searchRetrieve&recordSchema=info%3Asrw%2Fschema%2F"
+        sruMiddleJSON="&operation=searchRetrieve&recordSchema=info%3Asru%2Fschema%2F"
+        sruEnd="&maximumRecords=10&startRecord=0&recordPacking=XML&availableDBs=defaultdb&sortKeys=Submit+query"
+        swissbibBegin="https://www.swissbib.ch/Search/Results?lookfor=nationallicence"
+        row=[
+            "", # "First Matching Affiliation"
+            "", # "First Matching Author"
+            "", # "Institution Guess"
+            article.get("doi",""), # "doi",
+            article.get("path_filename",""), # "url to download pdf (protected)",
+            article_title,   # "Article Title",
+            authors,   # "Authors",
+            article.get("pyear",""),   # "Year",
+            article.get("journal-title",""),   # "Journal Title",
+            affiliations,   # "All Affiliations",
+            article.get("publisher-name",""),   # "Publisher",
+            "",   # "Date of Allowed Open Access Publication",
+            article.get("volume",""),   # "Volume",
+            article.get("issue",""),   # "Issue",
+            article.get("spage",""),   # "Start Page",
+            article.get("lpage",""),   # "End Page",
+            article.get("pissn",""),   # "ISSN (print)",
+            article.get("eissn",""),   # "ISSN (electronic)",
+            article.get("license-type",""),   # "Copyright type",
+            article.get("license-paragraph",""),   # "Copyright / Licence",
+            swissbibBegin+idForSru, #"Link to Swissbib",
+            sruBegin+idForSru+sruMiddle+"1%2Fmarcxml-v1.1-light"+sruEnd,   # "Metadata in MARC XML",
+            sruBegin+idForSru+sruMiddle+"1%2Fdc-v1.1-light"+sruEnd,   # "Metadata in Dublin Core",
+            sruBegin+idForSru+sruMiddleJSON+"json"+sruEnd,   # "Metadata in Json-Marc",
+            ""   # "Comment"
+        ]
         if(institutionGuess):
             for institution in institutionGuess:
                 matchingAuthor=matchingAuthorAff[institution].split("/////")[0]
                 matchingAffiliation=matchingAuthorAff[institution].split("/////")[1]
-                row=[
-                    matchingAffiliation, # "First Matching Affiliation"
-                    matchingAuthor, # "First Matching Author"
-                    institution, # "Institution Guess"
-                    article.get("doi",""), # "doi",
-                    "", # "url to download pdf (protected)",
-                    article_title,   # "Article Title",
-                    authors,   # "Authors",
-                    article.get("pyear",""),   # "Year",
-                    article.get("journal-title",""),   # "Journal Title",
-                    affiliations,   # "All Affiliations",
-                    "",   # "Publisher",
-                    "",   # "Date of Allowed Open Access Publication",
-                    "",   # "Volume",
-                    "",   # "Issue",
-                    "",   # "Start Page",
-                    "",   # "End Page",
-                    "",   # "ISSN (print)",
-                    "",   # "ISSN (electronic)",
-                    "",   # "Copyright type",
-                    "",   # "Copyright / Licence",
-                    "",   # "Metadata in MARC XML",
-                    "",   # "Metadata in Dublin Core",
-                    "",   # "Metadata in Json-Marc",
-                    ""   # "Comment"
-                ]
+                row[0]=matchingAffiliation
+                row[1]=matchingAuthor
+                row[2]=institution
                 files[institution].writerow(row)
             files["known_institution"].writerow(row)
         else:
+            swissAuthorAff=""
+            matchingAuthor=""
+            matchingAffiliation=""
+            for address in addresses:
+                if match_institution(address, "switzerland"):
+                    swissAuthorAff=address
+                    matchingAuthor=swissAuthorAff.split("/////")[0]
+                    matchingAffiliation=swissAuthorAff.split("/////")[1]
+                    break
+            row[0]=matchingAffiliation
+            row[1]=matchingAuthor
             files["unknown_institution"].writerow(row)
+
 
 
     #get the next results

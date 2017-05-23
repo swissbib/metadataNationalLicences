@@ -19,8 +19,8 @@ default out = "stdout";
 
 //indir="/home/lionel/Documents/data-swissbib-no-backup/oxford2/";
 
-indir="/media/lionel/Data/swissbib-data/nationallizenzen/mods/";
-//indir="/home/lionel/Documents/mycloud/swissbib/git_repo/metadataNationalLicences/data-samples/swissbib/";
+//indir="/media/lionel/Data/swissbib-data/nationallizenzen/mods/";
+indir="/home/lionel/Documents/mycloud/swissbib/git_repo/metadataNationalLicences/data-samples/swissbib/";
 
 
 indir|
@@ -40,5 +40,5 @@ morph(FLUX_DIR + "modsToElasticSearchMorph.xml")|
 change-id("id")|
 catch-stream-exception |
 encode-esbulk(escapeChars="true", header="true", index="mods-v1", type="article")|
-index-esbulk(esNodes="localhost:9300", esClustername="elasticsearch", recordsPerUpload="10000");
-//write(out);
+//index-esbulk(esNodes="localhost:9300", esClustername="elasticsearch", recordsPerUpload="10000");
+write(out);

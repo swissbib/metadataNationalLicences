@@ -169,6 +169,24 @@
         <data source="extension.metadata-filename.value" name="path_filename"/>
         <data source="extension.pdf-filename.value" name="pdf"/>
 
+        <!--
+        <entity name="newAuthors" flushWith="name.affiliation.value" reset="true">
+            <data name="names" source="name.namePart.value"></data>
+            <data name="affiliations" source="name.affiliation.value"></data>
+        </entity>
+
+        <combine name="supername"
+                 value="${name}${affiliation}"
+                 flushWith="name" reset="true">
+
+
+
+            <data source="name.namePart.value" name="name"/>
+            <data source="name.affiliation.value" name="affiliation"/>
+        </combine>
+        -->
+
+
 
     </rules>
 
