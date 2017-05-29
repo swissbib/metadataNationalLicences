@@ -10,6 +10,9 @@
         <combine name="eissn" value="${issn}" flushWith="relatedItem.identifier" reset="true">
             <if>
                 <all reset="true">
+                    <data source="relatedItem.type">
+                        <equals string="host"/>
+                    </data>
                     <data source="relatedItem.identifier.type" name="issn-type">
                         <equals string="eISSN"/>
                     </data>
@@ -26,6 +29,10 @@
         <combine name="pissn" value="${issn}" flushWith="relatedItem.identifier" reset="true">
             <if>
                 <all reset="true">
+                    <data source="relatedItem.type">
+                        <equals string="host"/>
+                    </data>
+
                     <data source="relatedItem.identifier.type" name="issn-type">
                         <equals string="ISSN"/>
                     </data>
@@ -60,54 +67,78 @@
 
         <combine name="volume" value="${volume}" flushWith="relatedItem.part.detail" reset="true">
             <if>
-                <data source="relatedItem.part.detail.type">
-                    <equals string="volume"/>
-                </data>
+                <all reset="true">
+                    <data source="relatedItem.type">
+                        <equals string="host"/>
+                    </data>
+                    <data source="relatedItem.part.detail.type">
+                        <equals string="volume"/>
+                    </data>
+                </all>
             </if>
             <data source="relatedItem.part.detail.number.value" name="volume"/>
         </combine>
 
         <combine name="issue" value="${issue}" flushWith="relatedItem.part.detail" reset="true">
             <if>
-                <data source="relatedItem.part.detail.type">
-                    <equals string="issue"/>
-                </data>
+                <all reset="true">
+                    <data source="relatedItem.type">
+                        <equals string="host"/>
+                    </data>
+                    <data source="relatedItem.part.detail.type">
+                        <equals string="issue"/>
+                    </data>
+                </all>
             </if>
             <data source="relatedItem.part.detail.number.value" name="issue"/>
         </combine>
 
-        <data source="relatedItem.part.extent.start.value" name="spage"/>
-        <data source="relatedItem.part.extent.end.value" name="lpage"/>
+
+        <combine name="spage" value="${spage}" flushWith="relatedItem.part.extent" reset="true">
+            <if>
+                <data source="relatedItem.type">
+                        <equals string="host"/>
+                    </data>
+            </if>
+            <data source="relatedItem.part.extent.start.value" name="spage"/>
+        </combine>
+
+
+        <combine name="lpage" value="${lpage}" flushWith="relatedItem.part.extent" reset="true">
+            <if>
+                <data source="relatedItem.type">
+                    <equals string="host"/>
+                </data>
+            </if>
+            <data source="relatedItem.part.extent.end.value" name="lpage"/>
+        </combine>
+
+
 
 
         <!-- would be better to check if titleInfo type is missing than an occurence based collector-->
-        <data source="relatedItem.titleInfo.title.value" name="jtitle">
-            <occurrence only="1"/>
-        </data>
 
-
-
-        <data source="front.article-meta.title-group.article-title.value" name="article-title"/>
-        <data source="front.article-meta.title-group.article-title.value" name="article-title-not-analyzed"/>
-
-        <data source="article-type" name="article-type"/>
-
-        <combine name="journal-id" value="${journal-id}" flushWith="front.journal-meta.journal-id" reset="true">
+        <combine name="jtitle" value="${jtitle}" flushWith="relatedItem.titleInfo" reset="true">
             <if>
-                <data source="front.journal-meta.journal-id.journal-id-type" name="pub-type">
-                    <equals string="publisher-id"/>
+                <data source="relatedItem.type">
+                    <equals string="host"/>
                 </data>
             </if>
-            <data source="front.journal-meta.journal-id.value" name="journal-id"/>
+            <data source="relatedItem.titleInfo.title.value" name="jtitle"/>
         </combine>
 
 
 
         <combine name="journal-id" value="${journal-id}" flushWith="relatedItem.identifier" reset="true">
             <if>
-                <data source="relatedItem.identifier.type">
-                    <equals string="PublisherID"/>
-                </data>
+                <all reset="true">
+                    <data source="relatedItem.type">
+                        <equals string="host"/>
+                    </data>
+                    <data source="relatedItem.identifier.type">
+                        <equals string="PublisherID"/>
+                    </data>
+                </all>
             </if>
             <data name="journal-id" source="relatedItem.identifier.value"/>
         </combine>
@@ -147,24 +178,6 @@
         </concat>
 
 
-
-
-
-        <combine name="eissn" value="${issn}" flushWith="relatedItem.identifier" reset="true">
-            <if>
-                <all reset="true">
-                    <data source="relatedItem.identifier.type" name="issn-type">
-                        <equals string="eISSN"/>
-                    </data>
-                    <!-- don't take empty strings -->
-                    <data source="relatedItem.identifier.value" name="issn-value">
-                        <not-equals string=""/>
-                    </data>
-                </all>
-            </if>
-            <data source="relatedItem.identifier.value" name="issn"/>
-        </combine>
-
         <!-- Affiliations -->
         <concat name="affiliations" flushWith="name" reset="true"  delimiter=" ">
             <if>
@@ -175,7 +188,7 @@
             <data source="name.affiliation.value"/>
         </concat>
 
-        <!-- Author+affiliations+role -->
+        <!-- Author+affiliations -->
         <concat name="author-aff" flushWith="name" reset="true" delimiter="/////">
             <if>
                 <data source="name.role.roleTerm.value">
@@ -189,7 +202,7 @@
             <concat name="affiliations" flushWith="name" reset="true"  delimiter=" ">
                 <data source="name.affiliation.value"/>
             </concat>
-            
+
         </concat>
 
         <!-- Source -->
