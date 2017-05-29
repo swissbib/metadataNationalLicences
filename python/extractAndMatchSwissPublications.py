@@ -18,6 +18,10 @@ def match_institution(authoraff, institution):
     address=unicode("","utf-8")
     if len(parts)>1:
         address=parts[1]
+        if parts[len(parts)-1].lower()=="editor":
+            #we only match authors, not editors
+            return None;
+
 
     institutionGuess=None;
 
@@ -31,24 +35,23 @@ def match_institution(authoraff, institution):
            ):
             institutionGuess="ETH Zurich"
 
-    #max planck regex
-    # if institution=="ethz":
-    #     asciiText=unicodedata.normalize('NFD', address).encode('ascii','ignore').lower()
-    #     result=re.match("eth z(ue|ü|u|ú)rich|[: ]eth[z]*[:]|^eth[z]*|eth[z]*$|e\.t\.h\.z|'e\.t\.h|(eidg|eichg|e[li]dg|eigen).*techn.*hochsch.*z(ue|ü|u|ú)rich|fed.*inst.*technol.*z(ue|ü|u|ú)rich|(eidg|eichg|e[li]dg|eigen).*([: ]th[z]*[: ]|th[z]*$)",asciiText)
-    #     if result:
-    #         institutionGuess="ETH Zurich"
 
     if institution=="epfl":
         if (match(address,['epfl']) or
+                match(address,['epf','lausanne']) or
+                match(address,['eth','lausanne']) or
                 match(address,['polytechni','lausanne']) or
+                match(address,['fed', 'inst','lausanne']) or
                 match(address,['institute','technology', 'lausanne'])
             ):
             institutionGuess="EPF Lausanne"
 
     if institution=="lib4ri":
         if (match(address,['paul', 'scherrer', 'villigen']) or
-                match(address,['empa', 'bendorf']) or
-                match(address,['eawag', 'bendorf']) or
+                match(address,['empa', 'dubendorf']) or
+                match(address,['empa', 'duebendorf']) or
+                match(address,['eawag', 'dubendorf']) or
+                match(address,['eawag', 'duebendorf']) or
                 match(address,['wsl', 'davos'])
             ):
             institutionGuess="LIB4RI"
@@ -75,6 +78,7 @@ def match_institution(authoraff, institution):
     if institution=="unil":
         if (match(address,['universit', 'lausanne']) or
                 match(address,['hospital', 'lausanne']) or
+                match(address,['inst', 'physiolog', 'lausanne']) or
                 match(address,['chuv', 'lausanne'])
             ):
             institutionGuess="University of Lausanne"
@@ -135,17 +139,35 @@ def match_institution(authoraff, institution):
 
 def match(someText, arrayOfStrings):
     # remove accents and umlauts and convert to lower case then do a match
+    # search if someText contains all the words that begin with the strings in arrayOfStrings
+    # match('University of Bern', ['uni','bern'] = yes
+    # match('Munich Bern', ['uni','bern'] = no
 
-    result=1
+
     asciiText=unicodedata.normalize('NFD', someText).encode('ascii','ignore')
+    tokens=asciiText.split()
 
-    for text in arrayOfStrings:
-        if asciiText.lower().find(text)==-1:
-            #text not found
-            result=0
-            break
+    if len(tokens)==0:
+        return 0
+    else:
+        result=1
 
-    return result
+        for text in arrayOfStrings:
+
+            for token in tokens:
+                textFound=0
+                if token.lower().find(text)==0:
+                    #text found
+                    textFound=1
+                    break
+
+
+            if textFound==0:
+                result=0
+                break
+
+        return result
+
 
 
 
@@ -160,6 +182,7 @@ index_to_search="mods-v1"
 
 
 request = {
+    "size": 1000,
     "query": {
         "bool": {
             "must": [
@@ -177,8 +200,10 @@ columns=[
     "First Matching Author",
     "Institution Guess",
     "doi",
-    "Metadata path+filename",
+    "url to publisher",
+    "Metadata path+filename (local)",
     "Article Title",
+    "Article Subtitle",
     "Authors",
     "Year",
     "Journal Title",
@@ -236,6 +261,12 @@ for institution in institutions:
 
 counter=0
 scroll_id=""
+
+#set the counters
+numberOfPublications={}
+for institution in institutions:
+    numberOfPublications[institution]=0
+
 while len(result["hits"]["hits"])>0:
     for hit in result["hits"]["hits"]:
         article=hit["_source"]
@@ -244,6 +275,11 @@ while len(result["hits"]["hits"])>0:
         article_title=""
         if "article-title" in article:
             article_title="".join(article["article-title"])
+
+        article_subtitle=""
+        if "article-subtitle" in article:
+            article_subtitle="".join(article["article-subtitle"])
+
 
         affiliations=""
         if "affiliations" in article:
@@ -277,6 +313,7 @@ while len(result["hits"]["hits"])>0:
                 if match_institution(address, institution):
                     institutionGuess.append(institution)
                     matchingAuthorAff[institution]=address
+                    numberOfPublications[institution]=numberOfPublications[institution]+1
                     break
 
 
@@ -291,8 +328,10 @@ while len(result["hits"]["hits"])>0:
             "", # "First Matching Author"
             "", # "Institution Guess"
             article.get("doi",""), # "doi",
+            "https://doi.org/"+article.get("doi",""), # "url",
             article.get("path_filename",""), # "url to download pdf (protected)",
             article_title,   # "Article Title",
+            article_subtitle,   # "Article Subtitle",
             authors,   # "Authors",
             article.get("pyear",""),   # "Year",
             article.get("jtitle",""),   # "Journal Title",
@@ -323,6 +362,7 @@ while len(result["hits"]["hits"])>0:
                 row[2]=institution
                 files[institution].writerow(row)
             files["known_institution"].writerow(row)
+            numberOfPublications["known_institution"]=numberOfPublications["known_institution"]+1
         else:
             swissAuthorAff=""
             matchingAuthor=""
@@ -336,12 +376,19 @@ while len(result["hits"]["hits"])>0:
             row[0]=matchingAffiliation
             row[1]=matchingAuthor
             files["unknown_institution"].writerow(row)
+            numberOfPublications["unknown_institution"]=numberOfPublications["unknown_institution"]+1
 
 
 
     #get the next results
     scroll_id=result["_scroll_id"]
     result=es.scroll(scroll_id=scroll_id,scroll="1m")
+
+
+#Print number of publis per unis
+
+for institution in institutions:
+    print institution+" : "+str(numberOfPublications[institution])+" publications"
 
 
 
