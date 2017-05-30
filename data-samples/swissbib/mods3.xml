@@ -1,0 +1,92 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6">
+    <titleInfo lang="en">
+        <partName>editor's choice</partName>
+        <title>Manipulating myocyte cell cycle control for cardiac repair</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Thomas A.</namePart>
+        <namePart type="family">Gorr</namePart>
+        <affiliation>Institute for Veterinary Physiology, University of Zurich, Winterthurerstr. 260, 8057 Zurich, Switzerland</affiliation>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Alexander</namePart>
+        <namePart type="family">Deten</namePart>
+        <affiliation>Fraunhofer Institute for Cell Therapy and Immunology, Perlickstr. 1, 04103 Leipzig, Germany</affiliation>
+        <affiliation>E-mail: alexander.deten@izi.fraunhofer.de</affiliation>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre type="editorial" displayLabel="editorial"/>
+    <originInfo>
+        <publisher>Oxford University Press</publisher>
+        <dateIssued encoding="w3cdtf">2008-11-01</dateIssued>
+        <dateCreated encoding="w3cdtf">2008-09-08</dateCreated>
+        <copyrightDate encoding="w3cdtf">2008</copyrightDate>
+    </originInfo>
+    <language>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+        <languageTerm type="code" authority="rfc3066">en</languageTerm>
+    </language>
+    <physicalDescription>
+        <internetMediaType>text/html</internetMediaType>
+    </physicalDescription>
+    <note type="footnotes">The opinions expressed in this article are not necessarily those of the Editors of Cardiovascular Research or of the European Society of Cardiology.</note>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Cardiovascular Research</title>
+        </titleInfo>
+        <genre type="journal">journal</genre>
+        <identifier type="ISSN">0008-6363</identifier>
+        <identifier type="eISSN">1755-3245</identifier>
+        <identifier type="PublisherID">cardiovascres</identifier>
+        <identifier type="PublisherID-hwp">cardiovascres</identifier>
+        <part>
+            <date>2008</date>
+            <detail type="volume">
+                <caption>vol.</caption>
+                <number>80</number>
+            </detail>
+            <detail type="issue">
+                <caption>no.</caption>
+                <number>2</number>
+            </detail>
+            <extent unit="pages">
+                <start>161</start>
+                <end>162</end>
+            </extent>
+        </part>
+    </relatedItem>
+    <relatedItem type="reviewOf">
+        <identifier type="highwire"/>
+        <titleInfo>
+            <title>Another Journal</title>
+        </titleInfo>
+        <part>
+            <detail type="volume">
+                <caption>vol.</caption>
+                <number>80</number>
+            </detail>
+            <extent unit="pages">
+                <start>181</start>
+            </extent>
+        </part>
+    </relatedItem>
+    <identifier type="DOI">10.1093/cvr/cvn241</identifier>
+    <identifier type="ArticleID">cvn241</identifier>
+    <identifier type="related-article-ID">RA1</identifier>
+    <identifier type="swissbib">oxford-10.1093/cvr/cvn241</identifier>
+    <accessCondition type="use and reproduction" contentType="copyright">Published on behalf of the European Society of Cardiology. All rights reserved. © The Author 2008. For permissions please email: journals.permissions@oxfordjournals.org</accessCondition>
+    <recordInfo>
+        <recordContentSource>oxford</recordContentSource>
+        <recordInfoNote>http://creativecommons.org/licenses/by-nc/4.0</recordInfoNote>
+    </recordInfo>
+    <extension>
+        <metadata-filename>./cardiovascres/cardiovascres80-2/abstracts/cvn241.xml</metadata-filename>
+        <pdf-filename/>
+    </extension>
+</mods>

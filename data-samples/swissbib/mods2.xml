@@ -1,0 +1,102 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6">
+    <titleInfo lang="en">
+        <title>A Nonstationary Markov Model Detects Directional Evolution in Hymenopteran Morphology</title>
+    </titleInfo>
+    <name type="personal" displayLabel="corresp">
+        <namePart type="given">Seraina</namePart>
+        <namePart type="family">Klopfstein</namePart>
+        <affiliation>Department of Bioinformatics and Genetics, Swedish Museum of Natural History, SE-104 05 Stockholm, Sweden;</affiliation>
+        <affiliation>The University of Adelaide, ACEBB, Adelaide SA 5005, Australia;</affiliation>
+        <affiliation>Natural History Museum, Department of Invertebrates, CH-3005 Bern, Switzerland;</affiliation>
+        <affiliation>E-mail: klopfstein@nmbe.ch</affiliation>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Lars</namePart>
+        <namePart type="family">Vilhelmsen</namePart>
+        <affiliation>Biosystematics, Natural History Museum of Denmark, DK-2100 Copenhagen Ø, Denmark</affiliation>
+        <role>
+            <roleTerm type="text">editor</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Fredrik</namePart>
+        <namePart type="family">Ronquist</namePart>
+        <affiliation>Department of Bioinformatics and Genetics, Swedish Museum of Natural History, SE-104 05 Stockholm, Sweden;</affiliation>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre type="research-article" displayLabel="research-article"/>
+    <subject>
+        <topic>Regular Articles</topic>
+    </subject>
+    <originInfo>
+        <publisher>Oxford University Press</publisher>
+        <dateIssued encoding="w3cdtf">2015-11</dateIssued>
+        <dateCreated encoding="w3cdtf">2015-10-10</dateCreated>
+        <copyrightDate encoding="w3cdtf">2015</copyrightDate>
+    </originInfo>
+    <language>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+        <languageTerm type="code" authority="rfc3066">en</languageTerm>
+    </language>
+    <physicalDescription>
+        <internetMediaType>text/html</internetMediaType>
+    </physicalDescription>
+    <abstract lang="en">Directional evolution has played an important role in shaping the morphological, ecological, and molecular diversity of life. However, standard substitution models assume stationarity of the evolutionary process over the time scale examined, thus impeding the study of directionality. Here we explore a simple, nonstationary model of evolution for discrete data, which assumes that the state frequencies at the root differ from the equilibrium frequencies of the homogeneous evolutionary process along the rest of the tree (i.e., the process is nonstationary, nonreversible, but homogeneous). Within this framework, we develop a Bayesian approach for testing directional versus stationary evolution using a reversible-jump algorithm. Simulations show that when only data from extant taxa are available, the success in inferring directionality is strongly dependent on the evolutionary rate, the shape of the tree, the relative branch lengths, and the number of taxa. Given suitable evolutionary rates (0.1–0.5 expected substitutions between root and tips), accounting for directionality improves tree inference and often allows correct rooting of the tree without the use of an outgroup. As an empirical test, we apply our method to study directional evolution in hymenopteran morphology. We focus on three character systems: wing veins, muscles, and sclerites. We find strong support for a trend toward loss of wing veins and muscles, while stationarity cannot be ruled out for sclerites. Adding fossil and time information in a total-evidence dating approach, we show that accounting for directionality results in more precise estimates not only of the ancestral state at the root of the tree, but also of the divergence times. Our model relaxes the assumption of stationarity and reversibility by adding a minimum of additional parameters, and is thus well suited to studying the nature of the evolutionary process in data sets of limited size, such as morphology and ecology.</abstract>
+    <note type="footnotes">Associate Editor: Lars Jermin</note>
+    <subject>
+        <genre>keywords</genre>
+        <topic>Bayesian inference</topic>
+        <topic>continuous-time Markov model</topic>
+        <topic>directional selection</topic>
+        <topic>Hymenoptera</topic>
+        <topic>morphology</topic>
+        <topic>neutral evolution</topic>
+        <topic>nonstationary</topic>
+        <topic>positive selection</topic>
+        <topic>Symphyta</topic>
+    </subject>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Systematic Biology</title>
+        </titleInfo>
+        <genre type="journal">journal</genre>
+        <identifier type="ISSN">1063-5157</identifier>
+        <identifier type="eISSN">1076-836X</identifier>
+        <identifier type="PublisherID">sysbio</identifier>
+        <identifier type="PublisherID-hwp">sysbio</identifier>
+        <part>
+            <date>2015</date>
+            <detail type="volume">
+                <caption>vol.</caption>
+                <number>64</number>
+            </detail>
+            <detail type="issue">
+                <caption>no.</caption>
+                <number>6</number>
+            </detail>
+            <extent unit="pages">
+                <start>1089</start>
+                <end>1103</end>
+                <total>15</total>
+            </extent>
+        </part>
+    </relatedItem>
+    <identifier type="DOI">10.1093/sysbio/syv052</identifier>
+    <identifier type="ArticleID">syv052</identifier>
+    <identifier type="swissbib">oxford-10.1093/sysbio/syv052</identifier>
+    <accessCondition type="use and reproduction" contentType="creative-commons">This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License (http://creativecommons.org/licenses/by-nc/4.0/), which permits non-commercial re-use, distribution, and reproduction in any medium, provided the original work is properly cited. For commercial re-use, please contact journals.permissions@oup.com</accessCondition>
+    <recordInfo>
+        <recordContentSource>oxford</recordContentSource>
+        <recordInfoNote>http://creativecommons.org/licenses/by-nc/4.0</recordInfoNote>
+    </recordInfo>
+    <extension>
+        <metadata-filename>./SYSBIO/sysbio64-6/abstracts/syv052.xml</metadata-filename>
+        <pdf-filename/>
+    </extension>
+</mods>
