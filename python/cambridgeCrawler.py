@@ -33,7 +33,7 @@ def download_and_save_pdf(url, pii, hdr):
     #download and save the pdf locally using the name pii.pdf
     request = urllib2.Request(url, headers=hdr)
     try:
-        response = urllib2.urlopen(request)
+        response = urllib2.urlopen(request).read()
     except urllib2.URLError as e:
         if hasattr(e, 'reason'):
             print 'We failed to reach a server.'
@@ -42,8 +42,9 @@ def download_and_save_pdf(url, pii, hdr):
             print 'The server couldn\'t fulfill the request.'
             print 'Error code: ', e.code
     else:
-        file = open("/swissbib/harvesting/nationalLicencesData/cambridge/pdf/" + pii + ".pdf", 'wb')
-        file.write(response.read())
+        file = open("pdf/" + pii + ".pdf", 'wb')
+        #file = open("/swissbib/harvesting/nationalLicencesData/cambridge/pdf/" + pii + ".pdf", 'wb')
+        file.write(response)
         file.close()
 
 
@@ -57,7 +58,7 @@ hdr = {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.11 (KHTML,
        'Connection': 'keep-alive'}
 
 #article identifiers, we will download all these pdf's
-piis = [
+piis_prod = [
     "S0024282997000145",
     "S0024282912000904",
     "S0952523800009846",
@@ -2042,11 +2043,18 @@ piis = [
     "S0195941700045537"
 ]
 
+piis_test=[
+    "S0195941700067758",
+    "S0195941700045537"
+]
+
+
+piis=piis_prod
+
 url_pdf_regex = '^<meta name="citation_pdf_url" content="(.*pdf)\/'
 pattern=re.compile(url_pdf_regex)
 
-wait_time=20
-
+wait_time=12
 
 for pii in piis:
     print pii
