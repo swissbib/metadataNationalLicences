@@ -12,22 +12,29 @@ def get_pdf_url(pii, hdr):
         response = urllib2.urlopen(request)
     except urllib2.URLError as e:
         if hasattr(e, 'reason'):
+            print 'Problem with ' + pii
             print 'We failed to reach a server.'
             print 'Reason: ', e.reason
         elif hasattr(e, 'code'):
+            print 'Problem with ' + pii
             print 'The server couldn\'t fulfill the request.'
             print 'Error code: ', e.code
         return False
 
     else:
-        for line in response:
-            url_pdf = re.search(pattern,line)
-            if(url_pdf):
-                break
-        if(url_pdf.group(1)):
-            return url_pdf.group(1)
-        else:
-            return False
+        try:
+            for line in response:
+                url_pdf = re.search(pattern,line)
+                if(url_pdf):
+                    break
+            if(url_pdf.group(1)):
+                return url_pdf.group(1)
+            else:
+                return False
+        except:
+            print 'Problem with ' + pii
+            print 'Impossible to parse html.'
+
 
 def download_and_save_pdf(url, pii, hdr):
     #download and save the pdf locally using the name pii.pdf
@@ -36,14 +43,16 @@ def download_and_save_pdf(url, pii, hdr):
         response = urllib2.urlopen(request).read()
     except urllib2.URLError as e:
         if hasattr(e, 'reason'):
+            print 'Problem with ' + pii
             print 'We failed to reach a server.'
             print 'Reason: ', e.reason
         elif hasattr(e, 'code'):
+            print 'Problem with ' + pii
             print 'The server couldn\'t fulfill the request.'
             print 'Error code: ', e.code
     else:
-        #file = open("pdf/" + pii + ".pdf", 'wb')
-        file = open("/swissbib/harvesting/nationalLicencesData/cambridge/pdf/" + pii + ".pdf", 'wb')
+        file = open("pdf/" + pii + ".pdf", 'wb')
+        #file = open("/swissbib/harvesting/nationalLicencesData/cambridge/pdf/" + pii + ".pdf", 'wb')
         file.write(response)
         file.close()
 
@@ -2044,12 +2053,12 @@ piis_prod = [
 ]
 
 piis_test=[
-    "S0195941700067758",
+    "S0016756800008487",
     "S0195941700045537"
 ]
 
 
-piis=piis_prod
+piis=piis_test
 
 url_pdf_regex = '^<meta name="citation_pdf_url" content="(.*pdf)\/'
 pattern=re.compile(url_pdf_regex)
