@@ -42,8 +42,8 @@ def download_and_save_pdf(url, pii, hdr):
             print 'The server couldn\'t fulfill the request.'
             print 'Error code: ', e.code
     else:
-        file = open("pdf/" + pii + ".pdf", 'wb')
-        #file = open("/swissbib/harvesting/nationalLicencesData/cambridge/pdf/" + pii + ".pdf", 'wb')
+        #file = open("pdf/" + pii + ".pdf", 'wb')
+        file = open("/swissbib/harvesting/nationalLicencesData/cambridge/pdf/" + pii + ".pdf", 'wb')
         file.write(response)
         file.close()
 
