@@ -51,8 +51,8 @@ def download_and_save_pdf(url, pii, hdr):
             print 'The server couldn\'t fulfill the request.'
             print 'Error code: ', e.code
     else:
-        file = open("pdf/" + pii + ".pdf", 'wb')
-        #file = open("/swissbib/harvesting/nationalLicencesData/cambridge/pdf/" + pii + ".pdf", 'wb')
+        #file = open("pdf/" + pii + ".pdf", 'wb')
+        file = open("/swissbib/harvesting/nationalLicencesData/cambridge/pdf/" + pii + ".pdf", 'wb')
         file.write(response)
         file.close()
 
@@ -2058,7 +2058,7 @@ piis_test=[
 ]
 
 
-piis=piis_test
+piis=piis_prod
 
 url_pdf_regex = '^<meta name="citation_pdf_url" content="(.*pdf)\/'
 pattern=re.compile(url_pdf_regex)
