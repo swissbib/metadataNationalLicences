@@ -51,9 +51,10 @@
         <data source="titleInfo.subTitle.value" name="article-subtitle"/>
 
 
+        <data name="full-date" source="originInfo.dateIssued.value"/>
+
         <data name="@pyear" source="originInfo.dateIssued.value">
             <substring  start="0"  end="4"/>
-
         </data>
 
         <data name="pyear" source="@pyear">
@@ -171,7 +172,7 @@
         <concat name="authors" flushWith="name" reset="true" delimiter=" ">
             <if>
                 <data source="name.role.roleTerm.value">
-                    <not-equals string="editor"/>
+                    <equals string="author"/>
                 </data>
             </if>
             <data source="name.namePart.value"/>
@@ -182,7 +183,7 @@
         <concat name="affiliations" flushWith="name" reset="true"  delimiter=" ">
             <if>
                 <data source="name.role.roleTerm.value">
-                    <not-equals string="editor"/>
+                    <equals string="author"/>
                 </data>
             </if>
             <data source="name.affiliation.value"/>
@@ -192,7 +193,7 @@
         <concat name="author-aff" flushWith="name" reset="true" delimiter="/////">
             <if>
                 <data source="name.role.roleTerm.value">
-                    <not-equals string="editor"/>
+                    <equals string="author"/>
                 </data>
             </if>
             <concat name="author" flushWith="name" reset="true"  delimiter=" ">

@@ -1,0 +1,84 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6">
+    <titleInfo>
+        <title>Book Review: Historische Familienforschung: Ergebnisse und Kontroversen</title>
+        <subTitle>Historische Familienforschung: Ergebnisse und Kontroversen. Zum GeburtstagMichael Mitterauer. Edited by EhmerJoseph, HarevenTamara K., and WallRichard. Frankfurt am Main: Campus Verlag. 1997. Pp. 428. DM 88.00. ISBN 3-593-35753-4.</subTitle>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Heinrich Richard</namePart>
+        <namePart type="family">Schmidt</namePart>
+        <affiliation>University of Bern</affiliation>
+    </name>
+    <name type="personal">
+        <namePart type="given">Ursula</namePart>
+        <namePart type="family">Marcum</namePart>
+        <affiliation>University of Bern</affiliation>
+        <role>
+            <roleTerm type="text">translator</roleTerm>
+        </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre type="book-reviews" displayLabel="book-review"/>
+    <originInfo>
+        <publisher>Cambridge University Press</publisher>
+        <place>
+            <placeTerm type="text">New York, USA</placeTerm>
+        </place>
+        <dateIssued encoding="w3cdtf">2002-03</dateIssued>
+        <copyrightDate encoding="w3cdtf">2002</copyrightDate>
+    </originInfo>
+    <language>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+        <languageTerm type="code" authority="rfc3066">en</languageTerm>
+    </language>
+    <physicalDescription>
+        <internetMediaType>text/html</internetMediaType>
+    </physicalDescription>
+    <note>Historische Familienforschung: Ergebnisse und Kontroversen. Zum GeburtstagMichael Mitterauer. Edited by EhmerJoseph, HarevenTamara K., and WallRichard. Frankfurt am Main: Campus Verlag. 1997. Pp. 428. DM 88.00. ISBN 3-593-35753-4.</note>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Central European History</title>
+        </titleInfo>
+        <genre type="journal">journal</genre>
+        <originInfo>
+            <publisher>Campus Verlag. </publisher>
+            <place>
+                <placeTerm type="text">Frankfurt am Main</placeTerm>
+            </place>
+        </originInfo>
+        <identifier type="ISSN">0008-9389</identifier>
+        <identifier type="eISSN">1569-1616</identifier>
+        <identifier type="PublisherID">CCC</identifier>
+        <part>
+            <date>2002</date>
+            <detail type="volume">
+                <caption>vol.</caption>
+                <number>35</number>
+            </detail>
+            <detail type="issue">
+                <caption>no.</caption>
+                <number>1</number>
+            </detail>
+            <extent unit="pages">
+                <start>161</start>
+                <end>164</end>
+                <total>4</total>
+            </extent>
+        </part>
+    </relatedItem>
+    <identifier type="DOI">10.1017/S0008938900008451</identifier>
+    <identifier type="ArticleID">00845</identifier>
+    <identifier type="PII">S0008938900008451</identifier>
+    <identifier type="swissbib">cambridge-10.1017/S0008938900008451</identifier>
+    <accessCondition type="use and reproduction" contentType="copyright">Copyright © Conference Group for Central European History of the American Historical Association 2002</accessCondition>
+    <recordInfo>
+        <recordContentSource>cambridge</recordContentSource>
+        <recordOrigin>Conference Group for Central European History of the American Historical Association</recordOrigin>
+        <recordInfoNote>
+            http://creativecommons.org/publicdomain/zero/1.0/
+        </recordInfoNote>
+    </recordInfo>
+    <extension>
+        <metadata-filename>./CCC/CCC35_01/S0008938900008451h.xml</metadata-filename>
+        <pdf-filename>S0008938900008451a.pdf</pdf-filename>
+    </extension>
+</mods>

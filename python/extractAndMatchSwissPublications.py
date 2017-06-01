@@ -8,6 +8,10 @@ from elasticsearch import Elasticsearch
 import re
 import unicodedata
 import sys
+from datetime import datetime
+from dateutil.relativedelta import relativedelta
+
+
 
 import locale
 locale.setlocale(locale.LC_ALL, '')
@@ -48,6 +52,7 @@ def match_institution(authoraff, institution):
 
     if institution=="lib4ri":
         if (match(address,['paul', 'scherrer', 'villigen']) or
+                match(address,['psi', 'villigen']) or
                 match(address,['empa', 'dubendorf']) or
                 match(address,['empa', 'duebendorf']) or
                 match(address,['eawag', 'dubendorf']) or
@@ -126,8 +131,12 @@ def match_institution(authoraff, institution):
             institutionGuess="Università della Svizzera italiana"
 
     if institution=="switzerland":
-        if (match(address,['switzerland'])):
-            institutionGuess="Switzerland"
+
+        query_terms=["switzerland","suisse","svizzera","schweiz","basel","zurich","zuerich","geneve","genf","geneva","luzern","lucerne","fribourg","gall","gallen","lugano","bellinzona","neuchatel","bern","mendrisio","bellinzona"]
+        for term in query_terms:
+            if (match(address,[term])):
+                institutionGuess="Switzerland"
+                break
 
     return institutionGuess
 
@@ -169,6 +178,32 @@ def match(someText, arrayOfStrings):
         return result
 
 
+def getDateEndEmbargo(source, date):
+    #date is 2015 or 2015-05 or 2015-05-03
+    if len(date)==4:
+        date=date+"-01-01"
+    elif len(date)==7:
+        date=date+"-01"
+    if len(date)!=10:
+        return "unknown"
+
+    try:
+        publicationDate=datetime.strptime(date,'%Y-%m-%d')
+    except:
+        return "unknown"
+
+    if source=='gruyter':
+        dateEndEmbargo=publicationDate + relativedelta(years=0) #no embargo
+    elif source=='cambridge':
+        dateEndEmbargo=publicationDate + relativedelta(years=5) #5 years embargo
+    elif source=='oxford':
+        dateEndEmbargo=publicationDate + relativedelta(years=3) #3 years embargo
+    else:
+        return "unknown"
+    if dateEndEmbargo < datetime.now():
+        return ""
+    else:
+        return datetime.strftime(dateEndEmbargo, '%Y-%m-%d')
 
 
 
@@ -177,8 +212,8 @@ def match(someText, arrayOfStrings):
 es = Elasticsearch()
 targetDirectoryCSV = "."
 
-query_term="(switzerland|suisse|svizzera|schweiz|basel|zurich|zürich|zuerich|geneve|genf|geneva|luzern|lucerne|fribourg|gall|gallen|lugano|bellinzona|neuchatel|neuchâtel|bern|berne|mendrisio|bellinzona)"
-index_to_search="mods-v1"
+query_term="switzerland|suisse|svizzera|schweiz|basel|zurich|zürich|zuerich|geneve|genf|geneva|luzern|lucerne|fribourg|gall|gallen|lugano|bellinzona|neuchatel|neuchâtel|bern|berne|mendrisio|bellinzona"
+index_to_search="mods"
 
 
 request = {
@@ -337,7 +372,7 @@ while len(result["hits"]["hits"])>0:
             article.get("jtitle",""),   # "Journal Title",
             affiliations,   # "All Affiliations",
             article.get("publisher-name",""),   # "Publisher",
-            "",   # "Date of Allowed Open Access Publication",
+            getDateEndEmbargo(article.get("source",""),article.get("full-date","")),   # "Date of Allowed Open Access Publication",
             article.get("volume",""),   # "Volume",
             article.get("issue",""),   # "Issue",
             article.get("spage",""),   # "Start Page",

@@ -97,7 +97,11 @@
           "pdf": {
             "type": "string",
             "index": "not_analyzed"
+          },
+          "full-date": {
+            "type": "date"
           }
+        }
         }
       }
     }  
