@@ -1,4 +1,4 @@
-<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:xlink="http://www.w3.org/1999/xlink">
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/MARC21/slim">
 
     <xsl:output method="xml" indent="yes" />
 
@@ -9,7 +9,7 @@
     </xsl:template>
 
     <xsl:template match="/">
-        <record xmlns:xs="http://www.w3.org/2001/XMLSchema">
+        <record xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.loc.gov/MARC21/slim">
             <xsl:for-each select="//recordData/record">
                 <xsl:apply-templates></xsl:apply-templates>
             </xsl:for-each>
@@ -21,14 +21,41 @@
 
 
     <!-- removed fields -->
-    <xsl:template match="//controlfield"></xsl:template>
     <xsl:template match="//leader"></xsl:template>
+    <xsl:template match="//controlfield"></xsl:template>
+
+    <xsl:template match="//datafield[@tag='022']"/>
+
+
+    <xsl:template match="//datafield[@tag='024']">
+        <xsl:choose>
+            <xsl:when test="contains(subfield[@code='2'],'pii')">
+                <!-- remove field -->
+            </xsl:when>
+            <xsl:otherwise>
+                <xsl:element name="datafield">
+                    <xsl:attribute name="tag">024</xsl:attribute>
+                    <xsl:attribute name="ind1"><xsl:value-of select="@ind1"></xsl:value-of></xsl:attribute>
+                    <xsl:attribute name="ind2"><xsl:value-of select="@ind2"></xsl:value-of></xsl:attribute>
+                    <xsl:apply-templates></xsl:apply-templates>
+                </xsl:element>
+
+            </xsl:otherwise>
+        </xsl:choose>
+    </xsl:template>
+
+
 
     <xsl:template match="//datafield[@tag='100']/subfield[@code='D'] | //datafield[@tag='700']/subfield[@code='D']"></xsl:template>
 
     <xsl:template match="//datafield[@tag='245']/subfield[@code='c']"></xsl:template>
     <xsl:template match="//datafield[@tag='245']/subfield[@code='h']"></xsl:template>
 
+    <xsl:template match="//datafield[@tag='500']"/>
+    <xsl:template match="//datafield[@tag='502']"/>
+    <xsl:template match="//datafield[@tag='506']"/>
+
+    <xsl:template match="//datafield[@tag='690'][position()>1]"/>
 
 
     <xsl:template match="//datafield[@tag='773']/subfield[@code='q']"></xsl:template>
@@ -40,6 +67,7 @@
     <xsl:template match="//datafield[@tag='898']"></xsl:template>
     <xsl:template match="//datafield[@tag='900']"></xsl:template>
     <xsl:template match="//datafield[@tag='908']"></xsl:template>
+    <xsl:template match="//datafield[@tag='909']"></xsl:template>
 
 
 
@@ -59,6 +87,14 @@
     <xsl:template match="//datafield[@tag='245']/@ind2">
         <xsl:attribute name="ind2"> </xsl:attribute>
     </xsl:template>
+
+    <xsl:template match="//datafield[@tag='246']/@ind1">
+        <xsl:attribute name="ind1"> </xsl:attribute>
+    </xsl:template>
+    <xsl:template match="//datafield[@tag='246']/@ind2">
+        <xsl:attribute name="ind2"> </xsl:attribute>
+    </xsl:template>
+
 
     <xsl:template match="//datafield[@tag='520']/@ind1">
         <xsl:attribute name="ind1"> </xsl:attribute>
@@ -87,6 +123,8 @@
 
 
 
+
+
     <xsl:template match="//datafield[@tag='100']/subfield[@code='a'] | //datafield[@tag='700']/subfield[@code='a']">
         <xsl:element name="subfield">
             <xsl:attribute name="code">a</xsl:attribute>
@@ -98,22 +136,31 @@
     </xsl:template>
 
     <xsl:template match="//datafield[@tag='035']">
-        <xsl:element name="datafield">
-            <xsl:attribute name="tag">037</xsl:attribute>
-            <xsl:attribute name="ind1"> </xsl:attribute>
-            <xsl:attribute name="ind2"> </xsl:attribute>
-            <xsl:element name="subfield">
-                <xsl:attribute name="code">a</xsl:attribute>
-                <xsl:text>swissbib.ch:</xsl:text>
-                <xsl:value-of select="./subfield[@code='a']"></xsl:value-of>
-            </xsl:element>
-        </xsl:element>
+        <xsl:choose>
+            <xsl:when test="starts-with(subfield[@code='a'],'(NATIONALLICENCE)')">
+                <xsl:element name="datafield">
+                    <xsl:attribute name="tag">037</xsl:attribute>
+                    <xsl:attribute name="ind1"> </xsl:attribute>
+                    <xsl:attribute name="ind2"> </xsl:attribute>
+                    <xsl:element name="subfield">
+                        <xsl:attribute name="code">a</xsl:attribute>
+                        <xsl:text>swissbib.ch:</xsl:text>
+                        <xsl:value-of select="./subfield[@code='a']"></xsl:value-of>
+                    </xsl:element>
+                </xsl:element>
+            </xsl:when>
+            <xsl:otherwise>
+            <!-- remove field -->
+            </xsl:otherwise>
+        </xsl:choose>
         <xsl:call-template name="language"></xsl:call-template>
     </xsl:template>
 
     <xsl:template match="//datafield[@tag='856']">
         <xsl:element name="datafield">
             <xsl:attribute name="tag">775</xsl:attribute>
+            <xsl:attribute name="ind1"> </xsl:attribute>
+            <xsl:attribute name="ind2"> </xsl:attribute>
             <xsl:element name="subfield">
                 <xsl:attribute name="code">o</xsl:attribute>
                 <xsl:value-of select="./subfield[@code='u']"></xsl:value-of>
@@ -162,17 +209,26 @@
     </xsl:template>
 
     <!-- subjects-->
-    <xsl:template match="//datafield[@tag='690']">
+    <xsl:template match="//datafield[@tag='690'][1]">
         <xsl:element name="datafield">
             <xsl:attribute name="tag">695</xsl:attribute>
             <xsl:attribute name="ind1"> </xsl:attribute>
             <xsl:attribute name="ind2"> </xsl:attribute>
             <xsl:element name="subfield">
                 <xsl:attribute name="code">a</xsl:attribute>
-                <xsl:value-of select="subfield[@code='a']"></xsl:value-of>
+                <xsl:for-each select="//datafield[@tag='690']">
+                    <xsl:if test="position() > 1">
+                        <xsl:text> ; </xsl:text>
+                    </xsl:if>
+                    <xsl:value-of select="subfield[@code='a']"></xsl:value-of>
+
+                </xsl:for-each>
+
             </xsl:element>
         </xsl:element>
     </xsl:template>
+
+
 
 
 
