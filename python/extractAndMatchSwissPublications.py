@@ -178,6 +178,12 @@ def match(someText, arrayOfStrings):
         return result
 
 
+def getPath(source, path):
+    if(source=="cambridge"):
+        #remove the a in the pdf S0022050700009268a.pdf
+        pdfname=path.replace("a.pdf",".pdf")
+        return "/fulltexts/cambridge/"+pdfname
+
 def getDateEndEmbargo(source, date):
     #date is 2015 or 2015-05 or 2015-05-03
     if len(date)==4:
@@ -291,6 +297,17 @@ for institution in institutions:
     files[institution].writerow(columns)
 
 
+rerodoc_file=csv.writer(open("../swiss-publications-lists/rerodoc.csv", "wb+"), dialect="excel")
+rerodoc_file.writerow([
+    "id (035a which stats with (NATIONALLICENCE))",
+    "path to fulltext",
+    "end of embargo (YYYY-MM-DD)"
+]
+
+
+)
+
+
 
 #write rows for all files
 
@@ -398,6 +415,11 @@ while len(result["hits"]["hits"])>0:
                 files[institution].writerow(row)
             files["known_institution"].writerow(row)
             numberOfPublications["known_institution"]=numberOfPublications["known_institution"]+1
+            rerodoc_file.writerow([
+                "(NATIONALLICENCE)"+hit["_id"],
+                getPath(article.get("source",""), article.get("pdf","")),
+                getDateEndEmbargo(article.get("source",""),article.get("full-date",""))
+            ])
         else:
             swissAuthorAff=""
             matchingAuthor=""
