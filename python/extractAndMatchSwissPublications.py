@@ -227,6 +227,7 @@ request = {
     "query": {
         "bool": {
             "must": [
+                { "range" : { "pyear" : {"lte" : 2015}}},
                 { "regexp": { "affiliations": query_term   }},
             ]
         }
