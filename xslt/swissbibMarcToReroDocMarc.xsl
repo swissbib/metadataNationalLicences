@@ -140,6 +140,29 @@
 
     </xsl:template>
 
+    <!-- move first 700 field to 100 -->
+    <xsl:template match="//datafield[@tag='700'][1]">
+        <xsl:choose>
+            <xsl:when test="//datafield[@tag='100']">
+                <xsl:element name="datafield">
+                    <xsl:attribute name="tag">700</xsl:attribute>
+                    <xsl:attribute name="ind1"><xsl:text> </xsl:text></xsl:attribute>
+                    <xsl:attribute name="ind2"><xsl:text> </xsl:text></xsl:attribute>
+                    <xsl:apply-templates></xsl:apply-templates>
+                </xsl:element>
+            </xsl:when>
+            <xsl:otherwise>
+                <xsl:element name="datafield">
+                    <xsl:attribute name="tag">100</xsl:attribute>
+                    <xsl:attribute name="ind1"><xsl:text> </xsl:text></xsl:attribute>
+                    <xsl:attribute name="ind2"><xsl:text> </xsl:text></xsl:attribute>
+                    <xsl:apply-templates></xsl:apply-templates>
+                </xsl:element>
+            </xsl:otherwise>
+        </xsl:choose>
+
+    </xsl:template>
+
 
     <xsl:template match="//datafield[@tag='100']/subfield[@code='4'] | //datafield[@tag='700']/subfield[@code='4']">
         <xsl:element name="subfield">
