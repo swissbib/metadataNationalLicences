@@ -302,7 +302,8 @@ rerodoc_file=csv.writer(open("../swiss-publications-lists/rerodoc.csv", "wb+"), 
 rerodoc_file.writerow([
     "id (035a which stats with (NATIONALLICENCE))",
     "path to fulltext",
-    "end of embargo (YYYY-MM-DD)"
+    "end of embargo (YYYY-MM-DD)",
+    "Institutions"
 ]
 
 
@@ -419,7 +420,8 @@ while len(result["hits"]["hits"])>0:
             rerodoc_file.writerow([
                 "(NATIONALLICENCE)"+hit["_id"],
                 getPath(article.get("source",""), article.get("pdf","")),
-                getDateEndEmbargo(article.get("source",""),article.get("full-date",""))
+                getDateEndEmbargo(article.get("source",""),article.get("full-date","")),
+                "National Licences: "+ " ".join(institutionGuess)
             ])
         else:
             swissAuthorAff=""
