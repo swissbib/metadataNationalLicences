@@ -278,7 +278,7 @@
         <xsl:if test="translate(/article/front/journal-meta/journal-id[@journal-id-type='publisher-id'],'ABCDEFGHIJKLMNOPQRSTUVWXYZ','abcdefghijklmnopqrstuvwxyz')='jcim'"><xsl:attribute name="xml:lang">en</xsl:attribute></xsl:if>
         <xsl:if test="translate(/article/front/journal-meta/journal-id[@journal-id-type='publisher-id'],'ABCDEFGHIJKLMNOPQRSTUVWXYZ','abcdefghijklmnopqrstuvwxyz')='jdpa'"><xsl:attribute name="xml:lang">en</xsl:attribute></xsl:if>
         <xsl:if test="translate(/article/front/journal-meta/journal-id[@journal-id-type='publisher-id'],'ABCDEFGHIJKLMNOPQRSTUVWXYZ','abcdefghijklmnopqrstuvwxyz')='jdrg'"><xsl:attribute name="xml:lang">de</xsl:attribute></xsl:if>
-        <xsl:if test="translate(/article/front/journal-meta/journal-id[@journal-id-type='publisher-id'],'ABCDEFGHIJKLMNOPQRSTUVWXYZ','abcdefghijklmnopqrstuvwxyz')='jeeh'"><xsl:attribute name="xml:lang">fr</xsl:attribute></xsl:if>
+        <xsl:if test="translate(/article/front/journal-meta/journal-id[@journal-id-type='publisher-id'],'ABCDEFGHIJKLMNOPQRSTUVWXYZ','abcdefghijklmnopqrstuvwxyz')='jeeh'"><xsl:attribute name="xml:lang">en</xsl:attribute></xsl:if>
         <xsl:if test="translate(/article/front/journal-meta/journal-id[@journal-id-type='publisher-id'],'ABCDEFGHIJKLMNOPQRSTUVWXYZ','abcdefghijklmnopqrstuvwxyz')='jelf'"><xsl:attribute name="xml:lang">en</xsl:attribute></xsl:if>
         <xsl:if test="translate(/article/front/journal-meta/journal-id[@journal-id-type='publisher-id'],'ABCDEFGHIJKLMNOPQRSTUVWXYZ','abcdefghijklmnopqrstuvwxyz')='jem'"><xsl:attribute name="xml:lang">en</xsl:attribute></xsl:if>
         <xsl:if test="translate(/article/front/journal-meta/journal-id[@journal-id-type='publisher-id'],'ABCDEFGHIJKLMNOPQRSTUVWXYZ','abcdefghijklmnopqrstuvwxyz')='jemc'"><xsl:attribute name="xml:lang">en</xsl:attribute></xsl:if>
@@ -463,7 +463,7 @@
         <xsl:if test="translate(/article/front/journal-meta/journal-id[@journal-id-type='publisher-id'],'ABCDEFGHIJKLMNOPQRSTUVWXYZ','abcdefghijklmnopqrstuvwxyz')='zrgga'"><xsl:attribute name="xml:lang">de</xsl:attribute></xsl:if>
         <xsl:if test="translate(/article/front/journal-meta/journal-id[@journal-id-type='publisher-id'],'ABCDEFGHIJKLMNOPQRSTUVWXYZ','abcdefghijklmnopqrstuvwxyz')='zrgka'"><xsl:attribute name="xml:lang">de</xsl:attribute></xsl:if>
         <xsl:if test="translate(/article/front/journal-meta/journal-id[@journal-id-type='publisher-id'],'ABCDEFGHIJKLMNOPQRSTUVWXYZ','abcdefghijklmnopqrstuvwxyz')='zrgra'"><xsl:attribute name="xml:lang">de</xsl:attribute></xsl:if>
-        <xsl:if test="translate(/article/front/journal-meta/journal-id[@journal-id-type='publisher-id'],'ABCDEFGHIJKLMNOPQRSTUVWXYZ','abcdefghijklmnopqrstuvwxyz')='zrph'"><xsl:attribute name="xml:lang">fr</xsl:attribute></xsl:if>
+        <xsl:if test="translate(/article/front/journal-meta/journal-id[@journal-id-type='publisher-id'],'ABCDEFGHIJKLMNOPQRSTUVWXYZ','abcdefghijklmnopqrstuvwxyz')='zrph'"><xsl:attribute name="xml:lang">mul</xsl:attribute></xsl:if>
         <xsl:if test="translate(/article/front/journal-meta/journal-id[@journal-id-type='publisher-id'],'ABCDEFGHIJKLMNOPQRSTUVWXYZ','abcdefghijklmnopqrstuvwxyz')='zstw'"><xsl:attribute name="xml:lang">de</xsl:attribute></xsl:if>
 
     </xsl:template>
