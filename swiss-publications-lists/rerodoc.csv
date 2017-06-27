@@ -93,6 +93,7 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)cambridge-10.1017/S0021932012000697,/fulltexts/cambridge/S0021932012000697.pdf,2018-05-01,National Licences: unibas
 (NATIONALLICENCE)cambridge-10.1017/S0021932011000666,/fulltexts/cambridge/S0021932011000666.pdf,,National Licences: unige
 (NATIONALLICENCE)cambridge-10.1017/S0021932000015030,/fulltexts/cambridge/S0021932000015030.pdf,,National Licences: uzh
+(NATIONALLICENCE)cambridge-10.1017/S0021932000024056,/fulltexts/cambridge/S0021932000024056.pdf,,National Licences: unibas
 (NATIONALLICENCE)cambridge-10.1017/S1744552312000043,/fulltexts/cambridge/S1744552312000043.pdf,,National Licences: uzh
 (NATIONALLICENCE)cambridge-10.1017/S1351324909005105,/fulltexts/cambridge/S1351324909005105.pdf,,National Licences: unige
 (NATIONALLICENCE)cambridge-10.1017/jfm.2013.22,/fulltexts/cambridge/S0022112013000220.pdf,2018-04-10,National Licences: ethz
@@ -857,7 +858,9 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)oxford-10.1093/jac/39.5.603,,,National Licences: unige
 (NATIONALLICENCE)oxford-10.1093/jac/24.suppl_A.101,,,National Licences: uzh
 (NATIONALLICENCE)oxford-10.1093/jac/20.suppl_B.69,,,National Licences: unige
+(NATIONALLICENCE)oxford-10.1093/jac/33.5.959,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/jac/dkr583,,,National Licences: unibas unibe
+(NATIONALLICENCE)oxford-10.1093/jac/20.1.57,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/jac/12.suppl_A.139,,,National Licences: unil uzh
 (NATIONALLICENCE)oxford-10.1093/jac/46.6.981,,,National Licences: unibe
 (NATIONALLICENCE)oxford-10.1093/jac/dkt367,,,National Licences: unifr
@@ -957,6 +960,7 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)oxford-10.1111/j.1574-6941.1996.tb00328.x,,,National Licences: uzh
 (NATIONALLICENCE)oxford-10.1093/femsec/fiv066,,2018-07-01,National Licences: uzh
 (NATIONALLICENCE)oxford-10.1111/1574-6941.12026,,,National Licences: unibe
+(NATIONALLICENCE)oxford-10.1093/jnci/93.12.949,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/jnci/95.14.1040,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/jnci/90.12.937,,,National Licences: unige
 (NATIONALLICENCE)oxford-10.1093/jnci/91.20.1758,,,National Licences: unibas
@@ -1304,6 +1308,7 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)oxford-10.1086/338572,,,National Licences: unibas uzh
 (NATIONALLICENCE)oxford-10.1086/515595,,,National Licences: uzh
 (NATIONALLICENCE)oxford-10.1093/infdis/175.1.130,,,National Licences: uzh
+(NATIONALLICENCE)oxford-10.1086/341087,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1086/379215,,,National Licences: unige uzh
 (NATIONALLICENCE)oxford-10.1086/430932,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/infdis/jiq045,,,National Licences: unibe
@@ -1316,7 +1321,9 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)oxford-10.1093/intimm/dxm019,,,National Licences: unine
 (NATIONALLICENCE)oxford-10.1093/intimm/dxh015,,,National Licences: unil
 (NATIONALLICENCE)oxford-10.1093/intimm/dxq014,,,National Licences: epfl
+(NATIONALLICENCE)oxford-10.1093/intimm/11.7.1139,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/intimm/dxq453,,,National Licences: unige unil
+(NATIONALLICENCE)oxford-10.1093/intimm/8.1.91,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/intimm/11.10.1641,,,National Licences: unil
 (NATIONALLICENCE)oxford-10.1093/intimm/dxt026,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/glycob/8.3.259,,,National Licences: unibas uzh
@@ -1508,6 +1515,7 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)oxford-10.1093/chromsci/7.10.587,,,National Licences: uzh
 (NATIONALLICENCE)oxford-10.1093/chromsci/5.2.53,,,National Licences: ethz
 (NATIONALLICENCE)oxford-10.1093/intimm/dxh340,,,National Licences: unibas
+(NATIONALLICENCE)oxford-10.1093/intimm/11.3.453,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/intimm/dxp107,,,National Licences: ethz
 (NATIONALLICENCE)oxford-10.1093/intimm/10.3.305,,,National Licences: unil
 (NATIONALLICENCE)oxford-10.1093/intimm/dxh249,,,National Licences: ethz unibe
@@ -1733,7 +1741,7 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)oxford-10.1093/brain/awl287,,,National Licences: unige uzh
 (NATIONALLICENCE)oxford-10.1093/brain/awq168,,,National Licences: ethz unil
 (NATIONALLICENCE)oxford-10.1093/brain/awh415,,,National Licences: unil
-(NATIONALLICENCE)oxford-10.1093/brain/awg171,,,National Licences: uzh
+(NATIONALLICENCE)oxford-10.1093/brain/awg171,,,National Licences: unibas uzh
 (NATIONALLICENCE)oxford-10.1093/brain/awq260,,,National Licences: usi
 (NATIONALLICENCE)oxford-10.1093/brain/119.2.363,,,National Licences: uzh
 (NATIONALLICENCE)oxford-10.1093/brain/awq087,,,National Licences: uzh
@@ -1916,12 +1924,19 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)oxford-10.1093/ndt/15.suppl_6.23,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/ndt/15.6.822,,,National Licences: unibe
 (NATIONALLICENCE)oxford-10.1093/ndt/gfh735,,,National Licences: unibas uzh
+(NATIONALLICENCE)oxford-10.1093/intimm/7.12.1915,,,National Licences: unibas
+(NATIONALLICENCE)oxford-10.1093/intimm/5.1.11,,,National Licences: unibas
+(NATIONALLICENCE)oxford-10.1093/intimm/1.5.546,,,National Licences: unibas
+(NATIONALLICENCE)oxford-10.1093/intimm/7.3.369,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/intimm/7.2.277,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/intimm/5.8.957,,,National Licences: unibas
+(NATIONALLICENCE)oxford-10.1093/intimm/6.9.1287,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/intimm/4.9.1065,,,National Licences: uzh
 (NATIONALLICENCE)oxford-10.1093/intimm/5.6.673,,,National Licences: unibas
+(NATIONALLICENCE)oxford-10.1093/intimm/7.12.1957,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/intimm/3.1.57,,,National Licences: unil
 (NATIONALLICENCE)oxford-10.1093/intimm/7.3.343,,,National Licences: unige
+(NATIONALLICENCE)oxford-10.1093/intimm/3.2.141,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/intimm/7.8.1295,,,National Licences: unige
 (NATIONALLICENCE)oxford-10.1093/ndt/gfh387,,,National Licences: unil
 (NATIONALLICENCE)oxford-10.1093/ndt/gfl818,,,National Licences: uzh
@@ -2012,7 +2027,7 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)oxford-10.1086/383329,,,National Licences: unil
 (NATIONALLICENCE)oxford-10.1093/cid/ciu682,,2017-12-01,National Licences: uzh
 (NATIONALLICENCE)oxford-10.1093/ndt/gfp072,,,National Licences: unige
-(NATIONALLICENCE)oxford-10.1093/ndt/17.6.1037,,,National Licences: uzh
+(NATIONALLICENCE)oxford-10.1093/ndt/17.6.1037,,,National Licences: unibas uzh
 (NATIONALLICENCE)oxford-10.1093/ije/20.1.39,,,National Licences: unil
 (NATIONALLICENCE)oxford-10.1093/ije/dyn265,,,National Licences: unibe
 (NATIONALLICENCE)oxford-10.1093/ije/dyi110,,,National Licences: unibe
@@ -2190,7 +2205,7 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)oxford-10.1023/A:1011250312120,,,National Licences: unibe unige usi
 (NATIONALLICENCE)oxford-10.1093/arbitration/15.3.237,,,National Licences: unisg uzh
 (NATIONALLICENCE)oxford-10.1093/ageing/afn093,,,National Licences: unige
-(NATIONALLICENCE)oxford-10.1093/ageing/27.4.469,,,National Licences: unibe
+(NATIONALLICENCE)oxford-10.1093/ageing/27.4.469,,,National Licences: unibas unibe
 (NATIONALLICENCE)oxford-10.1603/ME10111,,,National Licences: unine
 (NATIONALLICENCE)oxford-10.1093/afraf/adp061,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/schbul/sbu098,,2018-03-01,National Licences: unibe
@@ -2205,6 +2220,7 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)oxford-10.1080/13693780500064722,,,National Licences: unil
 (NATIONALLICENCE)oxford-10.1093/nar/gki704,,,National Licences: ethz
 (NATIONALLICENCE)oxford-10.1093/nar/gkt675,,,National Licences: ethz
+(NATIONALLICENCE)oxford-10.1093/nar/gkl193,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/nar/gkr1088,,,National Licences: unige
 (NATIONALLICENCE)oxford-10.1093/nar/gkr1023,,,National Licences: unige unil
 (NATIONALLICENCE)oxford-10.1093/nar/gkr1011,,,National Licences: uzh
@@ -2287,7 +2303,7 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)oxford-10.1093/nar/gkt076,,,National Licences: uzh
 (NATIONALLICENCE)oxford-10.1093/nar/gku1077,,2017-12-01,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/nar/24.1.100,,,National Licences: unige
-(NATIONALLICENCE)oxford-10.1093/nar/24.1.50,,,National Licences: unige
+(NATIONALLICENCE)oxford-10.1093/nar/24.1.50,,,National Licences: unibas unige
 (NATIONALLICENCE)oxford-10.1093/nar/29.22.4509,,,National Licences: unil
 (NATIONALLICENCE)oxford-10.1093/nar/gkr129,,,National Licences: lib4ri
 (NATIONALLICENCE)oxford-10.1093/nar/gkr145,,,National Licences: unibas
@@ -2311,11 +2327,14 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)oxford-10.1093/eurheartj/12.suppl_B.95,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/oxfordjournals.eurheartj.a059858,,,National Licences: uzh
 (NATIONALLICENCE)oxford-10.1093/oxfordjournals.eurheartj.a061916,,,National Licences: unibas
+(NATIONALLICENCE)oxford-10.1093/oxfordjournals.eurheartj.a062534,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/eurheartj/12.12.1247,,,National Licences: uzh
+(NATIONALLICENCE)oxford-10.1093/oxfordjournals.eurheartj.a059798,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/oxfordjournals.eurheartj.a059804,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/eurheartj/8.suppl_C.71,,,National Licences: unige
 (NATIONALLICENCE)oxford-10.1093/oxfordjournals.eurheartj.a062526,,,National Licences: unige
 (NATIONALLICENCE)oxford-10.1093/eurheartj/4.suppl_F.47,,,National Licences: uzh
+(NATIONALLICENCE)oxford-10.1093/oxfordjournals.eurheartj.a059956,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/eurheartj/4.suppl_B.10-b,,,National Licences: uzh
 (NATIONALLICENCE)oxford-10.1093/eurheartj/9.suppl_C.11,,,National Licences: unige
 (NATIONALLICENCE)oxford-10.1093/oxfordjournals.eurheartj.a060289,,,National Licences: unige
@@ -2551,9 +2570,11 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)oxford-10.1093/bja/44.2.175,,,National Licences: unige
 (NATIONALLICENCE)oxford-10.1093/bja/44.2.159,,,National Licences: uzh
 (NATIONALLICENCE)oxford-10.1093/jhered/esp015,,,National Licences: uzh
+(NATIONALLICENCE)oxford-10.1093/oxfordjournals.jhered.a108935,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/jhered/90.1.3,,,National Licences: unibe
 (NATIONALLICENCE)oxford-10.1093/jhered/esg005,,,National Licences: ethz unibe uzh
 (NATIONALLICENCE)oxford-10.1093/jhered/esp030,,,National Licences: ethz uzh
+(NATIONALLICENCE)oxford-10.1093/oxfordjournals.jmicro.a050197,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/jmicro/dfv203,,2018-11-01,National Licences: epfl
 (NATIONALLICENCE)oxford-10.1093/oxfordjournals.jmicro.a051149,,,National Licences: ethz uzh
 (NATIONALLICENCE)oxford-10.1093/chemse/20.5.505,,,National Licences: ethz
@@ -2573,6 +2594,7 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)oxford-10.1086/ahr.116.2.497,,,National Licences: uzh
 (NATIONALLICENCE)oxford-10.1086/ahr.116.5.1594,,,National Licences: unibe
 (NATIONALLICENCE)oxford-10.1093/ahr/120.4.1545,,2018-10-01,National Licences: unifr
+(NATIONALLICENCE)oxford-10.1016/j.trstmh.2008.08.014,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/ofid/ofv210,,2018-12-28,National Licences: unibe unige
 (NATIONALLICENCE)oxford-10.1093/res/XLV.180.618-b,,,National Licences: unifr
 (NATIONALLICENCE)oxford-10.1093/res/XLIII.170.297,,,National Licences: unige
@@ -3033,6 +3055,7 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)cambridge-10.1017/S0266467412000193,/fulltexts/cambridge/S0266467412000193.pdf,,National Licences: ethz unibas uzh
 (NATIONALLICENCE)cambridge-10.1017/S0266467410000520,/fulltexts/cambridge/S0266467410000520.pdf,,National Licences: ethz uzh
 (NATIONALLICENCE)cambridge-10.1017/S0033583500005151,/fulltexts/cambridge/S0033583500005151.pdf,,National Licences: ethz
+(NATIONALLICENCE)cambridge-10.1017/S0033583500005837,/fulltexts/cambridge/S0033583500005837.pdf,,National Licences: unibas
 (NATIONALLICENCE)cambridge-10.1017/S0022149X10000878,/fulltexts/cambridge/S0022149X10000878.pdf,,National Licences: unibe
 (NATIONALLICENCE)cambridge-10.1017/S0022149X15000425,/fulltexts/cambridge/S0022149X15000425.pdf,2020-11-01,National Licences: uzh
 (NATIONALLICENCE)cambridge-10.1017/S0022149X12000430,/fulltexts/cambridge/S0022149X12000430.pdf,2018-09-01,National Licences: uzh
@@ -3082,6 +3105,8 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)cambridge-10.1017/S003118200007373X,/fulltexts/cambridge/S003118200007373X.pdf,,National Licences: unibas
 (NATIONALLICENCE)cambridge-10.1017/S0031182008005039,/fulltexts/cambridge/S0031182008005039.pdf,,National Licences: unibas
 (NATIONALLICENCE)cambridge-10.1017/S0031182007003307,/fulltexts/cambridge/S0031182007003307.pdf,,National Licences: unige
+(NATIONALLICENCE)cambridge-10.1017/S003118200006176X,/fulltexts/cambridge/S003118200006176X.pdf,,National Licences: unibas
+(NATIONALLICENCE)cambridge-10.1017/S0031182000000573,/fulltexts/cambridge/S0031182000000573.pdf,,National Licences: unibas
 (NATIONALLICENCE)cambridge-10.1017/S0031182009990965,/fulltexts/cambridge/S0031182009990965.pdf,,National Licences: unibas
 (NATIONALLICENCE)cambridge-10.1017/S0031182009991120,/fulltexts/cambridge/S0031182009991120.pdf,,National Licences: uzh
 (NATIONALLICENCE)cambridge-10.1017/S0031182012000133,/fulltexts/cambridge/S0031182012000133.pdf,2017-08-01,National Licences: unibe
@@ -3224,11 +3249,12 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)gruyter-10.1524/ract.2012.1948,,,National Licences: lib4ri
 (NATIONALLICENCE)gruyter-10.1524/zpch.2012.0174,,,National Licences: lib4ri
 (NATIONALLICENCE)gruyter-10.1111/j.1468-2516.2012.00401.x,,,National Licences: unilu unisg
-(NATIONALLICENCE)gruyter-10.1515/JLM.2008.047,,,National Licences: unibe unige unil uzh
+(NATIONALLICENCE)gruyter-10.1515/JLM.2008.047,,,National Licences: unibas unibe unige unil uzh
 (NATIONALLICENCE)gruyter-10.1515/rbm-2005-6001,,,National Licences: ethz
 (NATIONALLICENCE)gruyter-10.1524/zaes.2008.0001,,,National Licences: unibas
 (NATIONALLICENCE)gruyter-10.1515/COMM.2009.014,,,National Licences: uzh
 (NATIONALLICENCE)gruyter-10.1515/COMM.2009.012,,,National Licences: uzh
+(NATIONALLICENCE)gruyter-10.1515/BC.2005.132,,,National Licences: unibas
 (NATIONALLICENCE)gruyter-10.1351/pac200476050983,,,National Licences: uzh
 (NATIONALLICENCE)gruyter-10.1515/pbb-2013-0106,,,National Licences: unibe
 (NATIONALLICENCE)gruyter-10.1515/JAA.1999.17,,,National Licences: ethz
@@ -3329,7 +3355,7 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)gruyter-10.1515/cmam-2013-0007,,,National Licences: ethz
 (NATIONALLICENCE)gruyter-10.1515/rns.2011.003,,,National Licences: uzh
 (NATIONALLICENCE)gruyter-10.1351/pac200072030437,,,National Licences: ethz
-(NATIONALLICENCE)gruyter-10.1515/MULTI.2008.011,,,National Licences: unibe
+(NATIONALLICENCE)gruyter-10.1515/MULTI.2008.011,,,National Licences: unibas unibe
 (NATIONALLICENCE)gruyter-10.1515/nzsth-2013-0018,,,National Licences: uzh
 (NATIONALLICENCE)gruyter-10.1515/mammalia-2012-0083,,,National Licences: unil
 (NATIONALLICENCE)gruyter-10.1524/ract.1989.46.1.13,,,National Licences: epfl
@@ -3504,6 +3530,7 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)cambridge-10.1017/S0022046909990789,/fulltexts/cambridge/S0022046909990789.pdf,,National Licences: unibe
 (NATIONALLICENCE)cambridge-10.1017/S0022046908007082,/fulltexts/cambridge/S0022046908007082.pdf,,National Licences: uzh
 (NATIONALLICENCE)cambridge-10.1017/S0021859614000227,/fulltexts/cambridge/S0021859614000227.pdf,2019-12-01,National Licences: unibe fachhochschulen
+(NATIONALLICENCE)cambridge-10.1017/S0317167100046266,/fulltexts/cambridge/S0317167100046266.pdf,,National Licences: unibas
 (NATIONALLICENCE)cambridge-10.1017/S1551929510000957,/fulltexts/cambridge/S1551929510000957.pdf,,National Licences: epfl fachhochschulen
 (NATIONALLICENCE)cambridge-10.1017/S1355770X09990167,/fulltexts/cambridge/S1355770X09990167.pdf,,National Licences: ethz
 (NATIONALLICENCE)cambridge-10.1017/S1355770X08005007,/fulltexts/cambridge/S1355770X08005007.pdf,,National Licences: ethz uzh
@@ -3552,6 +3579,7 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)cambridge-10.1017/S0025315400032707,/fulltexts/cambridge/S0025315400032707.pdf,,National Licences: uzh
 (NATIONALLICENCE)cambridge-10.1017/S0954102014000613,/fulltexts/cambridge/S0954102014000613.pdf,2019-12-01,National Licences: ethz
 (NATIONALLICENCE)cambridge-10.1017/S1755773911000208,/fulltexts/cambridge/S1755773911000208.pdf,2017-11-01,National Licences: uzh
+(NATIONALLICENCE)cambridge-10.1017/S0025315400017355,/fulltexts/cambridge/S0025315400017355.pdf,,National Licences: unibas
 (NATIONALLICENCE)cambridge-10.1017/S0140525X00049086,/fulltexts/cambridge/S0140525X00049086.pdf,,National Licences: unige
 (NATIONALLICENCE)cambridge-10.1017/S0140525X00078882,/fulltexts/cambridge/S0140525X00078882.pdf,,National Licences: uzh
 (NATIONALLICENCE)cambridge-10.1017/S0140525X10001561,/fulltexts/cambridge/S0140525X10001561.pdf,,National Licences: unige
@@ -4044,12 +4072,14 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)oxford-10.1093/jnci/83.16.1181,,,National Licences: unil
 (NATIONALLICENCE)oxford-10.1093/jnci/80.16.1340,,,National Licences: unibe
 (NATIONALLICENCE)oxford-10.1093/jnci/94.18.1381,,,National Licences: unige
+(NATIONALLICENCE)oxford-10.1093/jnci/84.8.628,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/wber/lhn003,,,National Licences: ethz uzh
 (NATIONALLICENCE)oxford-10.1093/jae/ejn025,,,National Licences: unige
 (NATIONALLICENCE)oxford-10.1093/jnci/92.15.1252,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/jnci/djn058,,,National Licences: unibe
 (NATIONALLICENCE)oxford-10.1093/jnci/djp484,,,National Licences: unibe usi
 (NATIONALLICENCE)oxford-10.1093/cje/25.5.571,,,National Licences: unibas
+(NATIONALLICENCE)oxford-10.1093/hmg/5.12.1921,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/hmg/ddh191,,,National Licences: unige
 (NATIONALLICENCE)oxford-10.1093/hmg/ddi400,,,National Licences: ethz
 (NATIONALLICENCE)oxford-10.1093/hmg/ddr329,,,National Licences: uzh
@@ -4258,11 +4288,14 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)oxford-10.1086/340312,,,National Licences: unibas unibe unige uzh
 (NATIONALLICENCE)oxford-10.1086/652395,,,National Licences: unibe
 (NATIONALLICENCE)oxford-10.1086/593568,,,National Licences: unil
+(NATIONALLICENCE)oxford-10.1086/315598,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1086/498908,,,National Licences: unibe
 (NATIONALLICENCE)oxford-10.1086/339342,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/carcin/bgs208,,,National Licences: unige
+(NATIONALLICENCE)oxford-10.1016/0035-9203(81)90081-X,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1016/0035-9203(93)90070-7,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1016/S0035-9203(03)90048-4,,,National Licences: unibas
+(NATIONALLICENCE)oxford-10.1016/0035-9203(68)90105-3,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/molehr/gam037,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/molehr/8.6.574,,,National Licences: unil
 (NATIONALLICENCE)oxford-10.1093/eurheartj/ehn516,,,National Licences: unibas
@@ -4341,6 +4374,7 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)oxford-10.1016/0035-9203(95)90546-4,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1016/0035-9203(91)90042-W,,,National Licences: uzh
 (NATIONALLICENCE)oxford-10.1016/j.trstmh.2008.09.020,,,National Licences: unibe
+(NATIONALLICENCE)oxford-10.1016/0035-9203(81)90054-7,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1016/0035-9203(81)90064-X,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1016/0035-9203(89)90487-2,,,National Licences: unige
 (NATIONALLICENCE)oxford-10.1016/S0035-9203(02)90321-4,,,National Licences: unibas
@@ -4349,10 +4383,12 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)oxford-10.1016/S0035-9203(99)90281-X,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1016/S0035-9203(01)90007-0,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1016/S0035-9203(01)90336-0,,,National Licences: unibas
+(NATIONALLICENCE)oxford-10.1016/0035-9203(76)90086-9,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1016/S0035-9203(02)90386-X,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1016/0035-9203(94)90443-X,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1016/j.trstmh.2009.07.005,,,National Licences: unige unil
 (NATIONALLICENCE)oxford-10.1016/j.trstmh.2011.07.008,,,National Licences: unibas
+(NATIONALLICENCE)oxford-10.1016/0035-9203(81)90059-6,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1016/j.trstmh.2007.07.012,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/eurheartj/eht218,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/eurheartj/ehq222,,,National Licences: uzh
@@ -4396,7 +4432,7 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)oxford-10.1093/ije/dyq165,,,National Licences: unige
 (NATIONALLICENCE)oxford-10.1093/ije/27.6.1101,,,National Licences: unibe
 (NATIONALLICENCE)oxford-10.1093/ije/26.2.340,,,National Licences: unil
-(NATIONALLICENCE)oxford-10.1093/ije/dyn042,,,National Licences: unibe unige unil uzh
+(NATIONALLICENCE)oxford-10.1093/ije/dyn042,,,National Licences: unibas unibe unige unil uzh
 (NATIONALLICENCE)oxford-10.1093/ije/dyh402,,,National Licences: unibe
 (NATIONALLICENCE)oxford-10.1093/ije/dyu253,,2018-02-01,National Licences: unisg
 (NATIONALLICENCE)oxford-10.1093/ije/dym199,,,National Licences: unibe
@@ -4494,6 +4530,7 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)oxford-10.1093/annonc/mds637,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/annonc/mdv199,,2018-09-01,National Licences: unil
 (NATIONALLICENCE)oxford-10.1093/annonc/mdq310,,,National Licences: unige unil
+(NATIONALLICENCE)oxford-10.1023/A:1008311918967,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/annonc/mdi229,,,National Licences: unil
 (NATIONALLICENCE)oxford-10.1093/annonc/mdv397,,2018-11-01,National Licences: uzh
 (NATIONALLICENCE)oxford-10.1093/annonc/mdr139,,,National Licences: unige
@@ -4553,6 +4590,7 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)oxford-10.1093/intimm/13.7.877,,,National Licences: unibe
 (NATIONALLICENCE)oxford-10.1093/intimm/9.8.1073,,,National Licences: unige
 (NATIONALLICENCE)oxford-10.1093/intimm/dxq463,,,National Licences: uzh
+(NATIONALLICENCE)oxford-10.1093/intimm/dxg016,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/intimm/dxq061,,,National Licences: unige uzh
 (NATIONALLICENCE)oxford-10.1093/intimm/12.9.1285,,,National Licences: unil
 (NATIONALLICENCE)oxford-10.1093/intimm/12.9.1275,,,National Licences: unibas uzh
@@ -4561,6 +4599,7 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)oxford-10.1093/rheumatology/35.6.548,,,National Licences: unige
 (NATIONALLICENCE)oxford-10.1093/rheumatology/39.5.542,,,National Licences: uzh
 (NATIONALLICENCE)oxford-10.1093/rheumatology/ket198,,,National Licences: unige fachhochschulen
+(NATIONALLICENCE)oxford-10.1093/rheumatology/36.3.390,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/rheumatology/ker027,,,National Licences: epfl unibas unil
 (NATIONALLICENCE)oxford-10.1093/rheumatology/39.12.1427,,,National Licences: uzh
 (NATIONALLICENCE)oxford-10.1093/rheumatology/kep434,,,National Licences: unige
@@ -4653,6 +4692,7 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)oxford-10.1093/petrology/egi003,,,National Licences: unige
 (NATIONALLICENCE)oxford-10.1093/petrology/egg101,,,National Licences: ethz uzh
 (NATIONALLICENCE)oxford-10.1093/petrology/42.3.555,,,National Licences: unige
+(NATIONALLICENCE)oxford-10.1093/petrology/egs053,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/jat/29.8.782,,,National Licences: unil
 (NATIONALLICENCE)oxford-10.1093/jat/25.8.699,,,National Licences: unibe
 (NATIONALLICENCE)oxford-10.1093/gji/ggu072,,,National Licences: ethz
@@ -4729,10 +4769,12 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)oxford-10.1644/10-MAMM-A-209.1,,,National Licences: uzh
 (NATIONALLICENCE)oxford-10.1093/heapro/3.1.5,,,National Licences: unibe
 (NATIONALLICENCE)oxford-10.1093/heapro/3.1.1,,,National Licences: unibe
+(NATIONALLICENCE)oxford-10.1093/intimm/dxg037,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/intimm/11.3.445,,,National Licences: unil
 (NATIONALLICENCE)oxford-10.1093/intimm/dxl093,,,National Licences: usi
 (NATIONALLICENCE)oxford-10.1093/intimm/8.4.543,,,National Licences: unige
 (NATIONALLICENCE)oxford-10.1093/intimm/dxf026,,,National Licences: unibe
+(NATIONALLICENCE)oxford-10.1093/intimm/8.11.1743,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/qjmed/hcr116,,,National Licences: unibe unil
 (NATIONALLICENCE)oxford-10.1093/qjmed/hct205,,,National Licences: unibas unilu unisg uzh
 (NATIONALLICENCE)oxford-10.1093/qjmed/hcq172,,,National Licences: unige
@@ -4783,6 +4825,7 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)oxford-10.1093/eurheartj/ehs146,,,National Licences: uzh
 (NATIONALLICENCE)oxford-10.1053/euhj.1998.1242,,,National Licences: uzh
 (NATIONALLICENCE)oxford-10.1093/eurheartj/ehr200,,,National Licences: unibas
+(NATIONALLICENCE)oxford-10.1093/rheumatology/kes159,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/occmed/kqv116,,2018-12-01,National Licences: unil
 (NATIONALLICENCE)oxford-10.1093/occmed/kqt127,,,National Licences: ethz uzh
 (NATIONALLICENCE)oxford-10.1093/tropej/fmk006,,,National Licences: unige
@@ -5115,6 +5158,7 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)oxford-10.1093/ndt/gft206,,,National Licences: unige unil
 (NATIONALLICENCE)oxford-10.1093/ndt/gfp650,,,National Licences: unibe
 (NATIONALLICENCE)oxford-10.1093/ndt/gfq021,,,National Licences: unibas
+(NATIONALLICENCE)oxford-10.1093/ndt/gfl315,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/ndt/gfr326,,,National Licences: unil
 (NATIONALLICENCE)oxford-10.1093/ndt/gfl016,,,National Licences: unibe
 (NATIONALLICENCE)oxford-10.1093/ndt/gfi343,,,National Licences: unibe uzh
@@ -5153,12 +5197,15 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)oxford-10.1093/pcp/pcj001,,,National Licences: unibas uzh
 (NATIONALLICENCE)oxford-10.1093/pcp/pcq102,,,National Licences: unil
 (NATIONALLICENCE)oxford-10.1093/ndt/gfu075,,2017-09-01,National Licences: uzh
+(NATIONALLICENCE)oxford-10.1093/ndt/12.3.570,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/ndt/gfp193,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/ndt/gfh925,,,National Licences: uzh
 (NATIONALLICENCE)oxford-10.1093/intimm/6.9.1333,,,National Licences: unige
+(NATIONALLICENCE)oxford-10.1093/intimm/5.12.1609,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/intimm/7.10.1607,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/intimm/7.10.1659,,,National Licences: unil
 (NATIONALLICENCE)oxford-10.1093/intimm/2.12.1133,,,National Licences: unige
+(NATIONALLICENCE)oxford-10.1093/intimm/3.11.1183,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/intimm/3.4.317,,,National Licences: unige
 (NATIONALLICENCE)oxford-10.1093/intimm/4.1.93,,,National Licences: unige
 (NATIONALLICENCE)oxford-10.1086/655824,,,National Licences: unibas
@@ -5242,6 +5289,7 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)oxford-10.1093/toxsci/kfs234,,,National Licences: unige
 (NATIONALLICENCE)oxford-10.1093/toxsci/kfu118,,2017-09-01,National Licences: epfl ethz lib4ri
 (NATIONALLICENCE)oxford-10.1093/ndt/10.6.891,,,National Licences: uzh
+(NATIONALLICENCE)oxford-10.1093/ndt/9.12.1836,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/ndt/gfv197.11,,2018-05-01,National Licences: unibe
 (NATIONALLICENCE)oxford-10.1093/ndt/9.8.1061,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/toxsci/kfs022,,,National Licences: unibas unige unil fachhochschulen
@@ -5252,6 +5300,7 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)oxford-10.1093/toxsci/kfs109,,,National Licences: uzh
 (NATIONALLICENCE)oxford-10.1093/femspd/ftv039,,2018-08-01,National Licences: ethz uzh
 (NATIONALLICENCE)oxford-10.1111/2049-632X.12000,,,National Licences: unibas
+(NATIONALLICENCE)oxford-10.1093/ndt/9.12.1850-s,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/nar/27.4.972,,,National Licences: uzh
 (NATIONALLICENCE)oxford-10.1093/nar/gkt638,,,National Licences: ethz unibas uzh
 (NATIONALLICENCE)oxford-10.1093/nar/gkr920,,,National Licences: uzh
@@ -5355,6 +5404,7 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)oxford-10.1093/nar/gkn793,,,National Licences: uzh
 (NATIONALLICENCE)oxford-10.1093/nar/gni076,,,National Licences: unibe
 (NATIONALLICENCE)oxford-10.1093/nar/gki188,,,National Licences: unige
+(NATIONALLICENCE)oxford-10.1093/nar/28.16.3022,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/nar/gkr760,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/nar/gkt1272,,,National Licences: unige
 (NATIONALLICENCE)oxford-10.1093/nar/gkt002,,,National Licences: epfl unil uzh
@@ -5364,6 +5414,7 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)oxford-10.1093/oxfordjournals.eurheartj.a061145,,,National Licences: uzh
 (NATIONALLICENCE)oxford-10.1093/oxfordjournals.eurheartj.a062568,,,National Licences: uzh
 (NATIONALLICENCE)oxford-10.1093/eurheartj/13.suppl_H.45,,,National Licences: unil
+(NATIONALLICENCE)oxford-10.1093/oxfordjournals.eurheartj.a061679,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/eurheartj/9.suppl_C.31,,,National Licences: unil
 (NATIONALLICENCE)oxford-10.1093/oxfordjournals.eurheartj.a061197,,,National Licences: ethz uzh
 (NATIONALLICENCE)oxford-10.1093/oxfordjournals.eurheartj.a061026,,,National Licences: unibe
@@ -5473,6 +5524,7 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)oxford-10.1093/bja/aeh062,,,National Licences: uzh
 (NATIONALLICENCE)oxford-10.1093/bja/78.1.88,,,National Licences: unibe
 (NATIONALLICENCE)oxford-10.1093/bja/aep015,,,National Licences: unibe
+(NATIONALLICENCE)oxford-10.1093/bja/aef237,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/oxfordjournals.bja.a013391,,,National Licences: unibe
 (NATIONALLICENCE)oxford-10.1093/bja/85.4.563,,,National Licences: unibe
 (NATIONALLICENCE)oxford-10.1093/bja/80.4.525,,,National Licences: uzh
@@ -5512,6 +5564,7 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)oxford-10.1093/ejo/20.5.525,,,National Licences: unibe
 (NATIONALLICENCE)oxford-10.1093/lawfam/3.1.89,,,National Licences: uzh
 (NATIONALLICENCE)oxford-10.1093/oxfordjournals.ndt.a091655,,,National Licences: unibas
+(NATIONALLICENCE)oxford-10.1093/ndt/10.7.1126,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/ndt/gfv167.19,,2018-05-01,National Licences: uzh
 (NATIONALLICENCE)oxford-10.1093/oxfordjournals.ndt.a091746,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/ndt/gfv174.39,,2018-05-01,National Licences: unige
@@ -6077,6 +6130,7 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)cambridge-10.1666/13-099,/fulltexts/cambridge/S0022336000002547.pdf,2019-07-01,National Licences: ethz lib4ri
 (NATIONALLICENCE)cambridge-10.1017/S0022336000042396,/fulltexts/cambridge/S0022336000042396.pdf,,National Licences: unil uzh
 (NATIONALLICENCE)cambridge-10.1017/S0022336000026585,/fulltexts/cambridge/S0022336000026585.pdf,,National Licences: unibe
+(NATIONALLICENCE)cambridge-10.1017/S0025315400046002,/fulltexts/cambridge/S0025315400046002.pdf,,National Licences: unibas
 (NATIONALLICENCE)cambridge-10.1017/S0025315408001732,/fulltexts/cambridge/S0025315408001732.pdf,,National Licences: lib4ri
 (NATIONALLICENCE)cambridge-10.1017/S0269889713000069,/fulltexts/cambridge/S0269889713000069.pdf,2018-06-01,National Licences: unilu
 (NATIONALLICENCE)cambridge-10.1017/S0269889713000057,/fulltexts/cambridge/S0269889713000057.pdf,2018-06-01,National Licences: ethz
@@ -6376,6 +6430,7 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)gruyter-10.1515/zfgl.33.2-3.343,,,National Licences: uzh
 (NATIONALLICENCE)gruyter-10.1515/zfgl.33.2-3.236,,,National Licences: uzh
 (NATIONALLICENCE)gruyter-10.1515/iasl-2014-0022,,,National Licences: uzh
+(NATIONALLICENCE)gruyter-10.1515/JLM.2005.042,,,National Licences: unibas
 (NATIONALLICENCE)gruyter-10.1515/bmt-2012-4356,,,National Licences: unibas fachhochschulen
 (NATIONALLICENCE)gruyter-10.1515/IJSL.2006.016,,,National Licences: uzh fachhochschulen
 (NATIONALLICENCE)gruyter-10.1524/zpch.1959.21.1_2.074,,,National Licences: uzh
@@ -7035,7 +7090,7 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)oxford-10.1093/intqhc/mzp018,,,National Licences: fachhochschulen
 (NATIONALLICENCE)oxford-10.1093/intqhc/9.2.115,,,National Licences: unil
 (NATIONALLICENCE)oxford-10.1093/intqhc/9.2.87,,,National Licences: unil
-(NATIONALLICENCE)oxford-10.1093/intqhc/mzl005,,,National Licences: unil
+(NATIONALLICENCE)oxford-10.1093/intqhc/mzl005,,,National Licences: unibas unil
 (NATIONALLICENCE)oxford-10.1093/intqhc/11.5.419,,,National Licences: unil
 (NATIONALLICENCE)oxford-10.1093/intqhc/9.5.367,,,National Licences: unige
 (NATIONALLICENCE)oxford-10.1093/intqhc/mzh053,,,National Licences: unige
@@ -7165,6 +7220,7 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)oxford-10.1086/521678,,,National Licences: uzh
 (NATIONALLICENCE)oxford-10.1093/infdis/jir860,,,National Licences: unil
 (NATIONALLICENCE)oxford-10.1086/315121,,,National Licences: uzh
+(NATIONALLICENCE)oxford-10.1086/315142,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/glycob/8.8.821,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/glycob/7.5.617,,,National Licences: uzh
 (NATIONALLICENCE)oxford-10.1093/glycob/cwj043,,,National Licences: ethz unifr uzh
@@ -7295,6 +7351,7 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)oxford-10.1016/j.ejcts.2003.10.020,,,National Licences: uzh
 (NATIONALLICENCE)oxford-10.1093/ejcts/ezt204,,,National Licences: uzh
 (NATIONALLICENCE)oxford-10.1016/S0035-9203(01)90011-2,,,National Licences: unibe uzh
+(NATIONALLICENCE)oxford-10.1016/0035-9203(90)90366-M,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/molehr/1.1.36,,,National Licences: unige
 (NATIONALLICENCE)oxford-10.1093/molehr/gat078,,,National Licences: ethz unibas
 (NATIONALLICENCE)oxford-10.1093/molehr/5.7.675,,,National Licences: unibe unige
@@ -7304,6 +7361,7 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)oxford-10.1016/S0035-9203(97)90109-7,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1016/0035-9203(81)90230-3,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1016/0035-9203(90)90372-L,,,National Licences: unige
+(NATIONALLICENCE)oxford-10.1016/j.trstmh.2006.02.003,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1016/S0035-9203(03)00003-8,,,National Licences: unibas unibe
 (NATIONALLICENCE)oxford-10.1016/S0035-9203(00)90445-0,,,National Licences: unil
 (NATIONALLICENCE)oxford-10.1016/S0895-7061(02)02418-4,,,National Licences: unibas
@@ -7403,6 +7461,7 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)oxford-10.1093/petrology/egm038,,,National Licences: unige
 (NATIONALLICENCE)oxford-10.1093/ecco-jcc/jjv113,,2018-10-01,National Licences: unibe unil uzh
 (NATIONALLICENCE)oxford-10.1093/ecco-jcc/jju006,,2018-02-01,National Licences: unibe
+(NATIONALLICENCE)oxford-10.1093/ecco-jcc/jjv103,,2018-09-01,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/ecco-jcc/jjv100,,2018-08-01,National Licences: unil uzh
 (NATIONALLICENCE)oxford-10.1093/ecco-jcc/jjv141,,2018-11-01,National Licences: uzh
 (NATIONALLICENCE)oxford-10.1093/jmedent/27.5.839,,,National Licences: uzh
@@ -7456,7 +7515,7 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)oxford-10.1023/A:1012539213643,,,National Licences: unil unine
 (NATIONALLICENCE)oxford-10.1093/annonc/mdi320,,,National Licences: unibe
 (NATIONALLICENCE)oxford-10.1023/A:1011134312452,,,National Licences: unibe
-(NATIONALLICENCE)oxford-10.1093/annonc/mdf272,,,National Licences: unibe unige
+(NATIONALLICENCE)oxford-10.1093/annonc/mdf272,,,National Licences: unibas unibe unige
 (NATIONALLICENCE)oxford-10.1093/annonc/mdq404,,,National Licences: unibas unige uzh
 (NATIONALLICENCE)oxford-10.1023/A:1008334313918,,,National Licences: unibe
 (NATIONALLICENCE)oxford-10.1023/A:1008441416790,,,National Licences: unibe unil
@@ -7508,6 +7567,7 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)oxford-10.1093/annonc/mdm111,,,National Licences: unibas unibe
 (NATIONALLICENCE)oxford-10.1093/annonc/mdq394,,,National Licences: unibas unibe unige unil uzh
 (NATIONALLICENCE)oxford-10.1093/ije/dyt010,,,National Licences: unil
+(NATIONALLICENCE)oxford-10.1093/ije/29.1.107,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/rheumatology/kes118,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/rheumatology/ket292,,,National Licences: uzh
 (NATIONALLICENCE)oxford-10.1093/rheumatology/ker459,,,National Licences: unibas
@@ -7709,6 +7769,7 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)oxford-10.1093/clinids/19.2.342,,,National Licences: uzh
 (NATIONALLICENCE)oxford-10.1093/ndt/gfg388,,,National Licences: unige
 (NATIONALLICENCE)oxford-10.1093/ndt/gfg304,,,National Licences: unibas
+(NATIONALLICENCE)oxford-10.1093/ndt/12.8.1629,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/ndt/11.10.2077,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/ndt/gfh935,,,National Licences: unibe
 (NATIONALLICENCE)oxford-10.1093/ndt/gfh1082,,,National Licences: unige
@@ -7720,6 +7781,7 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)oxford-10.1093/ndt/16.3.585,,,National Licences: unil unine
 (NATIONALLICENCE)oxford-10.1093/clinids/11.6.954,,,National Licences: unibe
 (NATIONALLICENCE)oxford-10.1093/clinids/11.Supplement_5.S1259,,,National Licences: unige
+(NATIONALLICENCE)oxford-10.1093/clind/15.6.1039,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/jhered/esi006,,,National Licences: ethz uzh
 (NATIONALLICENCE)oxford-10.1093/jhered/esr029,,,National Licences: unibe uzh
 (NATIONALLICENCE)oxford-10.1093/jhered/82.1.58,,,National Licences: unige
@@ -7893,6 +7955,8 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)oxford-10.1093/intimm/3.2.127,,,National Licences: uzh
 (NATIONALLICENCE)oxford-10.1093/intimm/3.10.1035,,,National Licences: unil
 (NATIONALLICENCE)oxford-10.1093/intimm/3.7.665,,,National Licences: unibas
+(NATIONALLICENCE)oxford-10.1093/intimm/7.11.1741,,,National Licences: unibas
+(NATIONALLICENCE)oxford-10.1093/intimm/1.5.471,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/intimm/5.2.233,,,National Licences: unil
 (NATIONALLICENCE)oxford-10.1093/intimm/6.11.1687,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1086/595703,,,National Licences: unige unil uzh
@@ -8088,6 +8152,7 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)oxford-10.1093/oxfordjournals.eurheartj.a059763,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/oxfordjournals.eurheartj.a062325,,,National Licences: unibe
 (NATIONALLICENCE)oxford-10.1093/eurheartj/ehv352,,2018-11-14,National Licences: unibe
+(NATIONALLICENCE)oxford-10.1093/nar/24.12.2452,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/nar/24.14.2718,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/nar/gkp508,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/nar/gng089,,,National Licences: epfl
@@ -8174,6 +8239,7 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)oxford-10.1093/bja/aei315,,,National Licences: unibe
 (NATIONALLICENCE)oxford-10.1093/bja/aem276,,,National Licences: uzh
 (NATIONALLICENCE)oxford-10.1093/bja/71.6.921,,,National Licences: unibe
+(NATIONALLICENCE)oxford-10.1093/bja/72.6.643,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/bja/ael135,,,National Licences: uzh
 (NATIONALLICENCE)oxford-10.1093/bja/59.4.455,,,National Licences: uzh
 (NATIONALLICENCE)oxford-10.1093/bja/ael235,,,National Licences: unige
@@ -8645,7 +8711,7 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)cambridge-10.1017/S0033291700052090,/fulltexts/cambridge/S0033291700052090.pdf,,National Licences: uzh
 (NATIONALLICENCE)cambridge-10.1017/S0033291714002037,/fulltexts/cambridge/S0033291714002037.pdf,2019-11-01,National Licences: unibas uzh
 (NATIONALLICENCE)cambridge-10.1017/S0009640700109813,/fulltexts/cambridge/S0009640700109813.pdf,,National Licences: unige
-(NATIONALLICENCE)cambridge-10.1017/S0266462314000233,/fulltexts/cambridge/S0266462314000233.pdf,2019-07-01,National Licences: uzh fachhochschulen
+(NATIONALLICENCE)cambridge-10.1017/S0266462314000233,/fulltexts/cambridge/S0266462314000233.pdf,2019-07-01,National Licences: unibas uzh fachhochschulen
 (NATIONALLICENCE)cambridge-10.1017/S1743921313006455,/fulltexts/cambridge/S1743921313006455.pdf,2018-05-01,National Licences: unige
 (NATIONALLICENCE)cambridge-10.1017/S1743921308020516,/fulltexts/cambridge/S1743921308020516.pdf,,National Licences: unige
 (NATIONALLICENCE)cambridge-10.1017/S1743921308020826,/fulltexts/cambridge/S1743921308020826.pdf,,National Licences: unige
@@ -8745,6 +8811,7 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)cambridge-10.1017/S0031182013000383,/fulltexts/cambridge/S0031182013000383.pdf,2018-07-01,National Licences: unibe
 (NATIONALLICENCE)cambridge-10.1017/S0031182013000292,/fulltexts/cambridge/S0031182013000292.pdf,2018-07-01,National Licences: unibe
 (NATIONALLICENCE)cambridge-10.1017/S0031182011001715,/fulltexts/cambridge/S0031182011001715.pdf,,National Licences: uzh
+(NATIONALLICENCE)cambridge-10.1017/S0031182000000585,/fulltexts/cambridge/S0031182000000585.pdf,,National Licences: unibas
 (NATIONALLICENCE)cambridge-10.1017/S0031182000019831,/fulltexts/cambridge/S0031182000019831.pdf,,National Licences: unine
 (NATIONALLICENCE)cambridge-10.1017/S0031182000079300,/fulltexts/cambridge/S0031182000079300.pdf,,National Licences: unibe
 (NATIONALLICENCE)cambridge-10.1112/S0010437X07003302,/fulltexts/cambridge/S0010437X07003302.pdf,,National Licences: uzh
@@ -9038,6 +9105,7 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)cambridge-10.1079/BER2004301,/fulltexts/cambridge/S0007485304000227.pdf,,National Licences: unibe
 (NATIONALLICENCE)cambridge-10.2307/2695102,/fulltexts/cambridge/S0022481200010586.pdf,,National Licences: unige unil
 (NATIONALLICENCE)cambridge-10.2307/2275787,/fulltexts/cambridge/S002248120001714X.pdf,,National Licences: unibe
+(NATIONALLICENCE)cambridge-10.1017/S0025315400021342,/fulltexts/cambridge/S0025315400021342.pdf,,National Licences: unibas
 (NATIONALLICENCE)cambridge-10.1017/S0140525X1300126X,/fulltexts/cambridge/S0140525X1300126X.pdf,2018-12-01,National Licences: unige
 (NATIONALLICENCE)cambridge-10.1017/S0140525X0001178X,/fulltexts/cambridge/S0140525X0001178X.pdf,,National Licences: unige unine
 (NATIONALLICENCE)cambridge-10.1017/S0140525X12003032,/fulltexts/cambridge/S0140525X12003032.pdf,2018-06-01,National Licences: unil
@@ -9306,7 +9374,7 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)gruyter-10.2202/1534-5963.1164,,,National Licences: unisg uzh
 (NATIONALLICENCE)gruyter-10.1524/phil.2008.0042,,,National Licences: unibe
 (NATIONALLICENCE)gruyter-10.1515/dmvm-2005-0082,,,National Licences: ethz
-(NATIONALLICENCE)gruyter-10.1515/JLM.2006.049,,,National Licences: unibe unige unil uzh
+(NATIONALLICENCE)gruyter-10.1515/JLM.2006.049,,,National Licences: unibas unibe unige unil uzh
 (NATIONALLICENCE)gruyter-10.1515/arbi.2010.093,,,National Licences: unibas
 (NATIONALLICENCE)gruyter-10.1524/hzhz.2012.0495,,,National Licences: unibe
 (NATIONALLICENCE)gruyter-10.1524/hzhz.2012.0497,,,National Licences: unilu
@@ -9337,16 +9405,17 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)oxford-10.1093/jnci/djp208,,,National Licences: epfl unil
 (NATIONALLICENCE)oxford-10.1093/jnci/djr170,,,National Licences: unige unil
 (NATIONALLICENCE)oxford-10.1093/jnci/89.14.1027,,,National Licences: unibas uzh
-(NATIONALLICENCE)oxford-10.1093/jnci/djk054,,,National Licences: unibe
+(NATIONALLICENCE)oxford-10.1093/jnci/djk054,,,National Licences: unibas unibe
 (NATIONALLICENCE)oxford-10.1093/jae/ejr036,,,National Licences: unilu
 (NATIONALLICENCE)oxford-10.1093/jnci/56.2.369,,,National Licences: uzh
-(NATIONALLICENCE)oxford-10.1093/jnci/84.6.430,,,National Licences: unibe
+(NATIONALLICENCE)oxford-10.1093/jnci/84.6.430,,,National Licences: unibas unibe
 (NATIONALLICENCE)oxford-10.1093/jnci/djr418,,,National Licences: unibe
 (NATIONALLICENCE)oxford-10.1093/jnci/dji207,,,National Licences: uzh
 (NATIONALLICENCE)oxford-10.1093/jb/mvm214,,,National Licences: unil
 (NATIONALLICENCE)oxford-10.1093/jb/mvt109,,,National Licences: epfl
 (NATIONALLICENCE)oxford-10.1093/ejil/chv049,,2018-08-01,National Licences: unige
 (NATIONALLICENCE)oxford-10.1093/jnci/dji250,,,National Licences: unibe
+(NATIONALLICENCE)oxford-10.3382/ps.0660795,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/cercor/bhs142,,,National Licences: uzh
 (NATIONALLICENCE)oxford-10.1093/cercor/bht323,,2018-05-01,National Licences: unige
 (NATIONALLICENCE)oxford-10.1093/cercor/bhl121,,,National Licences: unibe unige
@@ -9542,6 +9611,7 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)oxford-10.1093/jac/22.1.15,,,National Licences: uzh
 (NATIONALLICENCE)oxford-10.1093/jac/33.3.661-a,,,National Licences: unibe
 (NATIONALLICENCE)oxford-10.1093/jac/22.Supplement_D.55,,,National Licences: uzh
+(NATIONALLICENCE)oxford-10.1093/jac/33.3.647,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/jac/dkl125,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/jac/23.5.671,,,National Licences: uzh
 (NATIONALLICENCE)oxford-10.1093/jac/19.3.385,,,National Licences: unibe
@@ -9711,7 +9781,7 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)oxford-10.1093/scan/nsu121,,2018-06-01,National Licences: unige
 (NATIONALLICENCE)oxford-10.1093/scan/nsv060,,2018-12-01,National Licences: unige
 (NATIONALLICENCE)oxford-10.1093/hmg/2.12.2147,,,National Licences: unil
-(NATIONALLICENCE)oxford-10.1093/intqhc/mzm008,,,National Licences: unil
+(NATIONALLICENCE)oxford-10.1093/intqhc/mzm008,,,National Licences: unibas unil
 (NATIONALLICENCE)oxford-10.1093/intqhc/13.2.157,,,National Licences: uzh
 (NATIONALLICENCE)oxford-10.1093/intqhc/mzl057,,,National Licences: unige
 (NATIONALLICENCE)oxford-10.1093/intqhc/mzi102,,,National Licences: uzh
@@ -9855,6 +9925,7 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)oxford-10.1093/intimm/11.12.1971,,,National Licences: unil
 (NATIONALLICENCE)oxford-10.1093/intimm/12.5.647,,,National Licences: uzh
 (NATIONALLICENCE)oxford-10.1093/intimm/dxh240,,,National Licences: uzh
+(NATIONALLICENCE)oxford-10.1093/intimm/12.3.313,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/intimm/dxu070,,2017-12-01,National Licences: unige
 (NATIONALLICENCE)oxford-10.1093/intimm/dxm075,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/qjmed/hcr081,,,National Licences: unibas
@@ -10121,6 +10192,7 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)oxford-10.1016/0035-9203(93)90414-L,,,National Licences: uzh
 (NATIONALLICENCE)oxford-10.1016/0035-9203(92)90542-K,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1016/j.trstmh.2007.05.017,,,National Licences: unibe
+(NATIONALLICENCE)oxford-10.1016/0035-9203(85)90095-1,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1016/j.trstmh.2004.09.009,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1016/j.trstmh.2006.11.008,,,National Licences: unibas unibe
 (NATIONALLICENCE)oxford-10.1016/j.trstmh.2006.04.011,,,National Licences: unibas
@@ -10141,6 +10213,7 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)oxford-10.1016/S0895-7061(03)00793-3,,,National Licences: unil
 (NATIONALLICENCE)oxford-10.1093/ajh/1.2.193,,,National Licences: unibe unige unil
 (NATIONALLICENCE)oxford-10.1016/j.amjhyper.2005.03.200,,,National Licences: unibas
+(NATIONALLICENCE)oxford-10.1016/S0035-9203(03)80096-2,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/trstmh/trv022,,2018-06-01,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/trstmh/tru124,,2017-08-01,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1016/S0035-9203(99)90326-7,,,National Licences: unibas
@@ -10252,6 +10325,7 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)oxford-10.1023/A:1011191809335,,,National Licences: unil
 (NATIONALLICENCE)oxford-10.1093/annonc/mdi038,,,National Licences: unige
 (NATIONALLICENCE)oxford-10.1093/annonc/mdl444,,,National Licences: unibe
+(NATIONALLICENCE)oxford-10.1023/A:1008214623433,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/annonc/mdg052,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/annonc/mdi313,,,National Licences: unil
 (NATIONALLICENCE)oxford-10.1093/annonc/mdf231,,,National Licences: unibe
@@ -10407,6 +10481,7 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)oxford-10.1093/ije/18.4.900,,,National Licences: unil
 (NATIONALLICENCE)oxford-10.1093/ije/dyu182,,2018-02-01,National Licences: unige unilu
 (NATIONALLICENCE)oxford-10.1093/ije/dyu221,,2018-02-01,National Licences: unibas unibe
+(NATIONALLICENCE)oxford-10.1023/A:1008340806731,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1023/A:1008305412635,,,National Licences: unige
 (NATIONALLICENCE)oxford-10.1093/annonc/mdt272,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/annonc/mdt486,,,National Licences: unil
@@ -10427,6 +10502,7 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)oxford-10.1093/annonc/mdr284,,,National Licences: unige
 (NATIONALLICENCE)oxford-10.1093/annonc/mdg448,,,National Licences: unil
 (NATIONALLICENCE)oxford-10.1093/annonc/mdp036,,,National Licences: unil unine
+(NATIONALLICENCE)oxford-10.1023/A:1008296622469,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1111/j.1365-246X.2008.03715.x,,,National Licences: ethz
 (NATIONALLICENCE)oxford-10.1111/j.1365-246X.2008.03736.x,,,National Licences: ethz
 (NATIONALLICENCE)oxford-10.1076/jmep.28.2.187.14204,,,National Licences: ethz uzh
@@ -10600,6 +10676,7 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)oxford-10.1093/ndt/gfu195,,2017-09-01,National Licences: unil
 (NATIONALLICENCE)oxford-10.1093/ndt/gfu217,,2017-09-01,National Licences: uzh
 (NATIONALLICENCE)oxford-10.1093/ndt/16.3.452,,,National Licences: unil
+(NATIONALLICENCE)oxford-10.1093/ndt/15.6.827,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1086/322659,,,National Licences: unil
 (NATIONALLICENCE)oxford-10.1093/cid/ciu825,,2018-01-15,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/cid/cis437,,,National Licences: unige unil
@@ -10618,13 +10695,19 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)oxford-10.1086/368190,,,National Licences: unibas unibe unige unil uzh
 (NATIONALLICENCE)oxford-10.1093/geront/42.2.273,,,National Licences: unige
 (NATIONALLICENCE)oxford-10.1086/595558,,,National Licences: unibe
+(NATIONALLICENCE)oxford-10.1093/intimm/6.2.247,,,National Licences: unibas
+(NATIONALLICENCE)oxford-10.1093/intimm/1.1.11,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/intimm/4.2.153,,,National Licences: uzh
 (NATIONALLICENCE)oxford-10.1093/intimm/2.9.885,,,National Licences: unige
 (NATIONALLICENCE)oxford-10.1093/intimm/3.6.579,,,National Licences: unil
 (NATIONALLICENCE)oxford-10.1093/intimm/7.9.1459,,,National Licences: unige
+(NATIONALLICENCE)oxford-10.1093/intimm/7.6.1013,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/intimm/2.6.555,,,National Licences: unibas
+(NATIONALLICENCE)oxford-10.1093/intimm/6.1.21,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/intimm/4.1.67,,,National Licences: unibas
+(NATIONALLICENCE)oxford-10.1093/intimm/6.6.863,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/intimm/3.6.587,,,National Licences: unil
+(NATIONALLICENCE)oxford-10.1093/intimm/6.8.1257,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/intimm/6.6.925,,,National Licences: unige
 (NATIONALLICENCE)oxford-10.1093/ndt/gfq119,,,National Licences: unibe
 (NATIONALLICENCE)oxford-10.1093/ndt/18.1.195,,,National Licences: uzh
@@ -10632,6 +10715,7 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)oxford-10.1093/arbitration/30.1.91,,,National Licences: unige
 (NATIONALLICENCE)oxford-10.1093/arbitration/29.3.435,,,National Licences: unige
 (NATIONALLICENCE)oxford-10.1093/analys/anp070,,,National Licences: unige
+(NATIONALLICENCE)oxford-10.1093/ndt/11.12.2461,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/ndt/gfm010,,,National Licences: uzh
 (NATIONALLICENCE)oxford-10.1093/ndt/gft345,,,National Licences: uzh
 (NATIONALLICENCE)oxford-10.1093/ndt/gfs045,,,National Licences: unibas
@@ -10646,6 +10730,7 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)oxford-10.1016/0035-9203(94)90287-9,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1016/j.trstmh.2009.07.026,,,National Licences: unige
 (NATIONALLICENCE)oxford-10.1093/trstmh/trt086,,,National Licences: unibas
+(NATIONALLICENCE)oxford-10.1016/0035-9203(81)90083-3,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1016/S0035-9203(00)90274-8,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/rheumatology/ker029,,,National Licences: uzh
 (NATIONALLICENCE)oxford-10.1093/rheumatology/ket460,,,National Licences: unige unil unilu
@@ -10705,6 +10790,7 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)oxford-10.1093/petrology/egt068,,,National Licences: ethz unibe
 (NATIONALLICENCE)oxford-10.1093/ajh/hpu226,,2018-06-01,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/ajh/hpu165,,2018-03-01,National Licences: unibas
+(NATIONALLICENCE)oxford-10.1016/0895-7061(95)00258-8,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1016/S0895-7061(00)00382-4,,,National Licences: uzh
 (NATIONALLICENCE)oxford-10.1093/ajh/5.3.154,,,National Licences: uzh
 (NATIONALLICENCE)oxford-10.1093/molehr/6.7.669,,,National Licences: uzh
@@ -10838,6 +10924,7 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)oxford-10.1093/aje/152.1.75,,,National Licences: ethz unibas unil
 (NATIONALLICENCE)oxford-10.1016/S0008-6363(96)88608-1,,,National Licences: uzh
 (NATIONALLICENCE)oxford-10.1093/cvr/24.9.711,,,National Licences: uzh
+(NATIONALLICENCE)oxford-10.1093/cvr/27.12.2229,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/cvr/cvu063,,,National Licences: unige
 (NATIONALLICENCE)oxford-10.1093/cvr/23.1.25,,,National Licences: unibas uzh
 (NATIONALLICENCE)oxford-10.1093/cvr/28.5.720,,,National Licences: unibe
@@ -10875,6 +10962,7 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)oxford-10.1093/reseval/rvv021,,2018-10-01,National Licences: usi
 (NATIONALLICENCE)oxford-10.1093/bioinformatics/bti1116,,,National Licences: epfl
 (NATIONALLICENCE)oxford-10.1093/bioinformatics/btq120,,,National Licences: ethz uzh
+(NATIONALLICENCE)oxford-10.1093/bioinformatics/bti574,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/bioinformatics/btn219,,,National Licences: unil
 (NATIONALLICENCE)oxford-10.1093/bioinformatics/btt185,,,National Licences: unige
 (NATIONALLICENCE)oxford-10.1093/bioinformatics/btv368,,2018-10-15,National Licences: unil
@@ -10911,6 +10999,7 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)oxford-10.1093/bja/59.8.1044,,,National Licences: uzh
 (NATIONALLICENCE)oxford-10.1093/bja/ael110,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/bja/80.1.36,,,National Licences: unibe
+(NATIONALLICENCE)oxford-10.1093/bja/44.11.1139,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/bja/aer252,,,National Licences: unibas unil
 (NATIONALLICENCE)oxford-10.1093/bja/aeq066,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/bja/aeh049,,,National Licences: unige
@@ -11172,6 +11261,7 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)oxford-10.1093/oxfordjournals.ndt.a091443,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/ndt/gfv188.73,,2018-05-01,National Licences: unibe
 (NATIONALLICENCE)oxford-10.1093/ndt/gfu319,,2018-02-01,National Licences: uzh
+(NATIONALLICENCE)oxford-10.1093/ndt/8.12.1393,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/toxsci/64.2.169,,,National Licences: unil
 (NATIONALLICENCE)oxford-10.1093/toxsci/65.1.35,,,National Licences: ethz
 (NATIONALLICENCE)oxford-10.1093/toxsci/kft237,,,National Licences: unibas fachhochschulen
@@ -11377,7 +11467,7 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)oxford-10.1093/jxb/35.2.197,,,National Licences: ethz
 (NATIONALLICENCE)oxford-10.1093/jxb/43.8.1015,,,National Licences: ethz
 (NATIONALLICENCE)oxford-10.1112/jlms/s2-21.2.329,,,National Licences: epfl
-(NATIONALLICENCE)oxford-10.1093/em/XVIII.2.235,,,National Licences: uzh
+(NATIONALLICENCE)oxford-10.1093/em/XVIII.2.235,,,National Licences: unibas uzh
 (NATIONALLICENCE)oxford-10.1093/oxfordjournals.esr.a036523,,,National Licences: uzh
 (NATIONALLICENCE)oxford-10.1093/alcalc/agp093,,,National Licences: uzh
 (NATIONALLICENCE)oxford-10.1093/alcalc/agq001,,,National Licences: uzh
@@ -11910,6 +12000,7 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)cambridge-10.2307/628385,/fulltexts/cambridge/S0075426900101107.pdf,,National Licences: uzh
 (NATIONALLICENCE)cambridge-10.1017/S0075426915000592,/fulltexts/cambridge/S0075426915000592.pdf,2020-01-01,National Licences: uzh
 (NATIONALLICENCE)cambridge-10.1017/S0033583500004911,/fulltexts/cambridge/S0033583500004911.pdf,,National Licences: ethz
+(NATIONALLICENCE)cambridge-10.1017/S0033583500002900,/fulltexts/cambridge/S0033583500002900.pdf,,National Licences: unibas
 (NATIONALLICENCE)cambridge-10.1017/S0033583500001967,/fulltexts/cambridge/S0033583500001967.pdf,,National Licences: ethz
 (NATIONALLICENCE)cambridge-10.1017/S0031182015000554,/fulltexts/cambridge/S0031182015000554.pdf,2020-09-01,National Licences: uzh
 (NATIONALLICENCE)cambridge-10.1017/S0031182000080835,/fulltexts/cambridge/S0031182000080835.pdf,,National Licences: unibe
@@ -12045,6 +12136,7 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)oxford-10.1093/mnras/stv2053,,2018-10-02,National Licences: unige
 (NATIONALLICENCE)oxford-10.1093/mnras/stv1169,,2018-06-18,National Licences: uzh
 (NATIONALLICENCE)oxford-10.1093/mnras/stv184,,2018-03-10,National Licences: ethz
+(NATIONALLICENCE)oxford-10.1093/humrep/dem292,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/oxfordjournals.humrep.a137172,,,National Licences: uzh
 (NATIONALLICENCE)oxford-10.1093/humrep/14.Suppl_3.61-a,,,National Licences: unibe unil
 (NATIONALLICENCE)oxford-10.1093/humrep/deh501,,,National Licences: unil
@@ -12151,6 +12243,7 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)oxford-10.1093/jnci/djp100,,,National Licences: unil
 (NATIONALLICENCE)oxford-10.1093/jnci/djq178,,,National Licences: unige
 (NATIONALLICENCE)oxford-10.1093/jnci/dju364,,2017-11-22,National Licences: unifr
+(NATIONALLICENCE)oxford-10.1093/jnci/90.15.1138,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1603/EN13184,,,National Licences: unige
 (NATIONALLICENCE)oxford-10.1093/ee/nvv022,,2018-06-01,National Licences: unige
 (NATIONALLICENCE)oxford-10.1603/EN10003,,,National Licences: unige
@@ -12176,12 +12269,14 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)oxford-10.1093/jac/dkr521,,,National Licences: unil
 (NATIONALLICENCE)oxford-10.1093/jac/dkv257,,2018-12-01,National Licences: unibas unibe unige unil unisg usi uzh
 (NATIONALLICENCE)oxford-10.1093/jac/22.Supplement_B.87,,,National Licences: unige
+(NATIONALLICENCE)oxford-10.1093/jac/5.Supplement_B.97,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/jac/49.2.421,,,National Licences: unil
 (NATIONALLICENCE)oxford-10.1093/jac/dku342,,2018-01-01,National Licences: unige
 (NATIONALLICENCE)oxford-10.1093/jac/35.3.435,,,National Licences: unil
 (NATIONALLICENCE)oxford-10.1093/jac/34.4.485,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/jac/27.suppl_C.149,,,National Licences: unige
 (NATIONALLICENCE)oxford-10.1093/jac/dkt106,,,National Licences: unibe
+(NATIONALLICENCE)oxford-10.1093/jac/8.suppl_A.37,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/jac/19.2.233,,,National Licences: uzh
 (NATIONALLICENCE)oxford-10.1093/jac/dkn097,,,National Licences: unibas unige
 (NATIONALLICENCE)oxford-10.1093/jac/dku347,,2018-01-01,National Licences: unibe
@@ -12220,6 +12315,7 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)oxford-10.1093/jac/42.2.227,,,National Licences: uzh
 (NATIONALLICENCE)oxford-10.1093/jac/17.suppl_B.29,,,National Licences: unige
 (NATIONALLICENCE)oxford-10.1093/jac/31.suppl_D.29,,,National Licences: unibe
+(NATIONALLICENCE)oxford-10.1093/jac/31.5.731,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/jac/dkh350,,,National Licences: uzh
 (NATIONALLICENCE)oxford-10.1093/jac/dku054,,2017-07-01,National Licences: unibe unifr uzh
 (NATIONALLICENCE)oxford-10.1093/jac/20.suppl_B.1,,,National Licences: unige
@@ -12261,6 +12357,7 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)oxford-10.1093/jac/30.suppl_A.15,,,National Licences: unige
 (NATIONALLICENCE)oxford-10.1093/jac/8.suppl_A.17,,,National Licences: unige
 (NATIONALLICENCE)oxford-10.1093/jac/dkr047,,,National Licences: unil
+(NATIONALLICENCE)oxford-10.1093/jac/11.suppl_B.51,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/jac/dku297,,2017-12-01,National Licences: unige
 (NATIONALLICENCE)oxford-10.1093/jac/dkl313,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/jac/27.suppl_C.21,,,National Licences: uzh
@@ -12495,6 +12592,7 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)gruyter-10.1515/jpm-2011-0086,,,National Licences: unibas uzh
 (NATIONALLICENCE)gruyter-10.1515/CCLM.2004.239,,,National Licences: uzh
 (NATIONALLICENCE)gruyter-10.1515/bgsl.2010.009,,,National Licences: uzh
+(NATIONALLICENCE)gruyter-10.1515/bmte.1998.43.s2.195,,,National Licences: unibas
 (NATIONALLICENCE)gruyter-10.1524/ract.1996.72.3.137,,,National Licences: lib4ri
 (NATIONALLICENCE)gruyter-10.1515/JGT.2009.014,,,National Licences: epfl
 (NATIONALLICENCE)gruyter-10.1515/revneuro-2013-0065,,,National Licences: unige
@@ -12730,6 +12828,7 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)oxford-10.1086/431151,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/infdis/jiu601,,2018-04-15,National Licences: unibas unibe uzh
 (NATIONALLICENCE)oxford-10.1093/infdis/jiq043,,,National Licences: unibas unibe unige unil uzh
+(NATIONALLICENCE)oxford-10.1093/infdis/jis742,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1086/648096,,,National Licences: unibas unibe
 (NATIONALLICENCE)oxford-10.1093/infdis/173.4.971,,,National Licences: unibe
 (NATIONALLICENCE)oxford-10.1086/591184,,,National Licences: unibe unil uzh
@@ -12816,6 +12915,7 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)oxford-10.1016/S0035-9203(98)90886-0,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1016/0035-9203(82)90301-7,,,National Licences: uzh
 (NATIONALLICENCE)oxford-10.1016/0035-9203(86)90278-6,,,National Licences: unibas
+(NATIONALLICENCE)oxford-10.1016/0035-9203(81)90050-X,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1016/0035-9203(88)90021-1,,,National Licences: unige
 (NATIONALLICENCE)oxford-10.1016/j.trstmh.2006.02.018,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/eurheartj/ehn549,,,National Licences: uzh
@@ -12838,6 +12938,7 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)oxford-10.1093/rheumatology/keq715,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/rheumatology/36.11.1151,,,National Licences: uzh
 (NATIONALLICENCE)oxford-10.1093/rheumatology/41.9.1017,,,National Licences: unige
+(NATIONALLICENCE)oxford-10.1093/rheumatology/keu101.023,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/rheumatology/27.3.187,,,National Licences: unibe
 (NATIONALLICENCE)oxford-10.1093/plankt/23.8.779,,,National Licences: ethz
 (NATIONALLICENCE)oxford-10.1093/plankt/fbs022,,,National Licences: unige
@@ -12896,7 +12997,7 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)oxford-10.1053/euhj.2002.3282,,,National Licences: uzh
 (NATIONALLICENCE)oxford-10.1093/eurheartj/ehv145,,2018-07-01,National Licences: unibe unil
 (NATIONALLICENCE)oxford-10.1093/eurheartj/ehq423,,,National Licences: uzh
-(NATIONALLICENCE)oxford-10.1016/0035-9203(95)90034-9,,,National Licences: uzh
+(NATIONALLICENCE)oxford-10.1016/0035-9203(95)90034-9,,,National Licences: unibas uzh
 (NATIONALLICENCE)oxford-10.1093/trstmh/trv031,,2018-06-01,National Licences: unige
 (NATIONALLICENCE)oxford-10.1016/j.trstmh.2008.04.029,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/ejcts/ezu096,,2018-01-01,National Licences: uzh
@@ -13016,6 +13117,7 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)oxford-10.1016/j.amjhyper.2003.11.001,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1016/S0895-7061(01)01345-0,,,National Licences: unil
 (NATIONALLICENCE)oxford-10.1016/0895-7061(95)97448-Z,,,National Licences: unibe
+(NATIONALLICENCE)oxford-10.1093/ajh/4.2.131S,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/molehr/5.11.1055,,,National Licences: unige
 (NATIONALLICENCE)oxford-10.1093/molehr/8.9.864,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/molehr/gau068,,2017-12-01,National Licences: unibas
@@ -13300,6 +13402,7 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)oxford-10.1093/ndt/gfh700,,,National Licences: unibe uzh
 (NATIONALLICENCE)oxford-10.1093/ndt/14.11.2556,,,National Licences: uzh
 (NATIONALLICENCE)oxford-10.1093/ndt/14.11.2734,,,National Licences: unibas
+(NATIONALLICENCE)oxford-10.1093/ndt/16.1.78,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/ndt/gfn478,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/geront/gnq107,,,National Licences: uzh
 (NATIONALLICENCE)oxford-10.1086/422879,,,National Licences: unil
@@ -13361,7 +13464,7 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)oxford-10.1093/cid/cir507,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1086/518619,,,National Licences: unibas unibe unige unil uzh
 (NATIONALLICENCE)oxford-10.1086/378063,,,National Licences: unige
-(NATIONALLICENCE)oxford-10.1086/424506,,,National Licences: unige unil
+(NATIONALLICENCE)oxford-10.1086/424506,,,National Licences: unibas unige unil
 (NATIONALLICENCE)oxford-10.1093/cid/cis464,,,National Licences: unibas unibe unige
 (NATIONALLICENCE)oxford-10.1093/cid/ciq079,,,National Licences: unibas uzh
 (NATIONALLICENCE)oxford-10.1093/brain/awm109,,,National Licences: uzh
@@ -13450,7 +13553,7 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)oxford-10.1093/aje/153.9.825,,,National Licences: unibe
 (NATIONALLICENCE)oxford-10.1093/oxfordjournals.aje.a009456,,,National Licences: uzh
 (NATIONALLICENCE)oxford-10.1093/aje/kwm041,,,National Licences: unige
-(NATIONALLICENCE)oxford-10.1093/ijpor/15.4.431,,,National Licences: unige unil
+(NATIONALLICENCE)oxford-10.1093/ijpor/15.4.431,,,National Licences: unibas unige unil
 (NATIONALLICENCE)oxford-10.1093/ijpor/edr004,,,National Licences: uzh
 (NATIONALLICENCE)oxford-10.1093/carcin/15.2.359,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/aje/152.5.474,,,National Licences: unibe
@@ -13520,6 +13623,7 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)oxford-10.1093/ndt/16.8.1532,,,National Licences: uzh
 (NATIONALLICENCE)oxford-10.1093/ndt/13.6.1585,,,National Licences: uzh
 (NATIONALLICENCE)oxford-10.1093/ndt/gfh972,,,National Licences: unige unil
+(NATIONALLICENCE)oxford-10.1093/ndt/gfl390,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/ndt/gfl436,,,National Licences: unibas unige unil
 (NATIONALLICENCE)oxford-10.1093/ndt/gfm648,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/ndt/gfl560,,,National Licences: uzh
@@ -13532,7 +13636,7 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)oxford-10.1093/cid/cis217,,,National Licences: uzh
 (NATIONALLICENCE)oxford-10.1093/cid/cis227,,,National Licences: unige
 (NATIONALLICENCE)oxford-10.1093/cid/cir626,,,National Licences: unibas unibe unige unil uzh
-(NATIONALLICENCE)oxford-10.1086/380637,,,National Licences: unibe unige unil uzh
+(NATIONALLICENCE)oxford-10.1086/380637,,,National Licences: unibas unibe unige unil uzh
 (NATIONALLICENCE)oxford-10.1093/ndt/gfh111,,,National Licences: uzh
 (NATIONALLICENCE)oxford-10.1093/ndt/11.8.1582,,,National Licences: uzh
 (NATIONALLICENCE)oxford-10.1093/ndt/18.1.62,,,National Licences: unibe
@@ -13547,10 +13651,15 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)oxford-10.1162/003355399556151,,,National Licences: uzh
 (NATIONALLICENCE)oxford-10.1093/ndt/gfh924,,,National Licences: unibe
 (NATIONALLICENCE)oxford-10.1093/ndt/gfh830,,,National Licences: unibe
+(NATIONALLICENCE)oxford-10.1093/intimm/1.5.540,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/intimm/2.1.57,,,National Licences: unibe
 (NATIONALLICENCE)oxford-10.1093/intimm/7.9.1381,,,National Licences: unige unil
 (NATIONALLICENCE)oxford-10.1093/intimm/5.2.131,,,National Licences: uzh
+(NATIONALLICENCE)oxford-10.1093/intimm/4.8.831,,,National Licences: unibas
+(NATIONALLICENCE)oxford-10.1093/intimm/1.6.592,,,National Licences: unibas
+(NATIONALLICENCE)oxford-10.1093/intimm/5.6.695,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/intimm/1.6.598,,,National Licences: unibas
+(NATIONALLICENCE)oxford-10.1093/intimm/1.5.496,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/oxfordjournals.alcalc.a044455,,,National Licences: unige
 (NATIONALLICENCE)oxford-10.1093/ageing/afs157,,,National Licences: unibe
 (NATIONALLICENCE)oxford-10.1093/ndt/gfp036,,,National Licences: unibe
@@ -13633,6 +13742,7 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)oxford-10.1093/aje/152.3.226,,,National Licences: unige
 (NATIONALLICENCE)oxford-10.1093/intimm/11.8.1337,,,National Licences: unige
 (NATIONALLICENCE)oxford-10.1093/intimm/dxn066,,,National Licences: unil
+(NATIONALLICENCE)oxford-10.1093/intimm/10.1.49,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/intimm/14.5.503,,,National Licences: unibe
 (NATIONALLICENCE)oxford-10.1093/intimm/11.9.1411,,,National Licences: unil
 (NATIONALLICENCE)oxford-10.1093/intimm/8.8.1319,,,National Licences: unibas
@@ -13764,12 +13874,15 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)oxford-10.1093/toxsci/kft143,,,National Licences: unibe
 (NATIONALLICENCE)oxford-10.1093/ndt/gfv191.03,,2018-05-01,National Licences: unige
 (NATIONALLICENCE)oxford-10.1093/ndt/gfv193.05,,2018-05-01,National Licences: unibe
+(NATIONALLICENCE)oxford-10.1093/oxfordjournals.ndt.a091469,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/ndt/gfv135.05,,2018-05-01,National Licences: unibe
 (NATIONALLICENCE)oxford-10.1093/oxfordjournals.ndt.a091736,,,National Licences: uzh
+(NATIONALLICENCE)oxford-10.1093/ndt/10.8.1475,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/ndt/8.7.582,,,National Licences: unibe
 (NATIONALLICENCE)oxford-10.1093/ndt/gfv150.01,,2018-05-01,National Licences: unibe
 (NATIONALLICENCE)oxford-10.1093/toxsci/kfr185,,,National Licences: lib4ri
 (NATIONALLICENCE)oxford-10.1093/toxsci/kfs298,,,National Licences: unibas
+(NATIONALLICENCE)oxford-10.1093/toxsci/kfr113,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/toxsci/kfn024,,,National Licences: unibe uzh
 (NATIONALLICENCE)oxford-10.1093/toxsci/kft216,,,National Licences: lib4ri unibe unifr
 (NATIONALLICENCE)oxford-10.1093/toxsci/kfm003,,,National Licences: lib4ri unibe
@@ -14054,6 +14167,7 @@ id (035a which stats with (NATIONALLICENCE)),path to fulltext,end of embargo (YY
 (NATIONALLICENCE)oxford-10.1093/nar/gkq501,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/nar/gkt742,,,National Licences: lib4ri
 (NATIONALLICENCE)oxford-10.1093/nar/gni079,,,National Licences: unil
+(NATIONALLICENCE)oxford-10.1093/nar/25.2.289,,,National Licences: unibas
 (NATIONALLICENCE)oxford-10.1093/nar/gkr1153,,,National Licences: ethz
 (NATIONALLICENCE)oxford-10.1093/nar/30.10.2202,,,National Licences: uzh
 (NATIONALLICENCE)oxford-10.1093/nar/30.10.2124,,,National Licences: uzh

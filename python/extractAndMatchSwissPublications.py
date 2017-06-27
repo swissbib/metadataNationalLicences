@@ -81,8 +81,15 @@ def match_institution(authoraffrole, institution):
     if institution=="unibas":
         if (match(address,['universit', 'basel']) or
                 match(address,['hospital', 'basel']) or
+                match(address,['kantonsspital', 'basel']) or
+                match(address,['biozentrum', 'basel']) or
                 match(address,['friedrich', 'miescher', 'basel']) or
                 match(address,['tropical', 'institute', 'basel']) or
+                match(address,['universit', 'basle']) or
+                match(address,['hospital', 'basle']) or
+                match(address,['friedrich', 'miescher', 'basle']) or
+                match(address,['tropical', 'institute', 'basle']) or
+                match(address,['immunology', 'institute', 'basel']) or
                 matchEmail(address,'unibas.ch')
             ):
             institutionGuess="University of Basel"
