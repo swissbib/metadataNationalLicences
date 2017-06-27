@@ -138,6 +138,11 @@ def match_institution(authoraffrole, institution):
     if institution=="unige":
         if (match(address,['universit', 'genev']) or
                 match(address,['hospital', 'genev']) or
+                match(address,['observa', 'sauverny']) or
+                match(address,['observa', 'versoix']) or
+                match(address,['astrophy', 'versoix']) or
+                match(address,['astrophy', 'sauverny']) or
+                match(address,['cmu', 'genev']) or
                 matchEmail(address,'unige.ch')
             ):
             institutionGuess="University of Geneva"
@@ -158,8 +163,15 @@ def match_institution(authoraffrole, institution):
             ):
             institutionGuess="Università della Svizzera italiana"
 
-    if institution=="switzerland":
+    if institution=="fachhochschulen":
+        if (match(address,['fachhochschule']) or
+                match(address,['universit', 'applied', 'sciences']) or
+                match(address,['haute', 'ecole', 'specialis']) or
+                match(address,['hochschule', 'angewandte', 'wissenschaft'])
+            ):
+            institutionGuess="Fachhochschulen/Hautes Ecoles spécialisées"
 
+    if institution=="switzerland":
         query_terms=["switzerland","suisse","svizzera","schweiz","basel","zurich","zuerich","geneve","genf","geneva","luzern","lucerne","fribourg","gall","gallen","lugano","bellinzona","neuchatel","bern","mendrisio","bellinzona"]
         for term in query_terms:
             if (match(address,[term])):
@@ -187,10 +199,14 @@ def match(someText, arrayOfStrings):
 
     asciiText=unicodedata.normalize('NFD', someText).encode('ascii','ignore')
 
-    asciiText.replace("-", " ")
-    asciiText.replace("'", " ")
-    asciiText.replace("(", " ")
-    asciiText.replace(")", " ")
+    asciiText=asciiText.lower()
+    asciiText=asciiText.replace("e.p.f.l", "epfl")
+    asciiText=asciiText.replace("e.t.h.z", "ethz")
+    asciiText=asciiText.replace("e.t.h", "eth")
+    asciiText=asciiText.replace("-", " ")
+    asciiText=asciiText.replace("'", " ")
+    asciiText=asciiText.replace("(", " ")
+    asciiText=asciiText.replace(")", " ")
 
 
     tokens=asciiText.split()
@@ -204,7 +220,7 @@ def match(someText, arrayOfStrings):
 
             for token in tokens:
                 textFound=0
-                if token.lower().startswith(text):
+                if token.startswith(text):
                     #text found
                     textFound=1
                     break
@@ -222,7 +238,7 @@ def matchEmail(affiliation, emailDomain):
     for token in tokens:
         if '@' in token:
             domain=""
-            result=re.search('@.*\.([a-z]*\.ch)',token)
+            result=re.search('([a-z]*\.ch)$',token)
             if (result):
                 domain=result.group(1)
             if domain==emailDomain:
@@ -287,6 +303,7 @@ request = {
             "must": [
                 { "range" : { "pyear" : {"lte" : 2015}}},
                 { "regexp": { "contrib-affiliations": query_term   }},
+                #{ "match": { "doi": "10.1017/S1743921313008740"   }},
             ]
         }
     }
@@ -340,6 +357,7 @@ institutions=[
     "unisg",
     "usi",
     "uzh",
+    "fachhochschulen",
     "known_institution",
     "unknown_institution",
     "all_publications"

@@ -179,7 +179,7 @@
         </concat>
 
 
-        <!-- Affiliations -->
+        <!-- Affiliations from Authors -->
         <concat name="affiliations" flushWith="name" reset="true"  delimiter=" ">
             <if>
                 <data source="name.role.roleTerm.value">
@@ -205,6 +205,94 @@
             </concat>
 
         </concat>
+
+
+
+        <!-- Contributors -->
+        <concat name="contribs" flushWith="name" reset="true" delimiter=" ">
+            <data source="name.namePart.value"/>
+        </concat>
+
+        <!-- Contributors Affiliations -->
+        <concat name="contrib-affiliations" flushWith="name" reset="true"  delimiter=" ">
+            <data source="name.affiliation.value"/>
+        </concat>
+
+        <!-- Contrib+affiliations+role -->
+        <concat name="contrib-aff-role" flushWith="name" reset="true" delimiter="/////">
+
+            <concat name="author" flushWith="name" reset="true"  delimiter=" ">
+                <data source="name.namePart.value"/>
+            </concat>
+
+            <concat name="affiliations" flushWith="name" reset="true"  delimiter=" ">
+                <data source="name.affiliation.value"/>
+            </concat>
+
+            <concat name="role" flushWith="name" reset="true"  delimiter=" ">
+                <data source="name.role.roleTerm.value"/>
+            </concat>
+
+        </concat>
+
+
+
+        <!-- Corresponding Authors -->
+        <concat name="corresp-authors" flushWith="name" reset="true" delimiter=" ">
+            <if>
+                <data source="name.displayLabel">
+                    <equals string="corresp"/>
+                </data>
+            </if>
+            <data source="name.namePart.value"/>
+        </concat>
+
+
+        <!-- Affiliations from corresponding Authors -->
+        <concat name="affiliations-from-corresp-authors" flushWith="name" reset="true"  delimiter=" ">
+            <if>
+                <data source="name.displayLabel">
+                    <equals string="corresp"/>
+                </data>
+            </if>
+            <data source="name.affiliation.value"/>
+        </concat>
+
+        <!-- Author+affiliations -->
+        <concat name="correspauthor-aff" flushWith="name" reset="true" delimiter="/////">
+            <if>
+                <data source="name.displayLabel">
+                    <equals string="corresp"/>
+                </data>
+            </if>
+            <concat name="author" flushWith="name" reset="true"  delimiter=" ">
+                <data source="name.namePart.value"/>
+            </concat>
+
+            <concat name="affiliations" flushWith="name" reset="true"  delimiter=" ">
+                <data source="name.affiliation.value"/>
+            </concat>
+
+        </concat>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
         <!-- Source -->
         <data source="recordInfo.recordContentSource.value" name="source"/>
