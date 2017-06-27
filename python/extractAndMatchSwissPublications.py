@@ -17,8 +17,8 @@ import locale
 locale.setlocale(locale.LC_ALL, '')
 
 
-def match_institution(authoraff, institution):
-    parts=authoraff.split("/////")
+def match_institution(authoraffrole, institution):
+    parts=authoraffrole.split("/////")
     address=unicode("","utf-8")
     if len(parts)>1:
         address=parts[1]
@@ -31,13 +31,15 @@ def match_institution(authoraff, institution):
 
 
 
+
     if institution=="ethz":
         if (match(address,['eth','zurich']) or
                match(address,['eidgenossische','technische','zurich']) or
                match(address,['institute','technology', 'zurich']) or
-               match(address,['ethz'])
+               match(address,['ethz']) or
+               matchEmail(address,'ethz.ch')
            ):
-            institutionGuess="ETH Zurich"
+           institutionGuess="ETH Zurich"
 
 
     if institution=="epfl":
@@ -46,18 +48,32 @@ def match_institution(authoraff, institution):
                 match(address,['eth','lausanne']) or
                 match(address,['polytechni','lausanne']) or
                 match(address,['fed', 'inst','lausanne']) or
-                match(address,['institute','technology', 'lausanne'])
+                match(address,['institute','technology', 'lausanne']) or
+                matchEmail(address,'epfl.ch')
             ):
             institutionGuess="EPF Lausanne"
 
     if institution=="lib4ri":
-        if (match(address,['paul', 'scherrer', 'villigen']) or
+        if (match(address,['paul', 'scherrer']) or
                 match(address,['psi', 'villigen']) or
                 match(address,['empa', 'dubendorf']) or
                 match(address,['empa', 'duebendorf']) or
+                match(address,['empa', 'thun']) or
+                match(address,['empa', 'gall']) or
                 match(address,['eawag', 'dubendorf']) or
                 match(address,['eawag', 'duebendorf']) or
-                match(address,['wsl', 'davos'])
+                match(address,['eawag', 'kastanienbaum']) or
+                match(address,['aquatic', 'dubendorf']) or
+                match(address,['aquatic', 'duebendorf']) or
+                match(address,['water', 'dubendorf']) or
+                match(address,['water', 'duebendorf']) or
+                match(address,['wasser', 'dubendorf']) or
+                match(address,['wasser', 'duebendorf']) or
+                match(address,['snow', 'davos']) or
+                match(address,['schnee', 'davos']) or
+                match(address,['forest', 'snow', 'landscape']) or
+                match(address,['wald', 'schnee', 'landschaft']) or
+                match(address,['birmensdorf'])
             ):
             institutionGuess="LIB4RI"
 
@@ -66,17 +82,20 @@ def match_institution(authoraff, institution):
         if (match(address,['universit', 'basel']) or
                 match(address,['hospital', 'basel']) or
                 match(address,['friedrich', 'miescher', 'basel']) or
-                match(address,['tropical', 'institute', 'basel'])
+                match(address,['tropical', 'institute', 'basel']) or
+                matchEmail(address,'unibas.ch')
             ):
             institutionGuess="University of Basel"
 
     if institution=="unifr":
-        if match(address,['universit', 'fribourg']):
+        if match(address,['universit', 'fribourg'] or
+                matchEmail(address,'unifr.ch')):
             institutionGuess="University of Fribourg"
 
     if institution=="uzh":
         if (match(address,['universit', 'zurich']) or
-                match(address,['hospital', 'zurich'])
+                match(address,['hospital', 'zurich']) or
+                matchEmail(address,'uzh.ch')
             ):
             institutionGuess="University of Zurich"
 
@@ -84,34 +103,42 @@ def match_institution(authoraff, institution):
         if (match(address,['universit', 'lausanne']) or
                 match(address,['hospital', 'lausanne']) or
                 match(address,['inst', 'physiolog', 'lausanne']) or
-                match(address,['chuv', 'lausanne'])
+                match(address,['chuv', 'lausanne']) or
+                matchEmail(address,'unil.ch') or
+                matchEmail(address,'chuv.ch')
             ):
             institutionGuess="University of Lausanne"
 
     if institution=="unisg":
-        if match(address,['universit', 'gall']):
+        if match(address,['universit', 'gall']  or
+                matchEmail(address,'unisg.ch')):
             institutionGuess="University of St-Gall"
 
     if institution=="unine":
-        if match(address,['universit', 'neuchatel']):
+        if match(address,['universit', 'neuchatel']  or
+                matchEmail(address,'unine.ch')):
             institutionGuess="University of Neuchatel"
 
     if institution=="unibe":
         if (match(address,['universit', 'bern']) or
                 match(address,['hospital', 'bern']) or
-                match(address,['inselspital', 'bern'])
+                match(address,['inselspital', 'bern']) or
+                matchEmail(address,'unibe.ch') or
+                matchEmail(address,'insel.ch')
             ):
             institutionGuess="University of Bern"
 
     if institution=="unilu":
         if (match(address,['universit', 'lucerne']) or
-                match(address,['universit', 'luzern'])
+                match(address,['universit', 'luzern'])  or
+                matchEmail(address,'unilu.ch')
             ):
             institutionGuess="University of Lucerne"
 
     if institution=="unige":
         if (match(address,['universit', 'genev']) or
-                match(address,['hospital', 'genev'])
+                match(address,['hospital', 'genev']) or
+                matchEmail(address,'unige.ch')
             ):
             institutionGuess="University of Geneva"
 
@@ -126,7 +153,8 @@ def match_institution(authoraff, institution):
                 match(address,['idsia', 'manno']) or
                 match(address,['irb', 'bellinzona']) or
                 match(address,['istituto', 'ricerca', 'biomedicina', 'bellinzona']) or
-                match(address,['institute', 'research', 'biomedicine', 'bellinzona'])
+                match(address,['institute', 'research', 'biomedicine', 'bellinzona']) or
+                matchEmail(address,'usi.ch')
             ):
             institutionGuess="Università della Svizzera italiana"
 
@@ -149,11 +177,22 @@ def match_institution(authoraff, institution):
 def match(someText, arrayOfStrings):
     # remove accents and umlauts and convert to lower case then do a match
     # search if someText contains all the words that begin with the strings in arrayOfStrings
-    # match('University of Bern', ['uni','bern'] = yes
-    # match('Munich Bern', ['uni','bern'] = no
+    # match('University of Bern', ['uni','bern']) = yes
+    # match('Munich Bern', ['uni','bern']) = no
+
+
+    #replace special unicode-apostrophe by space (the NFD transformation doesn't transform that)
+    someText=someText.replace(u"’", " ")
 
 
     asciiText=unicodedata.normalize('NFD', someText).encode('ascii','ignore')
+
+    asciiText.replace("-", " ")
+    asciiText.replace("'", " ")
+    asciiText.replace("(", " ")
+    asciiText.replace(")", " ")
+
+
     tokens=asciiText.split()
 
     if len(tokens)==0:
@@ -165,7 +204,7 @@ def match(someText, arrayOfStrings):
 
             for token in tokens:
                 textFound=0
-                if token.lower().find(text)==0:
+                if token.lower().startswith(text):
                     #text found
                     textFound=1
                     break
@@ -176,6 +215,25 @@ def match(someText, arrayOfStrings):
                 break
 
         return result
+
+def matchEmail(affiliation, emailDomain):
+    #matchEmail("Laboratory for Human Nutrition, I... davidsson@ilw.agrl.ethz.ch", "ethz.ch") returns yes
+    tokens=affiliation.split()
+    for token in tokens:
+        if '@' in token:
+            domain=""
+            result=re.search('@.*\.([a-z]*\.ch)',token)
+            if (result):
+                domain=result.group(1)
+            if domain==emailDomain:
+                return True
+            else:
+                return False
+
+
+
+
+
 
 
 def getPath(source, path):
@@ -228,7 +286,7 @@ request = {
         "bool": {
             "must": [
                 { "range" : { "pyear" : {"lte" : 2015}}},
-                { "regexp": { "affiliations": query_term   }},
+                { "regexp": { "contrib-affiliations": query_term   }},
             ]
         }
     }
@@ -283,7 +341,8 @@ institutions=[
     "usi",
     "uzh",
     "known_institution",
-    "unknown_institution"
+    "unknown_institution",
+    "all_publications"
 ]
 
 
@@ -335,19 +394,19 @@ while len(result["hits"]["hits"])>0:
             article_subtitle="".join(article["article-subtitle"])
 
 
-        affiliations=""
-        if "affiliations" in article:
-            if isinstance(article["affiliations"], list):
-                affiliations=";".join(article["affiliations"])
+        contrib_affiliations=""
+        if "contrib-affiliations" in article:
+            if isinstance(article["contrib-affiliations"], list):
+                affiliations=";".join(article["contrib-affiliations"])
             else:
-                affiliations=article["affiliations"]
+                affiliations=article["contrib-affiliations"]
 
-        authors=""
-        if "authors" in article:
-            if isinstance(article["authors"], list):
-                authors=";".join(article["authors"])
+        contribs=""
+        if "contribs" in article:
+            if isinstance(article["contribs"], list):
+                authors=";".join(article["contribs"])
             else:
-                authors=article["authors"]
+                authors=article["contribs"]
 
 
 
@@ -356,10 +415,11 @@ while len(result["hits"]["hits"])>0:
         addresses=[]
         matchingAuthorAff={}
 
-        if isinstance(article["author-aff"], list):
-            addresses=article["author-aff"]
+        if isinstance(article["contrib-aff-role"], list):
+            addresses=article["contrib-aff-role"]
         else:
-            addresses=(article["author-aff"])
+            addresses=[article["contrib-aff-role"]]
+
 
 
         for institution in institutions:
@@ -386,10 +446,10 @@ while len(result["hits"]["hits"])>0:
             article.get("path_filename",""), # "url to download pdf (protected)",
             article_title,   # "Article Title",
             article_subtitle,   # "Article Subtitle",
-            authors,   # "Authors",
+            contribs,   # "Authors",
             article.get("pyear",""),   # "Year",
             article.get("jtitle",""),   # "Journal Title",
-            affiliations,   # "All Affiliations",
+            contrib_affiliations,   # "All Affiliations",
             article.get("publisher-name",""),   # "Publisher",
             getDateEndEmbargo(article.get("source",""),article.get("full-date","")),   # "Date of Allowed Open Access Publication",
             article.get("volume",""),   # "Volume",
@@ -415,8 +475,12 @@ while len(result["hits"]["hits"])>0:
                 row[1]=matchingAuthor
                 row[2]=institution
                 files[institution].writerow(row)
+            #for all publications, we put all affiliations in the institution column
+            row[2]=" ".join(institutionGuess)
             files["known_institution"].writerow(row)
             numberOfPublications["known_institution"]=numberOfPublications["known_institution"]+1
+            files["all_publications"].writerow(row)
+            numberOfPublications["all_publications"]=numberOfPublications["all_publications"]+1
             rerodoc_file.writerow([
                 "(NATIONALLICENCE)"+hit["_id"],
                 getPath(article.get("source",""), article.get("pdf","")),
@@ -437,6 +501,8 @@ while len(result["hits"]["hits"])>0:
             row[1]=matchingAuthor
             files["unknown_institution"].writerow(row)
             numberOfPublications["unknown_institution"]=numberOfPublications["unknown_institution"]+1
+            files["all_publications"].writerow(row)
+            numberOfPublications["all_publications"]=numberOfPublications["all_publications"]+1
 
 
 
