@@ -52,6 +52,7 @@
 
 
     <xsl:template match="//datafield[@tag='100']/subfield[@code='D'] | //datafield[@tag='700']/subfield[@code='D']"></xsl:template>
+    <xsl:template match="//datafield[@tag='100']/subfield[@code='4'] | //datafield[@tag='700']/subfield[@code='4']"></xsl:template>
 
     <xsl:template match="//datafield[@tag='245']/subfield[@code='c']"></xsl:template>
     <xsl:template match="//datafield[@tag='245']/subfield[@code='h']"></xsl:template>
@@ -116,6 +117,9 @@
         <xsl:attribute name="ind1"><xsl:text> </xsl:text></xsl:attribute>
     </xsl:template>
 
+    <xsl:template match="//datafield[@tag='773']/@ind1">
+        <xsl:attribute name="ind1"><xsl:text> </xsl:text></xsl:attribute>
+    </xsl:template>
 
 
 
@@ -138,6 +142,42 @@
             <xsl:value-of select="../subfield[@code='D']"></xsl:value-of>
         </xsl:element>
 
+    </xsl:template>
+
+
+
+    <!-- don't take editors in 100-->
+    <xsl:template match="//datafield[@tag='100']">
+        <xsl:choose>
+            <xsl:when test="starts-with(subfield[@code='4'],'edt')">
+                <!-- remove element -->
+            </xsl:when>
+            <xsl:otherwise>
+                <xsl:element name="datafield">
+                    <xsl:attribute name="tag">100</xsl:attribute>
+                    <xsl:attribute name="ind1"><xsl:text> </xsl:text></xsl:attribute>
+                    <xsl:attribute name="ind2"><xsl:text> </xsl:text></xsl:attribute>
+                    <xsl:apply-templates></xsl:apply-templates>
+                </xsl:element>
+            </xsl:otherwise>
+        </xsl:choose>
+    </xsl:template>
+
+    <!-- don't take editors in 700-->
+    <xsl:template match="//datafield[@tag='700']">
+        <xsl:choose>
+            <xsl:when test="starts-with(subfield[@code='4'],'edt')">
+                <!-- remove element -->
+            </xsl:when>
+            <xsl:otherwise>
+                <xsl:element name="datafield">
+                    <xsl:attribute name="tag">700</xsl:attribute>
+                    <xsl:attribute name="ind1"><xsl:text> </xsl:text></xsl:attribute>
+                    <xsl:attribute name="ind2"><xsl:text> </xsl:text></xsl:attribute>
+                    <xsl:apply-templates></xsl:apply-templates>
+                </xsl:element>
+            </xsl:otherwise>
+        </xsl:choose>
     </xsl:template>
 
     <!-- move first 700 field to 100 -->
@@ -164,12 +204,7 @@
     </xsl:template>
 
 
-    <xsl:template match="//datafield[@tag='100']/subfield[@code='4'] | //datafield[@tag='700']/subfield[@code='4']">
-        <xsl:element name="subfield">
-            <xsl:attribute name="code">e</xsl:attribute>
-            <xsl:value-of select="."></xsl:value-of>
-        </xsl:element>
-    </xsl:template>
+
 
     <xsl:template match="//datafield[@tag='035']">
         <xsl:choose>
