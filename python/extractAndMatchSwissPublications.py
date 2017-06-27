@@ -422,16 +422,16 @@ while len(result["hits"]["hits"])>0:
         contrib_affiliations=""
         if "contrib-affiliations" in article:
             if isinstance(article["contrib-affiliations"], list):
-                affiliations=";".join(article["contrib-affiliations"])
+                contrib_affiliations=";".join(article["contrib-affiliations"])
             else:
-                affiliations=article["contrib-affiliations"]
+                contrib_affiliations=article["contrib-affiliations"]
 
         contribs=""
         if "contribs" in article:
             if isinstance(article["contribs"], list):
-                authors=";".join(article["contribs"])
+                contribs=";".join(article["contribs"])
             else:
-                authors=article["contribs"]
+                contribs=article["contribs"]
 
 
 
