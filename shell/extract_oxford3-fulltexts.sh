@@ -27,11 +27,12 @@ fi
 
 function extract ()
 {   
-while read filename; do 
+while read filename; do
+    echo $filename
 	#only get parent directory (which is journal name)
 	PARENT_DIRECTORY="$(basename "$(dirname "$filename")")"
 	mkdir -p "$TARGET_DIRECTORY""$PARENT_DIRECTORY"
-	unzip -oq "$filename" -d "$TARGET_DIRECTORY""$PARENT_DIRECTORY"
+	unzip -oD "$filename" -d "$TARGET_DIRECTORY""$PARENT_DIRECTORY"
 done;
 }
 
