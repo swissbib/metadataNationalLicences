@@ -10,6 +10,7 @@ import unicodedata
 import sys
 from datetime import datetime
 from dateutil.relativedelta import relativedelta
+import os
 
 
 
@@ -259,11 +260,23 @@ def matchEmail(affiliation, emailDomain):
 
 
 
-def getPath(source, path):
+def getPath(source, path, journalId=""):
+    base_path="/media/lionel/Data/swissbib-data/nationallizenzen/" + source + "/swiss-pdf/"
     if(source=="cambridge"):
         #remove the a in the pdf S0022050700009268a.pdf
-        pdfname=path.replace("a.pdf",".pdf")
-        return "/fulltexts/cambridge/"+pdfname
+        pdfname=os.path.basename(path)
+        pdfname=pdfname.replace("h.xml",".pdf")
+        return base_path+pdfname
+    if(source=="oxford"):
+        pdfname=os.path.basename(path)
+        pdfname=pdfname.replace("xml","pdf")
+        return base_path+journalId+"/"+pdfname
+    if(source=="gruyter"):
+        pdfname=os.path.basename(path)
+        path=path.replace("./j/","j/")
+        path=path.replace(".xml",".pdf")
+        return base_path+path
+
 
 def getDateEndEmbargo(source, date):
     #date is 2015 or 2015-05 or 2015-05-03
@@ -387,7 +400,8 @@ rerodoc_file.writerow([
     "id (035a which stats with (NATIONALLICENCE))",
     "path to fulltext",
     "end of embargo (YYYY-MM-DD)",
-    "Institutions"
+    "Institutions",
+    "id for SRU (no special characters)"
 ]
 
 
@@ -468,7 +482,7 @@ while len(result["hits"]["hits"])>0:
             "", # "Institution Guess"
             article.get("doi",""), # "doi",
             "https://doi.org/"+article.get("doi",""), # "url",
-            article.get("path_filename",""), # "url to download pdf (protected)",
+            getPath(article.get("source",""), article.get("path_filename",""), article.get("journal-id","")), # "url to download pdf (protected)",
             article_title,   # "Article Title",
             article_subtitle,   # "Article Subtitle",
             contribs,   # "Authors",
@@ -508,11 +522,23 @@ while len(result["hits"]["hits"])>0:
             numberOfPublications["all_publications"]=numberOfPublications["all_publications"]+1
             rerodoc_file.writerow([
                 "(NATIONALLICENCE)"+hit["_id"],
-                getPath(article.get("source",""), article.get("pdf","")),
+                getPath(article.get("source",""), article.get("path_filename",""), article.get("journal-id","")), # "url to download pdf (protected)",
                 getDateEndEmbargo(article.get("source",""),article.get("full-date","")),
-                "National Licences: "+ " ".join(institutionGuess)
+                "National Licences: "+ " ".join(institutionGuess),
+                idForSru
             ])
         else:
+            if(article.get("source","")=="cambridge"):
+                #all swiss publications from Cambridge might go in RERO DOC, not only the ones where the institution is recognized as is the case for the other publishers
+                rerodoc_file.writerow([
+                    "(NATIONALLICENCE)"+hit["_id"],
+                    getPath(article.get("source",""), article.get("path_filename",""), article.get("journal-id","")), # "url to download pdf (protected)",
+                    getDateEndEmbargo(article.get("source",""),article.get("full-date","")),
+                    "", #institutions
+                    idForSru
+                ])
+
+
             swissAuthorAff=""
             matchingAuthor=""
             matchingAffiliation=""
