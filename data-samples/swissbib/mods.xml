@@ -16,7 +16,7 @@
         <namePart type="given">N.</namePart>
         <namePart type="given">A.</namePart>
         <namePart type="family">Aksenova</namePart>
-
+        <affiliation>University of Test</affiliation>
         <role>
             <roleTerm type="text">author</roleTerm>
         </role>
@@ -71,7 +71,7 @@
             Institute of Problems of Chemical Physics, Russian Academy of Sciences, Chernogolovka, Moscow oblast, Russia
         </affiliation>
         <role>
-            <roleTerm type="text">author</roleTerm>
+            <roleTerm type="text">editor</roleTerm>
         </role>
     </name>
     <typeOfResource>text</typeOfResource>
