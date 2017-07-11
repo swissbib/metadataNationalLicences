@@ -485,7 +485,7 @@ while len(result["hits"]["hits"])>0:
             getPath(article.get("source",""), article.get("path_filename",""), article.get("journal-id","")), # "url to download pdf (protected)",
             article_title,   # "Article Title",
             article_subtitle,   # "Article Subtitle",
-            contribs,   # "Authors",
+            contribs.title(),   # "Authors",
             article.get("pyear",""),   # "Year",
             article.get("jtitle",""),   # "Journal Title",
             contrib_affiliations,   # "All Affiliations",
@@ -511,7 +511,7 @@ while len(result["hits"]["hits"])>0:
                 matchingAuthor=matchingAuthorAff[institution].split("/////")[0]
                 matchingAffiliation=matchingAuthorAff[institution].split("/////")[1]
                 row[0]=matchingAffiliation
-                row[1]=matchingAuthor
+                row[1]=matchingAuthor.title()
                 row[2]=institution
                 files[institution].writerow(row)
             #for all publications, we put all affiliations in the institution column
@@ -549,7 +549,7 @@ while len(result["hits"]["hits"])>0:
                     matchingAffiliation=swissAuthorAff.split("/////")[1]
                     break
             row[0]=matchingAffiliation
-            row[1]=matchingAuthor
+            row[1]=matchingAuthor.title()
             files["unknown_institution"].writerow(row)
             numberOfPublications["unknown_institution"]=numberOfPublications["unknown_institution"]+1
             files["all_publications"].writerow(row)
