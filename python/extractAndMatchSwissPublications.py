@@ -12,6 +12,7 @@ from datetime import datetime
 from dateutil.relativedelta import relativedelta
 import os
 
+import doisToSkip
 
 
 import locale
@@ -422,6 +423,10 @@ for institution in institutions:
 while len(result["hits"]["hits"])>0:
     for hit in result["hits"]["hits"]:
         article=hit["_source"]
+
+        if article.get("doi","") in doisToSkip.dois_to_skip:
+            #we skip this article
+            continue
 
 
         article_title=""
