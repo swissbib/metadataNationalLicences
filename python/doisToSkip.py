@@ -3,6 +3,7 @@
 
 #for these publications, it was impossible to locate the fulltexts and it was not delivered by the publishers
 dois_to_skip=[
+    # no fulltext available
     "10.1017/S000983880800030X",
     "10.1017/S0009840X00112508",
     "10.1017/S0022336000032820",
@@ -92,5 +93,9 @@ dois_to_skip=[
     "10.1093/oxfordjournals.jmicro.a050197",
     "10.1093/nar/28.3.e10",
     "10.1093/ndt/18.3.620-a",
-    "10.1093/petrology/41.1.21"
+    "10.1093/petrology/41.1.21",
+    #not in swissbib
+    "10.1093/rheumatology/kes109",
+    "10.1093/ije/dyu255"
+
 ]

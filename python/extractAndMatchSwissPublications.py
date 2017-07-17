@@ -160,8 +160,10 @@ def match_institution(authoraffrole, institution):
         if (match(address,['usi', 'lugano']) or
                 match(address,['usi', 'mendrisio']) or
                 match(address,['universit', 'lugano']) or
+                match(address,['universit', 'svizzera', 'italiana']) or
                 match(address,['accademia', 'architettura']) or
                 match(address,['accad', 'arch', 'mendrisio']) or
+                match(address,['acc', 'arch', 'usi']) or
                 match(address,['istituto', 'molle', 'studi', 'intelligen', 'artificial']) or
                 match(address,['institute', 'molle', 'stud', 'intelligen', 'artificial']) or
                 match(address,['idsia', 'manno']) or
@@ -262,7 +264,7 @@ def matchEmail(affiliation, emailDomain):
 
 
 def getPath(source, path, journalId=""):
-    base_path="/media/lionel/Data/swissbib-data/nationallizenzen/" + source + "/swiss-pdf/"
+    base_path="/media/lionel/USB/fulltexts/" + source + "/"
     if(source=="cambridge"):
         #remove the a in the pdf S0022050700009268a.pdf
         pdfname=os.path.basename(path)
