@@ -1,1 +1,0 @@
-curl -F 'operation=doQueryUpload' -F 'login_id=XXX' -F 'login_passwd=YYY' -F 'fname=@query.xml' https://doi.crossref.org/servlet/deposit
