@@ -96,6 +96,15 @@ dois_to_skip=[
     "10.1093/petrology/41.1.21",
     #not in swissbib
     "10.1093/rheumatology/kes109",
-    "10.1093/ije/dyu255"
-
+    "10.1093/ije/dyu255",
+    #duplicate doi's (in alphanumerical)
+    "10.1093/intimm/1.1.11",
+    "10.1515/JURU.2008.124",
+    #doi's merged by CBS
+    "10.1093/eurpub/13.suppl_3.107",
+    "10.1111/j.1468-2516.2012.00401.x",
+    "10.1515/pwp.2003.4.1.141",
+    "10.1017/S0007114500002464",
+    "10.1017/S0007114500002701",
+    "10.1515/mopp-2014-0010"
 ]
