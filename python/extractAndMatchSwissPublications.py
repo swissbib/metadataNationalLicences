@@ -13,6 +13,7 @@ from dateutil.relativedelta import relativedelta
 import os
 
 import doisToSkip
+import doisReroDocUrl
 
 
 import locale
@@ -258,9 +259,11 @@ def matchEmail(affiliation, emailDomain):
                 return False
 
 
-
-
-
+def getUrl(doi):
+    if doisReroDocUrl.reroDocFulltextUrl.has_key(doi):
+        return doisReroDocUrl.reroDocFulltextUrl[doi]
+    else:
+        return ""
 
 
 def getPath(source, path, journalId=""):
@@ -340,8 +343,8 @@ columns=[
     "First Matching Author",
     "Institution Guess",
     "doi",
-    "url to publisher",
-    "Metadata path+filename (local)",
+    "Url to publisher",
+    "Url to fulltext in Rero Doc",
     "Article Title",
     "Article Subtitle",
     "Authors",
@@ -489,7 +492,7 @@ while len(result["hits"]["hits"])>0:
             "", # "Institution Guess"
             article.get("doi",""), # "doi",
             "https://doi.org/"+article.get("doi",""), # "url",
-            getPath(article.get("source",""), article.get("path_filename",""), article.get("journal-id","")), # "url to download pdf (protected)",
+            getUrl(article.get("doi","")), # "url to download pdf (protected)",
             article_title,   # "Article Title",
             article_subtitle,   # "Article Subtitle",
             contribs.title(),   # "Authors",
