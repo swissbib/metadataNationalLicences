@@ -352,7 +352,7 @@ columns=[
     "Journal Title",
     "All Affiliations",
     "Publisher",
-    "Date of Allowed Open Access Publication",
+    "Date of Allowed Open Access Publication (YYYY-MM-DD)",
     "Volume",
     "Issue",
     "Start Page",
@@ -514,7 +514,7 @@ while len(result["hits"]["hits"])>0:
             sruBegin+idForSru+sruMiddle+"1%2Fmarcxml-v1.1-light"+sruEnd,   # "Metadata in MARC XML",
             sruBegin+idForSru+sruMiddle+"1%2Fdc-v1.1-light"+sruEnd,   # "Metadata in Dublin Core",
             sruBegin+idForSru+sruMiddleJSON+"json"+sruEnd,   # "Metadata in Json-Marc",
-            ""   # "Comment"
+            "It was possible to publish this article open access thanks to a Swiss National Licence with the Publisher"   # "Comment"
         ]
         if(institutionGuess):
             for institution in institutionGuess:
