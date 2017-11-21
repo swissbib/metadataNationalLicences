@@ -14,69 +14,58 @@
       "article": {
         "properties": {
           "affiliations": {
-            "type": "string"
+            "type": "text"
           },
           "article-title": {
-            "type": "string"
+            "type": "text"
           },
           "article-title-not-analyzed": {
-            "type": "string",
-            "index": "not_analyzed"
+            "type": "keyword"
           },
           "article-type": {
-            "type": "string",
-            "index": "not_analyzed"
+            "type": "keyword"
           },
           "author": {
-            "type": "string"
+            "type": "text"
           },
           "copyright-year": {
-            "type": "string"
+            "type": "keyword"
           },
           "doi": {
-            "type": "string",
-            "index": "not_analyzed"
+            "type": "keyword"
           },
           "doi-prefix" : {
-            "type": "string",
-            "index": "not_analyzed"
+            "type": "keyword"
           },
           "eissn": {
-            "type": "string",
-            "index": "not_analyzed"
+            "type": "keyword"
           },
           "publisher-name": {
-            "type": "string",
-            "index": "not_analyzed"
+            "type": "keyword"
           },
           "emails": {
-            "type": "string"
+            "type": "text"
           },
           "eyear": {
             "type": "integer"
           },
           "journal-id": {
-            "type": "string",
-            "analyzer": "lower"
+            "type": "keyword"
           },
-          "journal-title": {
-            "type": "string",
-            "index": "not_analyzed"
+          "jtitle": {
+            "type": "keyword"
           },
           "license-link": {
-            "type": "string",
-            "index": "not_analyzed"
+            "type": "keyword"
           },
           "license-paragraph": {
-            "type": "string"
+            "type": "text"
           },
           "license-type": {
-            "type": "string",
-            "index": "not_analyzed"
+            "type": "keyword"
           },
           "pissn": {
-            "type": "string",
-            "index": "not_analyzed"
+            "type": "keyword"
           },
           "pyear": {
             "type": "integer"
@@ -88,15 +77,13 @@
             "type": "integer"
           },
           "path_filename": {
-            "type": "string"
+            "type": "text"
           },
           "source": {
-            "type": "string",
-            "index": "not_analyzed"
+            "type": "keyword"
           },
           "pdf": {
-            "type": "string",
-            "index": "not_analyzed"
+            "type": "keyword"
           },
           "full-date": {
             "type": "date"

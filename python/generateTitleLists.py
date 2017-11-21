@@ -52,7 +52,7 @@ request = {
             "aggs": {
                 "title_agg": {
                     "terms": {
-                        "field": "journal-title",
+                        "field": "jtitle",
                         "size": 1
                     }
                 },
@@ -119,11 +119,11 @@ postJournalUrl= {
 
 
 #for publisher in ["gruyter", "oxford", "cambridge"]:
-for publisher in ["oxford"]:
+for publisher in ["springer"]:
 
     index_to_query=publisher
 
-    result = es.search(search_type="count", body=request, index=index_to_query, doc_type="article")
+    result = es.search(body=request, index=index_to_query, doc_type="article")
 
     
     topresult={} #to store the most common value of a field
@@ -262,12 +262,18 @@ for publisher in ["oxford"]:
         #we only trust min-volume and max-volume if none of these numbers are years
         #the problem is that sometimes in the metadata, the years are used in volumes, and volumes and issues are mixed up
 
-        if x["min_volume"]["value"]>=1700 or x["max_volume"]["value"]>=1700:
+
+
+        if publisher!='springer':
+            if x["min_volume"]["value"]>=1700 or x["max_volume"]["value"]>=1700:
+                min_volume=""
+                max_volume=""
+            else:
+                min_volume=int(x["min_volume"]["value"])
+                max_volume=int(x["max_volume"]["value"])
+        else:
             min_volume=""
             max_volume=""
-        else:
-            min_volume=int(x["min_volume"]["value"])
-            max_volume=int(x["max_volume"]["value"])
 
 
         min_year=int(x["min_year"]["value"])
