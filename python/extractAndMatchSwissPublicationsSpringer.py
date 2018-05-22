@@ -329,9 +329,9 @@ request = {
     "query": {
         "bool": {
             "must": [
-                { "range" : { "pyear" : {"lte" : 2012}}},
+                { "range" : { "pyear" : {"lte" : 2013}}},
                 { "range" : { "pyear" : {"gte" : 1997}}},
-                { "regexp": { "contrib-affiliations": query_term   }},
+                { "regexp": { "corresp-contrib-affiliations": query_term   }},
                 #{ "match": { "doi": "10.1017/S1743921313008740"   }},
             ]
         }
@@ -342,8 +342,8 @@ request = {
 result = es.search(body=request, index=index_to_search, doc_type="article", scroll="1m")
 
 columns=[
-    "First Matching Affiliation",
-    "First Matching Author",
+    "First Matching Affiliation from Corresponding Author",
+    "First Matching Corresponding Author",
     "Institution Guess",
     "doi",
     "Url to publisher",
@@ -467,10 +467,11 @@ while len(result["hits"]["hits"])>0:
         addresses=[]
         matchingAuthorAff={}
 
-        if isinstance(article["contrib-aff-role"], list):
-            addresses=article["contrib-aff-role"]
-        else:
-            addresses=[article["contrib-aff-role"]]
+        if "corresp-contrib-aff-role" in article:
+            if isinstance(article["corresp-contrib-aff-role"], list):
+                addresses=article["corresp-contrib-aff-role"]
+            else:
+                addresses=[article["corresp-contrib-aff-role"]]
 
 
 

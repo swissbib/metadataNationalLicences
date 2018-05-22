@@ -19,14 +19,15 @@ default out = "stdout";
 
 //indir="/home/lionel/Documents/data-swissbib-no-backup/oxford2/";
 
-indir="/media/lionel/Data/swissbib-data/nationallizenzen/mods/springer-old";
+//indir="/media/lionel/Data/swissbib-data/nationallizenzen/mods/springer/";
+indir="/media/lionel/Data/swissbib-data/nationallizenzen/mods/springer-2018-04-24/";
 //indir="/home/lionel/Documents/mycloud/swissbib/git_repo/metadataNationalLicences/data-samples/swissbib/";
 
 
 indir|
 read-dir(recursive="true")|
 
-//filter-strings(".*mods.*")|
+filter-strings(".*xml.*")|
 
 
 catch-object-exception |
@@ -39,6 +40,6 @@ generic-xml-handle-dtd ("mods") |
 morph(FLUX_DIR + "modsToElasticSearchMorph.xml")|
 change-id("id")|
 catch-stream-exception |
-encode-esbulk(escapeChars="true", header="true", index="springer-v1", type="article")|
+encode-esbulk(escapeChars="true", header="true", index="springer-v2", type="article")|
 index-esbulk(esNodes="localhost:9300", esClustername="elasticsearch", recordsPerUpload="10000");
 //write(out);

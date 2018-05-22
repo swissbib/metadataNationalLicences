@@ -12,7 +12,7 @@
             <roleTerm type="text">author</roleTerm>
         </role>
     </name>
-    <name type="personal" displayLabel="corresp">
+    <name type="personal">
         <namePart type="given">N.</namePart>
         <namePart type="given">A.</namePart>
         <namePart type="family">Aksenova</namePart>
@@ -21,7 +21,7 @@
             <roleTerm type="text">author</roleTerm>
         </role>
     </name>
-    <name type="personal">
+    <name type="personal" displayLabel="corresp">
         <namePart type="given">N.</namePart>
         <namePart type="given">N.</namePart>
         <namePart type="family">Glagolev</namePart>
@@ -52,7 +52,7 @@
             <roleTerm type="text">author</roleTerm>
         </role>
     </name>
-    <name type="personal">
+    <name type="personal" displayLabel="corresp">
         <namePart type="given">V.</namePart>
         <namePart type="given">I.</namePart>
         <namePart type="family">Volkov</namePart>

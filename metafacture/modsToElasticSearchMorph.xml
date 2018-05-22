@@ -191,11 +191,6 @@
             </combine>
         </concat>
 
-
-
-
-
-        <!-- Contributors -->
         <combine name="@contribs"  value="${lastnames}, ${firstnames}" flushWith="name" reset="true">
             <data source="@lastnames" name="lastnames"/>
             <data source="@firstnames" name="firstnames"/>
@@ -227,18 +222,43 @@
 
 
         <!-- Corresponding Authors -->
-        <concat name="corresp-authors" flushWith="name" reset="true" delimiter=" ">
+        <concat name="@corresp-firstnames" flushWith="name" reset="true" delimiter=" ">
+            <combine name="corresp-firstname" value="${corresp-firstname}" flushWith="name.namePart" reset="true">
+                <if>
+                    <data source="name.namePart.type">
+                        <equals string="given"/>
+                    </data>
+                </if>
+                <data source="name.namePart.value" name="corresp-firstname"/>
+            </combine>
+        </concat>
+
+        <concat name="@corresp-lastnames" flushWith="name" reset="true" delimiter=" ">
+            <combine name="corresp-lastname" value="${corresp-lastname}" flushWith="name.namePart" reset="true">
+                <if>
+                    <data source="name.namePart.type">
+                        <equals string="family"/>
+                    </data>
+                </if>
+                <data source="name.namePart.value" name="corresp-lastname"/>
+            </combine>
+        </concat>
+
+        <combine name="@corresp-contribs"  value="${corresp-lastnames}, ${corresp-firstnames}" flushWith="name" reset="true">
             <if>
                 <data source="name.displayLabel">
                     <equals string="corresp"/>
                 </data>
             </if>
-            <data source="name.namePart.value"/>
-        </concat>
+            <data source="@corresp-lastnames" name="corresp-lastnames"/>
+            <data source="@corresp-firstnames" name="corresp-firstnames"/>
+        </combine>
+
+        <data name="corresp-contribs" source="@corresp-contribs"></data>
 
 
-        <!-- Affiliations from corresponding Authors -->
-        <concat name="affiliations-from-corresp-authors" flushWith="name" reset="true"  delimiter=" ">
+        <!-- Corresponding Contributors Affiliations -->
+        <concat name="corresp-contrib-affiliations" flushWith="name" reset="true"  delimiter=" ">
             <if>
                 <data source="name.displayLabel">
                     <equals string="corresp"/>
@@ -247,41 +267,30 @@
             <data source="name.affiliation.value"/>
         </concat>
 
-        <!-- Author+affiliations -->
-        <concat name="correspauthor-aff" flushWith="name" reset="true" delimiter="/////">
-            <if>
-                <data source="name.displayLabel">
-                    <equals string="corresp"/>
-                </data>
-            </if>
-            <concat name="author" flushWith="name" reset="true"  delimiter=" ">
-                <data source="name.namePart.value"/>
-            </concat>
+        <!-- Corresponding Contrib+affiliations+role -->
+        <concat name="corresp-contrib-aff-role" flushWith="name" reset="true" delimiter="/////">
 
-            <concat name="affiliations" flushWith="name" reset="true"  delimiter=" ">
+            <data source="@corresp-contribs"/>
+
+            <concat name="corresp-affiliations" flushWith="name" reset="true"  delimiter=" ">
+                <if>
+                    <data source="name.displayLabel">
+                        <equals string="corresp"/>
+                    </data>
+                </if>
                 <data source="name.affiliation.value"/>
             </concat>
 
+            <concat name="corresp-role" flushWith="name" reset="true"  delimiter=" ">
+                <if>
+                    <data source="name.displayLabel">
+                        <equals string="corresp"/>
+                    </data>
+                </if>
+                <data source="name.role.roleTerm.value"/>
+            </concat>
+
         </concat>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
         <!-- Source -->
         <data source="recordInfo.recordContentSource.value" name="source"/>
