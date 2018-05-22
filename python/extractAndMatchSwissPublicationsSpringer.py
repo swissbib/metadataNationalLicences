@@ -103,10 +103,7 @@ def match_institution(authoraffrole, institution):
             institutionGuess="University of Fribourg"
 
     if institution=="uzh":
-        if (match(address,['universit', 'zurich']) or
-                match(address,['hospital', 'zurich']) or
-                matchEmail(address,'uzh.ch')
-            ):
+        if matchUZH(address):
             institutionGuess="University of Zurich"
 
     if institution=="unil":
@@ -243,6 +240,183 @@ def match(someText, arrayOfStrings):
                 break
 
         return result
+
+def matchUZH(affiliation):
+    #check if the affiliation is one of UZH affiliations
+    # remove accents and umlauts and convert to lower case then do a match
+
+    #emails
+    if matchEmail(affiliation, 'uzh.ch'):
+        return True
+    if matchEmail(affiliation, 'unizh.ch'):
+        return True
+    if matchEmail(affiliation, 'usz.ch'):
+        return True
+
+
+    #replace special unicode-apostrophe by space (the NFD transformation doesn't transform that)
+    affiliation=affiliation.replace(u"’", "'")
+
+    asciiText=unicodedata.normalize('NFD', affiliation).encode('ascii','ignore')
+
+    asciiText=asciiText.lower()
+
+
+
+
+    #negative
+    if 'zurich university of applied sciences' in asciiText:
+        return False
+    if 'sib swiss institute of bioinformatics, CH-1015 lausanne' in asciiText:
+        return False
+
+
+
+    #positive
+    if (
+            "addiction research institute, zurich" in asciiText or
+            "archaologisches institut der universitat, ramistr" in asciiText or
+            "balgrist" in asciiText or
+            "cancer registry zurich" in asciiText or
+            "ch-8091 zarich" in asciiText or
+            "ch-8091 zurich" in asciiText or
+            "ch-809l zurich" in asciiText or
+            "city hospital triemli" in asciiText or
+            "department of neurology, zurich" in asciiText or
+            "department of oncology, zurich" in asciiText or
+            "departments of medicine and pathology, veterans affairs medical center, san diego, california, denver, colorado, zurich" in asciiText or
+            "empirische wirtschaftsforschung der universitat, zurich" in asciiText or
+            "essen, hufelandstrasse 55, d-45122 essen, germany, boston, ma, usa, zurich" in asciiText or
+            "essen, hufelandstrasse 55, d-45122 essen, germany, zarich" in asciiText or
+            "evolutionary biology and environmental studies, 8057 zurich" in asciiText or
+            "france, winterthurerstrasse 190, 8057 zurich" in asciiText or
+            "funktionelle neurochirugie, ch-8091 zurich, universitatsspital" in asciiText or
+            "grosshadern, ludwig-maximilians university, munich, zurich" in asciiText or
+            "infectious diseases and hospital epidemiology, zurich" in asciiText or
+            "institut far medizinische genetik, zarich" in asciiText or
+            "institut fur molekularbiologie der universitat, abteilung ii, winterthurerstrasse" in asciiText or
+            "institute for social and preventive medicine, sumatrastr" in asciiText or
+            "institute of biomedical engineering, university and federal institute of technology" in asciiText or
+            "institute of physiology, zurich" in asciiText or
+            "institute of physiology, zurich university" in asciiText or
+            "institute of social and preventive medicine of the university" in asciiText or
+            "kinderspital, zurich" in asciiText or
+            "l'institut de medecine legale de zurich" in asciiText or
+            "ludwig-maximilians-university of munich, germany, zurich, switzerland" in asciiText or
+            "m27 1ha, uk, zurich, ch-8032 zurich" in asciiText or
+            "medical policlinic of the university, kantonsspital, 8006 zurich" in asciiText or
+            "medizinische poliklinik, kantonsspital, zurich" in asciiText or
+            "medizinische universitatklinik, zurich" in asciiText or
+            "medizinische universitatsklinik, kantonsspital, zurich" in asciiText or
+            "museum of the history of medicine, zurich" in asciiText or
+            "psychiatric hospital zurich" in asciiText or
+            "psychiatric university clinic postfach 68, ch 8029 zurich" in asciiText or
+            "psychiatrische universitatsklinik, zurich" in asciiText or
+            "schmeizberstrasse 12, 8091 zurich" in asciiText or
+            "stadtspital triemli, zurich" in asciiText or
+            "steinwiesstrasse 75, ch-8032 zurich" in asciiText or
+            "swiss school of public health, zurich" in asciiText or
+            "triemli city hospital" in asciiText or
+            "triemli hospital" in asciiText or
+            "uni/eth zurich" in asciiText or
+            "universitaet zuerich" in asciiText or
+            "universitaetsspital zurich" in asciiText or
+            "universitat und der eidgenossischen technischen hochschule zurich" in asciiText or
+            "universitat und der eidgenossischen technischen hochschule, zurich" in asciiText or
+            "universitat und eth zurich" in asciiText or
+            "universitat und eth, ch-8044 zurich" in asciiText or
+            "universitat und eth, gloriastr" in asciiText or
+            "universitat und eth, zurich" in asciiText or
+            "universitat zurich" in asciiText or
+            "universitat, winterthurerstrasse" in asciiText or
+            "universitatisspital, labor fur onkologie, zurich" in asciiText or
+            "universitats spital, zurich" in asciiText or
+            "universitats-kinderklinik zurich" in asciiText or
+            "universitats-kinderklinik, ch-8032 zurich" in asciiText or
+            "universitats-spital zurich" in asciiText or
+            "universitatsfrauenklinik zurich" in asciiText or
+            "universitatskinderklinik zurich" in asciiText or
+            "universitatskinderspital zurich" in asciiText or
+            "universitatsklinik zurich" in asciiText or
+            "universitatspital zurich" in asciiText or
+            "universitatspital, ch-8091 zurich" in asciiText or
+            "universitatsspital zurich" in asciiText or
+            "universitatsspital, ch-8091 zurich" in asciiText or
+            "universitatsspital, ramistr" in asciiText or
+            "universitatsspital, zurich" in asciiText or
+            "universitatsspitals zurich" in asciiText or
+            "universite de zurich" in asciiText or
+            "universities of zurich and" in asciiText or
+            "universitutsspital, zurich" in asciiText or
+            "university & eth zurich" in asciiText or
+            "university and cantonal hospitals of zurich" in asciiText or
+            "university and e.t.h., zurich" in asciiText or
+            "university and eidgenossische technische hochschule (eth) zurich" in asciiText or
+            "university and eth zurich" in asciiText or
+            "university and eth, zurich" in asciiText or
+            "university and swiss federal institute of technology" in asciiText or
+            "university ch-8091 zurich" in asciiText or
+            "university clinics, kantonsspital, zurich" in asciiText or
+            "university heart center" in asciiText or
+            "university hospital 8091 zurich" in asciiText or
+            "university hospital cha<80><94>8091 zarich" in asciiText or
+            "university hospital division of medical oncology, zurich" in asciiText or
+            "university hospital in zurich" in asciiText or
+            "university hospital of psychiatry zurich, zurich" in asciiText or
+            "university hospital of psychiatry, zurich" in asciiText or
+            "university hospital of zurich" in asciiText or
+            "university hospital ramistr" in asciiText or
+            "university hospital regensburg, 93053 regensburg, 93053 regensburg, 8091 zurich" in asciiText or
+            "university hospital zarich" in asciiText or
+            "university hospital zuerich" in asciiText or
+            "university hospital zurich" in asciiText or
+            "university hospital, 8091" in asciiText or
+            "university hospital, ch-8091" in asciiText or
+            "university hospital, department of gynaecology zurich" in asciiText or
+            "university hospital, department of obstetric and gynaecology, clinic for endocrinology, 8091 zurich" in asciiText or
+            "university hospital, department of obstetrics and gynecology, zurich" in asciiText or
+            "university hospital, department of thoracic surgery and division of pulmonology, zurich" in asciiText or
+            "university hospital, division of clinical pharmacology, department of medicine, zurich" in asciiText or
+            "university hospital, division of nephrology, zurich" in asciiText or
+            "university hospital, frauenk" in asciiText or
+            "university hospital, raemistr" in asciiText or
+            "university hospital, ramistr" in asciiText or
+            "university hospital, schmelzbergstr" in asciiText or
+            "university hospital, vogelsangstr" in asciiText or
+            "university hospital, zurich" in asciiText or
+            "university hospitala<80> ramistr" in asciiText or
+            "university hospitals basel and zurich" in asciiText or
+            "university hospitals of lausanne, zurich, lausanne, switzerland" in asciiText or
+            "university hospitals of zurich" in asciiText or
+            "university of basel and zurich" in asciiText or
+            "university of oxford, oxford, oxford, leiden, zurich" in asciiText or
+            "university of zarich" in asciiText or
+            "university of zuerich" in asciiText or
+            "university of zurich" in asciiText or
+            "university rontgeninstitut zurich" in asciiText or
+            "university rontgeninstitute zurich" in asciiText or
+            "university zurich" in asciiText or
+            "university zurich-irchel" in asciiText or
+            "university zurich-lrchel" in asciiText or
+            "university/eth zurich" in asciiText or
+            "universityof zurich" in asciiText or
+            "unversity hospital, zurich" in asciiText or
+            "vetsuisse faculty zurich" in asciiText or
+            "winterthurerstrasse 190, ch-8057 zurich, switzerland" in asciiText or
+            "worcester, massachusetts, zurich" in asciiText or
+            "writerthurestresse 190, ch-8057, zurich" in asciiText or
+            "zoologische museum, universitat, zurich-irchel" in asciiText or
+            "zoologisches institut der universitat" in asciiText or
+            "zoologisches museum der universitat zarich" in asciiText or
+            "zoologisches museum der universitat, zurich" in asciiText or
+            "zurich basel plant science center" in asciiText or
+            "zurich university" in asciiText or
+            "zurich university hospital" in asciiText or
+            "zurich university, zurich" in asciiText or
+            "zurich-basel plant science center" in asciiText
+    ):
+        return True
+
 
 def matchEmail(affiliation, emailDomain):
     #matchEmail("Laboratory for Human Nutrition, I... davidsson@ilw.agrl.ethz.ch", "ethz.ch") returns yes
