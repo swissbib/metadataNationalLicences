@@ -3487,7 +3487,7 @@
                     <xsl:value-of select="$filename"></xsl:value-of>
                 </metadata-filename>
                 <pdf-filename>
-                    <xsl:value-of select="//ArticleDOI | //ChapterDOI"/>
+                    <xsl:value-of select="substring-before($filename,'.xml')"></xsl:value-of>
                     <xsl:text>.pdf</xsl:text>
                 </pdf-filename>
             </extension>
