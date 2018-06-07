@@ -1,8 +1,8 @@
 #!/bin/bash
 
 #on exclut les directories nommés issue-files qui regroupent des récapitulatifs d'issues
-METADATA_DIRECTORY='/media/lionel/Data/swissbib-data/cambridge/extracted/app/cjo/content'
-OUTPUT_DIRECTORY=/home/lionel/Documents/swissbib/git_repo/documentation/_includes/quality_control/cambridge1
+METADATA_DIRECTORY=' /media/lionel/Data/swissbib-data/nationallizenzen/cambridge/extracted-ongoing/'
+OUTPUT_DIRECTORY='/home/lionel/Documents/mycloud/swissbib/git_repo/metadataNationalLicencesDocumentation/_includes/quality_control/cambridge3'
 
 function markdownify
 #input result of grep-sed-sort-uniq like this
