@@ -13085,7 +13085,13 @@ ids_prod = [
     'springer103758s1341501301559'
 ]
 
-ids=ids_prod
+ids_2nd_run=[
+    'springer101007s007750030450y',
+    'springer101023A1022640512023'
+]
+
+
+ids=ids_2nd_run
 
 
 for id in ids:
