@@ -37,7 +37,7 @@ fi
 
 cd $SOURCE_DIRECTORY
 #don't extract table of contents for issues
-unzip -oq "*.zip" -d $TARGET_DIRECTORY -x */issue-files/*
+unzip -oq "*.zip" "*.xml" -d $TARGET_DIRECTORY -x */issue-files/*
 
 
 
