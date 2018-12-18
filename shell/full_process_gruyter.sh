@@ -29,11 +29,11 @@ DTD_DIRECTORY=$CODE_BASE_DIR/dtd/
 
 
 
-./extract_gruyter.sh $SRC_DIR/delivery_2015_12_18/ $EXTRACTED_DIR >> $LOG_FILE 2>> $ERR_FILE
-./extract_gruyter.sh $SRC_DIR/delivery_2016_08_29/ $EXTRACTED_DIR >> $LOG_FILE 2>> $ERR_FILE
-./extract_gruyter.sh $SRC_DIR/delivery_2016_09_23/ $EXTRACTED_DIR >> $LOG_FILE 2>> $ERR_FILE
+#./extract_gruyter.sh $SRC_DIR/delivery_2015_12_18/ $EXTRACTED_DIR >> $LOG_FILE 2>> $ERR_FILE
+#./extract_gruyter.sh $SRC_DIR/delivery_2016_08_29/ $EXTRACTED_DIR >> $LOG_FILE 2>> $ERR_FILE
+./extract_gruyter.sh $SRC_DIR/delivery_2018_11_22/ $EXTRACTED_DIR >> $LOG_FILE 2>> $ERR_FILE
 
-#./analysis_gruyter.sh $EXTRACTED_DIR $REPORT_DIR
+./analysis_gruyter.sh $EXTRACTED_DIR $LOG_DIR
 ./transform_records_gruyter.sh $EXTRACTED_DIR $SWISSBIB_JATS_DIR $XSLT_DIRECTORY $DTD_DIRECTORY $ERROR_VALIDATION_FILE >> $LOG_FILE 2>> $ERR_FILE
 #./merge_records_gruyter.sh $SWISSBIB_JATS_DIR $MERGED_DIR >> $LOG_FILE 2>> $ERR_FILE
 
