@@ -105,7 +105,7 @@
 
 
 
-        <choose name="journal-title" flushWith="front.journal-meta">
+        <choose name="jtitle" flushWith="front.journal-meta">
             <!-- JATS 1.0 -->
             <data source="front.journal-meta.journal-title-group.journal-title.value"/>
 

@@ -54,56 +54,7 @@ cambridge_correct_end_volume={
 }
 
 
-# to correct some errors from gruyter in metadata
-gruyter_correct_start_year={
-    "bchm" : 1997,
-    "jbcpp" : 1990
-}
 
-gruyter_correct_start_volume={
-    "bchm" : 378,
-    "iwp" : 63,
-    "jbcpp" : 1
-}
-
-#20.9.2016 : de gruyter didn't deliver 2015 metadata for these journals or they are open access
-gruyter_correct_end_year={
-    "anti" : 2015,
-    "cpt" : 2015,
-    "etly" : 2015,
-    "ils" : 2015,
-    "jdrg" : 2015,
-    "kadm" : 2015,
-    "sus" : 2015,
-    "thli" : 2015,
-    "wjk" : 2015,
-    "zava" : 2015,
-    "zfsw" : 2015
-}
-
-gruyter_correct_end_volume={
-    "anti" : 61,
-    "cpt" : 42,
-    "ils" : 13,
-    "jdrg" : 56,
-    "kadm" : 54,
-    "thli" : 41,
-    "wjk" : 63,
-    "zava" : 105,
-    "zfsw" : 57
-}
-
-#these journals are either open access or shouldn't be delivered
-gruyter_journals_to_skip=[
-    "agp",
-    "aon",
-    "aopf",
-    "crll.1",
-    "forma",
-    "jlst",
-    "pepsi",
-    "wpsr",
-    "zfrs"]
 
 
 #oxford delivered the metadata for these articles but they are not part of the contract

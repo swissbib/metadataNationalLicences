@@ -24,7 +24,7 @@ import metadataCorrections
 # - a csv title list with more fields to analyze the coverage of the metadata
 
 es = Elasticsearch()
-targetDirectoryCSV = "../title-lists/"
+targetDirectoryCSV = "/home/lionel/Bureau/title-lists/"
 
 
 
@@ -35,7 +35,7 @@ targetDirectoryCSV = "../title-lists/"
 request = {
     "query" : {
         "bool": {
-            "must" : {"range" : { "pyear" : {"lte" : 2015}}},
+            "must" : {"range" : { "pyear" : {"lte" : 2020}}},
             "must_not" : {"match" : { "article-title" : "frontmatter"}},
             "must_not" : {"match" : { "article-title" : "titelei"}}
         }
@@ -119,7 +119,8 @@ postJournalUrl= {
 
 
 #for publisher in ["gruyter", "oxford", "cambridge"]:
-for publisher in ["springer"]:
+#for publisher in ["springer"]:
+for publisher in ["gruyter"]:
 
     index_to_query=publisher
 
@@ -223,9 +224,6 @@ for publisher in ["springer"]:
         if publisher == "cambridge" and x["key"]== "tia":
             #this journal has a problem, we skip it
             continue
-        if publisher == "gruyter" and (x["key"] in metadataCorrections.gruyter_journals_to_skip):
-            #these journals shouldn't be included, we skip them
-            continue
         if publisher == "springer" and (x["key"] not in metadataCorrections.springer_included_journals):
             #we skip springer journals which are not part of the contract
             continue
@@ -292,17 +290,6 @@ for publisher in ["springer"]:
                 min_volume=metadataCorrections.cambridge_correct_start_volume[x["key"]]
             if metadataCorrections.cambridge_correct_end_volume.has_key(x["key"]):
                 max_volume=metadataCorrections.cambridge_correct_end_volume[x["key"]]
-
-        ## This is meant to correct some of gruyter errors
-        if publisher== "gruyter":
-            if metadataCorrections.gruyter_correct_start_year.has_key(x["key"]):
-                min_year=metadataCorrections.gruyter_correct_start_year[x["key"]]
-            if metadataCorrections.gruyter_correct_start_volume.has_key(x["key"]):
-                min_volume=metadataCorrections.gruyter_correct_start_volume[x["key"]]
-            if metadataCorrections.gruyter_correct_end_year.has_key(x["key"]):
-                max_year=metadataCorrections.gruyter_correct_end_year[x["key"]]
-            if metadataCorrections.gruyter_correct_end_volume.has_key(x["key"]):
-                max_volume=metadataCorrections.gruyter_correct_end_volume[x["key"]]
 
         keyforurl=x["key"]
 

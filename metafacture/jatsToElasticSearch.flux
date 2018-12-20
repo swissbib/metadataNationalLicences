@@ -13,7 +13,9 @@ default out = "stdout";
 
 //indir=".";
 
-indir="/home/lionel/Documents/data-swissbib-no-backup/merged-swissbib-jats";
+//indir="/media/lionel/Data/swissbib-data/nationallizenzen/gruyter/swissbib-jats3/";
+
+indir="/media/lionel/Data/swissbib-data/nationallizenzen/gruyter/swissbib-jats3/j/";
 
 //indir="/home/lionel/Documents/data-swissbib-no-backup/gruyter/";
 
@@ -36,6 +38,6 @@ generic-xml-handle-dtd ("article") |
 morph(FLUX_DIR + "jatsToElasticSearchMorph.xml")|
 change-id("id")|
 catch-stream-exception |
-encode-esbulk(escapeChars="true", header="true", index="all-sb-jats-v2", type="article")|
-index-esbulk(esNodes="localhost:9300", esClustername="elasticsearch", recordsPerUpload="10000");
+encode-esbulk(escapeChars="true", header="true", index="gruyter-v1", type="article")|
+index-esbulk(esNodes="localhost:9300", esClustername="elasticsearch", recordsPerUpload="1000");
 //write(out);
