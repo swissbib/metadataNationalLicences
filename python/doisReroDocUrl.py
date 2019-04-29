@@ -1,7 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-#for these publications, it was impossible to locate the fulltexts and it was not delivered by the publishers
 reroDocFulltextUrl={
     '10.1017/S1759078711001140' : 'http://doc.rero.ch/record/304963/files/S1759078711001140.pdf',
     '10.1111/j.1365-246X.2011.05164.x' : 'http://doc.rero.ch/record/304962/files/187-1-10.pdf',

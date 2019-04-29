@@ -1,9 +1,9 @@
 //-------------------------------------
-// convert JATS xml data to json for elasticsearch
+// convert MODS xml data to json for elasticsearch
 //-------------------------------------
 
 
-//input : JATS file (either one file per article or one file per journal)
+//input : MODS file (either one file per article or one file per journal)
 //output : the articles are indexed in elasticsearch
 
 
@@ -20,7 +20,7 @@ default out = "stdout";
 //indir="/home/lionel/Documents/data-swissbib-no-backup/oxford2/";
 
 //indir="/media/lionel/Data/swissbib-data/nationallizenzen/mods/springer/";
-indir="/media/lionel/Data/swissbib-data/nationallizenzen/mods/springer-2018-06-05/";
+indir="/media/lionel/Data/swissbib-data/nationallizenzen/mods/";
 //indir="/home/lionel/Documents/mycloud/swissbib/git_repo/metadataNationalLicences/data-samples/swissbib/";
 
 
@@ -40,6 +40,6 @@ generic-xml-handle-dtd ("mods") |
 morph(FLUX_DIR + "modsToElasticSearchMorph.xml")|
 change-id("id")|
 catch-stream-exception |
-encode-esbulk(escapeChars="true", header="true", index="springer-v4", type="article")|
+encode-esbulk(escapeChars="true", header="true", index="mods", type="article")|
 index-esbulk(esNodes="localhost:9300", esClustername="elasticsearch", recordsPerUpload="10000");
 //write(out);
