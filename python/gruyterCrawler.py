@@ -5,9 +5,11 @@ import csv
 
 #python3 script
 
-def download_and_save_pdf(doi, full_name, hdr):
+def download_and_save_pdf(path, hdr):
     #download and save the pdf locally in full_name (with directory)
-    url="https://link.springer.com/content/pdf/"+doi+".pdf"
+
+
+    url="https://www.degruyter.com/downloadpdf/" + path
     request = urllib.request.Request(url, headers=hdr)
     try:
         response = urllib.request.urlopen(request).read()
@@ -23,10 +25,10 @@ def download_and_save_pdf(doi, full_name, hdr):
     except:
         print('Problem with ' + url)
     else:
-        #file = open("pdf/" + pii + ".pdf", 'wb')
-        if not os.path.exists(os.path.dirname(full_name)):
-            os.makedirs(os.path.dirname(full_name), exist_ok=True)
-        file = open(full_name, 'wb')
+        path='gruyter/'+path
+        if not os.path.exists(os.path.dirname(path)):
+            os.makedirs(os.path.dirname(path), exist_ok=True)
+        file = open(path, 'wb')
         file.write(response)
         file.close()
 
@@ -43,25 +45,26 @@ hdr = {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.11 (KHTML,
 
 
 articles=[]
-
-wait_time=10
+articles.append({'path': 'hzhz.2016.303.issue-3/hzhz-2016-0470/hzhz-2016-0470.pdf'})
 
 articles=[]
 with open("../swiss-publications-lists-updates/2019/rerodoc.csv") as csvfile:
     publications = csv.reader(csvfile, dialect='excel')
     for row in publications:
         id = row[0]
-        if id.startswith('(NATIONALLICENCE)springer'):
+        if id.startswith('(NATIONALLICENCE)gruyter'):
             path=row[1]
             #path='/media/lionel/Data/swissbib-data/nationallizenzen/springer/swiss-pdf/'+path
             id=row[0]
             doi=row[0][26:]
-            articles.append({'doi': doi, 'path': path})
+            articles.append({'path': path.replace('gruyter/','')})
             doi=''
             path=''
 
+wait_time=10
+
 for article in articles:
-    print(article['doi'])
-    download_and_save_pdf(article['doi'], article['path'], hdr)
+    print(article['path'])
+    download_and_save_pdf(article['path'], hdr)
     print("wait "+str(wait_time)+" s")
     time.sleep(wait_time) #wait some time
