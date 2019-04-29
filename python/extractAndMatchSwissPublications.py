@@ -454,14 +454,14 @@ def getPath(source, path, journalId=""):
         pdfname=os.path.basename(path)
         path=path.replace("./j/","j/")
         path=path.replace(".xml",".pdf")
-        return base_path+path
+        return 'gruyter/'+path
     if(source=="springer"):
         folder=os.path.dirname(path)
         folder=folder.replace("/swissbib/harvesting/nationalLicencesData/springer/extracted/","")
         folder=folder+"/BodyRef/PDF/"
         pdfname=os.path.basename(path)
         pdfname=pdfname.replace(".xml.Meta",".pdf")
-        return folder+pdfname
+        return 'springer/'+folder+pdfname
 
 
 
@@ -596,14 +596,14 @@ institutions=[
 files={} #files["epfl"] is the file containing EPFL publications
 
 for institution in institutions:
-    filename="../swiss-publications-lists-updates/2019/all/"+institution+".csv"
+    filename="../swiss-publications-lists-updates/2019/"+institution+".csv"
     files[institution] = csv.writer(open(filename, "wb+"), dialect="excel")
 
     #csv header
     files[institution].writerow(columns)
 
 
-rerodoc_file=csv.writer(open("../swiss-publications-lists-updates/2019/all/rerodoc.csv", "wb+"), dialect="excel")
+rerodoc_file=csv.writer(open("../swiss-publications-lists-updates/2019/rerodoc.csv", "wb+"), dialect="excel")
 rerodoc_file.writerow([
     "id (035a which stats with (NATIONALLICENCE))",
     "path to fulltext",
