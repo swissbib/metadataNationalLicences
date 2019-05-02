@@ -454,14 +454,14 @@ def getPath(source, path, journalId=""):
         pdfname=os.path.basename(path)
         path=path.replace("./j/","j/")
         path=path.replace(".xml",".pdf")
-        return 'gruyter/'+path
+        return 'fulltexts/gruyter/'+path
     if(source=="springer"):
         folder=os.path.dirname(path)
         folder=folder.replace("/swissbib/harvesting/nationalLicencesData/springer/extracted/","")
         folder=folder+"/BodyRef/PDF/"
         pdfname=os.path.basename(path)
         pdfname=pdfname.replace(".xml.Meta",".pdf")
-        return 'springer/'+folder+pdfname
+        return 'fulltexts/springer/'+folder+pdfname
 
 
 
