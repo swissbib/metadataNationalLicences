@@ -391,3 +391,4 @@ Journal of Experimental Political Science	2052-2630	2052-2649	2014	1		2015	2		ht
 Zygote	0967-1994	1469-8730	1993	1		2015	23		http://www.cambridge.org/core/product/identifier/zyg/type/JOURNAL		zyg		fulltext		Cambridge University Press	serial								
 Political Analysis	1047-1987	1476-4989	1989	1		2015	23		http://www.cambridge.org/core/product/identifier/pan/type/JOURNAL		pan		fulltext		Cambridge University Press	serial								
 Business and Politics	1369-5258	1469-3569	1999	1		2015	17		http://www.cambridge.org/core/product/identifier/bap/type/JOURNAL		bap		fulltext		Cambridge University Press	serial								
+Transactions of the Institute of Actuaries	2047-2838	2398-7383	1849	1		1852	1		http://www.cambridge.org/core/product/identifier/tia/type/JOURNAL		tia		fulltext		Cambridge University Press	serial								
