@@ -170,9 +170,9 @@ oxford_urlkey={
 
 def get_pdf_url(doi, journal_code):
     if oxford_urlkey.has_key(journal_code):
-        return "https://academic.oup.com/"+oxford_urlkey[journal_code]+"/pdf-lookup/doi/"+doi
+        return "https://academic.oup.com/"+oxford_urlkey[journal_code]+"/article-pdf/doi/"+doi
     else:
-        return "https://academic.oup.com/"+journal_code+"/pdf-lookup/doi/"+doi
+        return "https://academic.oup.com/"+journal_code+"/article-pdf/doi/"+doi
 
 
 
@@ -212,7 +212,7 @@ hdr = {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.11 (KHTML,
 
 
 articles=[]
-articles.append({'doi': '10.1093/aje/153.1.64', 'path': '/media/lionel/Data/swissbib-data/nationallizenzen/oxford/new-pdf/aje/64.pdf'})
+articles.append({'doi': '10.1093/alcalc/agaa043', 'path': '/media/lionel/Data/swissbib-data/nationallizenzen/oxford/new-pdf/alacalc/test.pdf'})
 articles.append({'doi': '10.1093/aje/152.1.96', 'path': '/media/lionel/Data/swissbib-data/nationallizenzen/oxford/new-pdf/aje/96.pdf'})
 articles.append({'doi': '10.1093/alcalc/agg088', 'path': '/media/lionel/Data/swissbib-data/nationallizenzen/oxford/new-pdf/alcalc/0380364.pdf'})
 articles.append({'doi': '10.1093/alcalc/agg091', 'path': '/media/lionel/Data/swissbib-data/nationallizenzen/oxford/new-pdf/alcalc/0380369.pdf'})
@@ -254,6 +254,7 @@ for article in articles:
     parts=article['path'].split("/")
     journal_code=parts[len(parts)-2]
     pdf_url=get_pdf_url(article['doi'],journal_code)
+    print pdf_url
     download_and_save_pdf(pdf_url, article['path'], hdr)
     print "wait "+str(wait_time)+" s"
     time.sleep(wait_time) #wait 20 seconds

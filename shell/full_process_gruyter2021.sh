@@ -11,7 +11,7 @@
 DATA_BASE_DIR=/swissbib/harvesting/nationalLicencesData/
 CODE_BASE_DIR=/swissbib/harvesting/nationalLicences/
 LOG_DIR=/swissbib/harvesting/nationalLicencesLog/
-REPORT_DIR=/media/lionel/Data/swissbib-data/nationallizenzen/log/
+REPORT_DIR=/swissbib/harvesting/nationalLicencesLog/Reports/
 
 
 
