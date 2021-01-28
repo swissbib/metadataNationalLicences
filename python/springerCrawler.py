@@ -47,7 +47,7 @@ articles=[]
 wait_time=10
 
 articles=[]
-with open("../swiss-publications-lists-updates/2019/rerodoc.csv") as csvfile:
+with open("../swiss-publications-lists-updates/2020/rerodoc.csv") as csvfile:
     publications = csv.reader(csvfile, dialect='excel')
     for row in publications:
         id = row[0]
