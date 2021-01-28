@@ -20,7 +20,7 @@ default out = "stdout";
 //indir="/home/lionel/Documents/data-swissbib-no-backup/oxford2/";
 
 //indir="/media/lionel/Data/swissbib-data/nationallizenzen/mods/springer/";
-indir="/media/lionel/Data/swissbib-data/nationallizenzen/mods/";
+indir="/media/lionel/Data/swissbib/nationalLicencesData/mods2021/";
 //indir="/home/lionel/Documents/mycloud/swissbib/git_repo/metadataNationalLicences/data-samples/swissbib/";
 
 

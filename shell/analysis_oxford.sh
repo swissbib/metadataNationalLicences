@@ -1,8 +1,13 @@
 #!/bin/bash
 
-
-METADATA_DIRECTORY=/media/lionel/Data/swissbib-data/oxford/3rd_delivery_extracted/
-OUTPUT_DIRECTORY=/home/lionel/Documents/mycloud/swissbib/git_repo/metadataNationalLicencesDocumentation/_includes/quality_control/oxford3/
+if [ $# -ne 2 ]
+then
+   echo "Usage: $0 METADATA_DIRECTORY OUTPUT_DIRECTORY"
+   exit 1
+else
+   METADATA_DIRECTORY=$1
+   OUTPUT_DIRECTORY=$2
+fi
 
 function markdownify
 {

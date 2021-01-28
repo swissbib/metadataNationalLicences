@@ -515,8 +515,8 @@ request = {
                     "bool": {
                         "must": [
                             { "match" : { "source" : "gruyter"}},
-                            { "range" : { "pyear" : {"gte" : 2015}}},
-                            { "range" : { "pyear" : {"lte" : 2016}}},
+                            { "range" : { "pyear" : {"gte" : 2017}}},
+                            { "range" : { "pyear" : {"lte" : 2017}}},
                             { "regexp": { "contrib-affiliations": query_term}},
                         ]
                     }
@@ -525,8 +525,19 @@ request = {
                     "bool": {
                         "must": [
                             {"match": {"source": "springer"}},
-                            {"range": {"pyear": {"gte": 2014}}},
-                            {"range": {"pyear": {"lte": 2014}}},
+                            {"range": {"pyear": {"gte": 2015}}},
+                            {"range": {"pyear": {"lte": 2015}}},
+                            #for springer we restrict to corresponding authors
+                            {"regexp": {"corresp-contrib-affiliations": query_term}},
+                        ]
+                    }
+                },
+                {
+                    "bool": {
+                        "must": [
+                            {"match": {"source": "oxford"}},
+                            {"range": {"pyear": {"gte": 2016}}},
+                            {"range": {"pyear": {"lte": 2018}}},
                             #for springer we restrict to corresponding authors
                             {"regexp": {"corresp-contrib-affiliations": query_term}},
                         ]
@@ -596,14 +607,14 @@ institutions=[
 files={} #files["epfl"] is the file containing EPFL publications
 
 for institution in institutions:
-    filename="../swiss-publications-lists-updates/2019/"+institution+".csv"
+    filename="../swiss-publications-lists-updates/2020/"+institution+".csv"
     files[institution] = csv.writer(open(filename, "wb+"), dialect="excel")
 
     #csv header
     files[institution].writerow(columns)
 
 
-rerodoc_file=csv.writer(open("../swiss-publications-lists-updates/2019/rerodoc.csv", "wb+"), dialect="excel")
+rerodoc_file=csv.writer(open("../swiss-publications-lists-updates/2020/rerodoc.csv", "wb+"), dialect="excel")
 rerodoc_file.writerow([
     "id (035a which stats with (NATIONALLICENCE))",
     "path to fulltext",
