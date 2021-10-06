@@ -25,7 +25,7 @@ def download_and_save_marc_xml(id):
             print 'The server couldn\'t fulfill the request.'
             print 'Error code: ', e.code
     else:
-        file = open("/media/lionel/Data/swissbib-data/nationallizenzen/rerodoc/marcxml-swissbib/" + id + ".xml", 'w')
+        file = open("/media/lionel/Data/swissbib/nationalLicencesData/rerodoc/marcxml-swissbib" + id + ".xml", 'w')
         file.write(response)
         file.close()
 
@@ -43,7 +43,7 @@ hdr = {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.11 (KHTML,
 
 ids = []
 
-with open("../swiss-publications-lists-updates/2019/rerodoc.csv") as csvfile:
+with open("../swiss-publications-lists-updates/2020/rerodoc.csv") as csvfile:
     publications = csv.reader(csvfile, dialect='excel')
     for row in publications:
         id = row[0]

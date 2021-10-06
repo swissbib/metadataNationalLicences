@@ -7,13 +7,13 @@ import sys
 import lxml.etree as ET
 
 
-path = '/media/lionel/Data/swissbib-data/nationallizenzen/rerodoc/marcxml-swissbib/'
+path = '/media/lionel/Data/swissbib/nationalLicencesData/rerodoc/marcxml-swissbib/'
 
 xslt= ET.parse("/home/lionel/Documents/mycloud/swissbib/git_repo/metadataNationalLicences/xslt/swissbibMarcToReroDocMarc.xsl")
 
 transform= ET.XSLT(xslt)
 
-myfile = open('/media/lionel/Data/swissbib-data/nationallizenzen/rerodoc/metadata/2019-04/rerodocmarc.xml','w')
+myfile = open('/media/lionel/Data/swissbib/nationalLicencesData/rerodoc/rerodocmarc.xml','w')
 myfile.write("<collection>\n")
 
 for (dirpath, dirnames, files) in os.walk(path):

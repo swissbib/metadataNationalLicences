@@ -45,10 +45,7 @@ hdr = {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.11 (KHTML,
 
 
 articles=[]
-articles.append({'path': 'hzhz.2016.303.issue-3/hzhz-2016-0470/hzhz-2016-0470.pdf'})
-
-articles=[]
-with open("../swiss-publications-lists-updates/2019/rerodoc.csv") as csvfile:
+with open("../swiss-publications-lists-updates/2020/rerodoc.csv") as csvfile:
     publications = csv.reader(csvfile, dialect='excel')
     for row in publications:
         id = row[0]
